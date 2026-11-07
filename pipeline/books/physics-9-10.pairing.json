@@ -1,0 +1,12 @@
+{
+  "_comment": "Count differences between the bn and en books that the agent confirmed on the page images are real differences in the printed books, not extraction misses. Agent-checked, not human-verified.",
+  "confirmed_count_differences": {
+    "ch07": {
+      "objectives": {
+        "bn": 9,
+        "en": 10,
+        "note": "bn PDF p.192 prints 9 outcome bullets; en PDF p.193 prints 10 (extra: 'explain the pitch and intensity of sound')."
+      }
+    }
+  }
+}

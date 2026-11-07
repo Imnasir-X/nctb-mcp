@@ -1,0 +1,81 @@
+{
+  "name": "nctb-mcp",
+  "version": "0.1.0",
+  "description": "MCP server with structured, page-referenced Bangladesh NCTB curriculum data (v0.1: Class 9-10 Physics, Bangla and English versions). Works offline.",
+  "license": "MIT",
+  "author": "Nasir Khan (https://github.com/Imnasir-X)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imnasir-X/nctb-mcp.git"
+  },
+  "homepage": "https://github.com/Imnasir-X/nctb-mcp#readme",
+  "bugs": "https://github.com/Imnasir-X/nctb-mcp/issues",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "nctb",
+    "bangladesh",
+    "curriculum",
+    "bangla",
+    "education",
+    "ssc",
+    "physics"
+  ],
+  "type": "module",
+  "bin": {
+    "nctb-mcp": "./dist/cli.js"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "data",
+    "README.md",
+    "LICENSE",
+    "DATA_LICENSE.md"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "packageManager": "pnpm@9.15.0",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "scripts": {
+    "build": "tsup",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "vitest run",
+    "coverage": "vitest run --coverage",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "sync-data": "node scripts/sync-data.mjs",
+    "validate-data": "node scripts/validate-data.mjs",
+    "inspect": "npx @modelcontextprotocol/inspector node dist/cli.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.20.0",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "@types/node": "^22.0.0",
+    "@vitest/coverage-v8": "^3.0.0",
+    "ajv": "^8.17.0",
+    "ajv-formats": "^3.0.1",
+    "eslint": "^9.0.0",
+    "eslint-config-prettier": "^10.0.0",
+    "prettier": "^3.3.0",
+    "tsup": "^8.3.0",
+    "typescript": "^5.6.0",
+    "typescript-eslint": "^8.0.0",
+    "vitest": "^3.0.0"
+  }
+}

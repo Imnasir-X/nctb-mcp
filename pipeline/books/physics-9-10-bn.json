@@ -1,0 +1,118 @@
+{
+  "dataset_version": "0.1.0",
+  "last_body_pdf_page": 366,
+  "book": {
+    "subject": {
+      "code": "phy",
+      "name_bn": "পদার্থবিজ্ঞান",
+      "name_en": "Physics",
+      "aliases": [
+        "physics",
+        "phy",
+        "phys",
+        "পদার্থবিজ্ঞান",
+        "পদার্থ বিজ্ঞান",
+        "পদার্থ",
+        "podartho",
+        "podarthobiggan",
+        "podartho biggan",
+        "podartho bigyan"
+      ]
+    },
+    "class": "9-10",
+    "level": "Secondary (SSC)",
+    "edition": 2026,
+    "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+    "page_offset": 5,
+    "id": "nctb:phy:c9-10:bn",
+    "version": "bn",
+    "title": "পদার্থবিজ্ঞান, নবম ও দশম শ্রেণি (২০২৬ শিক্ষাবর্ষের জন্য পরিমার্জিত)",
+    "rights_statement": "[প্রকাশক কর্তৃক সর্বস্বত্ব সংরক্ষিত] — গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক বিনামূল্যে বিতরণের জন্য",
+    "edition_history": [
+      "প্রথম প্রকাশ: সেপ্টেম্বর ২০১২",
+      "পরিমার্জিত সংস্করণ: সেপ্টেম্বর ২০১৭",
+      "পরিমার্জিত সংস্করণ: অক্টোবর ২০২৪",
+      "পরিমার্জিত সংস্করণ: অক্টোবর ২০২৫"
+    ],
+    "source": {
+      "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+      "pdf_urls": [
+        "https://drive.google.com/file/d/13P5E08HcNbpALj8-aC-RUCy0d3iwodet/view",
+        "https://drive.egovcloud.gov.bd/index.php/s/KOdI1T0gyhPiFRz"
+      ],
+      "filename": "Secondary (BV)-2026_Class 9-10_Physics_compressed.pdf",
+      "sha256": "a07b3b39443031be268dce826592b69fbea61adffc52cf6d5bea800abcdd004d",
+      "bytes": 106445726,
+      "pdf_pages": 366,
+      "retrieved_at": "2026-11-07",
+      "text_layer": "none (scanned page images); text obtained by OCR"
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "ভৌত রাশি এবং তাদের পরিমাপ",
+      "printed_start": 1
+    },
+    {
+      "number": 2,
+      "title": "গতি",
+      "printed_start": 32
+    },
+    {
+      "number": 3,
+      "title": "বল",
+      "printed_start": 62
+    },
+    {
+      "number": 4,
+      "title": "কাজ, ক্ষমতা ও শক্তি",
+      "printed_start": 98
+    },
+    {
+      "number": 5,
+      "title": "পদার্থের অবস্থা ও চাপ",
+      "printed_start": 127
+    },
+    {
+      "number": 6,
+      "title": "বস্তুর ওপর তাপের প্রভাব",
+      "printed_start": 159
+    },
+    {
+      "number": 7,
+      "title": "তরঙ্গ ও শব্দ",
+      "printed_start": 186
+    },
+    {
+      "number": 8,
+      "title": "আলোর প্রতিফলন",
+      "printed_start": 210
+    },
+    {
+      "number": 9,
+      "title": "আলোর প্রতিসরণ",
+      "printed_start": 241
+    },
+    {
+      "number": 10,
+      "title": "স্থির বিদ্যুৎ",
+      "printed_start": 270
+    },
+    {
+      "number": 11,
+      "title": "চল বিদ্যুৎ",
+      "printed_start": 298
+    },
+    {
+      "number": 12,
+      "title": "বিদ্যুতের চৌম্বক ক্রিয়া",
+      "printed_start": 329
+    },
+    {
+      "number": 13,
+      "title": "তেজস্ক্রিয়তা ও ইলেকট্রনিকস",
+      "printed_start": 346
+    }
+  ]
+}

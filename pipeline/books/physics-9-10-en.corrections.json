@@ -1,0 +1,11 @@
+{
+  "_comment": "Fixes made by the extraction agent after looking at the page image (agent_checked=true). Not human-verified.",
+  "_book_skips": {
+    "nctb:phy:c9-10:en:ch08": ["8.2.2", "8.8.4"]
+  },
+  "nctb:phy:c9-10:en:ch01:t03:s01": {
+    "title": "Initial Stage (Contributions of the Greek, Indian, Chinese and Muslim Civilization)"
+  },
+  "nctb:phy:c9-10:en:ch05:t03:s01": { "title": "Archimedes’ principle and Buoyancy" },
+  "nctb:phy:c9-10:en:ch07:t03:s02": { "title": "Variation of Velocity of Sound" }
+}

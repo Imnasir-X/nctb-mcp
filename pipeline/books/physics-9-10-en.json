@@ -1,0 +1,118 @@
+{
+  "dataset_version": "0.1.0",
+  "last_body_pdf_page": 366,
+  "book": {
+    "subject": {
+      "code": "phy",
+      "name_bn": "পদার্থবিজ্ঞান",
+      "name_en": "Physics",
+      "aliases": [
+        "physics",
+        "phy",
+        "phys",
+        "পদার্থবিজ্ঞান",
+        "পদার্থ বিজ্ঞান",
+        "পদার্থ",
+        "podartho",
+        "podarthobiggan",
+        "podartho biggan",
+        "podartho bigyan"
+      ]
+    },
+    "class": "9-10",
+    "level": "Secondary (SSC)",
+    "edition": 2026,
+    "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+    "page_offset": 5,
+    "id": "nctb:phy:c9-10:en",
+    "version": "en",
+    "title": "Physics, Classes Nine-Ten (English version, 2026 academic year)",
+    "rights_statement": "[All rights reserved by the Publisher] — For free distribution by the Government of the People's Republic of Bangladesh",
+    "edition_history": [
+      "First Publication: September 2012",
+      "Revised Edition: November 2017",
+      "Revised Edition: October 2024",
+      "Revised Edition: October 2025"
+    ],
+    "source": {
+      "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+      "pdf_urls": [
+        "https://drive.google.com/file/d/1PCiSEy9n4euVypxciw2-HVyaJvuF4H9t/view",
+        "https://drive.egovcloud.gov.bd/index.php/s/IFbKj1wuaOQgoSP"
+      ],
+      "filename": "Physics  9, com _compressed.pdf",
+      "sha256": "914ad6f4c87d8f136ce172b2e410e754b9faf7e2e8c15043254917b3b1b1dedb",
+      "bytes": 52876931,
+      "pdf_pages": 366,
+      "retrieved_at": "2026-11-07",
+      "text_layer": "partial (about 20 of 366 pages); text obtained by OCR"
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Physical Quantities and Their Measurements",
+      "printed_start": 1
+    },
+    {
+      "number": 2,
+      "title": "Motion",
+      "printed_start": 31
+    },
+    {
+      "number": 3,
+      "title": "Force",
+      "printed_start": 61
+    },
+    {
+      "number": 4,
+      "title": "Work, Power and Energy",
+      "printed_start": 98
+    },
+    {
+      "number": 5,
+      "title": "State of Matter and Pressure",
+      "printed_start": 127
+    },
+    {
+      "number": 6,
+      "title": "Effect of Heat on Matter",
+      "printed_start": 160
+    },
+    {
+      "number": 7,
+      "title": "Waves and Sound",
+      "printed_start": 187
+    },
+    {
+      "number": 8,
+      "title": "Reflection of Light",
+      "printed_start": 211
+    },
+    {
+      "number": 9,
+      "title": "Refraction of light",
+      "printed_start": 242
+    },
+    {
+      "number": 10,
+      "title": "Static Electricity",
+      "printed_start": 270
+    },
+    {
+      "number": 11,
+      "title": "Current Electricity",
+      "printed_start": 299
+    },
+    {
+      "number": 12,
+      "title": "Magnetic Effects of Current",
+      "printed_start": 330
+    },
+    {
+      "number": 13,
+      "title": "Radioactivity and Electronics",
+      "printed_start": 347
+    }
+  ]
+}

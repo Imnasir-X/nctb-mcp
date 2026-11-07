@@ -1,0 +1,175 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Imnasir-X/nctb-mcp/schema/nctb-data.schema.json",
+  "title": "nctb-data: structured, page-referenced NCTB curriculum metadata",
+  "description": "One file per book. Holds structure, IDs, learning objectives and page pointers only. No textbook body text, exercise text or worked-example text is stored (NCTB reserves all rights). Every item carries verified=false until a human checks it against the PDF.",
+  "type": "object",
+  "required": ["dataset", "dataset_version", "book", "chapters", "topics", "objectives", "worked_examples", "exercises"],
+  "additionalProperties": false,
+  "properties": {
+    "dataset": { "const": "nctb-data" },
+    "dataset_version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+(-[a-z0-9.]+)?$" },
+    "generated_at": { "type": "string" },
+    "book": { "$ref": "#/$defs/book" },
+    "chapters": { "type": "array", "items": { "$ref": "#/$defs/chapter" } },
+    "topics": { "type": "array", "items": { "$ref": "#/$defs/topic" } },
+    "objectives": { "type": "array", "items": { "$ref": "#/$defs/objective" } },
+    "worked_examples": { "type": "array", "items": { "$ref": "#/$defs/workedExample" } },
+    "exercises": { "type": "array", "items": { "$ref": "#/$defs/exercise" } }
+  },
+  "$defs": {
+    "id": {
+      "type": "string",
+      "pattern": "^nctb:[a-z]+:c\\d{1,2}(-\\d{1,2})?:(bn|en)(:ch\\d{2}(:(t\\d{2}(:s\\d{2})?|o\\d{2}|we\\d{2}|ex:(mcq|sq|cq|num)\\d{2}))?)?$"
+    },
+    "conceptKey": {
+      "type": "string",
+      "pattern": "^nctb:[a-z]+:c\\d{1,2}(-\\d{1,2})?:ch\\d{2}(:(t\\d{2}(:s\\d{2})?|o\\d{2}))?$"
+    },
+    "pageRef": {
+      "type": "object",
+      "description": "Where the item is in the official PDF. printed = number printed on the page (null when the page has none); pdf = 1-based page index in the PDF file.",
+      "required": ["printed", "pdf"],
+      "additionalProperties": false,
+      "properties": {
+        "printed": { "type": ["integer", "null"], "minimum": 1 },
+        "pdf": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "review": {
+      "type": "object",
+      "required": ["verified"],
+      "additionalProperties": false,
+      "properties": {
+        "verified": { "type": "boolean", "description": "true only after a named human checked this item against the PDF page." },
+        "verified_by": { "type": ["string", "null"] },
+        "verified_at": { "type": ["string", "null"] },
+        "agent_checked": { "type": "boolean", "description": "The extraction agent compared this item with the page image or the other-language book. Not a substitute for human verification." },
+        "flags": { "type": "array", "items": { "type": "string" }, "description": "Open issues a reviewer should look at, e.g. ocr-uncertain, number-gap." }
+      }
+    },
+    "book": {
+      "type": "object",
+      "required": ["id", "subject", "class", "version", "edition", "title", "publisher", "rights_statement", "source", "page_offset"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "subject": {
+          "type": "object",
+          "required": ["code", "name_bn", "name_en", "aliases"],
+          "additionalProperties": false,
+          "properties": {
+            "code": { "type": "string" },
+            "name_bn": { "type": "string" },
+            "name_en": { "type": "string" },
+            "aliases": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "class": { "type": "string", "description": "e.g. 9-10" },
+        "level": { "type": "string" },
+        "version": { "enum": ["bn", "en"] },
+        "edition": { "type": "integer", "description": "Academic year the edition is for." },
+        "title": { "type": "string" },
+        "publisher": { "type": "string" },
+        "rights_statement": { "type": "string", "description": "Rights line exactly as printed in the book." },
+        "edition_history": { "type": "array", "items": { "type": "string" } },
+        "page_offset": { "type": "integer", "description": "pdf page = printed page + page_offset (for body pages)." },
+        "source": {
+          "type": "object",
+          "required": ["official_listing_url", "pdf_urls", "sha256", "bytes", "pdf_pages"],
+          "additionalProperties": false,
+          "properties": {
+            "official_listing_url": { "type": "string" },
+            "pdf_urls": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+            "filename": { "type": "string" },
+            "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+            "bytes": { "type": "integer" },
+            "pdf_pages": { "type": "integer" },
+            "retrieved_at": { "type": "string" },
+            "text_layer": { "type": "string", "description": "none | partial | full" }
+          }
+        }
+      }
+    },
+    "chapter": {
+      "type": "object",
+      "required": ["id", "concept_key", "number", "title", "pages", "review"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "concept_key": { "$ref": "#/$defs/conceptKey" },
+        "number": { "type": "integer", "minimum": 1 },
+        "title": { "type": "string", "description": "Title in the book's own language, as printed in the contents page." },
+        "title_alt": { "type": ["string", "null"], "description": "English subtitle printed under the Bangla chapter heading (bn books only)." },
+        "pages": {
+          "type": "object",
+          "required": ["start", "end"],
+          "additionalProperties": false,
+          "properties": { "start": { "$ref": "#/$defs/pageRef" }, "end": { "$ref": "#/$defs/pageRef" } }
+        },
+        "counts": { "type": "object", "additionalProperties": { "type": "integer" } },
+        "review": { "$ref": "#/$defs/review" }
+      }
+    },
+    "topic": {
+      "type": "object",
+      "required": ["id", "concept_key", "chapter_id", "number", "level", "title", "page", "review"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "concept_key": { "$ref": "#/$defs/conceptKey" },
+        "concept_key_checked": { "type": "boolean" },
+        "chapter_id": { "$ref": "#/$defs/id" },
+        "parent_id": { "type": ["string", "null"] },
+        "number": { "type": "string", "pattern": "^\\d+\\.\\d+(\\.\\d+)?$" },
+        "level": { "enum": ["topic", "subtopic"] },
+        "title": { "type": "string" },
+        "title_alt": { "type": ["string", "null"], "description": "English term printed in parentheses after a Bangla heading." },
+        "page": { "$ref": "#/$defs/pageRef" },
+        "review": { "$ref": "#/$defs/review" }
+      }
+    },
+    "objective": {
+      "type": "object",
+      "required": ["id", "chapter_id", "number", "text", "page", "review"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "chapter_id": { "$ref": "#/$defs/id" },
+        "number": { "type": "integer", "minimum": 1 },
+        "text": { "type": "string", "description": "Learning outcome sentence from the chapter-opening list." },
+        "page": { "$ref": "#/$defs/pageRef" },
+        "review": { "$ref": "#/$defs/review" }
+      }
+    },
+    "workedExample": {
+      "type": "object",
+      "description": "Pointer only. The question and its solution are not stored.",
+      "required": ["id", "chapter_id", "number", "page", "review"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "chapter_id": { "$ref": "#/$defs/id" },
+        "topic_id": { "type": ["string", "null"], "description": "Section the example sits in." },
+        "number": { "type": "integer", "minimum": 1 },
+        "page": { "$ref": "#/$defs/pageRef" },
+        "review": { "$ref": "#/$defs/review" }
+      }
+    },
+    "exercise": {
+      "type": "object",
+      "description": "Pointer only. The question text is not stored.",
+      "required": ["id", "chapter_id", "kind", "number", "page", "review"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "chapter_id": { "$ref": "#/$defs/id" },
+        "kind": { "enum": ["mcq", "sq", "cq", "num"] },
+        "number": { "type": "integer", "minimum": 1 },
+        "parts": { "type": "array", "items": { "type": "string" }, "description": "Sub-part labels for creative questions, e.g. ক খ গ ঘ / a b c d." },
+        "page": { "$ref": "#/$defs/pageRef" },
+        "review": { "$ref": "#/$defs/review" }
+      }
+    }
+  }
+}

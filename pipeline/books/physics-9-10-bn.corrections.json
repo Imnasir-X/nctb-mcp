@@ -1,0 +1,311 @@
+{
+  "_comment": "Fixes made by the extraction agent after looking at the page image (agent_checked=true). Not human-verified.",
+  "nctb:phy:c9-10:bn:ch01:t03:s03": {
+    "title": "আধুনিক পদার্থবিজ্ঞানের সূচনা"
+  },
+  "nctb:phy:c9-10:bn:ch01:t04": {
+    "title": "পদার্থবিজ্ঞানের উদ্দেশ্য",
+    "title_alt": "Objectives of Physics"
+  },
+  "nctb:phy:c9-10:bn:ch01:t06:s01": {
+    "title": "স্কেল (Scale) বা রুলার (Ruler)",
+    "title_alt": null
+  },
+  "nctb:phy:c9-10:bn:ch01:t06:s02": {
+    "title": "ব্যালান্স (ভর মাপার যন্ত্র)",
+    "title_alt": null
+  },
+  "nctb:phy:c9-10:bn:ch01:t06:s03": {
+    "title": "থামা ঘড়ি",
+    "title_alt": "Stop Watch"
+  },
+  "nctb:phy:c9-10:bn:ch02:t03": {
+    "title": "স্কেলার ও ভেক্টর রাশি",
+    "title_alt": "Scalar and Vector Quantities"
+  },
+  "nctb:phy:c9-10:bn:ch02:t08": {
+    "title": "পড়ন্ত বস্তুর সূত্র",
+    "title_alt": "Laws of Falling Bodies"
+  },
+  "nctb:phy:c9-10:bn:ch03:t09:s02": {
+    "add": true,
+    "title": "গতির উপর ঘর্ষণের প্রভাব",
+    "title_alt": "Effect of friction on Motion",
+    "page_pdf": 96
+  },
+  "nctb:phy:c9-10:bn:ch04:t03:s01": {
+    "title": "গতিশক্তি",
+    "title_alt": "Kinetic Energy"
+  },
+  "nctb:phy:c9-10:bn:ch04:t04:s03": {
+    "add": true,
+    "title": "শক্তির রূপান্তর এবং পরিবেশের উপর প্রভাব",
+    "title_alt": "Transformation of energy and its effect on the environment",
+    "page_pdf": 118,
+    "_why": "heading number unreadable in OCR; read from PDF p.118 image"
+  },
+  "nctb:phy:c9-10:bn:ch05:t02": {
+    "title": "ঘনত্ব",
+    "title_alt": "Density"
+  },
+  "nctb:phy:c9-10:bn:ch05:t06:s01": {
+    "add": true,
+    "title": "পদার্থের আণবিক গতিতত্ত্ব",
+    "page_pdf": 157
+  },
+  "nctb:phy:c9-10:bn:ch07:t02:s02": {
+    "add": true,
+    "title": "তরঙ্গের প্রকারভেদ",
+    "page_pdf": 198
+  },
+  "nctb:phy:c9-10:bn:ch07:t03:s03": {
+    "add": true,
+    "title": "শব্দের ব্যবহার",
+    "title_alt": "Uses of Sound",
+    "page_pdf": 208
+  },
+  "_ocr_line_fixes": {
+    "276": [
+      [
+        "fA যন্ত্রের সাহায্যে আধান শনাক্ত করতে AR |",
+        "তড়িৎবীক্ষণ যন্ত্রের সাহায্যে আধান শনাক্ত করতে পারব।"
+      ]
+    ]
+  },
+  "nctb:phy:c9-10:bn:ch10:o03": {
+    "text": "তড়িৎবীক্ষণ যন্ত্রের সাহায্যে আধান শনাক্ত করতে পারব।",
+    "_why": "OCR merged bullets 3 and 4; split after checking PDF p.276"
+  },
+  "nctb:phy:c9-10:bn:ch10:o04": {
+    "text": "কুলম্বের সূত্র ব্যবহার করে তড়িৎ বল পরিমাপ করতে পারব।",
+    "_why": "checked on PDF p.276"
+  },
+  "nctb:phy:c9-10:bn:ch09:t03:s02": {
+    "title": "প্রিজম",
+    "_why": "checked on PDF p.259 image"
+  },
+  "nctb:phy:c9-10:bn:ch09:t03:s03": {
+    "title": "পেরিস্কোপ ও বাইনোকুলার",
+    "_why": "checked on PDF p.259 image"
+  },
+  "nctb:phy:c9-10:bn:ch09:t03:s04": {
+    "title": "লেন্স",
+    "_why": "checked on PDF p.260 image",
+    "title_alt": "Lens"
+  },
+  "nctb:phy:c9-10:bn:ch09:t04": {
+    "title": "লেন্সের প্রকারভেদ",
+    "_why": "checked on PDF p.260 image",
+    "title_alt": "Types of Lenses"
+  },
+  "nctb:phy:c9-10:bn:ch09:t04:s01": {
+    "title": "অবতল লেন্স",
+    "_why": "checked on PDF p.262 image",
+    "title_alt": "Concave lens"
+  },
+  "nctb:phy:c9-10:bn:ch09:t04:s02": {
+    "title": "উত্তল লেন্স",
+    "_why": "checked on PDF p.264 image",
+    "title_alt": "Convex Lens"
+  },
+  "nctb:phy:c9-10:bn:ch10:t03:s01": {
+    "title": "তড়িৎবীক্ষণ যন্ত্র",
+    "_why": "checked on PDF p.283 image",
+    "title_alt": "Electroscope"
+  },
+  "nctb:phy:c9-10:bn:ch10:t05": {
+    "title": "তড়িৎ ক্ষেত্র",
+    "_why": "checked on PDF p.288 image",
+    "title_alt": "Electric Field"
+  },
+  "nctb:phy:c9-10:bn:ch10:t08:s05": {
+    "title": "বজ্রপাত ও বজ্রনিরোধক",
+    "_why": "checked on PDF p.297 image"
+  },
+  "nctb:phy:c9-10:bn:ch10:t08:s06": {
+    "title": "স্থির বিদ্যুতে রং স্প্রে",
+    "_why": "checked on PDF p.298 image"
+  },
+  "nctb:phy:c9-10:bn:ch11:t02:s01": {
+    "title": "ও'মের সূত্র",
+    "_why": "checked on PDF p.309 image",
+    "title_alt": "Ohm's Law"
+  },
+  "nctb:phy:c9-10:bn:ch11:t06": {
+    "title": "বাসাবাড়িতে তড়িৎ বর্তনীর নকশা",
+    "_why": "checked on PDF p.328 image",
+    "title_alt": "Household Electric Circuit Diagram"
+  },
+  "nctb:phy:c9-10:bn:ch12:t01": {
+    "title": "চুম্বক",
+    "_why": "checked on PDF p.336 image",
+    "title_alt": "Magnet"
+  },
+  "nctb:phy:c9-10:bn:ch12:t02": {
+    "title": "বিদ্যুতের চৌম্বক ক্রিয়া",
+    "_why": "checked on PDF p.336 image",
+    "title_alt": "Magnetic Effects of Current"
+  },
+  "nctb:phy:c9-10:bn:ch12:t02:s01": {
+    "title": "সলিনয়েড",
+    "_why": "checked on PDF p.338 image",
+    "title_alt": "Solenoid"
+  },
+  "nctb:phy:c9-10:bn:ch12:t02:s02": {
+    "title": "তাড়িতচুম্বক",
+    "_why": "checked on PDF p.339 image",
+    "title_alt": "Electromagnet"
+  },
+  "nctb:phy:c9-10:bn:ch12:t02:s03": {
+    "title": "তড়িৎপ্রবাহী তারের ওপর চুম্বকের প্রভাব",
+    "_why": "checked on PDF p.340 image",
+    "title_alt": "Effect of a Magnet on a Current Carrying Wire"
+  },
+  "nctb:phy:c9-10:bn:ch12:t03:s02": {
+    "title": "ট্রান্সফর্মার",
+    "_why": "checked on PDF p.345 image",
+    "title_alt": "Transformer"
+  },
+  "nctb:phy:c9-10:bn:ch13:t01": {
+    "title": "তেজস্ক্রিয়তা",
+    "_why": "checked on PDF p.353 image",
+    "title_alt": "Radioactivity"
+  },
+  "nctb:phy:c9-10:bn:ch13:t01:s01": {
+    "title": "আলফা রশ্মি",
+    "_why": "checked on PDF p.354 image",
+    "title_alt": "Alpha Ray"
+  },
+  "nctb:phy:c9-10:bn:ch13:t01:s03": {
+    "title": "গামা রশ্মি",
+    "_why": "checked on PDF p.357 image",
+    "title_alt": "Gamma Ray"
+  },
+  "nctb:phy:c9-10:bn:ch13:t01:s04": {
+    "title": "অর্ধায়ু",
+    "_why": "checked on PDF p.357 image",
+    "title_alt": "Half Life"
+  },
+  "nctb:phy:c9-10:bn:ch13:t01:s05": {
+    "title": "তেজস্ক্রিয়তার ব্যবহার",
+    "_why": "checked on PDF p.358 image",
+    "title_alt": "Uses of Radioactivity"
+  },
+  "nctb:phy:c9-10:bn:ch13:t01:s06": {
+    "title": "তেজস্ক্রিয়তা সম্পর্কে সচেতনতা",
+    "_why": "checked on PDF p.358 image",
+    "title_alt": "Awarness of Radioactivity"
+  },
+  "nctb:phy:c9-10:bn:ch13:t02:s04": {
+    "title": "ভবিষ্যতের ইলেকট্রনিকস",
+    "_why": "checked on PDF p.361 image",
+    "title_alt": "Future Electronics"
+  },
+  "nctb:phy:c9-10:bn:ch13:t03": {
+    "title": "অ্যানালগ ও ডিজিটাল ইলেকট্রনিকস",
+    "_why": "checked on PDF p.361 image",
+    "title_alt": "Analog & Digital Electronics"
+  },
+  "nctb:phy:c9-10:bn:ch13:t04": {
+    "title": "সেমিকন্ডাক্টর",
+    "_why": "checked on PDF p.362 image",
+    "title_alt": "Semiconductor"
+  },
+  "nctb:phy:c9-10:bn:ch04:t08": {
+    "add": true,
+    "title": "কর্মদক্ষতা",
+    "title_alt": "Efficiency",
+    "page_pdf": 125,
+    "_why": "heading number unreadable in OCR; read from PDF p.125 image"
+  },
+  "nctb:phy:c9-10:bn:ch09:t04:s03": {
+    "add": true,
+    "title": "লেন্সের ক্ষমতা",
+    "title_alt": "Power of a Lens",
+    "page_pdf": 269,
+    "_why": "heading number unreadable in OCR; read from PDF p.269 image"
+  },
+  "nctb:phy:c9-10:bn:ch11:t02:s03": {
+    "add": true,
+    "title": "বর্তনী বা সার্কিট বিশ্লেষণ",
+    "title_alt": "Circuit Analysis",
+    "page_pdf": 314,
+    "_why": "heading number unreadable in OCR; read from PDF p.314 image"
+  },
+  "nctb:phy:c9-10:bn:ch11:t02:s04": {
+    "add": true,
+    "title": "তুল্য রোধ: শ্রেণি সংযোগ",
+    "title_alt": "Equivalent Resistance: Series Connection",
+    "page_pdf": 319,
+    "_why": "heading number unreadable in OCR; read from PDF p.319 image"
+  },
+  "nctb:phy:c9-10:bn:ch11:t02:s05": {
+    "add": true,
+    "title": "তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ",
+    "title_alt": "Equivalent Resistance: Parallel Connection",
+    "page_pdf": 320,
+    "_why": "heading number unreadable in OCR; read from PDF p.320 image"
+  },
+  "nctb:phy:c9-10:bn:ch04": {
+    "clear_flags": ["heading-number-unreadable:"],
+    "_why": "the unreadable heading on p.118 is 4.4.3, added by hand"
+  },
+  "nctb:phy:c9-10:bn:ch11": {
+    "clear_flags": ["heading-number-unreadable:"],
+    "_why": "'11.1 1, 1' is equation noise on p.322, not a heading; 11.2.3-11.2.5 added by hand"
+  },
+  "nctb:phy:c9-10:bn:ch01:o10": {
+    "text": "যন্ত্রপাতি ব্যবহার করে ভৌত রাশি পরিমাপ করতে পারব।",
+    "_why": "OCR garbled; read from PDF p.7 image"
+  },
+  "nctb:phy:c9-10:bn:ch02:o03": {
+    "text": "স্কেলার ও ভেক্টর রাশি ব্যাখ্যা করতে পারব।",
+    "_why": "OCR garbled; read from PDF p.38 image"
+  },
+  "nctb:phy:c9-10:bn:ch06:o11": {
+    "text": "গলন, বাষ্পীভবন ও ঘনীভবন ব্যাখ্যা করতে পারব।",
+    "_why": "OCR garbled; read from PDF p.165 image"
+  },
+  "nctb:phy:c9-10:bn:ch06:o14": {
+    "text": "স্ফুটন ও বাষ্পায়ন ব্যাখ্যা করতে পারব।",
+    "_why": "OCR garbled; read from PDF p.165 image"
+  },
+  "nctb:phy:c9-10:bn:ch06:o15": {
+    "text": "গলনের এবং বাষ্পীভবনের সুপ্ততাপ ব্যাখ্যা করতে পারব।",
+    "_why": "OCR garbled; read from PDF p.165 image"
+  },
+  "nctb:phy:c9-10:bn:ch09:o05": {
+    "text": "লেন্স এবং এর প্রকারভেদ ব্যাখ্যা করতে পারব।",
+    "_why": "OCR garbled; read from PDF p.247 image"
+  },
+  "nctb:phy:c9-10:bn:ch12:o03": {
+    "text": "আবিষ্ট তড়িৎপ্রবাহ ও আবিষ্ট তড়িচ্চালক শক্তি ব্যাখ্যা করতে পারব।",
+    "_why": "OCR garbled; read from PDF p.335 image"
+  },
+  "nctb:phy:c9-10:bn:ch08:t05:s01": {
+    "title": "গোলীয় উত্তল আয়নায় প্রতিবিম্ব",
+    "title_alt": "Image in a Convex Spherical Mirror",
+    "_why": "checked on PDF p.230 image"
+  },
+  "nctb:phy:c9-10:bn:ch04:t04:s01": {
+    "title": "অনবায়নযোগ্য শক্তি",
+    "_why": "OCR error; read from PDF p.115 image",
+    "title_alt": "Non-Renewable Energy"
+  },
+  "nctb:phy:c9-10:bn:ch07:t03:s02": {
+    "title": "শব্দের বেগের পার্থক্য",
+    "_why": "OCR error; read from PDF p.207 image"
+  },
+  "nctb:phy:c9-10:bn:ch07:t03:s04": {
+    "title": "সুরযুক্ত শব্দ",
+    "_why": "OCR error; read from PDF p.209 image"
+  },
+  "nctb:phy:c9-10:bn:ch08:t03:s01": {
+    "title": "প্রতিবিম্ব",
+    "_why": "OCR error; read from PDF p.224 image"
+  },
+  "nctb:phy:c9-10:bn:ch09:t01:s01": {
+    "title": "প্রতিসরণের সূত্র",
+    "_why": "OCR error; read from PDF p.249 image"
+  }
+}

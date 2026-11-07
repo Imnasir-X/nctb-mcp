@@ -1,0 +1,37 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.1.0",
+ "tag": "nctb-data@0.1.0",
+ "edition": 2026,
+ "id_scheme": "see IDS.md",
+ "status": "draft: machine-extracted, agent spot-checked, not human-verified",
+ "content_policy": "Structure, IDs, chapter/section titles, learning objectives and page pointers only. No body text, no exercise or worked-example text. NCTB reserves all rights in the textbooks.",
+ "books": [
+  {
+   "file": "physics-9-10/physics-9-10-bn.json",
+   "book_id": "nctb:phy:c9-10:bn",
+   "sha256": "61f0be573cdbeecc8979c84ab0c20450d20bbd6f25c19013f4a0c3562cc8930b",
+   "counts": {
+    "chapters": 13,
+    "topics": 190,
+    "objectives": 143,
+    "worked_examples": 98,
+    "exercises": 146
+   },
+   "verified_items": 0
+  },
+  {
+   "file": "physics-9-10/physics-9-10-en.json",
+   "book_id": "nctb:phy:c9-10:en",
+   "sha256": "23ca51ed46558376ddb44583a8a9b1564c21c8273147b70bfdff608cf686968d",
+   "counts": {
+    "chapters": 13,
+    "topics": 190,
+    "objectives": 144,
+    "worked_examples": 98,
+    "exercises": 146
+   },
+   "verified_items": 0
+  }
+ ]
+}
