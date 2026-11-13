@@ -31,6 +31,8 @@ jobs:
       - run: pnpm coverage
       - name: Smoke test the built CLI
         run: node dist/cli.js --version
+      - name: Smoke test every tool through the MCP Inspector CLI
+        run: bash scripts/inspector-smoke.sh
 
   pipeline:
     runs-on: ubuntu-latest

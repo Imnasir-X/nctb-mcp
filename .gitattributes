@@ -1,0 +1,3 @@
+# Normalize all text files to LF in the index and on every platform's checkout.
+# Keeps prettier --check green on Windows and shell scripts working.
+* text=auto eol=lf

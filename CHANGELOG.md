@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 (unreleased)
+## 0.1.0 (2026-11-07)
 
 - First version: Class 9-10 Physics (2026 edition), Bangla and English versions. Tools: list_chapters, get_topic,
   search_curriculum, get_objectives, get_exercises. Data tag nctb-data@0.1.0, all items verified=false.

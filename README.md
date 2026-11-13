@@ -4,7 +4,9 @@ An MCP server that lets any AI assistant look up the Bangladesh NCTB curriculum 
 objective, with the official PDF page for everything it returns. Works offline (`npx`), read-only, no API keys.
 
 > **v0.1 scope:** Class 9-10 (SSC) **Physics**, 2026 edition, **Bangla version and English version**.
-> All data is machine-extracted and marked `verified: false` until a human checks it. See [Data status](#data-status).
+> Structure, pages and objective lines are released as the **nctb-data@0.1.0** dataset: chapter titles and start
+> pages are hand-checked against the printed contents pages; everything else is machine-extracted
+> (`verified: false`) pending human review. See [Data status](#data-status).
 
 ```text
 You:    Give me Class 9 physics chapter 3.
@@ -26,7 +28,9 @@ Claude: (calls get_topic {chapter: 3})
 
 - **Claude Desktop:** Settings › Developer › Edit Config (`claude_desktop_config.json`), paste the block, restart.
 - **Cursor:** `~/.cursor/mcp.json` (global) or `.cursor/mcp.json` (project), same block.
-- **From a local checkout (before the npm release):** `"command": "node", "args": ["/path/to/nctb-mcp/dist/cli.js"]`.
+- **From a local checkout (if `npx` cannot find the package yet):**
+  `git clone https://github.com/Imnasir-X/nctb-mcp && cd nctb-mcp && pnpm install && pnpm build`, then use
+  `"command": "node", "args": ["/path/to/nctb-mcp/dist/cli.js"]`.
 
 ## Tools
 
@@ -262,11 +266,18 @@ npx @modelcontextprotocol/inspector --cli node dist/cli.js --method tools/list
 Data lives in `../nctb-shared/data` during development; `pnpm sync-data` copies it into `data/`, which is what the
 npm package ships.
 
-## Before publishing
+## Publishing decisions
 
-Open decisions for the owner (see DATA_LICENSE.md): whether shipping the books' headings and learning-objective
-lines is acceptable without NCTB's permission, and which licence covers the metadata compilation. Until then
-there is no npm release.
+Three decisions blocked the npm release; all three are now made and recorded in
+[docs/OWNERS_DECISIONS.md](docs/OWNERS_DECISIONS.md) with follow-ups:
+
+1. Shipping the books' headings and learning-objective lines is accepted as short factual quotation that points
+   to the official text; a permission letter to NCTB remains a follow-up, and any NCTB request is honoured
+   immediately.
+2. The metadata compilation is licensed **CC BY 4.0**; the textbook text and images remain © NCTB and are not
+   licensed here. Code stays MIT.
+3. The npm release (`nctb-mcp@0.1.0`) is prepared; the maintainer publishes it by running the Release workflow
+   after adding the NPM_TOKEN secret.
 
 ## Licence
 

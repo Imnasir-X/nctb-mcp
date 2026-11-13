@@ -12,12 +12,15 @@ section numbers and headings, the chapter learning-objective lines, page numbers
 examples and exercise items. It ships **no** body text, **no** worked-example text and **no** exercise or question
 text. Users read the content in NCTB's own PDF, at the page the data points to.
 
-**Open question for the owner before publishing:** headings and learning-objective sentences are copied from the
-books. They are short and factual, and are shipped to help students and teachers find the official text, but NCTB
-has not been asked for permission. See README › "Before publishing".
+**Owner decision (2026-11-13):** headings and learning-objective sentences are copied from the books. They are
+short and factual, and are shipped to help students and teachers find the official text, not to replace it. This
+falls within reasonable quotation for that purpose; the safest course (a permission letter to NCTB) is tracked in
+[docs/OWNERS_DECISIONS.md](docs/OWNERS_DECISIONS.md) as follow-up, and any NCTB request to remove lines will be
+honoured immediately.
 
-**Licence of the metadata compilation** (IDs, page pointers, structure, pairing, review flags) — undecided; the owner
-chooses (suggested: CC BY 4.0 for the compilation, with this notice that the underlying text remains NCTB's).
+**Licence of the metadata compilation** (IDs, page pointers, structure, pairing, review flags): **CC BY 4.0** —
+you may share and adapt the compilation with attribution to this project; the underlying textbook text and images
+remain © NCTB and are not licensed here.
 
 **Accuracy:** every item is machine-extracted (OCR) and carries `verified: false` until a named human checks it
 against the PDF. Do not treat unverified items as authoritative.
