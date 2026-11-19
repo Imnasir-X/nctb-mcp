@@ -1,0 +1,1795 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.2.0",
+ "generated_at": "2026-11-16",
+ "book": {
+  "id": "nctb:math:c9-10:bn",
+  "subject": {
+   "code": "math",
+   "name_bn": "উচ্চতর গণিত",
+   "name_en": "Higher Mathematics",
+   "aliases": [
+    "higher math",
+    "higher mathematics",
+    "highermath",
+    "hmath",
+    "উচ্চতর গণিত",
+    "উচ্চতরগণিত",
+    "uccho taro gonit",
+    "ucchotoro gonit",
+    "ucchotoro ganit"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "version": "bn",
+  "edition": 2026,
+  "title": "উচ্চতর গণিত, নবম ও দশম শ্রেণি (২০২৬ শিক্ষাবর্ষের জন্য পরিমার্জিত)",
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "rights_statement": "[প্রকাশক কর্তৃক সর্বস্বত্ব সংরক্ষিত] — গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক বিনামূল্যে বিতরণের জন্য",
+  "edition_history": [
+   "প্রথম প্রকাশ: সেপ্টেম্বর ২০১২",
+   "পরিমার্জিত সংস্করণ: নভেম্বর ২০১৭",
+   "পরিমার্জিত সংস্করণ: অক্টোবর ২০২৪",
+   "পরিমার্জিত সংস্করণ: অক্টোবর ২০২৫"
+  ],
+  "page_offset": 5,
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/18osCGwa0nHp-q3XgkjEFcoBqteORdiXE/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/iSz6xhjfGbQnu4G"
+   ],
+   "filename": "Secondary (BV)-2026_Class 9-10_Higher Mathematics_compressed.pdf",
+   "sha256": "3eeadc996dbd9e7c6641f80935f3af6a351acc01bf6329329726c17497eabe4e",
+   "bytes": 100670727,
+   "pdf_pages": 342,
+   "retrieved_at": "2026-11-13",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "id": "nctb:math:c9-10:bn:ch01",
+   "concept_key": "nctb:math:c9-10:ch01",
+   "number": 1,
+   "title": "সেট ও ফাংশন",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": 37,
+     "pdf": 42
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch02",
+   "concept_key": "nctb:math:c9-10:ch02",
+   "number": 2,
+   "title": "বীজগাণিতিক রাশি",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 38,
+     "pdf": 43
+    },
+    "end": {
+     "printed": 62,
+     "pdf": 67
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 3,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "exercise-number-gap:mcq02",
+     "objectives-not-found",
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch03",
+   "concept_key": "nctb:math:c9-10:ch03",
+   "number": 3,
+   "title": "জ্যামিতি",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 63,
+     "pdf": 68
+    },
+    "end": {
+     "printed": 81,
+     "pdf": 86
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found",
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch04",
+   "concept_key": "nctb:math:c9-10:ch04",
+   "number": 4,
+   "title": "জ্যামিতিক অঙ্কন",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 82,
+     "pdf": 87
+    },
+    "end": {
+     "printed": 95,
+     "pdf": 100
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch05",
+   "concept_key": "nctb:math:c9-10:ch05",
+   "number": 5,
+   "title": "সমীকরণ",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 96,
+     "pdf": 101
+    },
+    "end": {
+     "printed": 122,
+     "pdf": 127
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found",
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch06",
+   "concept_key": "nctb:math:c9-10:ch06",
+   "number": 6,
+   "title": "অসমতা",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 123,
+     "pdf": 128
+    },
+    "end": {
+     "printed": 135,
+     "pdf": 140
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found",
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch07",
+   "concept_key": "nctb:math:c9-10:ch07",
+   "number": 7,
+   "title": "অসীম ধারা",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 136,
+     "pdf": 141
+    },
+    "end": {
+     "printed": 145,
+     "pdf": 150
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch08",
+   "concept_key": "nctb:math:c9-10:ch08",
+   "number": 8,
+   "title": "ত্রিকোণমিতি",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 146,
+     "pdf": 151
+    },
+    "end": {
+     "printed": 192,
+     "pdf": 197
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch09",
+   "concept_key": "nctb:math:c9-10:ch09",
+   "number": 9,
+   "title": "সূচকীয় ও লগারিদমীয় ফাংশন",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 193,
+     "pdf": 198
+    },
+    "end": {
+     "printed": 222,
+     "pdf": 227
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch10",
+   "concept_key": "nctb:math:c9-10:ch10",
+   "number": 10,
+   "title": "দ্বিপদী বিন্যাস",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 223,
+     "pdf": 228
+    },
+    "end": {
+     "printed": 238,
+     "pdf": 243
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch11",
+   "concept_key": "nctb:math:c9-10:ch11",
+   "number": 11,
+   "title": "স্থানাঙ্ক জ্যামিতি",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 239,
+     "pdf": 244
+    },
+    "end": {
+     "printed": 270,
+     "pdf": 275
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch12",
+   "concept_key": "nctb:math:c9-10:ch12",
+   "number": 12,
+   "title": "সমতলীয় ভেক্টর",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 271,
+     "pdf": 276
+    },
+    "end": {
+     "printed": 286,
+     "pdf": 291
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found",
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch13",
+   "concept_key": "nctb:math:c9-10:ch13",
+   "number": 13,
+   "title": "ঘন জ্যামিতি",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 287,
+     "pdf": 292
+    },
+    "end": {
+     "printed": 305,
+     "pdf": 310
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found",
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14",
+   "concept_key": "nctb:math:c9-10:ch14",
+   "number": 14,
+   "title": "সম্ভাবনা",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 306,
+     "pdf": 311
+    },
+    "end": {
+     "printed": 327,
+     "pdf": 332
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 15,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "exercise-number-gap:cq02",
+     "exercise-number-gap:cq10",
+     "exercise-number-gap:cq16",
+     "exercise-number-gap:cq18",
+     "objectives-not-found",
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  }
+ ],
+ "topics": [],
+ "objectives": [],
+ "worked_examples": [],
+ "exercises": [
+  {
+   "id": "nctb:math:c9-10:bn:ch01:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:bn:ch01",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 37,
+    "pdf": 42
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch01:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:bn:ch01",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 37,
+    "pdf": 42
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch01:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:bn:ch01",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 37,
+    "pdf": 42
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch01:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:bn:ch01",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 37,
+    "pdf": 42
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch02:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:bn:ch02",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 61,
+    "pdf": 66
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch02:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:bn:ch02",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch02:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:bn:ch02",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch03:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 80,
+    "pdf": 85
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch03:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 80,
+    "pdf": 85
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch03:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 80,
+    "pdf": 85
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch03:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 81,
+    "pdf": 86
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch04:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:bn:ch04",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 94,
+    "pdf": 99
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch04:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:bn:ch04",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 95,
+    "pdf": 100
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch04:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:bn:ch04",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 95,
+    "pdf": 100
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch04:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:bn:ch04",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 95,
+    "pdf": 100
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch05:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 122,
+    "pdf": 127
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch05:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 122,
+    "pdf": 127
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch05:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 122,
+    "pdf": 127
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch05:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 122,
+    "pdf": 127
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch06:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:bn:ch06",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch06:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:bn:ch06",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch06:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:bn:ch06",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch06:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:bn:ch06",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch07:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:bn:ch07",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch07:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:bn:ch07",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch07:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:bn:ch07",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch07:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:bn:ch07",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch08:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:bn:ch08",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 191,
+    "pdf": 196
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch08:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:bn:ch08",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 191,
+    "pdf": 196
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch08:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:bn:ch08",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 192,
+    "pdf": 197
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch08:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:bn:ch08",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 192,
+    "pdf": 197
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch09:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 222,
+    "pdf": 227
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch09:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 222,
+    "pdf": 227
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch09:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 222,
+    "pdf": 227
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch09:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 222,
+    "pdf": 227
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch10:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 237,
+    "pdf": 242
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch10:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 238,
+    "pdf": 243
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch10:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 238,
+    "pdf": 243
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch10:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 238,
+    "pdf": 243
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch11:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:bn:ch11",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 269,
+    "pdf": 274
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch11:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:bn:ch11",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 270,
+    "pdf": 275
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch11:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:bn:ch11",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 270,
+    "pdf": 275
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch11:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:bn:ch11",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 270,
+    "pdf": 275
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch12:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:bn:ch12",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 285,
+    "pdf": 290
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch12:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:bn:ch12",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 285,
+    "pdf": 290
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch12:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:bn:ch12",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 286,
+    "pdf": 291
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch12:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:bn:ch12",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 286,
+    "pdf": 291
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch13:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:bn:ch13",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 304,
+    "pdf": 309
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch13:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:bn:ch13",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 304,
+    "pdf": 309
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch13:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:bn:ch13",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 305,
+    "pdf": 310
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch13:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:bn:ch13",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 305,
+    "pdf": 310
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 314,
+    "pdf": 319
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 314,
+    "pdf": 319
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 315,
+    "pdf": 320
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 315,
+    "pdf": 320
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:cq01",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 318,
+    "pdf": 323
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:cq03",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 318,
+    "pdf": 323
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:cq04",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 318,
+    "pdf": 323
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:cq05",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 318,
+    "pdf": 323
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:cq06",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 6,
+   "page": {
+    "printed": 318,
+    "pdf": 323
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:cq07",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 7,
+   "page": {
+    "printed": 318,
+    "pdf": 323
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:cq08",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 8,
+   "page": {
+    "printed": 319,
+    "pdf": 324
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:cq09",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 9,
+   "page": {
+    "printed": 319,
+    "pdf": 324
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:cq11",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 11,
+   "page": {
+    "printed": 319,
+    "pdf": 324
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "খ",
+    "ক"
+   ]
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:cq12",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 12,
+   "page": {
+    "printed": 322,
+    "pdf": 327
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ঘ",
+    "গ",
+    "ক",
+    "খ"
+   ]
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:cq13",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 13,
+   "page": {
+    "printed": 324,
+    "pdf": 329
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ঘ",
+    "খ"
+   ]
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:cq14",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 14,
+   "page": {
+    "printed": 326,
+    "pdf": 331
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:cq15",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 15,
+   "page": {
+    "printed": 326,
+    "pdf": 331
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:cq17",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 17,
+   "page": {
+    "printed": 326,
+    "pdf": 331
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:math:c9-10:bn:ch14:ex:cq19",
+   "chapter_id": "nctb:math:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 19,
+   "page": {
+    "printed": 326,
+    "pdf": 331
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  }
+ ]
+}

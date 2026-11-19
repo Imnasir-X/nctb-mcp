@@ -13,11 +13,32 @@ const ID =
   /^nctb:[a-z]+:c\d{1,2}(-\d{1,2})?:(bn|en)(:ch\d{2}(:(t\d{2}(:s\d{2})?|o\d{2}|we\d{2}|ex:(mcq|sq|cq|num)\d{2}))?)?$/;
 
 describe("bundled data", () => {
-  it("has both Physics 9-10 books", () => {
+  const manifest = JSON.parse(readFileSync(join(dataDir, "manifest.json"), "utf8"));
+  const manifestScope = (bookId: string) =>
+    (manifest.books as { book_id: string; data_scope?: string }[]).find((m) => m.book_id === bookId)
+      ?.data_scope;
+  const scopeOf = (b: { book: { id: string } }) => manifestScope(b.book.id) ?? "chapters";
+
+  it("has the Class 9-10 books for four subjects, bn + en", () => {
     expect(catalog.books.map((b) => b.book.id).sort()).toEqual([
+      "nctb:bio:c9-10:bn",
+      "nctb:bio:c9-10:en",
+      "nctb:chem:c9-10:bn",
+      "nctb:chem:c9-10:en",
+      "nctb:math:c9-10:bn",
+      "nctb:math:c9-10:en",
       "nctb:phy:c9-10:bn",
       "nctb:phy:c9-10:en",
     ]);
+  });
+
+  it("physics data_scope is full, the three new subjects ship sections-level data without objectives parity", () => {
+    for (const b of catalog.books) {
+      const scope = scopeOf(b);
+      expect(scope === "full" || scope === "sections").toBe(true);
+      if (b.book.subject.code === "phy") expect(scope).toBe("full");
+      else expect(scope).toBe("sections");
+    }
   });
 
   it("validates against the JSON Schema", () => {
@@ -100,8 +121,9 @@ describe("bundled data", () => {
     ]);
   });
 
-  it("full coverage: every chapter of both books has topics, objectives, worked examples and exercises", () => {
+  it("full coverage: every chapter of every full-scope book has topics, objectives, worked examples and exercises", () => {
     for (const b of catalog.books) {
+      if (scopeOf(b) !== "full") continue;
       for (const c of b.chapters) {
         const of = <T extends { chapter_id: string }>(xs: T[]) =>
           xs.filter((x) => x.chapter_id === c.id);
@@ -135,6 +157,22 @@ describe("bundled data", () => {
       const ob = count(bn.objectives, cb.id);
       const oe = count(en.objectives, ce.id);
       if (ob !== oe) expect(cb.review.flags).toContain("count-differs-in-printed-books:objectives");
+    }
+  });
+
+  it("new-subject books carry extracted sections but stay out of the full-coverage contract", () => {
+    for (const b of catalog.books) {
+      if (scopeOf(b) === "full") continue;
+      expect(b.chapters.length).toBeGreaterThan(5);
+      for (const c of b.chapters) {
+        expect(c.pages.start.pdf).toBeLessThanOrEqual(c.pages.end.pdf);
+        expect(c.pages.end.pdf).toBeLessThanOrEqual(b.book.source.pdf_pages);
+        expect(c.pages.start.pdf).toBeGreaterThan(1);
+      }
+      for (const t of b.topics) {
+        expect(t.chapter_id.startsWith(b.book.id + ":ch")).toBe(true);
+        expect(t.page.pdf).toBeLessThanOrEqual(b.book.source.pdf_pages);
+      }
     }
   });
 
@@ -173,7 +211,10 @@ describe("text helpers", () => {
   it("subject aliases", () => {
     for (const s of ["physics", "Physics", "পদার্থবিজ্ঞান", "পদার্থ বিজ্ঞান", "phy"])
       expect(catalog.subjectCode(s)).toBe("phy");
-    expect(catalog.subjectCode("chemistry")).toBeUndefined();
+    expect(catalog.subjectCode("chemistry")).toBe("chem");
+    expect(catalog.subjectCode("biology")).toBe("bio");
+    expect(catalog.subjectCode("higher math")).toBe("math");
+    expect(catalog.subjectCode("astrology")).toBeUndefined();
   });
   it("counterparts", () => {
     expect(catalog.counterpart("nctb:phy:c9-10:bn:ch05")).toBe("nctb:phy:c9-10:en:ch05");

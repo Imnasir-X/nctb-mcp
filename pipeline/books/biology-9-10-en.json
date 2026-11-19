@@ -1,0 +1,114 @@
+{
+  "dataset_version": "0.2.0",
+  "last_body_pdf_page": 317,
+  "book": {
+    "id": "nctb:bio:c9-10:en",
+    "subject": {
+      "code": "bio",
+      "name_bn": "জীববিজ্ঞান",
+      "name_en": "Biology",
+      "aliases": ["biology", "bio", "জীববিজ্ঞান", "জীব বিজ্ঞান"]
+    },
+    "class": "9-10",
+    "level": "Secondary (SSC)",
+    "version": "en",
+    "edition": 2026,
+    "title": "Biology, Classes Nine and Ten (revised for the academic year 2026)",
+    "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+    "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+    "edition_history": [
+      "First Publication : September, 2012",
+      "Revised Edition : January, 2013",
+      "Revised Edition : October, 2024",
+      "Revised Edition : October, 2025"
+    ],
+    "page_offset": 5,
+    "source": {
+      "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+      "pdf_urls": [
+        "https://drive.google.com/file/d/1z4jj_JyB3rbWyPXfWEsfkozFnlIlVv-I/view",
+        "https://drive.egovcloud.gov.bd/index.php/s/o5DpxuZF9Pt1qjU"
+      ],
+      "filename": "Secondary (EV)-2026_Class 9-10_Biology_compressed.pdf",
+      "sha256": "004d6fa0c0f36a43d991cf6314228cc607f2c16348ea00c5457a5e2ee7a104c1",
+      "bytes": 72455895,
+      "pdf_pages": 318,
+      "retrieved_at": "2026-11-13",
+      "text_layer": "none (scanned page images); text obtained by OCR"
+    },
+    "data_scope": "sections"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Lessons on Life",
+      "printed_start": 1
+    },
+    {
+      "number": 2,
+      "title": "Cells and Tissues of Organisms",
+      "printed_start": 16
+    },
+    {
+      "number": 3,
+      "title": "Cell Division",
+      "printed_start": 48
+    },
+    {
+      "number": 4,
+      "title": "Bioenergetics",
+      "printed_start": 61
+    },
+    {
+      "number": 5,
+      "title": "Food, Nutrition and Digestion",
+      "printed_start": 82
+    },
+    {
+      "number": 6,
+      "title": "Transport in Organisms",
+      "printed_start": 122
+    },
+    {
+      "number": 7,
+      "title": "Exchange of Gases",
+      "printed_start": 157
+    },
+    {
+      "number": 8,
+      "title": "Excretory System",
+      "printed_start": 175
+    },
+    {
+      "number": 9,
+      "title": "Firmness and Locomotion",
+      "printed_start": 186
+    },
+    {
+      "number": 10,
+      "title": "Co-ordination",
+      "printed_start": 199
+    },
+    {
+      "number": 11,
+      "title": "Reproduction in Organism",
+      "printed_start": 226
+    },
+    {
+      "number": 12,
+      "title": "Heredity in Organisms and Biological Evolution",
+      "printed_start": 249
+    },
+    {
+      "number": 13,
+      "title": "Environment of life",
+      "printed_start": 278
+    },
+    {
+      "number": 14,
+      "title": "Biotechnology",
+      "printed_start": 301
+    }
+  ],
+  "running_heads": ["Biology"]
+}

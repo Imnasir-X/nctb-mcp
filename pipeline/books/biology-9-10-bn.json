@@ -1,0 +1,114 @@
+{
+  "dataset_version": "0.2.0",
+  "last_body_pdf_page": 325,
+  "book": {
+    "id": "nctb:bio:c9-10:bn",
+    "subject": {
+      "code": "bio",
+      "name_bn": "জীববিজ্ঞান",
+      "name_en": "Biology",
+      "aliases": ["biology", "bio", "জীববিজ্ঞান", "জীব বিজ্ঞান"]
+    },
+    "class": "9-10",
+    "level": "Secondary (SSC)",
+    "version": "bn",
+    "edition": 2026,
+    "title": "জীববিজ্ঞান, নবম ও দশম শ্রেণি (২০২৬ শিক্ষাবর্ষের জন্য পরিমার্জিত)",
+    "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+    "rights_statement": "[প্রকাশক কর্তৃক সর্বস্বত্ব সংরক্ষিত] — গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক বিনামূল্যে বিতরণের জন্য",
+    "edition_history": [
+      "প্রথম প্রকাশ: সেপ্টেম্বর ২০১২",
+      "পরিমার্জিত সংস্করণ: জানুয়ারি ২০১৩",
+      "পরিমার্জিত সংস্করণ: অক্টোবর ২০২৪",
+      "পরিমার্জিত সংস্করণ: অক্টোবর ২০২৫"
+    ],
+    "page_offset": 5,
+    "source": {
+      "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+      "pdf_urls": [
+        "https://drive.google.com/file/d/11WRMSWpqi4KtgxClDCBXely2XdiAhoju/view",
+        "https://drive.egovcloud.gov.bd/index.php/s/MCyVlYL9pnrc5gy"
+      ],
+      "filename": "Secondary (BV)-2026_Class 9-10_Biology_compressed.pdf",
+      "sha256": "9ea759f168995b61c16d605a093a2399436b7c1b9f3ec5166dc9992600d3f514",
+      "bytes": 107753405,
+      "pdf_pages": 326,
+      "retrieved_at": "2026-11-13",
+      "text_layer": "none (scanned page images); text obtained by OCR"
+    },
+    "data_scope": "sections"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "জীবনপাঠ",
+      "printed_start": 1
+    },
+    {
+      "number": 2,
+      "title": "জীবকোষ ও টিস্যু",
+      "printed_start": 17
+    },
+    {
+      "number": 3,
+      "title": "কোষ বিভাজন",
+      "printed_start": 50
+    },
+    {
+      "number": 4,
+      "title": "জীবনীশক্তি",
+      "printed_start": 64
+    },
+    {
+      "number": 5,
+      "title": "খাদ্য, পুষ্টি এবং পরিপাক",
+      "printed_start": 84
+    },
+    {
+      "number": 6,
+      "title": "জীবে পরিবহণ",
+      "printed_start": 125
+    },
+    {
+      "number": 7,
+      "title": "গ্যাসীয় বিনিময়",
+      "printed_start": 160
+    },
+    {
+      "number": 8,
+      "title": "রেচন প্রক্রিয়া",
+      "printed_start": 178
+    },
+    {
+      "number": 9,
+      "title": "দৃঢ়তা প্রদান ও চলন",
+      "printed_start": 190
+    },
+    {
+      "number": 10,
+      "title": "সমন্বয়",
+      "printed_start": 204
+    },
+    {
+      "number": 11,
+      "title": "জীবের প্রজনন",
+      "printed_start": 231
+    },
+    {
+      "number": 12,
+      "title": "জীবের বংশগতি ও জৈব অভিব্যক্তি",
+      "printed_start": 254
+    },
+    {
+      "number": 13,
+      "title": "জীবের পরিবেশ",
+      "printed_start": 282
+    },
+    {
+      "number": 14,
+      "title": "জীবপ্রযুক্তি",
+      "printed_start": 305
+    }
+  ],
+  "running_heads": ["জীববিজ্ঞান"]
+}

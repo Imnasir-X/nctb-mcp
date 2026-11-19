@@ -3,10 +3,11 @@
 An MCP server that lets any AI assistant look up the Bangladesh NCTB curriculum by chapter, section and learning
 objective, with the official PDF page for everything it returns. Works offline (`npx`), read-only, no API keys.
 
-> **v0.1 scope:** Class 9-10 (SSC) **Physics**, 2026 edition, **Bangla version and English version**.
-> Structure, pages and objective lines are released as the **nctb-data@0.1.0** dataset: chapter titles and start
-> pages are hand-checked against the printed contents pages; everything else is machine-extracted
-> (`verified: false`) pending human review. See [Data status](#data-status).
+> **Scope:** Class 9-10 (SSC), 2026 edition, **Bangla version and English version**.
+> **Physics** has full, cross-checked section-level data. **Chemistry** and **Biology** ship OCR-extracted
+> section-level data (sections, objectives and exercise pointers, pending human review). **Higher Mathematics**
+> ships chapters plus exercise pointers — its headings are unnumbered in print, so section extraction needs a
+> separate pass. Every item is marked `verified: false` until a human checks it against the PDF page.
 
 ```text
 You:    Give me Class 9 physics chapter 3.
@@ -222,9 +223,21 @@ Pipeline (`pipeline/`, Python + Tesseract 5):
    recorded in `books/physics-9-10.pairing.json`.
 6. **Hand-check** (`review.py`, `apply_review.py`): a review sheet and CSV; only a named human can set `verified: true`.
 
+Since v0.2 the same pipeline runs for all four subjects: each book has its own config in `pipeline/books/`
+(`<subject>-9-10-bn|en.json`) with the chapter list transcribed from its contents page and a per-book page offset.
+OCR was run on all six new PDFs (about 1,960 pages) and `structure.py` produced the section-level data. Higher
+Mathematics has no numbered section headings in print, so only its chapters and exercise pointers are extracted
+for now.
+
 ## Data status
 
-Coverage per chapter, Bangla / English (sections / objectives / worked examples / MCQ-creative-short items):
+**Coverage by subject (v0.2):** Physics (both versions) = chapters, sections, objectives, worked-example and
+exercise pointers, cross-checked bn/en. Chemistry = 141/153 sections (bn/en), 133/27 objectives, 93/115 exercise
+pointers. Biology = 127/133 sections, 13/154 objectives, 91/142 exercise pointers. Higher Mathematics = 14
+chapters and 70/69 exercise pointers (unnumbered headings, section pass pending). Nothing is human-verified yet
+(`verified: true`: 0 items). Coverage per book and `data_scope` are listed in `data/manifest.json`.
+
+### Physics — coverage per chapter, Bangla / English (sections / objectives / worked examples / MCQ-creative-short items):
 
 | Ch  | Bangla title                | bn                   | en                   |
 | --- | --------------------------- | -------------------- | -------------------- |
@@ -242,9 +255,13 @@ Coverage per chapter, Bangla / English (sections / objectives / worked examples 
 | 12  | বিদ্যুতের চৌম্বক ক্রিয়া    | 9 / 7 / 4 / 5-2-4    | 9 / 7 / 4 / 5-2-4    |
 | 13  | তেজস্ক্রিয়তা ও ইলেকট্রনিকস | 14 / 5 / 1 / 4-1-4   | 14 / 5 / 1 / 4-1-4   |
 
-- Both books: 13 chapters, 190 sections, 98 worked-example pointers, 146 exercise-item pointers; 143 (bn) and 144 (en)
+- Both physics books: 13 chapters, 190 sections, 98 worked-example pointers, 146 exercise-item pointers; 143 (bn) and 144 (en)
   objectives. The one count difference is in the printed books themselves (ch. 7: the English book lists one more
   outcome), confirmed on the page images.
+- Chemistry: 12 chapters; Biology: 14 chapters; Higher Mathematics: 14 chapters, each version transcribed from
+  the printed contents pages via page-image inspection and cross-checked between the Bangla and English books
+  (chapter start pages agree after the per-book page offset). Back-matter after the last chapter (e.g. Higher
+  Mathematics' "Eminent Mathematicians" and appendix) is not part of any chapter's page range.
 - Section numbering differs in two places in the printed books (en skips 8.2.2 and 8.8.4), so bn 8.2.2/8.8.4
   correspond to en 8.2.3/8.8.5.
 - Chapter titles and start pages: checked by eye against both contents pages.

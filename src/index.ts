@@ -80,7 +80,7 @@ const subjectSchema = z
   .string()
   .optional()
   .describe(
-    'Subject in English, Bangla or romanised Bangla, e.g. "physics", "পদার্থবিজ্ঞান". Default physics (the only subject in v0.1).',
+    'Subject in English, Bangla or romanised Bangla, e.g. "physics" (পদার্থবিজ্ঞান), "chemistry" (রসায়ন), "biology" (জীববিজ্ঞান), "higher math" (উচ্চতর গণিত). Default physics.',
   );
 const classSchema = z
   .string()
@@ -215,7 +215,7 @@ export function createServer(catalog: Catalog = Catalog.load()): McpServer {
     {
       title: "List chapters of an NCTB textbook",
       description:
-        "Start here. Lists the chapters of a Bangladesh NCTB textbook (v0.1: Class 9-10 / SSC Physics, 2026 edition, Bangla and English versions) with chapter IDs, titles, page ranges and topic counts. Use the returned IDs with get_topic, get_objectives and get_exercises.",
+        "Start here. Lists the chapters of a Bangladesh NCTB textbook (Class 9-10 / SSC, 2026 edition, Bangla and English versions). Full section-level data: Physics. Section-level data extracted and pending review: Chemistry, Biology. Chapters with exercise pointers: Higher Mathematics. Returns chapter IDs, titles, page ranges and topic counts. Use the returned IDs with get_topic, get_objectives and get_exercises.",
       inputSchema: { subject: subjectSchema, class: classSchema, version: versionSchema },
       annotations: ro,
     },

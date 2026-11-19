@@ -1,0 +1,5350 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.2.0",
+ "generated_at": "2026-11-16",
+ "book": {
+  "id": "nctb:bio:c9-10:bn",
+  "subject": {
+   "code": "bio",
+   "name_bn": "জীববিজ্ঞান",
+   "name_en": "Biology",
+   "aliases": [
+    "biology",
+    "bio",
+    "জীববিজ্ঞান",
+    "জীব বিজ্ঞান"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "version": "bn",
+  "edition": 2026,
+  "title": "জীববিজ্ঞান, নবম ও দশম শ্রেণি (২০২৬ শিক্ষাবর্ষের জন্য পরিমার্জিত)",
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "rights_statement": "[প্রকাশক কর্তৃক সর্বস্বত্ব সংরক্ষিত] — গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক বিনামূল্যে বিতরণের জন্য",
+  "edition_history": [
+   "প্রথম প্রকাশ: সেপ্টেম্বর ২০১২",
+   "পরিমার্জিত সংস্করণ: জানুয়ারি ২০১৩",
+   "পরিমার্জিত সংস্করণ: অক্টোবর ২০২৪",
+   "পরিমার্জিত সংস্করণ: অক্টোবর ২০২৫"
+  ],
+  "page_offset": 5,
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/11WRMSWpqi4KtgxClDCBXely2XdiAhoju/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/MCyVlYL9pnrc5gy"
+   ],
+   "filename": "Secondary (BV)-2026_Class 9-10_Biology_compressed.pdf",
+   "sha256": "9ea759f168995b61c16d605a093a2399436b7c1b9f3ec5166dc9992600d3f514",
+   "bytes": 107753405,
+   "pdf_pages": 326,
+   "retrieved_at": "2026-11-13",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "id": "nctb:bio:c9-10:bn:ch01",
+   "concept_key": "nctb:bio:c9-10:ch01",
+   "number": 1,
+   "title": "জীবনপাঠ",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": 16,
+     "pdf": 21
+    }
+   },
+   "counts": {
+    "topics": 5,
+    "subtopics": 2,
+    "objectives": 1,
+    "worked_examples": 5,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:worked_examples",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02",
+   "concept_key": "nctb:bio:c9-10:ch02",
+   "number": 2,
+   "title": "জীবকোষ ও টিস্যু",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 17,
+     "pdf": 22
+    },
+    "end": {
+     "printed": 49,
+     "pdf": 54
+    }
+   },
+   "counts": {
+    "topics": 5,
+    "subtopics": 8,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:worked_examples",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch03",
+   "concept_key": "nctb:bio:c9-10:ch03",
+   "number": 3,
+   "title": "কোষ বিভাজন",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 50,
+     "pdf": 55
+    },
+    "end": {
+     "printed": 63,
+     "pdf": 68
+    }
+   },
+   "counts": {
+    "topics": 3,
+    "subtopics": 1,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch04",
+   "concept_key": "nctb:bio:c9-10:ch04",
+   "number": 4,
+   "title": "জীবনীশক্তি",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 64,
+     "pdf": 69
+    },
+    "end": {
+     "printed": 83,
+     "pdf": 88
+    }
+   },
+   "counts": {
+    "topics": 2,
+    "subtopics": 5,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 5,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "heading-number-unreadable:8.9 শ্বসন (Respiration)",
+     "heading-number-unreadable:8.9.3 শ্বসন প্রক্রিয়ার প্রভাবকসমূহ",
+     "heading-number-unreadable:8.9.5 শ্বসনের প্রকারভেদ",
+     "heading-number-unreadable:8.9.9 শ্বসনের গুরুত্ব",
+     "objectives-not-found",
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05",
+   "concept_key": "nctb:bio:c9-10:ch05",
+   "number": 5,
+   "title": "খাদ্য, পুষ্টি এবং পরিপাক",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 84,
+     "pdf": 89
+    },
+    "end": {
+     "printed": 124,
+     "pdf": 129
+    }
+   },
+   "counts": {
+    "topics": 9,
+    "subtopics": 12,
+    "objectives": 1,
+    "worked_examples": 1,
+    "ex_mcq": 5,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:worked_examples",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06",
+   "concept_key": "nctb:bio:c9-10:ch06",
+   "number": 6,
+   "title": "জীবে পরিবহণ",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 125,
+     "pdf": 130
+    },
+    "end": {
+     "printed": 159,
+     "pdf": 164
+    }
+   },
+   "counts": {
+    "topics": 5,
+    "subtopics": 11,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 5,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch07",
+   "concept_key": "nctb:bio:c9-10:ch07",
+   "number": 7,
+   "title": "গ্যাসীয় বিনিময়",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 160,
+     "pdf": 165
+    },
+    "end": {
+     "printed": 177,
+     "pdf": 182
+    }
+   },
+   "counts": {
+    "topics": 3,
+    "subtopics": 2,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 5,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch08",
+   "concept_key": "nctb:bio:c9-10:ch08",
+   "number": 8,
+   "title": "রেচন প্রক্রিয়া",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 178,
+     "pdf": 183
+    },
+    "end": {
+     "printed": 189,
+     "pdf": 194
+    }
+   },
+   "counts": {
+    "topics": 3,
+    "subtopics": 0,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 5,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch09",
+   "concept_key": "nctb:bio:c9-10:ch09",
+   "number": 9,
+   "title": "দৃঢ়তা প্রদান ও চলন",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 190,
+     "pdf": 195
+    },
+    "end": {
+     "printed": 203,
+     "pdf": 208
+    }
+   },
+   "counts": {
+    "topics": 3,
+    "subtopics": 4,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 5,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch10",
+   "concept_key": "nctb:bio:c9-10:ch10",
+   "number": 10,
+   "title": "সমন্বয়",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 204,
+     "pdf": 209
+    },
+    "end": {
+     "printed": 230,
+     "pdf": 235
+    }
+   },
+   "counts": {
+    "topics": 7,
+    "subtopics": 2,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 5,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "heading-number-unreadable:10.3.2 প্রান্তীয় য়নায়ুতম্্র 2০111011613] nervous system)",
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:worked_examples",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11",
+   "concept_key": "nctb:bio:c9-10:ch11",
+   "number": 11,
+   "title": "জীবের প্রজনন",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 231,
+     "pdf": 236
+    },
+    "end": {
+     "printed": 253,
+     "pdf": 258
+    }
+   },
+   "counts": {
+    "topics": 4,
+    "subtopics": 7,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch12",
+   "concept_key": "nctb:bio:c9-10:ch12",
+   "number": 12,
+   "title": "জীবের বংশগতি ও জৈব অভিব্যক্তি",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 254,
+     "pdf": 259
+    },
+    "end": {
+     "printed": 281,
+     "pdf": 286
+    }
+   },
+   "counts": {
+    "topics": 4,
+    "subtopics": 4,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 5,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13",
+   "concept_key": "nctb:bio:c9-10:ch13",
+   "number": 13,
+   "title": "জীবের পরিবেশ",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 282,
+     "pdf": 287
+    },
+    "end": {
+     "printed": 304,
+     "pdf": 309
+    }
+   },
+   "counts": {
+    "topics": 6,
+    "subtopics": 3,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14",
+   "concept_key": "nctb:bio:c9-10:ch14",
+   "number": 14,
+   "title": "জীবপ্রযুক্তি",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 305,
+     "pdf": 310
+    },
+    "end": {
+     "printed": 320,
+     "pdf": 325
+    }
+   },
+   "counts": {
+    "topics": 3,
+    "subtopics": 4,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq"
+    ]
+   }
+  }
+ ],
+ "topics": [
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:t01",
+   "concept_key": "nctb:bio:c9-10:ch01:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "parent_id": null,
+   "number": "1.1",
+   "level": "topic",
+   "title": "জীববিজ্ঞানের ধারণা",
+   "title_alt": null,
+   "page": {
+    "printed": 3,
+    "pdf": 8
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:t02",
+   "concept_key": "nctb:bio:c9-10:ch01:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "parent_id": null,
+   "number": "1.2",
+   "level": "topic",
+   "title": "জীববিজ্ঞানের শাখাসমূহ",
+   "title_alt": null,
+   "page": {
+    "printed": 3,
+    "pdf": 8
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch01:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "parent_id": "nctb:bio:c9-10:bn:ch01:t02",
+   "number": "1.2.1",
+   "level": "subtopic",
+   "title": "ভৌত জীববিজ্ঞান",
+   "title_alt": null,
+   "page": {
+    "printed": 4,
+    "pdf": 9
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch01:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "parent_id": "nctb:bio:c9-10:bn:ch01:t02",
+   "number": "1.2.2",
+   "level": "subtopic",
+   "title": "ফলিত জীববিজ্ঞান",
+   "title_alt": null,
+   "page": {
+    "printed": 5,
+    "pdf": 10
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:t03",
+   "concept_key": "nctb:bio:c9-10:ch01:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "parent_id": null,
+   "number": "1.3",
+   "level": "topic",
+   "title": "জীবের শ্রেণিবিন্যাস",
+   "title_alt": null,
+   "page": {
+    "printed": 6,
+    "pdf": 11
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:t04",
+   "concept_key": "nctb:bio:c9-10:ch01:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "parent_id": null,
+   "number": "1.4",
+   "level": "topic",
+   "title": "শ্রেণিবিন্যাসের বিভিন্ন ধাপ",
+   "title_alt": null,
+   "page": {
+    "printed": 10,
+    "pdf": 15
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:t05",
+   "concept_key": "nctb:bio:c9-10:ch01:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "parent_id": null,
+   "number": "1.5",
+   "level": "topic",
+   "title": "দ্বিপদ নামকরণ পদ্ধতি",
+   "title_alt": null,
+   "page": {
+    "printed": 12,
+    "pdf": 17
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:t01",
+   "concept_key": "nctb:bio:c9-10:ch02:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "parent_id": null,
+   "number": "2.1",
+   "level": "topic",
+   "title": "জীবকোষ",
+   "title_alt": null,
+   "page": {
+    "printed": 19,
+    "pdf": 24
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:t02",
+   "concept_key": "nctb:bio:c9-10:ch02:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "parent_id": null,
+   "number": "2.2",
+   "level": "topic",
+   "title": "উদ্ভিদ ও প্রাণিকোষের প্রধান অঙ্গাণু এবং তাদের কাজ",
+   "title_alt": null,
+   "page": {
+    "printed": 20,
+    "pdf": 25
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch02:t02:s01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "parent_id": "nctb:bio:c9-10:bn:ch02:t02",
+   "number": "2.2.1",
+   "level": "subtopic",
+   "title": "কোষবিল্লি",
+   "title_alt": "Plasmalemma",
+   "page": {
+    "printed": 22,
+    "pdf": 27
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch02:t02:s02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "parent_id": "nctb:bio:c9-10:bn:ch02:t02",
+   "number": "2.2.2",
+   "level": "subtopic",
+   "title": "সাইটোগপ্লাজমীয় অঙ্গাণু",
+   "title_alt": "Cytoplasmic organelles",
+   "page": {
+    "printed": 22,
+    "pdf": 27
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:t02:s03",
+   "concept_key": "nctb:bio:c9-10:ch02:t02:s03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "parent_id": "nctb:bio:c9-10:bn:ch02:t02",
+   "number": "2.2.3",
+   "level": "subtopic",
+   "title": "নিউক্লিয়াস বা কেন্দ্রিকা",
+   "title_alt": "Nucleus",
+   "page": {
+    "printed": 26,
+    "pdf": 31
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:t03",
+   "concept_key": "nctb:bio:c9-10:ch02:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "parent_id": null,
+   "number": "2.3",
+   "level": "topic",
+   "title": "উদ্ভিদ ও প্রাণীর কাজ পরিচালনায় বিভিন্ন প্রকার কোষের ভূমিকা",
+   "title_alt": null,
+   "page": {
+    "printed": 28,
+    "pdf": 33
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:t03:s01",
+   "concept_key": "nctb:bio:c9-10:ch02:t03:s01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "parent_id": "nctb:bio:c9-10:bn:ch02:t03",
+   "number": "2.3.1",
+   "level": "subtopic",
+   "title": "উদ্ভিদ ট্স্যি",
+   "title_alt": "Plant tissue",
+   "page": {
+    "printed": 28,
+    "pdf": 33
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:t03:s02",
+   "concept_key": "nctb:bio:c9-10:ch02:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "parent_id": "nctb:bio:c9-10:bn:ch02:t03",
+   "number": "2.3.2",
+   "level": "subtopic",
+   "title": "প্রাণিটিস্যু",
+   "title_alt": null,
+   "page": {
+    "printed": 33,
+    "pdf": 38
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:t04",
+   "concept_key": "nctb:bio:c9-10:ch02:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "parent_id": null,
+   "number": "2.4",
+   "level": "topic",
+   "title": "অঙ্গ ও °F",
+   "title_alt": null,
+   "page": {
+    "printed": 40,
+    "pdf": 45
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:t05",
+   "concept_key": "nctb:bio:c9-10:ch02:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "parent_id": null,
+   "number": "2.5",
+   "level": "topic",
+   "title": "অণুবীক্ষণ যত্ত",
+   "title_alt": null,
+   "page": {
+    "printed": 42,
+    "pdf": 47
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:t05:s01",
+   "concept_key": "nctb:bio:c9-10:ch02:t05:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "parent_id": "nctb:bio:c9-10:bn:ch02:t05",
+   "number": "2.5.1",
+   "level": "subtopic",
+   "title": "সরল অণুবীক্ষণ যন্ত্র (5111116 microscope)",
+   "title_alt": null,
+   "page": {
+    "printed": 42,
+    "pdf": 47
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:t05:s02",
+   "concept_key": "nctb:bio:c9-10:ch02:t05:s02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "parent_id": "nctb:bio:c9-10:bn:ch02:t05",
+   "number": "2.5.2",
+   "level": "subtopic",
+   "title": "যৌগিক অণুবীক্ষণ I]",
+   "title_alt": "Compound Microscope",
+   "page": {
+    "printed": 43,
+    "pdf": 48
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:t05:s03",
+   "concept_key": "nctb:bio:c9-10:ch02:t05:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "parent_id": "nctb:bio:c9-10:bn:ch02:t05",
+   "number": "2.5.3",
+   "level": "subtopic",
+   "title": "ইলেক্ট্রন অণুবীক্ষণ TI] (Electron",
+   "title_alt": null,
+   "page": {
+    "printed": 46,
+    "pdf": 51
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch03:t01",
+   "concept_key": "nctb:bio:c9-10:ch03:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch03",
+   "parent_id": null,
+   "number": "3.1",
+   "level": "topic",
+   "title": "কোষ বিভাজন এবং তার প্রকারভেদ",
+   "title_alt": null,
+   "page": {
+    "printed": 52,
+    "pdf": 57
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch03:t02",
+   "concept_key": "nctb:bio:c9-10:ch03:t02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch03",
+   "parent_id": null,
+   "number": "3.2",
+   "level": "topic",
+   "title": "মাইটোসিস",
+   "title_alt": "Mitosis",
+   "page": {
+    "printed": 52,
+    "pdf": 57
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch03:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch03:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch03",
+   "parent_id": "nctb:bio:c9-10:bn:ch03:t02",
+   "number": "3.2.1",
+   "level": "subtopic",
+   "title": "মাইটোসিসের পর্যায়সমূহ",
+   "title_alt": null,
+   "page": {
+    "printed": 52,
+    "pdf": 57
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch03:t03",
+   "concept_key": "nctb:bio:c9-10:ch03:t03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch03",
+   "parent_id": null,
+   "number": "3.3",
+   "level": "topic",
+   "title": "মিয়োসিস",
+   "title_alt": "Meiosis",
+   "page": {
+    "printed": 59,
+    "pdf": 64
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch04:t01",
+   "concept_key": "nctb:bio:c9-10:ch04:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch04",
+   "parent_id": null,
+   "number": "4.1",
+   "level": "topic",
+   "title": "জীবনীশস্তি ও &117১-এর ভূমিকা",
+   "title_alt": null,
+   "page": {
+    "printed": 66,
+    "pdf": 71
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch04:t02",
+   "concept_key": "nctb:bio:c9-10:ch04:t02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch04",
+   "parent_id": null,
+   "number": "4.2",
+   "level": "topic",
+   "title": "সালোকসংশ্লেষণ",
+   "title_alt": "Photosynthesis",
+   "page": {
+    "printed": 67,
+    "pdf": 72
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch04:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch04:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch04",
+   "parent_id": "nctb:bio:c9-10:bn:ch04:t02",
+   "number": "4.2.1",
+   "level": "subtopic",
+   "title": "সালোকসংশ্লেষণ প্রক্রিয়া",
+   "title_alt": null,
+   "page": {
+    "printed": 68,
+    "pdf": 73
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch04:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch04:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch04",
+   "parent_id": "nctb:bio:c9-10:bn:ch04:t02",
+   "number": "4.2.2",
+   "level": "subtopic",
+   "title": "সালোকসংশ্লেষণে ক্লোরোফিলের ভূমিকা",
+   "title_alt": null,
+   "page": {
+    "printed": 70,
+    "pdf": 75
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch04:t02:s03",
+   "concept_key": "nctb:bio:c9-10:ch04:t02:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch04",
+   "parent_id": "nctb:bio:c9-10:bn:ch04:t02",
+   "number": "4.2.3",
+   "level": "subtopic",
+   "title": "সালোকসংশ্লেষণে আলোর ভূমিকা",
+   "title_alt": null,
+   "page": {
+    "printed": 71,
+    "pdf": 76
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch04:t02:s04",
+   "concept_key": "nctb:bio:c9-10:ch04:t02:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch04",
+   "parent_id": "nctb:bio:c9-10:bn:ch04:t02",
+   "number": "4.2.4",
+   "level": "subtopic",
+   "title": "সালোকসংশ্লেষণের প্রভাবক",
+   "title_alt": null,
+   "page": {
+    "printed": 71,
+    "pdf": 76
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-digit-confusion"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch04:t02:s05",
+   "concept_key": "nctb:bio:c9-10:ch04:t02:s05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch04",
+   "parent_id": "nctb:bio:c9-10:bn:ch04:t02",
+   "number": "4.2.5",
+   "level": "subtopic",
+   "title": "জীবজগতে সালোকসংশ্লেষণের গুরুত্ব",
+   "title_alt": null,
+   "page": {
+    "printed": 73,
+    "pdf": 78
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t01",
+   "concept_key": "nctb:bio:c9-10:ch05:t01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": null,
+   "number": "5.1",
+   "level": "topic",
+   "title": "উদ্ভিদের খনিজ পুন্টি",
+   "title_alt": "Plant Mineral Nutrition",
+   "page": {
+    "printed": 86,
+    "pdf": 91
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t01:s01",
+   "concept_key": "nctb:bio:c9-10:ch05:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": "nctb:bio:c9-10:bn:ch05:t01",
+   "number": "5.1.1",
+   "level": "subtopic",
+   "title": "পুষ্টি উপাদানের উৎস এবং ভূমিকা",
+   "title_alt": null,
+   "page": {
+    "printed": 86,
+    "pdf": 91
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t01:s02",
+   "concept_key": "nctb:bio:c9-10:ch05:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": "nctb:bio:c9-10:bn:ch05:t01",
+   "number": "5.1.2",
+   "level": "subtopic",
+   "title": "পুষ্টি উপাদানের অভাবজনিত লক্ষণ",
+   "title_alt": null,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t02",
+   "concept_key": "nctb:bio:c9-10:ch05:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": null,
+   "number": "5.2",
+   "level": "topic",
+   "title": "প্রাণীর খাদ্য ও পুন্টি",
+   "title_alt": null,
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch05:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": "nctb:bio:c9-10:bn:ch05:t02",
+   "number": "5.2.1",
+   "level": "subtopic",
+   "title": "খাদ্যের প্রধান উপাদান ও তার উৎস",
+   "title_alt": null,
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch05:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": "nctb:bio:c9-10:bn:ch05:t02",
+   "number": "5.2.2",
+   "level": "subtopic",
+   "title": "আদর্শ খাদ্য পিরামিড",
+   "title_alt": null,
+   "page": {
+    "printed": 95,
+    "pdf": 100
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t02:s03",
+   "concept_key": "nctb:bio:c9-10:ch05:t02:s03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": "nctb:bio:c9-10:bn:ch05:t02",
+   "number": "5.2.3",
+   "level": "subtopic",
+   "title": "খাদ্য গ্রহণের নীতিমালা",
+   "title_alt": "Principles of food habit",
+   "page": {
+    "printed": 96,
+    "pdf": 101
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t03",
+   "concept_key": "nctb:bio:c9-10:ch05:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": null,
+   "number": "5.3",
+   "level": "topic",
+   "title": "পুষ্টির অভাবজনিত রোগ",
+   "title_alt": null,
+   "page": {
+    "printed": 100,
+    "pdf": 105
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t04",
+   "concept_key": "nctb:bio:c9-10:ch05:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": null,
+   "number": "5.4",
+   "level": "topic",
+   "title": "পুষ্টির উপাদানে শক্তি",
+   "title_alt": null,
+   "page": {
+    "printed": 102,
+    "pdf": 107
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t04:s01",
+   "concept_key": "nctb:bio:c9-10:ch05:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": "nctb:bio:c9-10:bn:ch05:t04",
+   "number": "5.4.1",
+   "level": "subtopic",
+   "title": "খাদ্য শক্তি পরিমাপের একক",
+   "title_alt": null,
+   "page": {
+    "printed": 103,
+    "pdf": 108
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t04:s02",
+   "concept_key": "nctb:bio:c9-10:ch05:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": "nctb:bio:c9-10:bn:ch05:t04",
+   "number": "5.4.2",
+   "level": "subtopic",
+   "title": "পুষ্টির উপাদানে তাপশস্তি নির্ণয়",
+   "title_alt": null,
+   "page": {
+    "printed": 103,
+    "pdf": 108
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t05",
+   "concept_key": "nctb:bio:c9-10:ch05:t05",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": null,
+   "number": "5.5",
+   "level": "topic",
+   "title": "বিএমআর (BMR) এবং বিএমআই",
+   "title_alt": "BMI",
+   "page": {
+    "printed": 105,
+    "pdf": 110
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t05:s01",
+   "concept_key": "nctb:bio:c9-10:ch05:t05:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": "nctb:bio:c9-10:bn:ch05:t05",
+   "number": "5.5.1",
+   "level": "subtopic",
+   "title": "বিএমআর মান নির্ণয়",
+   "title_alt": null,
+   "page": {
+    "printed": 105,
+    "pdf": 110
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t05:s02",
+   "concept_key": "nctb:bio:c9-10:ch05:t05:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": "nctb:bio:c9-10:bn:ch05:t05",
+   "number": "5.5.2",
+   "level": "subtopic",
+   "title": "বিএমআই মান নির্ণয়",
+   "title_alt": null,
+   "page": {
+    "printed": 106,
+    "pdf": 111
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t06",
+   "concept_key": "nctb:bio:c9-10:ch05:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": null,
+   "number": "5.6",
+   "level": "topic",
+   "title": "শরীরচর্চা ও বিশ্রাম",
+   "title_alt": null,
+   "page": {
+    "printed": 107,
+    "pdf": 112
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t07",
+   "concept_key": "nctb:bio:c9-10:ch05:t07",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": null,
+   "number": "5.7",
+   "level": "topic",
+   "title": "খাদ্যদ্রব্য সংরক্ষণে রাসায়নিক পদার্থের ব্যবহার",
+   "title_alt": null,
+   "page": {
+    "printed": 108,
+    "pdf": 113
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t08",
+   "concept_key": "nctb:bio:c9-10:ch05:t08",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": null,
+   "number": "5.8",
+   "level": "topic",
+   "title": "পরিপাক",
+   "title_alt": null,
+   "page": {
+    "printed": 110,
+    "pdf": 115
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t08:s01",
+   "concept_key": "nctb:bio:c9-10:ch05:t08:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": "nctb:bio:c9-10:bn:ch05:t08",
+   "number": "5.8.1",
+   "level": "subtopic",
+   "title": "পৌন্টিকনালি",
+   "title_alt": null,
+   "page": {
+    "printed": 111,
+    "pdf": 116
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t08:s02",
+   "concept_key": "nctb:bio:c9-10:ch05:t08:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": "nctb:bio:c9-10:bn:ch05:t08",
+   "number": "5.8.2",
+   "level": "subtopic",
+   "title": "পৌস্টিক গ্রন্থি (Digestive",
+   "title_alt": null,
+   "page": {
+    "printed": 114,
+    "pdf": 119
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t08:s03",
+   "concept_key": "nctb:bio:c9-10:ch05:t08:s03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": "nctb:bio:c9-10:bn:ch05:t08",
+   "number": "5.8.3",
+   "level": "subtopic",
+   "title": "খাদ্য পরিপাক ক্রিয়া",
+   "title_alt": "Digestion of Food",
+   "page": {
+    "printed": 115,
+    "pdf": 120
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:t09",
+   "concept_key": "nctb:bio:c9-10:ch05:t09",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "parent_id": null,
+   "number": "5.9",
+   "level": "topic",
+   "title": "AES সমস্যা",
+   "title_alt": null,
+   "page": {
+    "printed": 118,
+    "pdf": 123
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:t01",
+   "concept_key": "nctb:bio:c9-10:ch06:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "parent_id": null,
+   "number": "6.1",
+   "level": "topic",
+   "title": "উদ্ভিদ ও পানির সম্পর্ক",
+   "title_alt": null,
+   "page": {
+    "printed": 127,
+    "pdf": 132
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:t02",
+   "concept_key": "nctb:bio:c9-10:ch06:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "parent_id": null,
+   "number": "6.2",
+   "level": "topic",
+   "title": "পানি ও খনিজ লবণ শোষণ",
+   "title_alt": null,
+   "page": {
+    "printed": 129,
+    "pdf": 134
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch06:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "parent_id": "nctb:bio:c9-10:bn:ch06:t02",
+   "number": "6.2.1",
+   "level": "subtopic",
+   "title": "উদ্ভিদে পরিবহণ",
+   "title_alt": null,
+   "page": {
+    "printed": 130,
+    "pdf": 135
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch06:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "parent_id": "nctb:bio:c9-10:bn:ch06:t02",
+   "number": "6.2.2",
+   "level": "subtopic",
+   "title": "সালোকসংশ্লেষণে উৎপাদিত পদার্থের পরিবহণ",
+   "title_alt": null,
+   "page": {
+    "printed": 132,
+    "pdf": 137
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:t02:s03",
+   "concept_key": "nctb:bio:c9-10:ch06:t02:s03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "parent_id": "nctb:bio:c9-10:bn:ch06:t02",
+   "number": "6.2.3",
+   "level": "subtopic",
+   "title": "CWA",
+   "title_alt": "Transpiration",
+   "page": {
+    "printed": 132,
+    "pdf": 137
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:t03",
+   "concept_key": "nctb:bio:c9-10:ch06:t03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "parent_id": null,
+   "number": "6.3",
+   "level": "topic",
+   "title": "মানবদেহে রপ্ত সংবহন",
+   "title_alt": "Blood Circulation in human body",
+   "page": {
+    "printed": 136,
+    "pdf": 141
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:t03:s01",
+   "concept_key": "nctb:bio:c9-10:ch06:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "parent_id": "nctb:bio:c9-10:bn:ch06:t03",
+   "number": "6.3.1",
+   "level": "subtopic",
+   "title": "রপ্ত (Blood) - - পলা -",
+   "title_alt": null,
+   "page": {
+    "printed": 137,
+    "pdf": 142
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:t03:s02",
+   "concept_key": "nctb:bio:c9-10:ch06:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "parent_id": "nctb:bio:c9-10:bn:ch06:t03",
+   "number": "6.3.2",
+   "level": "subtopic",
+   "title": "ব্লাড গ্রুপ বা FEF গ্রুপ",
+   "title_alt": null,
+   "page": {
+    "printed": 142,
+    "pdf": 147
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:t04",
+   "concept_key": "nctb:bio:c9-10:ch06:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "parent_id": null,
+   "number": "6.4",
+   "level": "topic",
+   "title": "হৃৎপিণ্ডের গঠন ও কাজ",
+   "title_alt": null,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:t04:s01",
+   "concept_key": "nctb:bio:c9-10:ch06:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "parent_id": "nctb:bio:c9-10:bn:ch06:t04",
+   "number": "6.4.1",
+   "level": "subtopic",
+   "title": "হৃৎপিণ্ডের গঠন",
+   "title_alt": null,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:t04:s02",
+   "concept_key": "nctb:bio:c9-10:ch06:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "parent_id": "nctb:bio:c9-10:bn:ch06:t04",
+   "number": "6.4.2",
+   "level": "subtopic",
+   "title": "হৃৎপিণ্ডের মধ্যে রক্ত সঞ্চালন পদ্ধতি",
+   "title_alt": null,
+   "page": {
+    "printed": 146,
+    "pdf": 151
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:t04:s03",
+   "concept_key": "nctb:bio:c9-10:ch06:t04:s03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "parent_id": "nctb:bio:c9-10:bn:ch06:t04",
+   "number": "6.4.3",
+   "level": "subtopic",
+   "title": "FART",
+   "title_alt": "Blood Vessel",
+   "page": {
+    "printed": 147,
+    "pdf": 152
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:t04:s04",
+   "concept_key": "nctb:bio:c9-10:ch06:t04:s04",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "parent_id": "nctb:bio:c9-10:bn:ch06:t04",
+   "number": "6.4.4",
+   "level": "subtopic",
+   "title": "রন্তচাপ",
+   "title_alt": "Blood Pressure",
+   "page": {
+    "printed": 150,
+    "pdf": 155
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:t04:s05",
+   "concept_key": "nctb:bio:c9-10:ch06:t04:s05",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "parent_id": "nctb:bio:c9-10:bn:ch06:t04",
+   "number": "6.4.5",
+   "level": "subtopic",
+   "title": "কোলেস্টেরল",
+   "title_alt": "Cholesterol",
+   "page": {
+    "printed": 152,
+    "pdf": 157
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:t04:s06",
+   "concept_key": "nctb:bio:c9-10:ch06:t04:s06",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "parent_id": "nctb:bio:c9-10:bn:ch06:t04",
+   "number": "6.4.6",
+   "level": "subtopic",
+   "title": "অস্থিমজ্জা ও রন্তের অস্বাভাবিক অবস্থা: লিউকেমিয়া",
+   "title_alt": "Leukemia",
+   "page": {
+    "printed": 154,
+    "pdf": 159
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:t05",
+   "concept_key": "nctb:bio:c9-10:ch06:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "parent_id": null,
+   "number": "6.5",
+   "level": "topic",
+   "title": "TS সংবহনতন্দ্রের কয়েকটি রোগ ও প্রতিকার",
+   "title_alt": null,
+   "page": {
+    "printed": 155,
+    "pdf": 160
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch07:t01",
+   "concept_key": "nctb:bio:c9-10:ch07:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch07",
+   "parent_id": null,
+   "number": "7.1",
+   "level": "topic",
+   "title": "উদ্ভিদে গ্যাসীয় বিনিময়",
+   "title_alt": null,
+   "page": {
+    "printed": 162,
+    "pdf": 167
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch07:t02",
+   "concept_key": "nctb:bio:c9-10:ch07:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch07",
+   "parent_id": null,
+   "number": "7.2",
+   "level": "topic",
+   "title": "মানব শ্বসনতন্ত্র",
+   "title_alt": null,
+   "page": {
+    "printed": 163,
+    "pdf": 168
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch07:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch07:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch07",
+   "parent_id": "nctb:bio:c9-10:bn:ch07:t02",
+   "number": "7.2.1",
+   "level": "subtopic",
+   "title": "PTE",
+   "title_alt": null,
+   "page": {
+    "printed": 163,
+    "pdf": 168
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch07:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch07:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch07",
+   "parent_id": "nctb:bio:c9-10:bn:ch07:t02",
+   "number": "7.2.2",
+   "level": "subtopic",
+   "title": "শ্বাসক্রিয়া",
+   "title_alt": null,
+   "page": {
+    "printed": 166,
+    "pdf": 171
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch07:t03",
+   "concept_key": "nctb:bio:c9-10:ch07:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch07",
+   "parent_id": null,
+   "number": "7.3",
+   "level": "topic",
+   "title": "শ্বাসনালি-সংক্রান্ত রোগ",
+   "title_alt": null,
+   "page": {
+    "printed": 169,
+    "pdf": 174
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch08:t01",
+   "concept_key": "nctb:bio:c9-10:ch08:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch08",
+   "parent_id": null,
+   "number": "8.1",
+   "level": "topic",
+   "title": "রেচন",
+   "title_alt": null,
+   "page": {
+    "printed": 180,
+    "pdf": 185
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch08:t02",
+   "concept_key": "nctb:bio:c9-10:ch08:t02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch08",
+   "parent_id": null,
+   "number": "8.2",
+   "level": "topic",
+   "title": "32",
+   "title_alt": "Kidney",
+   "page": {
+    "printed": 180,
+    "pdf": 185
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch08:t03",
+   "concept_key": "nctb:bio:c9-10:ch08:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch08",
+   "parent_id": null,
+   "number": "8.3",
+   "level": "topic",
+   "title": "32 বিকল, ডায়ালাইসিস ও প্রতিস্থাপন",
+   "title_alt": null,
+   "page": {
+    "printed": 185,
+    "pdf": 190
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch09:t01",
+   "concept_key": "nctb:bio:c9-10:ch09:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch09",
+   "parent_id": null,
+   "number": "9.1",
+   "level": "topic",
+   "title": "মানবকঙ্কালের সাধারণ পরিচিতি",
+   "title_alt": null,
+   "page": {
+    "printed": 192,
+    "pdf": 197
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch09:t01:s01",
+   "concept_key": "nctb:bio:c9-10:ch09:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch09",
+   "parent_id": "nctb:bio:c9-10:bn:ch09:t01",
+   "number": "9.1.1",
+   "level": "subtopic",
+   "title": "দৃঢ়তা প্রদান এবং চলনে কঙ্কালের ভূমিকা",
+   "title_alt": null,
+   "page": {
+    "printed": 193,
+    "pdf": 198
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch09:t01:s02",
+   "concept_key": "nctb:bio:c9-10:ch09:t01:s02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch09",
+   "parent_id": "nctb:bio:c9-10:bn:ch09:t01",
+   "number": "9.1.2",
+   "level": "subtopic",
+   "title": "অস্থি, তরুণাস্থি এবং অস্থিসন্ধি",
+   "title_alt": "Bone, Cartilage and Joint",
+   "page": {
+    "printed": 193,
+    "pdf": 198
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch09:t02",
+   "concept_key": "nctb:bio:c9-10:ch09:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch09",
+   "parent_id": null,
+   "number": "9.2",
+   "level": "topic",
+   "title": "পেশি",
+   "title_alt": null,
+   "page": {
+    "printed": 196,
+    "pdf": 201
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch09:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch09:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch09",
+   "parent_id": "nctb:bio:c9-10:bn:ch09:t02",
+   "number": "9.2.1",
+   "level": "subtopic",
+   "title": "মানুষের চলনে অস্থি ও পেশির ভূমিকা",
+   "title_alt": null,
+   "page": {
+    "printed": 196,
+    "pdf": 201
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch09:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch09:t02:s02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch09",
+   "parent_id": "nctb:bio:c9-10:bn:ch09:t02",
+   "number": "9.2.2",
+   "level": "subtopic",
+   "title": "টেনডন (Tendon) ও লিগামেন্ট বা অস্থিবন্ধনী",
+   "title_alt": "Ligament",
+   "page": {
+    "printed": 197,
+    "pdf": 202
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch09:t03",
+   "concept_key": "nctb:bio:c9-10:ch09:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch09",
+   "parent_id": null,
+   "number": "9.3",
+   "level": "topic",
+   "title": "অস্থিসংক্কান্ত রোগ",
+   "title_alt": null,
+   "page": {
+    "printed": 199,
+    "pdf": 204
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch10:t01",
+   "concept_key": "nctb:bio:c9-10:ch10:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch10",
+   "parent_id": null,
+   "number": "10.1",
+   "level": "topic",
+   "title": "উদ্ভিদে সমন্বয়",
+   "title_alt": null,
+   "page": {
+    "printed": 206,
+    "pdf": 211
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch10:t01:s01",
+   "concept_key": "nctb:bio:c9-10:ch10:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch10",
+   "parent_id": "nctb:bio:c9-10:bn:ch10:t01",
+   "number": "10.1.1",
+   "level": "subtopic",
+   "title": "ফাইটোহরমোন",
+   "title_alt": null,
+   "page": {
+    "printed": 206,
+    "pdf": 211
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch10:t02",
+   "concept_key": "nctb:bio:c9-10:ch10:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch10",
+   "parent_id": null,
+   "number": "10.2",
+   "level": "topic",
+   "title": "প্রাণীর সমন্বয় প্রক্রিয়া",
+   "title_alt": null,
+   "page": {
+    "printed": 210,
+    "pdf": 215
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch10:t03",
+   "concept_key": "nctb:bio:c9-10:ch10:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch10",
+   "parent_id": null,
+   "number": "10.3",
+   "level": "topic",
+   "title": "য়ায়ুতন্দর",
+   "title_alt": null,
+   "page": {
+    "printed": 212,
+    "pdf": 217
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch10:t04",
+   "concept_key": "nctb:bio:c9-10:ch10:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch10",
+   "parent_id": null,
+   "number": "10.4",
+   "level": "topic",
+   "title": "হরমোন",
+   "title_alt": null,
+   "page": {
+    "printed": 220,
+    "pdf": 225
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch10:t04:s01",
+   "concept_key": "nctb:bio:c9-10:ch10:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch10",
+   "parent_id": "nctb:bio:c9-10:bn:ch10:t04",
+   "number": "10.4.1",
+   "level": "subtopic",
+   "title": "মানবদেহের কয়েকটি মুখ্য নালিবিহীন গ্রন্থির (অন্তঃক্ষরা গ্রন্থি) পরিচিতি,",
+   "title_alt": null,
+   "page": {
+    "printed": 221,
+    "pdf": 226
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch10:t05",
+   "concept_key": "nctb:bio:c9-10:ch10:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch10",
+   "parent_id": null,
+   "number": "10.5",
+   "level": "topic",
+   "title": "প্রাণরস বা হরমোনজনিত অস্বাভাবিকতা",
+   "title_alt": null,
+   "page": {
+    "printed": 222,
+    "pdf": 227
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch10:t06",
+   "concept_key": "nctb:bio:c9-10:ch10:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch10",
+   "parent_id": null,
+   "number": "10.6",
+   "level": "topic",
+   "title": "PART বৈকল্যজনিত শারীরিক সমস্যা",
+   "title_alt": null,
+   "page": {
+    "printed": 225,
+    "pdf": 230
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch10:t07",
+   "concept_key": "nctb:bio:c9-10:ch10:t07",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch10",
+   "parent_id": null,
+   "number": "10.7",
+   "level": "topic",
+   "title": "সমন্বয় IS তামাক ও মাদকদ্রব্যের প্রভাব",
+   "title_alt": null,
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:t01",
+   "concept_key": "nctb:bio:c9-10:ch11:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "parent_id": null,
+   "number": "11.1",
+   "level": "topic",
+   "title": "জীবে প্রজননের ধারণা ও গুরুত্ব",
+   "title_alt": null,
+   "page": {
+    "printed": 233,
+    "pdf": 238
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:t02",
+   "concept_key": "nctb:bio:c9-10:ch11:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "parent_id": null,
+   "number": "11.2",
+   "level": "topic",
+   "title": "উদ্ভিদের প্রজনন",
+   "title_alt": null,
+   "page": {
+    "printed": 234,
+    "pdf": 239
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch11:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "parent_id": "nctb:bio:c9-10:bn:ch11:t02",
+   "number": "11.2.1",
+   "level": "subtopic",
+   "title": "প্রজনন অঙ্গ: ফুল",
+   "title_alt": null,
+   "page": {
+    "printed": 234,
+    "pdf": 239
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch11:t02:s02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "parent_id": "nctb:bio:c9-10:bn:ch11:t02",
+   "number": "11.2.2",
+   "level": "subtopic",
+   "title": "পরাগায়ন",
+   "title_alt": "pollination",
+   "page": {
+    "printed": 237,
+    "pdf": 242
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:t02:s03",
+   "concept_key": "nctb:bio:c9-10:ch11:t02:s03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "parent_id": "nctb:bio:c9-10:bn:ch11:t02",
+   "number": "11.2.3",
+   "level": "subtopic",
+   "title": "নিষেক",
+   "title_alt": "Fertilization",
+   "page": {
+    "printed": 240,
+    "pdf": 245
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:t03",
+   "concept_key": "nctb:bio:c9-10:ch11:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "parent_id": null,
+   "number": "11.3",
+   "level": "topic",
+   "title": "প্রাণীর প্রজনন",
+   "title_alt": null,
+   "page": {
+    "printed": 243,
+    "pdf": 248
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:t03:s01",
+   "concept_key": "nctb:bio:c9-10:ch11:t03:s01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "parent_id": "nctb:bio:c9-10:bn:ch11:t03",
+   "number": "11.3.1",
+   "level": "subtopic",
+   "title": "নিষেক",
+   "title_alt": "Fertilization",
+   "page": {
+    "printed": 243,
+    "pdf": 248
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:t03:s02",
+   "concept_key": "nctb:bio:c9-10:ch11:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "parent_id": "nctb:bio:c9-10:bn:ch11:t03",
+   "number": "11.3.2",
+   "level": "subtopic",
+   "title": "মানব প্রজননে হরমোনের ভূমিকা",
+   "title_alt": null,
+   "page": {
+    "printed": 244,
+    "pdf": 249
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:t03:s03",
+   "concept_key": "nctb:bio:c9-10:ch11:t03:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "parent_id": "nctb:bio:c9-10:bn:ch11:t03",
+   "number": "11.3.3",
+   "level": "subtopic",
+   "title": "SF বিকাশ",
+   "title_alt": null,
+   "page": {
+    "printed": 246,
+    "pdf": 251
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:t04",
+   "concept_key": "nctb:bio:c9-10:ch11:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "parent_id": null,
+   "number": "11.4",
+   "level": "topic",
+   "title": "প্রজনন-সংক্রান্ত রোগ",
+   "title_alt": null,
+   "page": {
+    "printed": 248,
+    "pdf": 253
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:t04:s01",
+   "concept_key": "nctb:bio:c9-10:ch11:t04:s01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "parent_id": "nctb:bio:c9-10:bn:ch11:t04",
+   "number": "11.4.1",
+   "level": "subtopic",
+   "title": "এইডস",
+   "title_alt": "Acquired Immune Deficiency Syndrome বা AIDS",
+   "page": {
+    "printed": 248,
+    "pdf": 253
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch12:t01",
+   "concept_key": "nctb:bio:c9-10:ch12:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch12",
+   "parent_id": null,
+   "number": "12.1",
+   "level": "topic",
+   "title": "জীবের বংশগতি",
+   "title_alt": null,
+   "page": {
+    "printed": 256,
+    "pdf": 261
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch12:t01:s01",
+   "concept_key": "nctb:bio:c9-10:ch12:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch12",
+   "parent_id": "nctb:bio:c9-10:bn:ch12:t01",
+   "number": "12.1.1",
+   "level": "subtopic",
+   "title": "বংশপরম্পরায় চারিত্রিক বৈশিষ্ট্য বহনকারী উপাদান (বংশগতিবস্তু)",
+   "title_alt": null,
+   "page": {
+    "printed": 256,
+    "pdf": 261
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch12:t01:s02",
+   "concept_key": "nctb:bio:c9-10:ch12:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch12",
+   "parent_id": "nctb:bio:c9-10:bn:ch12:t01",
+   "number": "12.1.2",
+   "level": "subtopic",
+   "title": "ডিএনএ টেস্ট",
+   "title_alt": null,
+   "page": {
+    "printed": 264,
+    "pdf": 269
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch12:t02",
+   "concept_key": "nctb:bio:c9-10:ch12:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch12",
+   "parent_id": null,
+   "number": "12.2",
+   "level": "topic",
+   "title": "মানুষের লিঙ্গ নির্ধারণ ৷",
+   "title_alt": null,
+   "page": {
+    "printed": 265,
+    "pdf": 270
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch12:t03",
+   "concept_key": "nctb:bio:c9-10:ch12:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch12",
+   "parent_id": null,
+   "number": "12.3",
+   "level": "topic",
+   "title": "জেনেটিক ডিসঅর্ডার বা বংশগতি ব্যাধি/অস্বাভাবিকতা",
+   "title_alt": null,
+   "page": {
+    "printed": 267,
+    "pdf": 272
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch12:t04",
+   "concept_key": "nctb:bio:c9-10:ch12:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch12",
+   "parent_id": null,
+   "number": "12.4",
+   "level": "topic",
+   "title": "জৈব অভিব্যস্তি তত্ত্ব",
+   "title_alt": null,
+   "page": {
+    "printed": 270,
+    "pdf": 275
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch12:t04:s01",
+   "concept_key": "nctb:bio:c9-10:ch12:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch12",
+   "parent_id": "nctb:bio:c9-10:bn:ch12:t04",
+   "number": "12.4.1",
+   "level": "subtopic",
+   "title": "জীবনের আবির্ভাব",
+   "title_alt": null,
+   "page": {
+    "printed": 271,
+    "pdf": 276
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch12:t04:s02",
+   "concept_key": "nctb:bio:c9-10:ch12:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch12",
+   "parent_id": "nctb:bio:c9-10:bn:ch12:t04",
+   "number": "12.4.2",
+   "level": "subtopic",
+   "title": "ডারউইনবাদ বা ডারউইনের তত্ত্ব",
+   "title_alt": null,
+   "page": {
+    "printed": 273,
+    "pdf": 278
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13:t01",
+   "concept_key": "nctb:bio:c9-10:ch13:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch13",
+   "parent_id": null,
+   "number": "13.1",
+   "level": "topic",
+   "title": "বাস্তুতজ্্র (80057506117)",
+   "title_alt": null,
+   "page": {
+    "printed": 284,
+    "pdf": 289
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13:t01:s01",
+   "concept_key": "nctb:bio:c9-10:ch13:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch13",
+   "parent_id": "nctb:bio:c9-10:bn:ch13:t01",
+   "number": "13.1.1",
+   "level": "subtopic",
+   "title": "বাস্তুতন্ত্রের উপাদানসমূহ",
+   "title_alt": null,
+   "page": {
+    "printed": 284,
+    "pdf": 289
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13:t02",
+   "concept_key": "nctb:bio:c9-10:ch13:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch13",
+   "parent_id": null,
+   "number": "13.2",
+   "level": "topic",
+   "title": "পুকুরের বাস্তুতন্্র (00057506110 of a pond)",
+   "title_alt": null,
+   "page": {
+    "printed": 287,
+    "pdf": 292
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13:t03",
+   "concept_key": "nctb:bio:c9-10:ch13:t03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch13",
+   "parent_id": null,
+   "number": "13.3",
+   "level": "topic",
+   "title": "খাদ্যশিকল বা খাদ্যশৃঙ্খল",
+   "title_alt": "Food chain",
+   "page": {
+    "printed": 288,
+    "pdf": 293
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13:t04",
+   "concept_key": "nctb:bio:c9-10:ch13:t04",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch13",
+   "parent_id": null,
+   "number": "13.4",
+   "level": "topic",
+   "title": "খাদ্যজাল",
+   "title_alt": "Food web",
+   "page": {
+    "printed": 289,
+    "pdf": 294
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13:t05",
+   "concept_key": "nctb:bio:c9-10:ch13:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch13",
+   "parent_id": null,
+   "number": "13.5",
+   "level": "topic",
+   "title": "জীববৈচিত্র্য 01001০15167)",
+   "title_alt": null,
+   "page": {
+    "printed": 294,
+    "pdf": 299
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13:t05:s01",
+   "concept_key": "nctb:bio:c9-10:ch13:t05:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch13",
+   "parent_id": "nctb:bio:c9-10:bn:ch13:t05",
+   "number": "13.5.1",
+   "level": "subtopic",
+   "title": "জীববৈচিত্র্যের প্রকারভেদ",
+   "title_alt": null,
+   "page": {
+    "printed": 295,
+    "pdf": 300
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13:t05:s02",
+   "concept_key": "nctb:bio:c9-10:ch13:t05:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch13",
+   "parent_id": "nctb:bio:c9-10:bn:ch13:t05",
+   "number": "13.5.2",
+   "level": "subtopic",
+   "title": "বিভিন্ন জীবের মধ্যে Mike, আন্তঃনির্ভরশীলতা ও পরিবেশের ভারসাম্যতা",
+   "title_alt": null,
+   "page": {
+    "printed": 296,
+    "pdf": 301
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13:t06",
+   "concept_key": "nctb:bio:c9-10:ch13:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch13",
+   "parent_id": null,
+   "number": "13.6",
+   "level": "topic",
+   "title": "জীববৈচিত্র্য ও পরিবেশ সংরক্ষণের গুরুত্ব ও পদ্ধতি",
+   "title_alt": null,
+   "page": {
+    "printed": 300,
+    "pdf": 305
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:t01",
+   "concept_key": "nctb:bio:c9-10:ch14:t01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "parent_id": null,
+   "number": "14.1",
+   "level": "topic",
+   "title": "জীবপ্রযুস্তি বা বায়োটেকনোলজি",
+   "title_alt": "Biotechnology",
+   "page": {
+    "printed": 307,
+    "pdf": 312
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:t02",
+   "concept_key": "nctb:bio:c9-10:ch14:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "parent_id": null,
+   "number": "14.2",
+   "level": "topic",
+   "title": "টিস্যু কালচার",
+   "title_alt": null,
+   "page": {
+    "printed": 307,
+    "pdf": 312
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch14:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "parent_id": "nctb:bio:c9-10:bn:ch14:t02",
+   "number": "14.2.1",
+   "level": "subtopic",
+   "title": "টিস্যু কালচার প্রযুক্তির ধাপসমূহ",
+   "title_alt": null,
+   "page": {
+    "printed": 308,
+    "pdf": 313
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch14:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "parent_id": "nctb:bio:c9-10:bn:ch14:t02",
+   "number": "14.2.2",
+   "level": "subtopic",
+   "title": "টিস্যু কালচারের ব্যবহার",
+   "title_alt": null,
+   "page": {
+    "printed": 310,
+    "pdf": 315
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:t03",
+   "concept_key": "nctb:bio:c9-10:ch14:t03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "parent_id": null,
+   "number": "14.3",
+   "level": "topic",
+   "title": "জেনেটিক ইঞ্জিনিয়ারিং",
+   "title_alt": "Genetic engineering",
+   "page": {
+    "printed": 311,
+    "pdf": 316
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:t03:s01",
+   "concept_key": "nctb:bio:c9-10:ch14:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "parent_id": "nctb:bio:c9-10:bn:ch14:t03",
+   "number": "14.3.1",
+   "level": "subtopic",
+   "title": "জিএমও (GMO) বা রিকম্বিনেন্ট DNA প্রস্তুত করার ধাপসমূহ",
+   "title_alt": null,
+   "page": {
+    "printed": 312,
+    "pdf": 317
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:t03:s02",
+   "concept_key": "nctb:bio:c9-10:ch14:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "parent_id": "nctb:bio:c9-10:bn:ch14:t03",
+   "number": "14.3.2",
+   "level": "subtopic",
+   "title": "জেনেটিক ইঞ্জিনিয়ারিংয়ের ব্যবহার",
+   "title_alt": null,
+   "page": {
+    "printed": 315,
+    "pdf": 320
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ],
+ "objectives": [
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:o01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "number": 1,
+   "text": "জীববিজ্ঞানের ধারণা ব্যাখ্যা করতে পারব; জীববিজ্ঞানের প্রধান শাখাগুলো বর্ণনা করতে পারব; জীবের শ্রেণিবিন্যাসের ধারণা ব্যাখ্যা করতে পারব; জীবের শ্রেণিবিন্যাসের প্রয়োজনীয়তা মূল্যায়ন করতে পারব; জীবের শ্রেণিবিন্যাসকরণ পদ্ধতি বর্ণনা করতে পারব; দ্বিপদ নামকরণের ধারণা ও গুরুত্ব ব্যাখ্যা করতে পারব; বাস্তবজীবনে জীবের শ্রেণিবিন্যাসের প্রয়োজনীয়তা সম্পর্কে সচেতন হব।",
+   "page": {
+    "printed": 2,
+    "pdf": 7
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:o01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "number": 1,
+   "text": "উদ্ভিদ ও প্রাণিকোষের প্রধান অঙ্গাণুর কাজ ব্যাখ্যা করতে পারব; উদ্ভিদ ও প্রাণিকোষের তুলনা করতে পারব; TY, পেশি, TT, ত্বক এবং অস্থির কাজ সুষ্ঠুভাবে সম্পাদনে বিভিন্ন প্রকার কোষের ভূমিকা বর্ণনা করতে পারব; জীবদেহে কোষের উপযোগিতা মূল্যায়ন করতে পারব; উদ্ভিদ টিস্যু ব্যাখ্যা করতে পারব; প্রাণি টিস্যু ব্যাখ্যা করতে পারব; একই রকম কোষ সমন্টির ও একই কাজ সম্পন্ন করার ভিত্তিতে টিস্যুর কাজ মূল্যায়ন করতে পারব; টিস্যু, অঙ এবং তত্ত্রে কোষের সংগঠন ব্যাখ্যা করতে পারব; ঢটিস্যুতন্ত্রের কাজ ব্যাখ্যা করতে পারব; TP ও অঙ্গতন্ত্রের ধারণা এবং গুরুত্ব ব্যাখ্যা করতে পারব; অণুবীক্ষণ যন্ত্রের সাহায্যে উদ্ভিদকোষ (পেঁয়াজ) ও প্রাণিকোষ (মুখের অভ্যন্তরের আবরণী কোষ) পর্যবেক্ষণ করে চিহ্নিত চিত্র অঞ্জন করতে পারব; উদ্ভিদ ও প্রাণিটিস্যুর চিত্র অঙ্কন করে চিহ্নিত করতে পারব; সঠিকভাবে WIT যন্ত্র ব্যবহার করতে পারব; জীবের নানা কার্যকমে কোষের অবদান অনুধাবন করতে পারব।",
+   "page": {
+    "printed": 18,
+    "pdf": 23
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch03:o01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch03",
+   "number": 1,
+   "text": "কোষ বিভাজনের ধারণা ব্যাখ্যা করতে পারব; কোষ বিভাজনের প্রকারভেদ বর্ণনা করতে পারব; মাইটোসিস ব্যাখ্যা করতে পারব; মাইটোসিসের পর্যায়সমূহ বর্ণনা করতে পারব; জীবদেহে মাইটোসিস কোষ বিভাজনের গুরুত্ব বিশ্লেষণ করতে পারব; মিয়োসিস ব্যাখ্যা করতে পারব; জননকোষ উৎপাদনে মিয়োসিসের তাৎপর্য ব্যাখ্যা করতে পারব; জীবনের ধারাবাহিকতা রক্ষায় কোষ বিভাজনের অবদান উপলব্ধি করতে পারব।",
+   "page": {
+    "printed": 51,
+    "pdf": 56
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:o01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "number": 1,
+   "text": "উদ্ভিদের পুষ্টির অতি প্রয়োজনীয় উপাদান বর্ণনা করতে পারব; উদ্ভিদে পুষ্টির অভাবজনিত লক্ষণ বিশ্লেষণ করতে পারব; প্রাণীর খাদ্যের প্রধান উপাদান ও উৎস বর্ণনা করতে পারব; আদর্শ খাদ্য পিরামিড ব্যাখ্যা করতে পারব; খাদ্য গ্রহণের নিয়মনীতি ব্যাখ্যা করতে পারব; পুষ্টির অভাবজনিত রোগের লক্ষণ, প্রতিরোধ ও প্রতিকার বর্ণনা করতে পারব; কিলোক্যালরি ও কিলোজুল ব্যাখ্যা করতে পারব; পুষ্টি উপাদানে শক্তির পরিমাণ এবং ক্যালরি ও জুলে এদের রূপান্তর ব্যাখ্যা করতে পারব; বড়ি মাস ইনডেক্স (বিএমআই) ও বড়ি মাস রেশিওর (বিএমআর) গুরুত্ব ব্যাখ্যা করতে পারব; বিএমআই ও বিএমআরের হিসাব করতে পারব; বিএমআর এবং ব্যয়িত শক্তির সাথে সম্পর্ক নির্ণয় করতে পারব; বয়স ও লিঙ্গভেদে বিএমআই হিসাব করতে পারব; সুস্থ জীবনযাপনে শরীরচর্চা ও বিশ্রামের গুরুত্ব ব্যাখ্যা করতে পারব; খাদ্য সংরক্ষণে রাসায়নিক পদার্থ ব্যবহারের প্রয়োজনীয়তা ব্যাখ্যা করতে পারব; খাদ্যে অতিমাত্রায় রাসায়নিক পদার্থ এবং রঞ্জক ব্যবহারের শারীরিক বিক্রিয়া বিশ্লেষণ করতে পারব; পোৌষ্টিকতন্ত্রের প্রধান অংশ ও সহায়তাকারী অঙ্গের গঠন ও কাজ বর্ণনা করতে পারব; পোৌষ্টিকতন্দ্রের প্রধান অংশের চিহ্নিত চিত্র অঙ্কন করতে পারব; যকৃতের (Liver) কাজ বর্ণনা করতে পারব; MEI কাজ বর্ণনা করতে পারব; খাদ্য পরিপাকে উৎসেচকের (Enzyme) ভূমিকা মূল্যায়ন করতে পারব; অন্ত্রের বিভিন্ন সমস্যাজনিত রোগ এবং এর প্রতিরোধ ও প্রতিক্রিয়া বর্ণনা করতে পারব; পরিপাকতল্দ্রের রোগের বিষয়ে নিজে সচেতন হব এবং পরিবারের সদস্যদের সচেতন হতে উদ্বুদ্ধ করব; সাত দিনের গৃহীত খাদ্যের একটি তালিকা তৈরি করে এটিকে সুষম খাদ্যের সাথে তুলনা করতে পারব; স্বাস্থ্যসম্মত জীবনযাপনে পুষ্টির অবদান বিষয়ে সচেতনতা সৃষ্টির লক্ষ্যে পোস্টার অঙ্কন করতে পারব; স্বাস্থ্যসম্মত জীবনযাপনে পুষ্টির অবদান বিষয়ে নিজে সচেতন হব অন্যদের সচেতন করব।",
+   "page": {
+    "printed": 85,
+    "pdf": 90
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:o01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "number": 1,
+   "text": "উদ্ভিদে পরিবহনের ধারণা ও প্রয়োজনীয়তা ব্যাখ্যা করতে পারব; উদ্ভিদ ও পানির সম্পর্ক ব্যাখ্যা করতে পারব; উদ্ভিদে পানি ও খনিজ পদার্থ শোষণ প্রক্রিয়া এবং এর প্রয়োজনীয়তা ব্যাখ্যা করতে পারব; সালোকসংশ্লেণের ফলে উৎপাদিত পদার্থের পরিবহন বর্ণনা করতে পারব; উদ্ভিদে পানি ও খনিজ পদার্থ পরিবহন এবং এর প্রয়োজনীয়তা ব্যাখ্যা করতে পারব; প্রস্বেদনের ধারণা ও তাৎপর্য ব্যাখ্যা করতে পারব; প্রসশ্বেদনের হার নিয়ন্ত্রণে প্রভাবকের ভূমিকা বিশ্লেষণ করতে পারব; প্রস্বেদন একটি অতিপ্রয়োজনীয় অমঙ্গল তা মূল্যায়ন করতে পারব; উদ্ভিদে প্রস্বেদনের পরীক্ষা করতে পারব; মানবদেহে সংবহনের ধারণা ব্যাখ্যা করতে পারব; TE উপাদানের কাজ ব্যাখ্যা করতে পারব; বিভিন্ন গ্রুপের রস্তের বৈশিষ্ট্য ব্যাখ্যা করতে পারব; TT গ্রুপ বৈশিষ্ট্যের উপর ভিত্তি করে রন্ত নির্বাচন করতে পারব; TWICE নিয়মাবলি এবং এর সামাজিক দায়বদ্ধতা বর্ণনা করতে পারব; মানবদেহে রক্ত সঞ্চালন কার্যক্রম বর্ণনা করতে পারব; হৃৎপিণ্ডের গঠন ও কাজ বর্ণনা করতে পারব; হৃৎপিণ্ড গঠনগতভাবে যে এর কার্যক্মের সাথে অভিযোজিত তা বিশ্লেষণ করতে পারব; TT সঞ্চালনে রক্তচাপের ভূমিকা বিশ্লেষণ করতে পারব; আদর্শ রক্তচাপ ব্যাখ্যা করতে পারব; কোলেস্টেরলের প্রকারভেদ, সীমা, উপকারিতা ও স্বাস্থ্যঝুঁকি বর্ণনা করতে পারব; TT সঞ্চালনে কোলেস্টেরলের ভূমিকা বিশ্লেষণ করতে পারব; রক্তে অস্বাভাবিকতার কারণ ও ফলাফল ব্যাখ্যা করতে পারব; হৃৎপিণ্ড সম্পর্কিত রোগের লক্ষণ, কারণ, প্রতিরোধ ও প্রতিকার বিশ্লেষণ করতে পারব; হৃৎপিন্ডকে সুস্থ রাখার উপায় বিশ্লেষণ করতে পারব; বিশ্রামরত অবস্থায় এবং শরীরচর্চার পর রক্তচাপ ও পালস রেট পরিমাপ করতে এবং দুই অবস্থানে পরিমাপকৃত রন্তচাপ ও পালস রেট বিশ্লেষণ করতে পারব; সঠিকভাবে রক্তচাপ ও পালস রেট পরিমাপ করতে পারব; RHEE সুস্থ রাখার জন্য নিজে সচেতন হব এবং অন্যকে সচেতন করতে পারব।",
+   "page": {
+    "printed": 126,
+    "pdf": 131
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch07:o01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch07",
+   "number": 1,
+   "text": "উদ্ভিদে গ্যাসীয় বিনিময়ের ধারণা ব্যাখ্যা করতে পারব; মানুষের শ্বসনতন্ত্রের প্রধান অংশসমূহের কাজ ব্যাখ্যা করতে পারব; ফুসফুসের গঠন ও কাজ বর্ণনা করতে পারব; মানুষের শ্বাস-প্রশ্বাস প্রক্রিয়া ও গ্যাসীয় বিনিময় বর্ণনা করতে পারব; শ্বসনতন্ত্রের রোগ লক্ষণ, কারণ, প্রতিরোধ ও প্রতিকারের কৌশল ব্যাখ্যা করতে পারব; নিঃশ্বাসের সাথে নির্গত গ্যাসটির প্রকৃতি নির্ণয় করতে পারব; ফুসফুসের চিত্র অঞ্চন করে চিহ্নিত করতে পারব; শ্বসনতন্ত্রের রোগ প্রতিরোধে সচেতনতা সৃষ্টি করতে পারব।",
+   "page": {
+    "printed": 161,
+    "pdf": 166
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch08:o01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch08",
+   "number": 1,
+   "text": "মানুষের রেচন ব্যাখ্যা করতে পারব; মানবদেহে উৎপন্ন রেচন পদার্থের বর্ণনা করতে পারব; বৃক্কের গঠন ও কাজ বর্ণনা করতে পারব; নেফ্তনের গঠন ও কাজ বর্ণনা করতে পারব; অসমোরেগুলেশনে বৃক্ধের ভূমিকা ব্যাখ্যা করতে পারব; বৃক্ধে পাথর সৃষ্টি প্রতিরোধ এবং প্রতিকার বর্ণনা করতে পারব; বিকলের লক্ষণ ও করণীয় বর্ণনা করতে পারব; বৃক্ধের স্বাভাবিক THEW বজায় রাখতে ডায়ালাইসিসের ভূমিকা ব্যাখ্যা করতে পারব; বৃক্ধ প্রতিস্থাপন এবং মরণোত্তর বৃল্কদানের ধারণা ব্যাখ্যা করতে পারব; মৃূত্রনালির রোগ ও সুস্থ থাকার উপায় বর্ণনা করতে পারব; মরণোত্তর বৃল্কদান বিষয়ে জনমত নিরূপণের একটি অনুসন্ধান কাজ করতে পারব; মানববৃল্ধ ও (FH চিত্র অঙ্কন করে চিহ্নিত করতে পারব; সামাজিক সচেতনতা সৃষ্টির জন্য মরণোত্তর বৃক্ক দান বিষয়ে পোস্টার অঙ্কন করতে পারব; IF ও মূত্রনালির সুস্থতা রক্ষায় সচেতনতা সৃষ্টি করতে লিফলেট অঙ্কন করতে পারব; IF ও মূত্রনালির সুস্থতায় সচেতনতা সৃষ্টি করতে পারব; মরণোত্তর FEIN বিষয়ে সামাজিক সচেতনতা সৃষ্টি করতে পারব।",
+   "page": {
+    "printed": 179,
+    "pdf": 184
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch09:o01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch09",
+   "number": 1,
+   "text": "মানবকঙ্কালের বর্ণনা করতে পারব; দৃঢ়তা প্রদান এবং চলনে কঙ্কালের ভূমিকা ব্যাখ্যা করতে পারব; বিভিন্ন প্রকার অস্থি ও অস্থিসন্ধির কাজ ব্যাখ্যা করতে পারব; পেশির ক্রিয়া ব্যাখ্যা করতে পারব; টেনডন ও লিগামেন্টের কাজ ব্যাখ্যা করতে পারব; অস্টিওপোরোসিসের কারণ, লক্ষণ ও প্রতিকার বর্ণনা করতে পারব; WROTE কারণ, লক্ষণ ও প্রতিকার বর্ণনা করতে পারব; অস্টিওপোরোসিস ও আর্্াইটিসের কারণ অনুসন্ধান করতে পারব; মানবকঙ্কালের বিভিন্ন অংশের চিত্র অঙ্কন করে চিহ্নিত করতে পারব; অস্থির সুস্থতা রক্ষায় সচেতনতা সৃষ্টি করতে পারব।",
+   "page": {
+    "printed": 191,
+    "pdf": 196
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch10:o01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch10",
+   "number": 1,
+   "text": "উদ্ভিদের সমন্বয় প্রক্রিয়া ব্যাখ্যা করতে পারব; প্রাণীর সমন্বয় প্রক্রিয়া ব্যাখ্যা করতে পারব; য়ায়ুতন্ত্রের প্রধান অংশসমূহের কাজ ব্যাখ্যা করতে পারব; সাধারণ নিউরনের গঠন ও কাজ ব্যাখ্যা করতে পারব; প্রতিবতী প্রতিক্রিয়া ব্যাখ্যা করতে পারব; আবেগ সঞ্চালন প্রক্রিয়া ব্যাখ্যা করতে পারব; প্রাণরস বা হরমোনের প্রধান কাজ ব্যাখ্যা করতে পারব; প্রাণরস বা হরমোনের অস্বাভাবিকতার কারণ ও এটি থেকে সৃষ্ট প্রধান শারীরিক সমস্যাগুলো বর্ণনা করতে পারব; স্ট্রোকের কারণ ও লক্ষণ বর্ণনা করতে পারব; স্ট্রোকে তাৎক্ষণিক করণীয় ও প্রতিরোধের উপায় বর্ণনা করতে পারব; ARSE বৈকল্যজনিত শারীরিক সমস্যার লক্ষণ, কারণ ও প্রতিকার বর্ণনা করতে পারব; সময় কার্যক্কমে তামাক ও মাদকদ্রব্যের প্রভাব বিশ্লেষণ করতে পারব; হরমোনজনিত শারীরিক সমস্যা সৃষ্টির কারণ অনুসন্ধান করতে পারব; পোস্টার/লিফলেট অঙ্কন করে তামাক ও মাদকদ্রব্যের ক্ষতিকর প্রভাব সম্পর্কে সচেতনতা সৃষ্টি করতে পারব; APOE ONT ও মাদকদ্রব্যের ক্ষতিকর প্রভাব সম্পর্কে সচেতন হব।",
+   "page": {
+    "printed": 205,
+    "pdf": 210
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:o01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "number": 1,
+   "text": "জীবে প্রজননের ধারণা ও গুরুত্ব ব্যাখ্যা করতে পারব; প্রজনন অঙ্গ হিসেবে ফুলের কাজ বর্ণনা করতে পারব; সপুধ্পক উদ্ভিদের জীবনচক্রের সাহায্যে উদ্ভিদের যৌন প্রজনন ব্যাখ্যা করতে পারব; প্রাণীর অযৌন ও যৌন প্রজনন ব্যাখ্যা করতে পারব; প্রজননের প্রকৃতি ব্যাখ্যা করতে পারব; বহিঃ ও অন্তঃ নিষেকের পার্থক্য করতে পারব; রক চিত্রের সাহায্যে মানুষের প্রজননের ধাপসমূহ বর্ণনা করতে পারব; প্রজনন কার্যক্কমে হরমোনের ভূমিকা ব্যাখ্যা করতে পারব; মানব FF বিকাশ ব্যাখ্যা করতে পারব; মানবদেহে এইডসের সংক্রমণের কারণ, প্রতিরোধ ও প্রতিকার ব্যাখ্যা করতে পারব; দেহের প্রতিরোধ ব্যবস্থার উপর এইডসের ক্রিয়া ব্যাখ্যা করতে পারব; এইডস প্রতিরোধে পোস্টার/লিফলেট অঙ্কন করে সচেতনতা সৃষ্টি করতে পারব; এইডস রোগীদের প্রতি সহানুভূতিশীল আচরণ প্রদর্শন করব।",
+   "page": {
+    "printed": 232,
+    "pdf": 237
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch12:o01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch12",
+   "number": 1,
+   "text": "বংশগতির ধারণা ব্যাখ্যা করতে পারব; বংশপরম্পরায় চারিত্রিক বৈশিষ্ট্য বহনকারী উপাদানসমূহ সম্পর্কে বর্ণনা করতে পারব; চারিত্রিক বৈশিষ্ট্য বংশপরম্পরায় স্থানান্তর ব্যাখ্যা করতে পারব; DNA প্রতিরূপ ব্যাখ্যা করতে পারব; বংশগতির তথ্য স্থানান্তরে ডিএনএ (014/)-এর ভূমিকা ব্যাখ্যা করতে পারব; DNA টেস্টের প্রয়োজনীয়তা ব্যাখ্যা করতে পারব; লিঙ্গ নির্ধারণে পুরুষের ভূমিকা ব্যাখ্যা করতে পারব; জেনেটিক ডিসঅর্ডারের কারণ ও ফলাফল বর্ণনা করতে পারব; জৈব অভিব্যস্তির ধারণা ব্যাখ্যা করতে পারব; জৈব অভিব্যস্তির প্রাকৃতিক নির্বাচন মতবাদ বর্ণনা করতে পারব; প্রজাতির টিকে থাকায় জৈব অভিতব্যন্তির গুরুত্ব বিশ্লেষণ করতে পারব; মা-বাবার সাথে সাদৃশ্য ও বৈসাদৃশ্যমূলক বৈশিষ্ট্যসমূহ নির্ণয় করতে পারব; আমাদের জীবনে ডিএনএ (DNA) টেস্টের অবদান উপলব্ধি করতে পারব।",
+   "page": {
+    "printed": 255,
+    "pdf": 260
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13:o01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch13",
+   "number": 1,
+   "text": "বাস্তুতন্ত্র ব্যাখ্যা করতে পারব; বাস্তুতন্্রের উপাদানসমূহের আন্তঃসম্পর্ক বিশ্লেষণ করতে পারব; খাদ্যশিকল ও খাদ্যজাল ব্যাখ্যা করতে পারব; বাস্তুতত্ত্রে শক্তির প্রবাহ ও পুষ্টি উপাদানের সম্পর্ক তুলনা করতে পারব; ট্রফিক লেভেলের মধ্যে শক্তির সম্পর্ক তুলনা করতে পারব; শক্তি পিরামিডের ধারণা ব্যাখ্যা করতে পারব; খাদ্যশিকল বা খাদ্যশৃঙ্খল সীমিত রাখতে শক্তি পিরামিডের প্রভাব ব্যাখ্যা করতে পারব; জীববৈচিত্র্য এবং জীববৈচিত্র্যের প্রকারভেদ ব্যাখ্যা করতে পারব; বাস্তুতন্ত্রের স্থিতিশীলতা রক্ষায় জীববৈচিত্র্যের প্রভাব মূল্যায়ন করতে পারব; পরিবেশের ভারসাম্য রক্ষায় বিভিন্ন জীবের মধ্যে মিথক্ষিয়া ও আন্তঃনির্ভরশীলতা ব্যাখ্যা করতে পারব; পরিবেশ সংরক্ষণ পদ্ধতি ব্যাখ্যা করতে পারব; পরিবেশের ভারসাম্য রক্ষায় পরিবেশ সংরক্ষণের গুরুত্ব বিশ্লেষণ করতে পারব; একটি নির্বাচিত এলাকার উৎপাদক, খাদক, বিয়োজক এবং ভৌত পরিবেশের মধ্যে পারস্পরিক সম্পর্ক নির্ণয় করতে পারব; একটি নির্দিষ্ট পরিবেশের উপাদানসমূহ দূষিত হওয়ার কারণ নির্ণয় করতে পারব; বাস্তুতন্ত্রে শক্তির প্রবাহ, খাদ্যশিকল, খাদ্যজালের প্রবাহচিত্র অঙ্কন করতে সক্ষম হব; পরিবেশের ভারসাম্য রক্ষায় IPO উপাদানের অবদান উপলব্ধি করতে পারব এবং এর সংরক্ষণে সচেতন হব।",
+   "page": {
+    "printed": 283,
+    "pdf": 288
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:o01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "number": 1,
+   "text": "জীবপ্রযুক্তির ধারণা ও গুরুত্ব ব্যাখ্যা করতে পারব; টিস্যু কালচার ব্যাখ্যা করতে পারব; শস্য উৎপাদনে টিস্যু কালচারের ব্যবহার বর্ণনা করতে পারব; জেনেটিক ইঞ্জিনিয়ারিংয়ের উদ্দেশ্য ব্যাখ্যা করতে পারব; শস্য উৎপাদনে জেনেটিক ইঞ্জিনিয়ারিংয়ের ব্যবহার বর্ণনা করতে পারব; ইনসুলিন এবং হরমোন উৎপাদনে জেনিটিক ইঞ্জিনিয়ারিংয়ের ব্যবহার বর্ণনা করতে পারব; GRRE উপযোগিতা মূল্যায়ন করতে পারব; পশুর রোগ নিরাময়ে জেনেটিক ইঞ্জিনিয়ারিংয়ের ব্যবহার বর্ণনা করতে পারব; জীবপ্রযুক্তি ও জেনেটিক ইঞ্জিনিয়ারিংয়ের ব্যবহারের বিষয়ে পোস্টার অঙ্কন করতে পারব; আমাদের প্রতিদিনের জীবনে জীবপ্রযুক্তির অবদান উপলব্ধি করতে পারব।",
+   "page": {
+    "printed": 306,
+    "pdf": 311
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  }
+ ],
+ "worked_examples": [
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:we01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "topic_id": "nctb:bio:c9-10:bn:ch01:t03",
+   "number": 1,
+   "page": {
+    "printed": 8,
+    "pdf": 13
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:we02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "topic_id": "nctb:bio:c9-10:bn:ch01:t03",
+   "number": 2,
+   "page": {
+    "printed": 9,
+    "pdf": 14
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:we03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "topic_id": "nctb:bio:c9-10:bn:ch01:t03",
+   "number": 3,
+   "page": {
+    "printed": 9,
+    "pdf": 14
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:we04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "topic_id": "nctb:bio:c9-10:bn:ch01:t03",
+   "number": 4,
+   "page": {
+    "printed": 9,
+    "pdf": 14
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:we05",
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "topic_id": "nctb:bio:c9-10:bn:ch01:t03",
+   "number": 5,
+   "page": {
+    "printed": 10,
+    "pdf": 15
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:we01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "topic_id": "nctb:bio:c9-10:bn:ch05:t04",
+   "number": 1,
+   "page": {
+    "printed": 104,
+    "pdf": 109
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ],
+ "exercises": [
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 14,
+    "pdf": 19
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 14,
+    "pdf": 19
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 15,
+    "pdf": 20
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 15,
+    "pdf": 20
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:ex:cq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 16,
+    "pdf": 21
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:ex:cq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 16,
+    "pdf": 21
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:ex:cq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 16,
+    "pdf": 21
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:ex:cq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 16,
+    "pdf": 21
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch01:ex:cq05",
+   "chapter_id": "nctb:bio:c9-10:bn:ch01",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 16,
+    "pdf": 21
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 48,
+    "pdf": 53
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 48,
+    "pdf": 53
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 48,
+    "pdf": 53
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 48,
+    "pdf": 53
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:ex:cq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:ex:cq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:ex:cq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:ex:cq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch02:ex:cq05",
+   "chapter_id": "nctb:bio:c9-10:bn:ch02",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch03:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch03:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch03:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch03:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 63,
+    "pdf": 68
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch03:ex:cq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch03",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 63,
+    "pdf": 68
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch03:ex:cq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch03",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 63,
+    "pdf": 68
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch03:ex:cq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch03",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 63,
+    "pdf": 68
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch03:ex:cq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch03",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 63,
+    "pdf": 68
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch03:ex:cq05",
+   "chapter_id": "nctb:bio:c9-10:bn:ch03",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 63,
+    "pdf": 68
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch04:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch04",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 82,
+    "pdf": 87
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch04:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch04",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 82,
+    "pdf": 87
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch04:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch04",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 82,
+    "pdf": 87
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch04:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch04",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch04:ex:mcq05",
+   "chapter_id": "nctb:bio:c9-10:bn:ch04",
+   "kind": "mcq",
+   "number": 5,
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 122,
+    "pdf": 127
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 122,
+    "pdf": 127
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 123,
+    "pdf": 128
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 123,
+    "pdf": 128
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch05:ex:mcq05",
+   "chapter_id": "nctb:bio:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 5,
+   "page": {
+    "printed": 124,
+    "pdf": 129
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 157,
+    "pdf": 162
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 157,
+    "pdf": 162
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 157,
+    "pdf": 162
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 157,
+    "pdf": 162
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch06:ex:mcq05",
+   "chapter_id": "nctb:bio:c9-10:bn:ch06",
+   "kind": "mcq",
+   "number": 5,
+   "page": {
+    "printed": 159,
+    "pdf": 164
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch07:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch07",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 175,
+    "pdf": 180
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch07:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch07",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 175,
+    "pdf": 180
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch07:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch07",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch07:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch07",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch07:ex:mcq05",
+   "chapter_id": "nctb:bio:c9-10:bn:ch07",
+   "kind": "mcq",
+   "number": 5,
+   "page": {
+    "printed": 177,
+    "pdf": 182
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch08:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch08",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 187,
+    "pdf": 192
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch08:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch08",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 187,
+    "pdf": 192
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch08:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch08",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 188,
+    "pdf": 193
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch08:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch08",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 188,
+    "pdf": 193
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch08:ex:mcq05",
+   "chapter_id": "nctb:bio:c9-10:bn:ch08",
+   "kind": "mcq",
+   "number": 5,
+   "page": {
+    "printed": 189,
+    "pdf": 194
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch09:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 201,
+    "pdf": 206
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch09:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 201,
+    "pdf": 206
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch09:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 202,
+    "pdf": 207
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch09:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 202,
+    "pdf": 207
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch09:ex:mcq05",
+   "chapter_id": "nctb:bio:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 5,
+   "page": {
+    "printed": 203,
+    "pdf": 208
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch10:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 228,
+    "pdf": 233
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch10:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 228,
+    "pdf": 233
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch10:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 229,
+    "pdf": 234
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch10:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 229,
+    "pdf": 234
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch10:ex:mcq05",
+   "chapter_id": "nctb:bio:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 5,
+   "page": {
+    "printed": 230,
+    "pdf": 235
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 251,
+    "pdf": 256
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 251,
+    "pdf": 256
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 251,
+    "pdf": 256
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 251,
+    "pdf": 256
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:ex:sq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 253,
+    "pdf": 258
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:ex:sq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 253,
+    "pdf": 258
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:ex:sq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 253,
+    "pdf": 258
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:ex:sq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 253,
+    "pdf": 258
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch11:ex:sq05",
+   "chapter_id": "nctb:bio:c9-10:bn:ch11",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 253,
+    "pdf": 258
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch12:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch12",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch12:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch12",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch12:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch12",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 280,
+    "pdf": 285
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch12:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch12",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 280,
+    "pdf": 285
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch12:ex:mcq05",
+   "chapter_id": "nctb:bio:c9-10:bn:ch12",
+   "kind": "mcq",
+   "number": 5,
+   "page": {
+    "printed": 281,
+    "pdf": 286
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch13",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 302,
+    "pdf": 307
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch13",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 302,
+    "pdf": 307
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch13",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 302,
+    "pdf": 307
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch13",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 303,
+    "pdf": 308
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13:ex:cq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch13",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 303,
+    "pdf": 308
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch13:ex:cq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch13",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 303,
+    "pdf": 308
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 318,
+    "pdf": 323
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 318,
+    "pdf": 323
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 318,
+    "pdf": 323
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 319,
+    "pdf": 324
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:ex:sq01",
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 320,
+    "pdf": 325
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:ex:sq02",
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 320,
+    "pdf": 325
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:ex:sq03",
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 320,
+    "pdf": 325
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:ex:sq04",
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 320,
+    "pdf": 325
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:bn:ch14:ex:sq05",
+   "chapter_id": "nctb:bio:c9-10:bn:ch14",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 320,
+    "pdf": 325
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ]
+}

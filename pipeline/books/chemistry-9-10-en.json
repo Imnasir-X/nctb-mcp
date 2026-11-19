@@ -1,0 +1,104 @@
+{
+  "dataset_version": "0.2.0",
+  "last_body_pdf_page": 309,
+  "book": {
+    "id": "nctb:chem:c9-10:en",
+    "subject": {
+      "code": "chem",
+      "name_bn": "রসায়ন",
+      "name_en": "Chemistry",
+      "aliases": ["chemistry", "chem", "রসায়ন", "রসায়ন বিজ্ঞান"]
+    },
+    "class": "9-10",
+    "level": "Secondary (SSC)",
+    "version": "en",
+    "edition": 2026,
+    "title": "Chemistry, Classes Nine and Ten (revised for the academic year 2026)",
+    "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+    "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+    "edition_history": [
+      "First Publication : September, 2012",
+      "Revised Edition : November, 2014",
+      "Revised Edition : October, 2024",
+      "Revised Edition : October, 2025"
+    ],
+    "page_offset": 5,
+    "source": {
+      "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+      "pdf_urls": [
+        "https://drive.google.com/file/d/1AEDinOTW1vjqL2cRJC8pZBST9ABqO5RB/view",
+        "https://drive.egovcloud.gov.bd/index.php/s/NKhK1DeslyIovOV"
+      ],
+      "filename": "Secondary (EV)-2026_Class 9-10_Chemistry_compressed.pdf",
+      "sha256": "6c6a668ce213492bc28c2ab896dbd42a77e4ce40265ee978b698e05c8b15506c",
+      "bytes": 53324522,
+      "pdf_pages": 310,
+      "retrieved_at": "2026-11-13",
+      "text_layer": "none (scanned page images); text obtained by OCR"
+    },
+    "data_scope": "sections"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Concepts of Chemistry",
+      "printed_start": 1
+    },
+    {
+      "number": 2,
+      "title": "States of Matter",
+      "printed_start": 17
+    },
+    {
+      "number": 3,
+      "title": "Structure of Matter",
+      "printed_start": 35
+    },
+    {
+      "number": 4,
+      "title": "Periodic Table",
+      "printed_start": 59
+    },
+    {
+      "number": 5,
+      "title": "Chemical Bond",
+      "printed_start": 82
+    },
+    {
+      "number": 6,
+      "title": "Concept of Mole and Chemical Counting",
+      "printed_start": 109
+    },
+    {
+      "number": 7,
+      "title": "Chemical Reactions",
+      "printed_start": 142
+    },
+    {
+      "number": 8,
+      "title": "Chemistry and Energy",
+      "printed_start": 168
+    },
+    {
+      "number": 9,
+      "title": "Acid-Base Balance",
+      "printed_start": 206
+    },
+    {
+      "number": 10,
+      "title": "Mineral Resources: Metal-Nonmetal",
+      "printed_start": 233
+    },
+    {
+      "number": 11,
+      "title": "Mineral Resources: Fossils",
+      "printed_start": 261
+    },
+    {
+      "number": 12,
+      "title": "Chemistry in Our Lives",
+      "printed_start": 287
+    }
+  ],
+  "running_heads": ["Chemistry"]
+}

@@ -1,0 +1,124 @@
+{
+  "dataset_version": "0.2.0",
+  "last_body_pdf_page": 332,
+  "book": {
+    "id": "nctb:math:c9-10:bn",
+    "subject": {
+      "code": "math",
+      "name_bn": "উচ্চতর গণিত",
+      "name_en": "Higher Mathematics",
+      "aliases": [
+        "higher math",
+        "higher mathematics",
+        "highermath",
+        "hmath",
+        "উচ্চতর গণিত",
+        "উচ্চতরগণিত",
+        "uccho taro gonit",
+        "ucchotoro gonit",
+        "ucchotoro ganit"
+      ]
+    },
+    "class": "9-10",
+    "level": "Secondary (SSC)",
+    "version": "bn",
+    "edition": 2026,
+    "title": "উচ্চতর গণিত, নবম ও দশম শ্রেণি (২০২৬ শিক্ষাবর্ষের জন্য পরিমার্জিত)",
+    "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+    "rights_statement": "[প্রকাশক কর্তৃক সর্বস্বত্ব সংরক্ষিত] — গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক বিনামূল্যে বিতরণের জন্য",
+    "edition_history": [
+      "প্রথম প্রকাশ: সেপ্টেম্বর ২০১২",
+      "পরিমার্জিত সংস্করণ: নভেম্বর ২০১৭",
+      "পরিমার্জিত সংস্করণ: অক্টোবর ২০২৪",
+      "পরিমার্জিত সংস্করণ: অক্টোবর ২০২৫"
+    ],
+    "page_offset": 5,
+    "source": {
+      "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+      "pdf_urls": [
+        "https://drive.google.com/file/d/18osCGwa0nHp-q3XgkjEFcoBqteORdiXE/view",
+        "https://drive.egovcloud.gov.bd/index.php/s/iSz6xhjfGbQnu4G"
+      ],
+      "filename": "Secondary (BV)-2026_Class 9-10_Higher Mathematics_compressed.pdf",
+      "sha256": "3eeadc996dbd9e7c6641f80935f3af6a351acc01bf6329329726c17497eabe4e",
+      "bytes": 100670727,
+      "pdf_pages": 342,
+      "retrieved_at": "2026-11-13",
+      "text_layer": "none (scanned page images); text obtained by OCR"
+    },
+    "data_scope": "sections"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "সেট ও ফাংশন",
+      "printed_start": 1
+    },
+    {
+      "number": 2,
+      "title": "বীজগাণিতিক রাশি",
+      "printed_start": 38
+    },
+    {
+      "number": 3,
+      "title": "জ্যামিতি",
+      "printed_start": 63
+    },
+    {
+      "number": 4,
+      "title": "জ্যামিতিক অঙ্কন",
+      "printed_start": 82
+    },
+    {
+      "number": 5,
+      "title": "সমীকরণ",
+      "printed_start": 96
+    },
+    {
+      "number": 6,
+      "title": "অসমতা",
+      "printed_start": 123
+    },
+    {
+      "number": 7,
+      "title": "অসীম ধারা",
+      "printed_start": 136
+    },
+    {
+      "number": 8,
+      "title": "ত্রিকোণমিতি",
+      "printed_start": 146
+    },
+    {
+      "number": 9,
+      "title": "সূচকীয় ও লগারিদমীয় ফাংশন",
+      "printed_start": 193
+    },
+    {
+      "number": 10,
+      "title": "দ্বিপদী বিন্যাস",
+      "printed_start": 223
+    },
+    {
+      "number": 11,
+      "title": "স্থানাঙ্ক জ্যামিতি",
+      "printed_start": 239
+    },
+    {
+      "number": 12,
+      "title": "সমতলীয় ভেক্টর",
+      "printed_start": 271
+    },
+    {
+      "number": 13,
+      "title": "ঘন জ্যামিতি",
+      "printed_start": 287
+    },
+    {
+      "number": 14,
+      "title": "সম্ভাবনা",
+      "printed_start": 306
+    }
+  ],
+  "running_heads": ["উচ্চতর গণিত"]
+}

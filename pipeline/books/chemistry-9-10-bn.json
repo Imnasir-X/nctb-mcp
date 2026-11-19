@@ -1,0 +1,104 @@
+{
+  "dataset_version": "0.2.0",
+  "last_body_pdf_page": 309,
+  "book": {
+    "id": "nctb:chem:c9-10:bn",
+    "subject": {
+      "code": "chem",
+      "name_bn": "রসায়ন",
+      "name_en": "Chemistry",
+      "aliases": ["chemistry", "chem", "রসায়ন", "রসায়ন বিজ্ঞান"]
+    },
+    "class": "9-10",
+    "level": "Secondary (SSC)",
+    "version": "bn",
+    "edition": 2026,
+    "title": "রসায়ন, নবম ও দশম শ্রেণি (২০২৬ শিক্ষাবর্ষের জন্য পরিমার্জিত)",
+    "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+    "rights_statement": "[প্রকাশক কর্তৃক সর্বস্বত্ব সংরক্ষিত] — গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক বিনামূল্যে বিতরণের জন্য",
+    "edition_history": [
+      "প্রথম প্রকাশ: সেপ্টেম্বর ২০১২",
+      "পরিমার্জিত সংস্করণ: নভেম্বর ২০১৪",
+      "পরিমার্জিত সংস্করণ: অক্টোবর ২০২৪",
+      "পরিমার্জিত সংস্করণ: অক্টোবর ২০২৫"
+    ],
+    "page_offset": 5,
+    "source": {
+      "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+      "pdf_urls": [
+        "https://drive.google.com/file/d/1lbgge3uWpQmuHOBvlxJ4AuPP2Na1RYQ8/view",
+        "https://drive.egovcloud.gov.bd/index.php/s/sDHVsdQgt7dVQzO"
+      ],
+      "filename": "Secondary (BV)-2026_Class 9-10_Chemistry_compressed.pdf",
+      "sha256": "77a46c425639912215a7f1ef987e1e75e6b94d8618110557df18af6721d67082",
+      "bytes": 102920216,
+      "pdf_pages": 310,
+      "retrieved_at": "2026-11-13",
+      "text_layer": "none (scanned page images); text obtained by OCR"
+    },
+    "data_scope": "sections"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "রসায়নের ধারণা",
+      "printed_start": 1
+    },
+    {
+      "number": 2,
+      "title": "পদার্থের অবস্থা",
+      "printed_start": 17
+    },
+    {
+      "number": 3,
+      "title": "পদার্থের গঠন",
+      "printed_start": 35
+    },
+    {
+      "number": 4,
+      "title": "পর্যায় সারণি",
+      "printed_start": 59
+    },
+    {
+      "number": 5,
+      "title": "রাসায়নিক বন্ধন",
+      "printed_start": 82
+    },
+    {
+      "number": 6,
+      "title": "মোলের ধারণা ও রাসায়নিক গণনা",
+      "printed_start": 109
+    },
+    {
+      "number": 7,
+      "title": "রাসায়নিক বিক্রিয়া",
+      "printed_start": 142
+    },
+    {
+      "number": 8,
+      "title": "রসায়ন ও শক্তি",
+      "printed_start": 168
+    },
+    {
+      "number": 9,
+      "title": "এসিড-ক্ষারক সমতা",
+      "printed_start": 206
+    },
+    {
+      "number": 10,
+      "title": "খনিজ সম্পদ: ধাতু-অধাতু",
+      "printed_start": 233
+    },
+    {
+      "number": 11,
+      "title": "খনিজ সম্পদ: জীবাশ্ম",
+      "printed_start": 261
+    },
+    {
+      "number": 12,
+      "title": "আমাদের জীবনে রসায়ন",
+      "printed_start": 287
+    }
+  ],
+  "running_heads": ["রসায়ন", "রসায়ন রসায়ন"]
+}

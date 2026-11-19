@@ -1,0 +1,2357 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.2.0",
+ "generated_at": "2026-11-16",
+ "book": {
+  "id": "nctb:math:c9-10:en",
+  "subject": {
+   "code": "math",
+   "name_bn": "উচ্চতর গণিত",
+   "name_en": "Higher Mathematics",
+   "aliases": [
+    "higher math",
+    "higher mathematics",
+    "highermath",
+    "hmath",
+    "উচ্চতর গণিত",
+    "উচ্চতরগণিত",
+    "uccho taro gonit",
+    "ucchotoro gonit",
+    "ucchotoro ganit"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "version": "en",
+  "edition": 2026,
+  "title": "Higher Mathematics, Classes Nine and Ten (revised for the academic year 2026)",
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "edition_history": [
+   "First Publication : September, 2012",
+   "Revised Edition : November, 2017",
+   "Revised Edition : October, 2024",
+   "Revised Edition : October, 2025"
+  ],
+  "page_offset": 5,
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1-SER_5f6ePTJUSHUeyiU2-GkfRFFGtmJ/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/OlfWblTouy8ntja"
+   ],
+   "filename": "Secondary (EV)-2026_Class 9-10_Higher Mathematics_compressed.pdf",
+   "sha256": "c60df22d87fd9c44282d112341c925f03383697b705d71b7033de797e46d094e",
+   "bytes": 66188246,
+   "pdf_pages": 354,
+   "retrieved_at": "2026-11-13",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "id": "nctb:math:c9-10:en:ch01",
+   "concept_key": "nctb:math:c9-10:ch01",
+   "number": 1,
+   "title": "Set and Function",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": 40,
+     "pdf": 45
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch02",
+   "concept_key": "nctb:math:c9-10:ch02",
+   "number": 2,
+   "title": "Algebraic Expression",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 41,
+     "pdf": 46
+    },
+    "end": {
+     "printed": 67,
+     "pdf": 72
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 5,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch03",
+   "concept_key": "nctb:math:c9-10:ch03",
+   "number": 3,
+   "title": "Geometry",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 68,
+     "pdf": 73
+    },
+    "end": {
+     "printed": 89,
+     "pdf": 94
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch04",
+   "concept_key": "nctb:math:c9-10:ch04",
+   "number": 4,
+   "title": "Geometric Constructions",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 90,
+     "pdf": 95
+    },
+    "end": {
+     "printed": 103,
+     "pdf": 108
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch05",
+   "concept_key": "nctb:math:c9-10:ch05",
+   "number": 5,
+   "title": "Equation",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 104,
+     "pdf": 109
+    },
+    "end": {
+     "printed": 132,
+     "pdf": 137
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 9,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch06",
+   "concept_key": "nctb:math:c9-10:ch06",
+   "number": 6,
+   "title": "Inequality",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 133,
+     "pdf": 138
+    },
+    "end": {
+     "printed": 146,
+     "pdf": 151
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 3,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch07",
+   "concept_key": "nctb:math:c9-10:ch07",
+   "number": 7,
+   "title": "Infinite Series",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 147,
+     "pdf": 152
+    },
+    "end": {
+     "printed": 157,
+     "pdf": 162
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch08",
+   "concept_key": "nctb:math:c9-10:ch08",
+   "number": 8,
+   "title": "Trigonometry",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 158,
+     "pdf": 163
+    },
+    "end": {
+     "printed": 204,
+     "pdf": 209
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch09",
+   "concept_key": "nctb:math:c9-10:ch09",
+   "number": 9,
+   "title": "Exponential and Logarithmic Function",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 205,
+     "pdf": 210
+    },
+    "end": {
+     "printed": 235,
+     "pdf": 240
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch10",
+   "concept_key": "nctb:math:c9-10:ch10",
+   "number": 10,
+   "title": "Binomial Expansion",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 236,
+     "pdf": 241
+    },
+    "end": {
+     "printed": 251,
+     "pdf": 256
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch11",
+   "concept_key": "nctb:math:c9-10:ch11",
+   "number": 11,
+   "title": "Coordinate Geometry",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 252,
+     "pdf": 257
+    },
+    "end": {
+     "printed": 287,
+     "pdf": 292
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch12",
+   "concept_key": "nctb:math:c9-10:ch12",
+   "number": 12,
+   "title": "Planar Vector",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 288,
+     "pdf": 293
+    },
+    "end": {
+     "printed": 304,
+     "pdf": 309
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 8,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch13",
+   "concept_key": "nctb:math:c9-10:ch13",
+   "number": 13,
+   "title": "Solid Geometry",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 305,
+     "pdf": 310
+    },
+    "end": {
+     "printed": 325,
+     "pdf": 330
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 5,
+    "worked_examples": 0,
+    "ex_mcq": 3,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14",
+   "concept_key": "nctb:math:c9-10:ch14",
+   "number": 14,
+   "title": "Probability",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 326,
+     "pdf": 331
+    },
+    "end": {
+     "printed": 348,
+     "pdf": 353
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 5,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 0,
+    "ex_sq": 14,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "exercise-number-gap:sq04",
+     "exercise-number-gap:sq09",
+     "exercise-number-gap:sq16",
+     "exercise-number-gap:sq18",
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  }
+ ],
+ "topics": [],
+ "objectives": [
+  {
+   "id": "nctb:math:c9-10:en:ch02:o01",
+   "chapter_id": "nctb:math:c9-10:en:ch02",
+   "number": 1,
+   "text": "explain the concept of a polynomial;",
+   "page": {
+    "printed": 41,
+    "pdf": 46
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch02:o02",
+   "chapter_id": "nctb:math:c9-10:en:ch02",
+   "number": 2,
+   "text": "explain with example the concept of a polynomial with one variable;",
+   "page": {
+    "printed": 41,
+    "pdf": 46
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch02:o03",
+   "chapter_id": "nctb:math:c9-10:en:ch02",
+   "number": 3,
+   "text": "explain multiplication and division of polynomials;",
+   "page": {
+    "printed": 41,
+    "pdf": 46
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch02:o04",
+   "chapter_id": "nctb:math:c9-10:en:ch02",
+   "number": 4,
+   "text": "explain the remainder theorem and the factor theorem and apply them to factorize a polynomial;",
+   "page": {
+    "printed": 41,
+    "pdf": 46
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch02:o05",
+   "chapter_id": "nctb:math:c9-10:en:ch02",
+   "number": 5,
+   "text": "explain homogeneous expressions, symmetric expressions and cyclic expressions; factorize homogeneous expression, symmetric expressions and cyclic resolve rational fractions into partial fractions.",
+   "page": {
+    "printed": 41,
+    "pdf": 46
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch03:o01",
+   "chapter_id": "nctb:math:c9-10:en:ch03",
+   "number": 1,
+   "text": "explain the conception of orthogonal projection; prove and apply the theorems on the basis of the theorem of Pythagoras; prove and apply the theorems of the circumcentre, centroid and orthocenter; prove and apply the theorems of Brahmagupta; prove and apply the theorems of Ptolemy.",
+   "page": {
+    "printed": 68,
+    "pdf": 73
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch05:o01",
+   "chapter_id": "nctb:math:c9-10:en:ch05",
+   "number": 1,
+   "text": "solve quadratic equations (ax? + bx + ¢ = 0);",
+   "page": {
+    "printed": 104,
+    "pdf": 109
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch05:o02",
+   "chapter_id": "nctb:math:c9-10:en:ch05",
+   "number": 2,
+   "text": "identify the equations involving square roots;",
+   "page": {
+    "printed": 104,
+    "pdf": 109
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch05:o03",
+   "chapter_id": "nctb:math:c9-10:en:ch05",
+   "number": 3,
+   "text": "solve the equations involving square roots;",
+   "page": {
+    "printed": 104,
+    "pdf": 109
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch05:o04",
+   "chapter_id": "nctb:math:c9-10:en:ch05",
+   "number": 4,
+   "text": "explain indicial equations;",
+   "page": {
+    "printed": 104,
+    "pdf": 109
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch05:o05",
+   "chapter_id": "nctb:math:c9-10:en:ch05",
+   "number": 5,
+   "text": "solve indicial equations;",
+   "page": {
+    "printed": 104,
+    "pdf": 109
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch05:o06",
+   "chapter_id": "nctb:math:c9-10:en:ch05",
+   "number": 6,
+   "text": "solve system of linear and quadratic equations of two variables;",
+   "page": {
+    "printed": 104,
+    "pdf": 109
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch05:o07",
+   "chapter_id": "nctb:math:c9-10:en:ch05",
+   "number": 7,
+   "text": "express practical problems in linear and quadratic equations of two variables and solve them;",
+   "page": {
+    "printed": 104,
+    "pdf": 109
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch05:o08",
+   "chapter_id": "nctb:math:c9-10:en:ch05",
+   "number": 8,
+   "text": "solve system of indicial equations of two variables;",
+   "page": {
+    "printed": 104,
+    "pdf": 109
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch05:o09",
+   "chapter_id": "nctb:math:c9-10:en:ch05",
+   "number": 9,
+   "text": "solve quadratic equations (ax? + bx + ¢ = 0) graphically.",
+   "page": {
+    "printed": 104,
+    "pdf": 109
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch06:o01",
+   "chapter_id": "nctb:math:c9-10:en:ch06",
+   "number": 1,
+   "text": "explain the inequality of one and two variables; form and solve simple inequalities of two variables;",
+   "page": {
+    "printed": 133,
+    "pdf": 138
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch06:o02",
+   "chapter_id": "nctb:math:c9-10:en:ch06",
+   "number": 2,
+   "text": "use inequalities to solve practical mathematical problems;",
+   "page": {
+    "printed": 133,
+    "pdf": 138
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch06:o03",
+   "chapter_id": "nctb:math:c9-10:en:ch06",
+   "number": 3,
+   "text": "solve inequalities of one and two variables graphically.",
+   "page": {
+    "printed": 133,
+    "pdf": 138
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch12:o01",
+   "chapter_id": "nctb:math:c9-10:en:ch12",
+   "number": 1,
+   "text": "describe scalar and vector quantities;",
+   "page": {
+    "printed": 288,
+    "pdf": 293
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch12:o02",
+   "chapter_id": "nctb:math:c9-10:en:ch12",
+   "number": 2,
+   "text": "explain scalar and vector quantities with symbols;",
+   "page": {
+    "printed": 288,
+    "pdf": 293
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch12:o03",
+   "chapter_id": "nctb:math:c9-10:en:ch12",
+   "number": 3,
+   "text": "explain equal vector, opposite vector and position vector;",
+   "page": {
+    "printed": 288,
+    "pdf": 293
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch12:o04",
+   "chapter_id": "nctb:math:c9-10:en:ch12",
+   "number": 4,
+   "text": "explain vector addition and rules of vector addition;",
+   "page": {
+    "printed": 288,
+    "pdf": 293
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch12:o05",
+   "chapter_id": "nctb:math:c9-10:en:ch12",
+   "number": 5,
+   "text": "explain the subtraction of vectors;",
+   "page": {
+    "printed": 288,
+    "pdf": 293
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch12:o06",
+   "chapter_id": "nctb:math:c9-10:en:ch12",
+   "number": 6,
+   "text": "explain the scalar multiple of vectors and a unit vector;",
+   "page": {
+    "printed": 288,
+    "pdf": 293
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch12:o07",
+   "chapter_id": "nctb:math:c9-10:en:ch12",
+   "number": 7,
+   "text": "explain the scalar multiple of vectors and the distributive law;",
+   "page": {
+    "printed": 288,
+    "pdf": 293
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch12:o08",
+   "chapter_id": "nctb:math:c9-10:en:ch12",
+   "number": 8,
+   "text": "solve different geometrical problems using vectors.",
+   "page": {
+    "printed": 288,
+    "pdf": 293
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch13:o01",
+   "chapter_id": "nctb:math:c9-10:en:ch13",
+   "number": 1,
+   "text": "draw the symbolic diagram of a solid;",
+   "page": {
+    "printed": 305,
+    "pdf": 310
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch13:o02",
+   "chapter_id": "nctb:math:c9-10:en:ch13",
+   "number": 2,
+   "text": "determine volumes and areas of surfaces of prism, solids of pyramid shape, spheres and right circular cones;",
+   "page": {
+    "printed": 305,
+    "pdf": 310
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch13:o03",
+   "chapter_id": "nctb:math:c9-10:en:ch13",
+   "number": 3,
+   "text": "solve problems using the knowledge of solid geometry;",
+   "page": {
+    "printed": 305,
+    "pdf": 310
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch13:o04",
+   "chapter_id": "nctb:math:c9-10:en:ch13",
+   "number": 4,
+   "text": "measure volumes and areas of surfaces of compound solids;",
+   "page": {
+    "printed": 305,
+    "pdf": 310
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch13:o05",
+   "chapter_id": "nctb:math:c9-10:en:ch13",
+   "number": 5,
+   "text": "apply the knowledge of solid geometry in practical areas.",
+   "page": {
+    "printed": 305,
+    "pdf": 310
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:o01",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "number": 1,
+   "text": "explain the concept of probability;",
+   "page": {
+    "printed": 326,
+    "pdf": 331
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:o02",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "number": 2,
+   "text": "describe certain events, impossible events and possible events by giving daily-life examples;",
+   "page": {
+    "printed": 326,
+    "pdf": 331
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:o03",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "number": 3,
+   "text": "describe the consequences of repetition of an event;",
+   "page": {
+    "printed": 326,
+    "pdf": 331
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:o04",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "number": 4,
+   "text": "find the probability of an event happening repeatedly;",
+   "page": {
+    "printed": 326,
+    "pdf": 331
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:o05",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "number": 5,
+   "text": "solve simple and real-life problems regarding probability.",
+   "page": {
+    "printed": 326,
+    "pdf": 331
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ],
+ "worked_examples": [],
+ "exercises": [
+  {
+   "id": "nctb:math:c9-10:en:ch01:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 39,
+    "pdf": 44
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch01:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 40,
+    "pdf": 45
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch01:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 40,
+    "pdf": 45
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch01:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 40,
+    "pdf": 45
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch02:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 66,
+    "pdf": 71
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch02:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 66,
+    "pdf": 71
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch02:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 67,
+    "pdf": 72
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch02:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 67,
+    "pdf": 72
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch03:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch03:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch03:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch03:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch04:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 102,
+    "pdf": 107
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch04:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 103,
+    "pdf": 108
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch04:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 103,
+    "pdf": 108
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch04:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 103,
+    "pdf": 108
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch05:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 131,
+    "pdf": 136
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch05:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 131,
+    "pdf": 136
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch05:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 132,
+    "pdf": 137
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch05:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 132,
+    "pdf": 137
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch06:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch06:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch06:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch06:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch07:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 157,
+    "pdf": 162
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch07:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 157,
+    "pdf": 162
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch07:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 157,
+    "pdf": 162
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch07:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 157,
+    "pdf": 162
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch08:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 203,
+    "pdf": 208
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch08:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 203,
+    "pdf": 208
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch08:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 204,
+    "pdf": 209
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch08:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 204,
+    "pdf": 209
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch09:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 234,
+    "pdf": 239
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch09:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 234,
+    "pdf": 239
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch09:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 234,
+    "pdf": 239
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch09:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 235,
+    "pdf": 240
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch10:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 250,
+    "pdf": 255
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch10:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 251,
+    "pdf": 256
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch10:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 251,
+    "pdf": 256
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch10:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 251,
+    "pdf": 256
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch11:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:en:ch11",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 286,
+    "pdf": 291
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch11:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:en:ch11",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 287,
+    "pdf": 292
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch11:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:en:ch11",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 287,
+    "pdf": 292
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch11:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:en:ch11",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 287,
+    "pdf": 292
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch12:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:en:ch12",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 303,
+    "pdf": 308
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch12:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:en:ch12",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 303,
+    "pdf": 308
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch12:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:en:ch12",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 303,
+    "pdf": 308
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch12:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:en:ch12",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 304,
+    "pdf": 309
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch13:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:en:ch13",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 324,
+    "pdf": 329
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch13:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:en:ch13",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 324,
+    "pdf": 329
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch13:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:en:ch13",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 324,
+    "pdf": 329
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:mcq01",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 336,
+    "pdf": 341
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:mcq02",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 336,
+    "pdf": 341
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:mcq03",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 336,
+    "pdf": 341
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:mcq04",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 336,
+    "pdf": 341
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:sq02",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 339,
+    "pdf": 344
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:sq03",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 340,
+    "pdf": 345
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:sq05",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 340,
+    "pdf": 345
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:sq06",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 6,
+   "page": {
+    "printed": 340,
+    "pdf": 345
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:sq07",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 7,
+   "page": {
+    "printed": 340,
+    "pdf": 345
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:sq08",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 8,
+   "page": {
+    "printed": 340,
+    "pdf": 345
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:sq10",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 10,
+   "page": {
+    "printed": 340,
+    "pdf": 345
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:sq11",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 11,
+   "page": {
+    "printed": 342,
+    "pdf": 347
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:sq12",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 12,
+   "page": {
+    "printed": 344,
+    "pdf": 349
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:sq13",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 13,
+   "page": {
+    "printed": 346,
+    "pdf": 351
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:sq14",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 14,
+   "page": {
+    "printed": 347,
+    "pdf": 352
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:sq15",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 15,
+   "page": {
+    "printed": 348,
+    "pdf": 353
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:sq17",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 17,
+   "page": {
+    "printed": 348,
+    "pdf": 353
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:math:c9-10:en:ch14:ex:sq19",
+   "chapter_id": "nctb:math:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 19,
+   "page": {
+    "printed": 348,
+    "pdf": 353
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ]
+}

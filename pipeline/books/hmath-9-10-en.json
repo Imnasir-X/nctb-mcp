@@ -1,0 +1,124 @@
+{
+  "dataset_version": "0.2.0",
+  "last_body_pdf_page": 353,
+  "book": {
+    "id": "nctb:math:c9-10:en",
+    "subject": {
+      "code": "math",
+      "name_bn": "উচ্চতর গণিত",
+      "name_en": "Higher Mathematics",
+      "aliases": [
+        "higher math",
+        "higher mathematics",
+        "highermath",
+        "hmath",
+        "উচ্চতর গণিত",
+        "উচ্চতরগণিত",
+        "uccho taro gonit",
+        "ucchotoro gonit",
+        "ucchotoro ganit"
+      ]
+    },
+    "class": "9-10",
+    "level": "Secondary (SSC)",
+    "version": "en",
+    "edition": 2026,
+    "title": "Higher Mathematics, Classes Nine and Ten (revised for the academic year 2026)",
+    "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+    "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+    "edition_history": [
+      "First Publication : September, 2012",
+      "Revised Edition : November, 2017",
+      "Revised Edition : October, 2024",
+      "Revised Edition : October, 2025"
+    ],
+    "page_offset": 5,
+    "source": {
+      "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+      "pdf_urls": [
+        "https://drive.google.com/file/d/1-SER_5f6ePTJUSHUeyiU2-GkfRFFGtmJ/view",
+        "https://drive.egovcloud.gov.bd/index.php/s/OlfWblTouy8ntja"
+      ],
+      "filename": "Secondary (EV)-2026_Class 9-10_Higher Mathematics_compressed.pdf",
+      "sha256": "c60df22d87fd9c44282d112341c925f03383697b705d71b7033de797e46d094e",
+      "bytes": 66188246,
+      "pdf_pages": 354,
+      "retrieved_at": "2026-11-13",
+      "text_layer": "none (scanned page images); text obtained by OCR"
+    },
+    "data_scope": "sections"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Set and Function",
+      "printed_start": 1
+    },
+    {
+      "number": 2,
+      "title": "Algebraic Expression",
+      "printed_start": 41
+    },
+    {
+      "number": 3,
+      "title": "Geometry",
+      "printed_start": 68
+    },
+    {
+      "number": 4,
+      "title": "Geometric Constructions",
+      "printed_start": 90
+    },
+    {
+      "number": 5,
+      "title": "Equation",
+      "printed_start": 104
+    },
+    {
+      "number": 6,
+      "title": "Inequality",
+      "printed_start": 133
+    },
+    {
+      "number": 7,
+      "title": "Infinite Series",
+      "printed_start": 147
+    },
+    {
+      "number": 8,
+      "title": "Trigonometry",
+      "printed_start": 158
+    },
+    {
+      "number": 9,
+      "title": "Exponential and Logarithmic Function",
+      "printed_start": 205
+    },
+    {
+      "number": 10,
+      "title": "Binomial Expansion",
+      "printed_start": 236
+    },
+    {
+      "number": 11,
+      "title": "Coordinate Geometry",
+      "printed_start": 252
+    },
+    {
+      "number": 12,
+      "title": "Planar Vector",
+      "printed_start": 288
+    },
+    {
+      "number": 13,
+      "title": "Solid Geometry",
+      "printed_start": 305
+    },
+    {
+      "number": 14,
+      "title": "Probability",
+      "printed_start": 326
+    }
+  ],
+  "running_heads": ["Higher Mathematics", "Higher  Mathematics"]
+}

@@ -1,12 +1,96 @@
 {
  "dataset": "nctb-data",
- "dataset_version": "0.1.0",
- "tag": "nctb-data@0.1.0",
+ "dataset_version": "0.2.0",
+ "tag": "nctb-data@0.2.0",
  "edition": 2026,
  "id_scheme": "see IDS.md",
- "status": "draft: machine-extracted, agent spot-checked, not human-verified",
+ "status": "draft: machine-extracted (OCR), section-level cross-checks applied, not human-verified",
  "content_policy": "Structure, IDs, chapter/section titles, learning objectives and page pointers only. No body text, no exercise or worked-example text. NCTB reserves all rights in the textbooks.",
  "books": [
+  {
+   "file": "biology-9-10/biology-9-10-bn.json",
+   "book_id": "nctb:bio:c9-10:bn",
+   "sha256": "aa54a291b562371cf4b6ca4f0dcb61a3eaade070ee58a31ae748618618ea6c79",
+   "counts": {
+    "chapters": 14,
+    "topics": 127,
+    "objectives": 13,
+    "worked_examples": 6,
+    "exercises": 91
+   },
+   "verified_items": 0,
+   "data_scope": "sections"
+  },
+  {
+   "file": "biology-9-10/biology-9-10-en.json",
+   "book_id": "nctb:bio:c9-10:en",
+   "sha256": "b4d533c8d8d0731d535f45e123ebbd4ddfc8ba5ff53dba9de66cd9bd32c79f3b",
+   "counts": {
+    "chapters": 14,
+    "topics": 133,
+    "objectives": 154,
+    "worked_examples": 9,
+    "exercises": 142
+   },
+   "verified_items": 0,
+   "data_scope": "sections"
+  },
+  {
+   "file": "chemistry-9-10/chemistry-9-10-bn.json",
+   "book_id": "nctb:chem:c9-10:bn",
+   "sha256": "f5e685dd2af57f259d7f1df373541f3c1da653a8da937dc4d9a6f0714e938af1",
+   "counts": {
+    "chapters": 12,
+    "topics": 141,
+    "objectives": 133,
+    "worked_examples": 2,
+    "exercises": 93
+   },
+   "verified_items": 0,
+   "data_scope": "sections"
+  },
+  {
+   "file": "chemistry-9-10/chemistry-9-10-en.json",
+   "book_id": "nctb:chem:c9-10:en",
+   "sha256": "8828e99998570f47d60f911b3dcdecb5f2d914043a6cd85aa49e6dc86753d888",
+   "counts": {
+    "chapters": 12,
+    "topics": 153,
+    "objectives": 27,
+    "worked_examples": 3,
+    "exercises": 115
+   },
+   "verified_items": 0,
+   "data_scope": "sections"
+  },
+  {
+   "file": "hmath-9-10/hmath-9-10-bn.json",
+   "book_id": "nctb:math:c9-10:bn",
+   "sha256": "c466d7f66024620e6677a3b18f37f7aa51bd5ecc683607909ac02758e5a50a92",
+   "counts": {
+    "chapters": 14,
+    "topics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "exercises": 70
+   },
+   "verified_items": 0,
+   "data_scope": "sections"
+  },
+  {
+   "file": "hmath-9-10/hmath-9-10-en.json",
+   "book_id": "nctb:math:c9-10:en",
+   "sha256": "90bc9118e5c6eeca96d7d725b3db1c5b415f7d5208887e7a493ed496f9abbff2",
+   "counts": {
+    "chapters": 14,
+    "topics": 0,
+    "objectives": 36,
+    "worked_examples": 0,
+    "exercises": 69
+   },
+   "verified_items": 0,
+   "data_scope": "sections"
+  },
   {
    "file": "physics-9-10/physics-9-10-bn.json",
    "book_id": "nctb:phy:c9-10:bn",
@@ -18,7 +102,8 @@
     "worked_examples": 98,
     "exercises": 146
    },
-   "verified_items": 0
+   "verified_items": 0,
+   "data_scope": "full"
   },
   {
    "file": "physics-9-10/physics-9-10-en.json",
@@ -31,7 +116,8 @@
     "worked_examples": 98,
     "exercises": 146
    },
-   "verified_items": 0
+   "verified_items": 0,
+   "data_scope": "full"
   }
  ]
 }

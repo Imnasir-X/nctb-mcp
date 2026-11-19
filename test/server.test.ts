@@ -105,10 +105,11 @@ describe("tools", () => {
   });
 
   it("get_topic: objective, worked example and exercise IDs resolve", async () => {
+    const phy = catalog.books.find((b) => b.book.subject.code === "phy")!;
     for (const id of [
       "nctb:phy:c9-10:bn:ch01:o01",
       "nctb:phy:c9-10:bn:ch01:ex:mcq01",
-      catalog.books[0]!.worked_examples[0]!.id,
+      phy.worked_examples[0]!.id,
     ]) {
       const r = await call("get_topic", { id });
       expect(r.isError).toBe(false);

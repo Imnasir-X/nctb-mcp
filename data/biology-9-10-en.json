@@ -1,0 +1,8744 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.2.0",
+ "generated_at": "2026-11-16",
+ "book": {
+  "id": "nctb:bio:c9-10:en",
+  "subject": {
+   "code": "bio",
+   "name_bn": "জীববিজ্ঞান",
+   "name_en": "Biology",
+   "aliases": [
+    "biology",
+    "bio",
+    "জীববিজ্ঞান",
+    "জীব বিজ্ঞান"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "version": "en",
+  "edition": 2026,
+  "title": "Biology, Classes Nine and Ten (revised for the academic year 2026)",
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "edition_history": [
+   "First Publication : September, 2012",
+   "Revised Edition : January, 2013",
+   "Revised Edition : October, 2024",
+   "Revised Edition : October, 2025"
+  ],
+  "page_offset": 5,
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1z4jj_JyB3rbWyPXfWEsfkozFnlIlVv-I/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/o5DpxuZF9Pt1qjU"
+   ],
+   "filename": "Secondary (EV)-2026_Class 9-10_Biology_compressed.pdf",
+   "sha256": "004d6fa0c0f36a43d991cf6314228cc607f2c16348ea00c5457a5e2ee7a104c1",
+   "bytes": 72455895,
+   "pdf_pages": 318,
+   "retrieved_at": "2026-11-13",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "id": "nctb:bio:c9-10:en:ch01",
+   "concept_key": "nctb:bio:c9-10:ch01",
+   "number": 1,
+   "title": "Lessons on Life",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": 15,
+     "pdf": 20
+    }
+   },
+   "counts": {
+    "topics": 5,
+    "subtopics": 2,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 1,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found",
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:worked_examples",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02",
+   "concept_key": "nctb:bio:c9-10:ch02",
+   "number": 2,
+   "title": "Cells and Tissues of Organisms",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 16,
+     "pdf": 21
+    },
+    "end": {
+     "printed": 47,
+     "pdf": 52
+    }
+   },
+   "counts": {
+    "topics": 5,
+    "subtopics": 8,
+    "objectives": 13,
+    "worked_examples": 6,
+    "ex_mcq": 4,
+    "ex_cq": 1,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:worked_examples",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03",
+   "concept_key": "nctb:bio:c9-10:ch03",
+   "number": 3,
+   "title": "Cell Division",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 48,
+     "pdf": 53
+    },
+    "end": {
+     "printed": 60,
+     "pdf": 65
+    }
+   },
+   "counts": {
+    "topics": 3,
+    "subtopics": 1,
+    "objectives": 8,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 1,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04",
+   "concept_key": "nctb:bio:c9-10:ch04",
+   "number": 4,
+   "title": "Bioenergetics",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 61,
+     "pdf": 66
+    },
+    "end": {
+     "printed": 81,
+     "pdf": 86
+    }
+   },
+   "counts": {
+    "topics": 3,
+    "subtopics": 8,
+    "objectives": 10,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 1,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05",
+   "concept_key": "nctb:bio:c9-10:ch05",
+   "number": 5,
+   "title": "Food, Nutrition and Digestion",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 82,
+     "pdf": 87
+    },
+    "end": {
+     "printed": 121,
+     "pdf": 126
+    }
+   },
+   "counts": {
+    "topics": 9,
+    "subtopics": 12,
+    "objectives": 25,
+    "worked_examples": 2,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:worked_examples",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06",
+   "concept_key": "nctb:bio:c9-10:ch06",
+   "number": 6,
+   "title": "Transport in Organisms",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 122,
+     "pdf": 127
+    },
+    "end": {
+     "printed": 156,
+     "pdf": 161
+    }
+   },
+   "counts": {
+    "topics": 5,
+    "subtopics": 11,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found",
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07",
+   "concept_key": "nctb:bio:c9-10:ch07",
+   "number": 7,
+   "title": "Exchange of Gases",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 157,
+     "pdf": 162
+    },
+    "end": {
+     "printed": 174,
+     "pdf": 179
+    }
+   },
+   "counts": {
+    "topics": 3,
+    "subtopics": 2,
+    "objectives": 8,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08",
+   "concept_key": "nctb:bio:c9-10:ch08",
+   "number": 8,
+   "title": "Excretory System",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 175,
+     "pdf": 180
+    },
+    "end": {
+     "printed": 185,
+     "pdf": 190
+    }
+   },
+   "counts": {
+    "topics": 3,
+    "subtopics": 0,
+    "objectives": 15,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 1,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09",
+   "concept_key": "nctb:bio:c9-10:ch09",
+   "number": 9,
+   "title": "Firmness and Locomotion",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 186,
+     "pdf": 191
+    },
+    "end": {
+     "printed": 198,
+     "pdf": 203
+    }
+   },
+   "counts": {
+    "topics": 3,
+    "subtopics": 4,
+    "objectives": 10,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 1,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10",
+   "concept_key": "nctb:bio:c9-10:ch10",
+   "number": 10,
+   "title": "Co-ordination",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 199,
+     "pdf": 204
+    },
+    "end": {
+     "printed": 225,
+     "pdf": 230
+    }
+   },
+   "counts": {
+    "topics": 7,
+    "subtopics": 4,
+    "objectives": 15,
+    "worked_examples": 1,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:worked_examples",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11",
+   "concept_key": "nctb:bio:c9-10:ch11",
+   "number": 11,
+   "title": "Reproduction in Organism",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 226,
+     "pdf": 231
+    },
+    "end": {
+     "printed": 248,
+     "pdf": 253
+    }
+   },
+   "counts": {
+    "topics": 4,
+    "subtopics": 7,
+    "objectives": 13,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 1,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12",
+   "concept_key": "nctb:bio:c9-10:ch12",
+   "number": 12,
+   "title": "Heredity in Organisms and Biological Evolution",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 249,
+     "pdf": 254
+    },
+    "end": {
+     "printed": 277,
+     "pdf": 282
+    }
+   },
+   "counts": {
+    "topics": 4,
+    "subtopics": 4,
+    "objectives": 12,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 1,
+    "ex_sq": 4,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13",
+   "concept_key": "nctb:bio:c9-10:ch13",
+   "number": 13,
+   "title": "Environment of life",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 278,
+     "pdf": 283
+    },
+    "end": {
+     "printed": 300,
+     "pdf": 305
+    }
+   },
+   "counts": {
+    "topics": 6,
+    "subtopics": 3,
+    "objectives": 15,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 1,
+    "ex_sq": 4,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14",
+   "concept_key": "nctb:bio:c9-10:ch14",
+   "number": 14,
+   "title": "Biotechnology",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 301,
+     "pdf": 306
+    },
+    "end": {
+     "printed": 312,
+     "pdf": 317
+    }
+   },
+   "counts": {
+    "topics": 3,
+    "subtopics": 4,
+    "objectives": 10,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 1,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq"
+    ]
+   }
+  }
+ ],
+ "topics": [
+  {
+   "id": "nctb:bio:c9-10:en:ch01:t01",
+   "concept_key": "nctb:bio:c9-10:ch01:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.1",
+   "level": "topic",
+   "title": "Concept of Biology",
+   "title_alt": null,
+   "page": {
+    "printed": 3,
+    "pdf": 8
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch01:t02",
+   "concept_key": "nctb:bio:c9-10:ch01:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.2",
+   "level": "topic",
+   "title": "Branches of Biology",
+   "title_alt": null,
+   "page": {
+    "printed": 3,
+    "pdf": 8
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch01:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch01:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "parent_id": "nctb:bio:c9-10:en:ch01:t02",
+   "number": "1.2.1",
+   "level": "subtopic",
+   "title": "Physical Biology",
+   "title_alt": null,
+   "page": {
+    "printed": 4,
+    "pdf": 9
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch01:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch01:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "parent_id": "nctb:bio:c9-10:en:ch01:t02",
+   "number": "1.2.2",
+   "level": "subtopic",
+   "title": "Applied Biology",
+   "title_alt": null,
+   "page": {
+    "printed": 5,
+    "pdf": 10
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch01:t03",
+   "concept_key": "nctb:bio:c9-10:ch01:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.3",
+   "level": "topic",
+   "title": "Classification of living beings",
+   "title_alt": null,
+   "page": {
+    "printed": 6,
+    "pdf": 11
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch01:t04",
+   "concept_key": "nctb:bio:c9-10:ch01:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.4",
+   "level": "topic",
+   "title": "Different steps of Classification",
+   "title_alt": null,
+   "page": {
+    "printed": 10,
+    "pdf": 15
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch01:t05",
+   "concept_key": "nctb:bio:c9-10:ch01:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.5",
+   "level": "topic",
+   "title": "System of Binomial Nomenclature",
+   "title_alt": null,
+   "page": {
+    "printed": 11,
+    "pdf": 16
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:t01",
+   "concept_key": "nctb:bio:c9-10:ch02:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.1",
+   "level": "topic",
+   "title": "Living Cell",
+   "title_alt": null,
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:t02",
+   "concept_key": "nctb:bio:c9-10:ch02:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.2",
+   "level": "topic",
+   "title": "Main Organelles of Plant and Animal Cells and their Functions",
+   "title_alt": null,
+   "page": {
+    "printed": 19,
+    "pdf": 24
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch02:t02:s01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "parent_id": "nctb:bio:c9-10:en:ch02:t02",
+   "number": "2.2.1",
+   "level": "subtopic",
+   "title": "Plasmalemma: The double layered",
+   "title_alt": null,
+   "page": {
+    "printed": 20,
+    "pdf": 25
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch02:t02:s02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "parent_id": "nctb:bio:c9-10:en:ch02:t02",
+   "number": "2.2.2",
+   "level": "subtopic",
+   "title": "Cytoplasmic organelles: The semi fluid, jelly like substance of a cell that",
+   "title_alt": null,
+   "page": {
+    "printed": 21,
+    "pdf": 26
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:t02:s03",
+   "concept_key": "nctb:bio:c9-10:ch02:t02:s03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "parent_id": "nctb:bio:c9-10:en:ch02:t02",
+   "number": "2.2.3",
+   "level": "subtopic",
+   "title": "Nucleus: The nucleus is a membrane",
+   "title_alt": null,
+   "page": {
+    "printed": 25,
+    "pdf": 30
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:t03",
+   "concept_key": "nctb:bio:c9-10:ch02:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.3",
+   "level": "topic",
+   "title": "Roles of different cells in proper functioning of plants and animals",
+   "title_alt": null,
+   "page": {
+    "printed": 26,
+    "pdf": 31
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:t03:s01",
+   "concept_key": "nctb:bio:c9-10:ch02:t03:s01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "parent_id": "nctb:bio:c9-10:en:ch02:t03",
+   "number": "2.3.1",
+   "level": "subtopic",
+   "title": "Plant tissue",
+   "title_alt": null,
+   "page": {
+    "printed": 26,
+    "pdf": 31
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:t03:s02",
+   "concept_key": "nctb:bio:c9-10:ch02:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "parent_id": "nctb:bio:c9-10:en:ch02:t03",
+   "number": "2.3.2",
+   "level": "subtopic",
+   "title": "Animal tissues",
+   "title_alt": null,
+   "page": {
+    "printed": 31,
+    "pdf": 36
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:t04",
+   "concept_key": "nctb:bio:c9-10:ch02:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.4",
+   "level": "topic",
+   "title": "Organ and System",
+   "title_alt": null,
+   "page": {
+    "printed": 38,
+    "pdf": 43
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:t05",
+   "concept_key": "nctb:bio:c9-10:ch02:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.5",
+   "level": "topic",
+   "title": "Microscope",
+   "title_alt": null,
+   "page": {
+    "printed": 41,
+    "pdf": 46
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:t05:s01",
+   "concept_key": "nctb:bio:c9-10:ch02:t05:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "parent_id": "nctb:bio:c9-10:en:ch02:t05",
+   "number": "2.5.1",
+   "level": "subtopic",
+   "title": "Simple Microscope",
+   "title_alt": null,
+   "page": {
+    "printed": 41,
+    "pdf": 46
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:t05:s02",
+   "concept_key": "nctb:bio:c9-10:ch02:t05:s02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "parent_id": "nctb:bio:c9-10:en:ch02:t05",
+   "number": "2.5.2",
+   "level": "subtopic",
+   "title": "Compound Microscope",
+   "title_alt": null,
+   "page": {
+    "printed": 41,
+    "pdf": 46
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:t05:s03",
+   "concept_key": "nctb:bio:c9-10:ch02:t05:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "parent_id": "nctb:bio:c9-10:en:ch02:t05",
+   "number": "2.5.3",
+   "level": "subtopic",
+   "title": "Electron Microscope",
+   "title_alt": null,
+   "page": {
+    "printed": 43,
+    "pdf": 48
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:t01",
+   "concept_key": "nctb:bio:c9-10:ch03:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.1",
+   "level": "topic",
+   "title": "Cell Division and its classification",
+   "title_alt": null,
+   "page": {
+    "printed": 50,
+    "pdf": 55
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:t02",
+   "concept_key": "nctb:bio:c9-10:ch03:t02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.2",
+   "level": "topic",
+   "title": "Mitosis",
+   "title_alt": null,
+   "page": {
+    "printed": 50,
+    "pdf": 55
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch03:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "parent_id": "nctb:bio:c9-10:en:ch03:t02",
+   "number": "3.2.1",
+   "level": "subtopic",
+   "title": "Stages of Mitosis: Mitosis is a continuous process. During mitosis,",
+   "title_alt": null,
+   "page": {
+    "printed": 50,
+    "pdf": 55
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:t03",
+   "concept_key": "nctb:bio:c9-10:ch03:t03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.3",
+   "level": "topic",
+   "title": "Meiosis",
+   "title_alt": null,
+   "page": {
+    "printed": 57,
+    "pdf": 62
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:t01",
+   "concept_key": "nctb:bio:c9-10:ch04:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "parent_id": null,
+   "number": "4.1",
+   "level": "topic",
+   "title": "Bioenergetics and the role of ATP",
+   "title_alt": null,
+   "page": {
+    "printed": 63,
+    "pdf": 68
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:t02",
+   "concept_key": "nctb:bio:c9-10:ch04:t02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "parent_id": null,
+   "number": "4.2",
+   "level": "topic",
+   "title": "Photosynthesis",
+   "title_alt": null,
+   "page": {
+    "printed": 64,
+    "pdf": 69
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch04:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "parent_id": "nctb:bio:c9-10:en:ch04:t02",
+   "number": "4.2.1",
+   "level": "subtopic",
+   "title": "The Process of Photosynthesis",
+   "title_alt": null,
+   "page": {
+    "printed": 65,
+    "pdf": 70
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch04:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "parent_id": "nctb:bio:c9-10:en:ch04:t02",
+   "number": "4.2.2",
+   "level": "subtopic",
+   "title": "Role of Chlorophyll in Photosynthesis",
+   "title_alt": null,
+   "page": {
+    "printed": 67,
+    "pdf": 72
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:t02:s03",
+   "concept_key": "nctb:bio:c9-10:ch04:t02:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "parent_id": "nctb:bio:c9-10:en:ch04:t02",
+   "number": "4.2.3",
+   "level": "subtopic",
+   "title": "Role of Light in Photosynthesis",
+   "title_alt": null,
+   "page": {
+    "printed": 67,
+    "pdf": 72
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:t02:s04",
+   "concept_key": "nctb:bio:c9-10:ch04:t02:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "parent_id": "nctb:bio:c9-10:en:ch04:t02",
+   "number": "4.2.4",
+   "level": "subtopic",
+   "title": "Factors affecting photosynthesis",
+   "title_alt": null,
+   "page": {
+    "printed": 68,
+    "pdf": 73
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:t02:s05",
+   "concept_key": "nctb:bio:c9-10:ch04:t02:s05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "parent_id": "nctb:bio:c9-10:en:ch04:t02",
+   "number": "4.2.5",
+   "level": "subtopic",
+   "title": "Importance of photosynthesis in living world",
+   "title_alt": null,
+   "page": {
+    "printed": 69,
+    "pdf": 74
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:t03",
+   "concept_key": "nctb:bio:c9-10:ch04:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "parent_id": null,
+   "number": "4.3",
+   "level": "topic",
+   "title": "Respiration",
+   "title_alt": null,
+   "page": {
+    "printed": 73,
+    "pdf": 78
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:t03:s01",
+   "concept_key": "nctb:bio:c9-10:ch04:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "parent_id": "nctb:bio:c9-10:en:ch04:t03",
+   "number": "4.3.1",
+   "level": "subtopic",
+   "title": "Types of respiration",
+   "title_alt": null,
+   "page": {
+    "printed": 73,
+    "pdf": 78
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:t03:s02",
+   "concept_key": "nctb:bio:c9-10:ch04:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "parent_id": "nctb:bio:c9-10:en:ch04:t03",
+   "number": "4.3.2",
+   "level": "subtopic",
+   "title": "Factors affecting respiration",
+   "title_alt": null,
+   "page": {
+    "printed": 77,
+    "pdf": 82
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:t03:s03",
+   "concept_key": "nctb:bio:c9-10:ch04:t03:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "parent_id": "nctb:bio:c9-10:en:ch04:t03",
+   "number": "4.3.3",
+   "level": "subtopic",
+   "title": "Significance of respiration",
+   "title_alt": null,
+   "page": {
+    "printed": 78,
+    "pdf": 83
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t01",
+   "concept_key": "nctb:bio:c9-10:ch05:t01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": null,
+   "number": "5.1",
+   "level": "topic",
+   "title": "Plant Mineral Nutrition",
+   "title_alt": null,
+   "page": {
+    "printed": 84,
+    "pdf": 89
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t01:s01",
+   "concept_key": "nctb:bio:c9-10:ch05:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": "nctb:bio:c9-10:en:ch05:t01",
+   "number": "5.1.1",
+   "level": "subtopic",
+   "title": "Source and Role of Nutrients",
+   "title_alt": null,
+   "page": {
+    "printed": 84,
+    "pdf": 89
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t01:s02",
+   "concept_key": "nctb:bio:c9-10:ch05:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": "nctb:bio:c9-10:en:ch05:t01",
+   "number": "5.1.2",
+   "level": "subtopic",
+   "title": "Symptoms of Nutrient Deficiencies: In case of the deficiency of any",
+   "title_alt": null,
+   "page": {
+    "printed": 86,
+    "pdf": 91
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t02",
+   "concept_key": "nctb:bio:c9-10:ch05:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": null,
+   "number": "5.2",
+   "level": "topic",
+   "title": "Food and Nutrition of Animal",
+   "title_alt": null,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch05:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": "nctb:bio:c9-10:en:ch05:t02",
+   "number": "5.2.1",
+   "level": "subtopic",
+   "title": "Components of food and their sources: All the above mentioned tasks are",
+   "title_alt": null,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch05:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": "nctb:bio:c9-10:en:ch05:t02",
+   "number": "5.2.2",
+   "level": "subtopic",
+   "title": "An Ideal Food Pyramid",
+   "title_alt": null,
+   "page": {
+    "printed": 93,
+    "pdf": 98
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t02:s03",
+   "concept_key": "nctb:bio:c9-10:ch05:t02:s03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": "nctb:bio:c9-10:en:ch05:t02",
+   "number": "5.2.3",
+   "level": "subtopic",
+   "title": "Principles of Food Habit",
+   "title_alt": null,
+   "page": {
+    "printed": 94,
+    "pdf": 99
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t03",
+   "concept_key": "nctb:bio:c9-10:ch05:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": null,
+   "number": "5.3",
+   "level": "topic",
+   "title": "Vitamin deficiency diseases",
+   "title_alt": null,
+   "page": {
+    "printed": 98,
+    "pdf": 103
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t04",
+   "concept_key": "nctb:bio:c9-10:ch05:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": null,
+   "number": "5.4",
+   "level": "topic",
+   "title": "Energy in food ingredients",
+   "title_alt": null,
+   "page": {
+    "printed": 100,
+    "pdf": 105
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t04:s01",
+   "concept_key": "nctb:bio:c9-10:ch05:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": "nctb:bio:c9-10:en:ch05:t04",
+   "number": "5.4.1",
+   "level": "subtopic",
+   "title": "Standard unit to Calculate Food Energy",
+   "title_alt": null,
+   "page": {
+    "printed": 101,
+    "pdf": 106
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t04:s02",
+   "concept_key": "nctb:bio:c9-10:ch05:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": "nctb:bio:c9-10:en:ch05:t04",
+   "number": "5.4.2",
+   "level": "subtopic",
+   "title": "Determining food energy in food nutrients",
+   "title_alt": null,
+   "page": {
+    "printed": 101,
+    "pdf": 106
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t05",
+   "concept_key": "nctb:bio:c9-10:ch05:t05",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": null,
+   "number": "5.5",
+   "level": "topic",
+   "title": "Basal Metabolic Rate(BMR) and Body Mass Index(BMI)",
+   "title_alt": null,
+   "page": {
+    "printed": 103,
+    "pdf": 108
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t05:s01",
+   "concept_key": "nctb:bio:c9-10:ch05:t05:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": "nctb:bio:c9-10:en:ch05:t05",
+   "number": "5.5.1",
+   "level": "subtopic",
+   "title": "Determining BMR value",
+   "title_alt": null,
+   "page": {
+    "printed": 103,
+    "pdf": 108
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t05:s02",
+   "concept_key": "nctb:bio:c9-10:ch05:t05:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": "nctb:bio:c9-10:en:ch05:t05",
+   "number": "5.5.2",
+   "level": "subtopic",
+   "title": "Determining BMI value",
+   "title_alt": null,
+   "page": {
+    "printed": 104,
+    "pdf": 109
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t06",
+   "concept_key": "nctb:bio:c9-10:ch05:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": null,
+   "number": "5.6",
+   "level": "topic",
+   "title": "Exercise and Rest",
+   "title_alt": null,
+   "page": {
+    "printed": 105,
+    "pdf": 110
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t07",
+   "concept_key": "nctb:bio:c9-10:ch05:t07",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": null,
+   "number": "5.7",
+   "level": "topic",
+   "title": "Use of Chemicals in Food Preservation",
+   "title_alt": null,
+   "page": {
+    "printed": 106,
+    "pdf": 111
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t08",
+   "concept_key": "nctb:bio:c9-10:ch05:t08",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": null,
+   "number": "5.8",
+   "level": "topic",
+   "title": "Digestion",
+   "title_alt": null,
+   "page": {
+    "printed": 108,
+    "pdf": 113
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t08:s01",
+   "concept_key": "nctb:bio:c9-10:ch05:t08:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": "nctb:bio:c9-10:en:ch05:t08",
+   "number": "5.8.1",
+   "level": "subtopic",
+   "title": "Alimentary System or Alimentary Canal: This is a canal running from",
+   "title_alt": null,
+   "page": {
+    "printed": 109,
+    "pdf": 114
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t08:s02",
+   "concept_key": "nctb:bio:c9-10:ch05:t08:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": "nctb:bio:c9-10:en:ch05:t08",
+   "number": "5.8.2",
+   "level": "subtopic",
+   "title": "Digestive Glands: The glands,",
+   "title_alt": null,
+   "page": {
+    "printed": 111,
+    "pdf": 116
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t08:s03",
+   "concept_key": "nctb:bio:c9-10:ch05:t08:s03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": "nctb:bio:c9-10:en:ch05:t08",
+   "number": "5.8.3",
+   "level": "subtopic",
+   "title": "Digestion of food",
+   "title_alt": null,
+   "page": {
+    "printed": 113,
+    "pdf": 118
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:t09",
+   "concept_key": "nctb:bio:c9-10:ch05:t09",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "parent_id": null,
+   "number": "5.9",
+   "level": "topic",
+   "title": "Diseases caused by Intestinal Disorder",
+   "title_alt": null,
+   "page": {
+    "printed": 116,
+    "pdf": 121
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:t01",
+   "concept_key": "nctb:bio:c9-10:ch06:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "parent_id": null,
+   "number": "6.1",
+   "level": "topic",
+   "title": "Plant and Water Relationship",
+   "title_alt": null,
+   "page": {
+    "printed": 124,
+    "pdf": 129
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:t02",
+   "concept_key": "nctb:bio:c9-10:ch06:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "parent_id": null,
+   "number": "6.2",
+   "level": "topic",
+   "title": "Absorption of water and mineral salts",
+   "title_alt": null,
+   "page": {
+    "printed": 126,
+    "pdf": 131
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch06:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "parent_id": "nctb:bio:c9-10:en:ch06:t02",
+   "number": "6.2.1",
+   "level": "subtopic",
+   "title": "Translocation in plants: Translocation in plants represents the movement",
+   "title_alt": null,
+   "page": {
+    "printed": 127,
+    "pdf": 132
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch06:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "parent_id": "nctb:bio:c9-10:en:ch06:t02",
+   "number": "6.2.2",
+   "level": "subtopic",
+   "title": "Translocation of the substances produced in photosynthesis: You have",
+   "title_alt": null,
+   "page": {
+    "printed": 129,
+    "pdf": 134
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:t02:s03",
+   "concept_key": "nctb:bio:c9-10:ch06:t02:s03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "parent_id": "nctb:bio:c9-10:en:ch06:t02",
+   "number": "6.2.3",
+   "level": "subtopic",
+   "title": "Transpiration",
+   "title_alt": null,
+   "page": {
+    "printed": 130,
+    "pdf": 135
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:t03",
+   "concept_key": "nctb:bio:c9-10:ch06:t03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "parent_id": null,
+   "number": "6.3",
+   "level": "topic",
+   "title": "Blood circulation in Human Body",
+   "title_alt": null,
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:t03:s01",
+   "concept_key": "nctb:bio:c9-10:ch06:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "parent_id": "nctb:bio:c9-10:en:ch06:t03",
+   "number": "6.3.1",
+   "level": "subtopic",
+   "title": "Blood : Blood is a viscous, slightly alkaline and salty fluid. Blood",
+   "title_alt": null,
+   "page": {
+    "printed": 135,
+    "pdf": 140
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:t03:s02",
+   "concept_key": "nctb:bio:c9-10:ch06:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "parent_id": "nctb:bio:c9-10:en:ch06:t03",
+   "number": "6.3.2",
+   "level": "subtopic",
+   "title": "Blood group",
+   "title_alt": null,
+   "page": {
+    "printed": 140,
+    "pdf": 145
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:t04",
+   "concept_key": "nctb:bio:c9-10:ch06:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "parent_id": null,
+   "number": "6.4",
+   "level": "topic",
+   "title": "Structure and function of Heart",
+   "title_alt": null,
+   "page": {
+    "printed": 143,
+    "pdf": 148
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:t04:s01",
+   "concept_key": "nctb:bio:c9-10:ch06:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "parent_id": "nctb:bio:c9-10:en:ch06:t04",
+   "number": "6.4.1",
+   "level": "subtopic",
+   "title": "Structure of Heart",
+   "title_alt": null,
+   "page": {
+    "printed": 143,
+    "pdf": 148
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:t04:s02",
+   "concept_key": "nctb:bio:c9-10:ch06:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "parent_id": "nctb:bio:c9-10:en:ch06:t04",
+   "number": "6.4.2",
+   "level": "subtopic",
+   "title": "Circulation of blood through the heart",
+   "title_alt": null,
+   "page": {
+    "printed": 144,
+    "pdf": 149
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:t04:s03",
+   "concept_key": "nctb:bio:c9-10:ch06:t04:s03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "parent_id": "nctb:bio:c9-10:en:ch06:t04",
+   "number": "6.4.3",
+   "level": "subtopic",
+   "title": "Blood vessels",
+   "title_alt": null,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:t04:s04",
+   "concept_key": "nctb:bio:c9-10:ch06:t04:s04",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "parent_id": "nctb:bio:c9-10:en:ch06:t04",
+   "number": "6.4.4",
+   "level": "subtopic",
+   "title": "Blood Pressure",
+   "title_alt": null,
+   "page": {
+    "printed": 148,
+    "pdf": 153
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:t04:s05",
+   "concept_key": "nctb:bio:c9-10:ch06:t04:s05",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "parent_id": "nctb:bio:c9-10:en:ch06:t04",
+   "number": "6.4.5",
+   "level": "subtopic",
+   "title": "Cholesterol",
+   "title_alt": null,
+   "page": {
+    "printed": 150,
+    "pdf": 155
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:t04:s06",
+   "concept_key": "nctb:bio:c9-10:ch06:t04:s06",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "parent_id": "nctb:bio:c9-10:en:ch06:t04",
+   "number": "6.4.6",
+   "level": "subtopic",
+   "title": "Irregularities in Blood and Bone Marrow-Leukemia",
+   "title_alt": null,
+   "page": {
+    "printed": 152,
+    "pdf": 157
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:t05",
+   "concept_key": "nctb:bio:c9-10:ch06:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "parent_id": null,
+   "number": "6.5",
+   "level": "topic",
+   "title": "Circulatory diseases and their Remedies",
+   "title_alt": null,
+   "page": {
+    "printed": 153,
+    "pdf": 158
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:t01",
+   "concept_key": "nctb:bio:c9-10:ch07:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "parent_id": null,
+   "number": "7.1",
+   "level": "topic",
+   "title": "Gas exchange in plants",
+   "title_alt": null,
+   "page": {
+    "printed": 159,
+    "pdf": 164
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:t02",
+   "concept_key": "nctb:bio:c9-10:ch07:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "parent_id": null,
+   "number": "7.2",
+   "level": "topic",
+   "title": "Human Respiratory System",
+   "title_alt": null,
+   "page": {
+    "printed": 160,
+    "pdf": 165
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch07:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "parent_id": "nctb:bio:c9-10:en:ch07:t02",
+   "number": "7.2.1",
+   "level": "subtopic",
+   "title": "Respiratory System",
+   "title_alt": null,
+   "page": {
+    "printed": 161,
+    "pdf": 166
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch07:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "parent_id": "nctb:bio:c9-10:en:ch07:t02",
+   "number": "7.2.2",
+   "level": "subtopic",
+   "title": "Breathing",
+   "title_alt": null,
+   "page": {
+    "printed": 163,
+    "pdf": 168
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:t03",
+   "concept_key": "nctb:bio:c9-10:ch07:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "parent_id": null,
+   "number": "7.3",
+   "level": "topic",
+   "title": "Diseases of Respiratory System",
+   "title_alt": null,
+   "page": {
+    "printed": 167,
+    "pdf": 172
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:t01",
+   "concept_key": "nctb:bio:c9-10:ch08:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "parent_id": null,
+   "number": "8.1",
+   "level": "topic",
+   "title": "Excretory",
+   "title_alt": null,
+   "page": {
+    "printed": 177,
+    "pdf": 182
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:t02",
+   "concept_key": "nctb:bio:c9-10:ch08:t02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "parent_id": null,
+   "number": "8.2",
+   "level": "topic",
+   "title": "Kidney",
+   "title_alt": null,
+   "page": {
+    "printed": 177,
+    "pdf": 182
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:t03",
+   "concept_key": "nctb:bio:c9-10:ch08:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "parent_id": null,
+   "number": "8.3",
+   "level": "topic",
+   "title": "Kidney failure, Dialysis and kidney transplant",
+   "title_alt": null,
+   "page": {
+    "printed": 181,
+    "pdf": 186
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:t01",
+   "concept_key": "nctb:bio:c9-10:ch09:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "parent_id": null,
+   "number": "9.1",
+   "level": "topic",
+   "title": "Introduction of human skeleton",
+   "title_alt": null,
+   "page": {
+    "printed": 188,
+    "pdf": 193
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:t01:s01",
+   "concept_key": "nctb:bio:c9-10:ch09:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "parent_id": "nctb:bio:c9-10:en:ch09:t01",
+   "number": "9.1.1",
+   "level": "subtopic",
+   "title": "Role of skeleton in firmness and locomotion",
+   "title_alt": null,
+   "page": {
+    "printed": 189,
+    "pdf": 194
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:t01:s02",
+   "concept_key": "nctb:bio:c9-10:ch09:t01:s02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "parent_id": "nctb:bio:c9-10:en:ch09:t01",
+   "number": "9.1.2",
+   "level": "subtopic",
+   "title": "Bone, Cartilage and Joint",
+   "title_alt": null,
+   "page": {
+    "printed": 189,
+    "pdf": 194
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:t02",
+   "concept_key": "nctb:bio:c9-10:ch09:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "parent_id": null,
+   "number": "9.2",
+   "level": "topic",
+   "title": "Muscles",
+   "title_alt": null,
+   "page": {
+    "printed": 192,
+    "pdf": 197
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch09:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "parent_id": "nctb:bio:c9-10:en:ch09:t02",
+   "number": "9.2.1",
+   "level": "subtopic",
+   "title": "Role of bones and muscles in human locomotion",
+   "title_alt": null,
+   "page": {
+    "printed": 192,
+    "pdf": 197
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch09:t02:s02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "parent_id": "nctb:bio:c9-10:en:ch09:t02",
+   "number": "9.2.2",
+   "level": "subtopic",
+   "title": "Tendon and ligament",
+   "title_alt": null,
+   "page": {
+    "printed": 193,
+    "pdf": 198
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:t03",
+   "concept_key": "nctb:bio:c9-10:ch09:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "parent_id": null,
+   "number": "9.3",
+   "level": "topic",
+   "title": "Diseases of Bones",
+   "title_alt": null,
+   "page": {
+    "printed": 195,
+    "pdf": 200
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:t01",
+   "concept_key": "nctb:bio:c9-10:ch10:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.1",
+   "level": "topic",
+   "title": "Coordination in Plants",
+   "title_alt": null,
+   "page": {
+    "printed": 201,
+    "pdf": 206
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:t01:s01",
+   "concept_key": "nctb:bio:c9-10:ch10:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "parent_id": "nctb:bio:c9-10:en:ch10:t01",
+   "number": "10.1.1",
+   "level": "subtopic",
+   "title": "Phytohormone",
+   "title_alt": null,
+   "page": {
+    "printed": 201,
+    "pdf": 206
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:t02",
+   "concept_key": "nctb:bio:c9-10:ch10:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.2",
+   "level": "topic",
+   "title": "Co-ordination in animals",
+   "title_alt": null,
+   "page": {
+    "printed": 205,
+    "pdf": 210
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:t03",
+   "concept_key": "nctb:bio:c9-10:ch10:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.3",
+   "level": "topic",
+   "title": "Nervous system",
+   "title_alt": null,
+   "page": {
+    "printed": 207,
+    "pdf": 212
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:t03:s01",
+   "concept_key": "nctb:bio:c9-10:ch10:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "parent_id": "nctb:bio:c9-10:en:ch10:t03",
+   "number": "10.3.1",
+   "level": "subtopic",
+   "title": "Central Nervous System",
+   "title_alt": null,
+   "page": {
+    "printed": 207,
+    "pdf": 212
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:t03:s02",
+   "concept_key": "nctb:bio:c9-10:ch10:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "parent_id": "nctb:bio:c9-10:en:ch10:t03",
+   "number": "10.3.2",
+   "level": "subtopic",
+   "title": "Peripheral Nervous System",
+   "title_alt": null,
+   "page": {
+    "printed": 214,
+    "pdf": 219
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:t04",
+   "concept_key": "nctb:bio:c9-10:ch10:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.4",
+   "level": "topic",
+   "title": "Hormone",
+   "title_alt": null,
+   "page": {
+    "printed": 215,
+    "pdf": 220
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:t04:s01",
+   "concept_key": "nctb:bio:c9-10:ch10:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "parent_id": "nctb:bio:c9-10:en:ch10:t04",
+   "number": "10.4.1",
+   "level": "subtopic",
+   "title": "Introduction of main endocrine gland, functions, and secreted",
+   "title_alt": null,
+   "page": {
+    "printed": 216,
+    "pdf": 221
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:t05",
+   "concept_key": "nctb:bio:c9-10:ch10:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.5",
+   "level": "topic",
+   "title": "Abnormalities due to Hormone",
+   "title_alt": null,
+   "page": {
+    "printed": 217,
+    "pdf": 222
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:t06",
+   "concept_key": "nctb:bio:c9-10:ch10:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.6",
+   "level": "topic",
+   "title": "Physical disabilities due to nerve disoder",
+   "title_alt": null,
+   "page": {
+    "printed": 220,
+    "pdf": 225
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:t07",
+   "concept_key": "nctb:bio:c9-10:ch10:t07",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.7",
+   "level": "topic",
+   "title": "Influence of tobacco and drugs on co-ordination.",
+   "title_alt": null,
+   "page": {
+    "printed": 222,
+    "pdf": 227
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:t01",
+   "concept_key": "nctb:bio:c9-10:ch11:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "parent_id": null,
+   "number": "11.1",
+   "level": "topic",
+   "title": "Concept of reproduction in organism and its significance",
+   "title_alt": null,
+   "page": {
+    "printed": 228,
+    "pdf": 233
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:t02",
+   "concept_key": "nctb:bio:c9-10:ch11:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "parent_id": null,
+   "number": "11.2",
+   "level": "topic",
+   "title": "Plant Reproduction",
+   "title_alt": null,
+   "page": {
+    "printed": 229,
+    "pdf": 234
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch11:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "parent_id": "nctb:bio:c9-10:en:ch11:t02",
+   "number": "11.2.1",
+   "level": "subtopic",
+   "title": "Reproductive organ: Flower",
+   "title_alt": null,
+   "page": {
+    "printed": 229,
+    "pdf": 234
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch11:t02:s02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "parent_id": "nctb:bio:c9-10:en:ch11:t02",
+   "number": "11.2.2",
+   "level": "subtopic",
+   "title": "Pollination",
+   "title_alt": null,
+   "page": {
+    "printed": 233,
+    "pdf": 238
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:t02:s03",
+   "concept_key": "nctb:bio:c9-10:ch11:t02:s03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "parent_id": "nctb:bio:c9-10:en:ch11:t02",
+   "number": "11.2.3",
+   "level": "subtopic",
+   "title": "Fertilization",
+   "title_alt": null,
+   "page": {
+    "printed": 236,
+    "pdf": 241
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:t03",
+   "concept_key": "nctb:bio:c9-10:ch11:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "parent_id": null,
+   "number": "11.3",
+   "level": "topic",
+   "title": "Animal Reproduction",
+   "title_alt": null,
+   "page": {
+    "printed": 239,
+    "pdf": 244
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:t03:s01",
+   "concept_key": "nctb:bio:c9-10:ch11:t03:s01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "parent_id": "nctb:bio:c9-10:en:ch11:t03",
+   "number": "11.3.1",
+   "level": "subtopic",
+   "title": "Fertilization",
+   "title_alt": null,
+   "page": {
+    "printed": 239,
+    "pdf": 244
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:t03:s02",
+   "concept_key": "nctb:bio:c9-10:ch11:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "parent_id": "nctb:bio:c9-10:en:ch11:t03",
+   "number": "11.3.2",
+   "level": "subtopic",
+   "title": "Role of hormone in human reproduction",
+   "title_alt": null,
+   "page": {
+    "printed": 240,
+    "pdf": 245
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:t03:s03",
+   "concept_key": "nctb:bio:c9-10:ch11:t03:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "parent_id": "nctb:bio:c9-10:en:ch11:t03",
+   "number": "11.3.3",
+   "level": "subtopic",
+   "title": "Development of the embryo",
+   "title_alt": null,
+   "page": {
+    "printed": 242,
+    "pdf": 247
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:t04",
+   "concept_key": "nctb:bio:c9-10:ch11:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "parent_id": null,
+   "number": "11.4",
+   "level": "topic",
+   "title": "Reproduction Related diseases",
+   "title_alt": null,
+   "page": {
+    "printed": 245,
+    "pdf": 250
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:t04:s01",
+   "concept_key": "nctb:bio:c9-10:ch11:t04:s01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "parent_id": "nctb:bio:c9-10:en:ch11:t04",
+   "number": "11.4.1",
+   "level": "subtopic",
+   "title": "Acquired Immune Deficiency Syndrome (AIDS): At present AIDS is",
+   "title_alt": null,
+   "page": {
+    "printed": 245,
+    "pdf": 250
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:t01",
+   "concept_key": "nctb:bio:c9-10:ch12:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "parent_id": null,
+   "number": "12.1",
+   "level": "topic",
+   "title": "Heredity in organism",
+   "title_alt": null,
+   "page": {
+    "printed": 251,
+    "pdf": 256
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:t01:s01",
+   "concept_key": "nctb:bio:c9-10:ch12:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "parent_id": "nctb:bio:c9-10:en:ch12:t01",
+   "number": "12.1.1",
+   "level": "subtopic",
+   "title": "Components carrying (heredity materials) behavioural features to",
+   "title_alt": null,
+   "page": {
+    "printed": 251,
+    "pdf": 256
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:t01:s02",
+   "concept_key": "nctb:bio:c9-10:ch12:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "parent_id": "nctb:bio:c9-10:en:ch12:t01",
+   "number": "12.1.2",
+   "level": "subtopic",
+   "title": "DNA Test",
+   "title_alt": null,
+   "page": {
+    "printed": 259,
+    "pdf": 264
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:t02",
+   "concept_key": "nctb:bio:c9-10:ch12:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "parent_id": null,
+   "number": "12.2",
+   "level": "topic",
+   "title": "Determination of human sex",
+   "title_alt": null,
+   "page": {
+    "printed": 260,
+    "pdf": 265
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:t03",
+   "concept_key": "nctb:bio:c9-10:ch12:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "parent_id": null,
+   "number": "12.3",
+   "level": "topic",
+   "title": "Genetic disorder",
+   "title_alt": null,
+   "page": {
+    "printed": 262,
+    "pdf": 267
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:t04",
+   "concept_key": "nctb:bio:c9-10:ch12:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "parent_id": null,
+   "number": "12.4",
+   "level": "topic",
+   "title": "Theories of biological evolution",
+   "title_alt": null,
+   "page": {
+    "printed": 266,
+    "pdf": 271
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:t04:s01",
+   "concept_key": "nctb:bio:c9-10:ch12:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "parent_id": "nctb:bio:c9-10:en:ch12:t04",
+   "number": "12.4.1",
+   "level": "subtopic",
+   "title": "Origin of life",
+   "title_alt": null,
+   "page": {
+    "printed": 267,
+    "pdf": 272
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:t04:s02",
+   "concept_key": "nctb:bio:c9-10:ch12:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "parent_id": "nctb:bio:c9-10:en:ch12:t04",
+   "number": "12.4.2",
+   "level": "subtopic",
+   "title": "Theory of Darwin or Darwinism",
+   "title_alt": null,
+   "page": {
+    "printed": 269,
+    "pdf": 274
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:t01",
+   "concept_key": "nctb:bio:c9-10:ch13:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "parent_id": null,
+   "number": "13.1",
+   "level": "topic",
+   "title": "Ecosystem",
+   "title_alt": null,
+   "page": {
+    "printed": 280,
+    "pdf": 285
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:t01:s01",
+   "concept_key": "nctb:bio:c9-10:ch13:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "parent_id": "nctb:bio:c9-10:en:ch13:t01",
+   "number": "13.1.1",
+   "level": "subtopic",
+   "title": "Components of an ecosystem",
+   "title_alt": null,
+   "page": {
+    "printed": 280,
+    "pdf": 285
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:t02",
+   "concept_key": "nctb:bio:c9-10:ch13:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "parent_id": null,
+   "number": "13.2",
+   "level": "topic",
+   "title": "Ecosystem of a pond",
+   "title_alt": null,
+   "page": {
+    "printed": 283,
+    "pdf": 288
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:t03",
+   "concept_key": "nctb:bio:c9-10:ch13:t03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "parent_id": null,
+   "number": "13.3",
+   "level": "topic",
+   "title": "Food Chain",
+   "title_alt": null,
+   "page": {
+    "printed": 284,
+    "pdf": 289
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:t04",
+   "concept_key": "nctb:bio:c9-10:ch13:t04",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "parent_id": null,
+   "number": "13.4",
+   "level": "topic",
+   "title": "Food web",
+   "title_alt": null,
+   "page": {
+    "printed": 286,
+    "pdf": 291
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:t05",
+   "concept_key": "nctb:bio:c9-10:ch13:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "parent_id": null,
+   "number": "13.5",
+   "level": "topic",
+   "title": "Biodiversity",
+   "title_alt": null,
+   "page": {
+    "printed": 290,
+    "pdf": 295
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:t05:s01",
+   "concept_key": "nctb:bio:c9-10:ch13:t05:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "parent_id": "nctb:bio:c9-10:en:ch13:t05",
+   "number": "13.5.1",
+   "level": "subtopic",
+   "title": "Types of biodiversity",
+   "title_alt": null,
+   "page": {
+    "printed": 291,
+    "pdf": 296
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:t05:s02",
+   "concept_key": "nctb:bio:c9-10:ch13:t05:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "parent_id": "nctb:bio:c9-10:en:ch13:t05",
+   "number": "13.5.2",
+   "level": "subtopic",
+   "title": "Interaction and interdependence among different organisms and the",
+   "title_alt": null,
+   "page": {
+    "printed": 293,
+    "pdf": 298
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:t06",
+   "concept_key": "nctb:bio:c9-10:ch13:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "parent_id": null,
+   "number": "13.6",
+   "level": "topic",
+   "title": "Significance and method of conserving environment",
+   "title_alt": null,
+   "page": {
+    "printed": 296,
+    "pdf": 301
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:t01",
+   "concept_key": "nctb:bio:c9-10:ch14:t01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "parent_id": null,
+   "number": "14.1",
+   "level": "topic",
+   "title": "Biotechnology",
+   "title_alt": null,
+   "page": {
+    "printed": 303,
+    "pdf": 308
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:t02",
+   "concept_key": "nctb:bio:c9-10:ch14:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "parent_id": null,
+   "number": "14.2",
+   "level": "topic",
+   "title": "Tissue culture",
+   "title_alt": null,
+   "page": {
+    "printed": 303,
+    "pdf": 308
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:t02:s01",
+   "concept_key": "nctb:bio:c9-10:ch14:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "parent_id": "nctb:bio:c9-10:en:ch14:t02",
+   "number": "14.2.1",
+   "level": "subtopic",
+   "title": "Steps of tissue culture",
+   "title_alt": null,
+   "page": {
+    "printed": 304,
+    "pdf": 309
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:t02:s02",
+   "concept_key": "nctb:bio:c9-10:ch14:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "parent_id": "nctb:bio:c9-10:en:ch14:t02",
+   "number": "14.2.2",
+   "level": "subtopic",
+   "title": "Use of tissue culture",
+   "title_alt": null,
+   "page": {
+    "printed": 305,
+    "pdf": 310
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:t03",
+   "concept_key": "nctb:bio:c9-10:ch14:t03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "parent_id": null,
+   "number": "14.3",
+   "level": "topic",
+   "title": "Genetic engineering",
+   "title_alt": null,
+   "page": {
+    "printed": 306,
+    "pdf": 311
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:t03:s01",
+   "concept_key": "nctb:bio:c9-10:ch14:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "parent_id": "nctb:bio:c9-10:en:ch14:t03",
+   "number": "14.3.1",
+   "level": "subtopic",
+   "title": "Stages of the Preparation of GMO or DNA recombinant",
+   "title_alt": null,
+   "page": {
+    "printed": 307,
+    "pdf": 312
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:t03:s02",
+   "concept_key": "nctb:bio:c9-10:ch14:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "parent_id": "nctb:bio:c9-10:en:ch14:t03",
+   "number": "14.3.2",
+   "level": "subtopic",
+   "title": "Use of genetic engineering in use",
+   "title_alt": null,
+   "page": {
+    "printed": 309,
+    "pdf": 314
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ],
+ "objectives": [
+  {
+   "id": "nctb:bio:c9-10:en:ch02:o01",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "number": 1,
+   "text": "explain the functions of main organelles of plant and animal cells;",
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:o02",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "number": 2,
+   "text": "compare a plant cell and an animal cell;",
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:o03",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "number": 3,
+   "text": "describe the roles of different types of cell in performing the functions of nerve, muscles, blood, skin and bones;",
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:o04",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "number": 4,
+   "text": "evaluate the appropriateness of cell in the body of an organism;",
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:o05",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "number": 5,
+   "text": "explain plant tissues;",
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:o06",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "number": 6,
+   "text": "explain animal tissues;",
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:o07",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "number": 7,
+   "text": "evaluate the functions of tissue on the basis of grouping the similar type of cells and performing the same action;",
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:o08",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "number": 8,
+   "text": "explain the organisation of cells in tissue, organs and organ systems;",
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:o09",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "number": 9,
+   "text": "explain the functions of tissue system;",
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:o10",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "number": 10,
+   "text": "explain the concept and importance of organs and organ systems;",
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:o11",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "number": 11,
+   "text": "draw and label diagrams of plant cell (onion cell) and animal cell (buccal mucosa cell) after observing them under a microscope;",
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:o12",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "number": 12,
+   "text": "draw and label diagrams of plant and animal tissue; correctly use a microscope;",
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:o13",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "number": 13,
+   "text": "understand the roles of cells in different activities of organisms.",
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:o01",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "number": 1,
+   "text": "explain the concept of cell division;",
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:o02",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "number": 2,
+   "text": "describe the types of cell division;",
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:o03",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "number": 3,
+   "text": "explain mitosis;",
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:o04",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "number": 4,
+   "text": "describe the stages of mitosis;",
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:o05",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "number": 5,
+   "text": "analyse the significance of mitosis cell division in living bodies;",
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:o06",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "number": 6,
+   "text": "explain meiosis;",
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:o07",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "number": 7,
+   "text": "explain the role of meiosis in the development of reproductive cells;",
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:o08",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "number": 8,
+   "text": "understand the role of cell division in maintenance of the continuity of life.",
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:o01",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "number": 1,
+   "text": "explain the role of ATP as the main source of energy in a living cell;",
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:o02",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "number": 2,
+   "text": "explain the production of carbohydrates through the process of photosynthesis;",
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:o03",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "number": 3,
+   "text": "explain the role of chlorophyll and light in photosynthesis;",
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:o04",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "number": 4,
+   "text": "describe the role of factors in photosynthesis;",
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:o05",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "number": 5,
+   "text": "evaluate the dependence of organism on photosynthesis;",
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:o06",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "number": 6,
+   "text": "explain respiration;",
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:o07",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "number": 7,
+   "text": "explain the concept and significance of aerobic and anaerobic respiration;",
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:o08",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "number": 8,
+   "text": "draw comparisons between photosynthesis and respiration; examine the necessity of chlorophyll and light in the process of photosynthesis;",
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:o09",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "number": 9,
+   "text": "perform the experiment to demonstrate the release of energy in the form of heat during respiration;",
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:o10",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "number": 10,
+   "text": "understand the contribution of plants in preparing food for organisms and learn conscious behaviors towards plants.",
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o01",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 1,
+   "text": "explain the necessity of essential elements for plant nutrition;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o02",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 2,
+   "text": "analyse nutrition deficiency symptoms in plants;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o03",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 3,
+   "text": "describe the main components of animal foods and their sources;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o04",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 4,
+   "text": "explain the ideal food pyramid;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o05",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 5,
+   "text": "explain the principles of consuming foods;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o06",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 6,
+   "text": "explain the symptoms, remedies and prevention of nutrition deficiency diseases;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o07",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 7,
+   "text": "explain kilocalories and kilojoules;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o08",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 8,
+   "text": "explain the amount of energy in nutrients and their conversion in calorie and joule;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o09",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 9,
+   "text": "explain the importance of body mass index (BMI) and body mass ratio (BMR);",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o10",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 10,
+   "text": "determine BMI and BMR;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o11",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 11,
+   "text": "determine the relation between BMR and energy spent;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o12",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 12,
+   "text": "determine how BMI differs according to the age and sex;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o13",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 13,
+   "text": "explain the importance of exercise and rest for good health;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o14",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 14,
+   "text": "explain the necessity of using chemicals in preserving foods;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o15",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 15,
+   "text": "analyse the effect of using excessive chemicals and colours in food on the human body;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o16",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 16,
+   "text": "describe the structure and functions of the alimentary canal along with accessory glands;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o17",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 17,
+   "text": "draw a labeled diagram of the main parts of alimentary canal;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o18",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 18,
+   "text": "explain the functions of the liver;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o19",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 19,
+   "text": "explain the functions of the pancreas;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o20",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 20,
+   "text": "evaluate the role of enzymes in digestion;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o21",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 21,
+   "text": "describe the different symptoms, remedies and prevention of different intestinal diseases;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o22",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 22,
+   "text": "make yourself and other family members aware about intestinal diseases for healthy living;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o23",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 23,
+   "text": "make a list of food consumed in last seven days and compare with the balanced food;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o24",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 24,
+   "text": "draw a poster to raise awareness among people regarding the contribution of nutrition to healthy living;",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:o25",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "number": 25,
+   "text": "make yourself and others aware about the contribution of nutrition to healthy living.",
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:o01",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "number": 1,
+   "text": "explain the conception of plant's gaseous exchange;",
+   "page": {
+    "printed": 158,
+    "pdf": 163
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:o02",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "number": 2,
+   "text": "explain the function of main organs of respiratory system;",
+   "page": {
+    "printed": 158,
+    "pdf": 163
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:o03",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "number": 3,
+   "text": "describe the structure and function of lungs;",
+   "page": {
+    "printed": 158,
+    "pdf": 163
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:o04",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "number": 4,
+   "text": "describe the respiration process and the gaseous exchange in human;",
+   "page": {
+    "printed": 158,
+    "pdf": 163
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:o05",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "number": 5,
+   "text": "explain the symptoms, causes, remedy and the preventive measures of the diseases of respiratory system;",
+   "page": {
+    "printed": 158,
+    "pdf": 163
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:o06",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "number": 6,
+   "text": "determine the nature of exhaled air;",
+   "page": {
+    "printed": 158,
+    "pdf": 163
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:o07",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "number": 7,
+   "text": "draw the labelled diagram of lung;",
+   "page": {
+    "printed": 158,
+    "pdf": 163
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:o08",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "number": 8,
+   "text": "create awareness to prevent respiratory diseases.",
+   "page": {
+    "printed": 158,
+    "pdf": 163
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:o01",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "number": 1,
+   "text": "explain excretion in the human body;",
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:o02",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "number": 2,
+   "text": "describe the production of excretory products in the human body;",
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:o03",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "number": 3,
+   "text": "describe the structure and functions of the kidneys;",
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:o04",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "number": 4,
+   "text": "describe the structure and functions of nephrons; cxplain the role of the kidneys in osmoregulation;",
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:o05",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "number": 5,
+   "text": "describe the formation of kidney stones, remedies and prevention;",
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:o06",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "number": 6,
+   "text": "describe the symptoms of kidney failure and what measures are to be taken in these respects;",
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:o07",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "number": 7,
+   "text": "explain the role of dialysis to maintain the normal functions of the kidneys;",
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:o08",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "number": 8,
+   "text": "explain the concept of kidney transplantation and posthumous kidney donation;",
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:o09",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "number": 9,
+   "text": "describe the diseases of the urinary tract and the measures taken to keep it free from diseases;",
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:o10",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "number": 10,
+   "text": "investigate public opinion about posthumous kidney donation;",
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:o11",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "number": 11,
+   "text": "draw a labeled diagram of human kidneys and nephrons;",
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:o12",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "number": 12,
+   "text": "draw a poster to create social awareness about posthumous kidney donation;",
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:o13",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "number": 13,
+   "text": "draw a leaflet to create awareness to keep kidney and urinary tract (ureter) free from diseases;",
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:o14",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "number": 14,
+   "text": "create awareness about to keep kidney and urinary tract healthy;",
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:o15",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "number": 15,
+   "text": "create social awareness about posthumous kidney donation.",
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:o01",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "number": 1,
+   "text": "describe the human skeleton;",
+   "page": {
+    "printed": 187,
+    "pdf": 192
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:o02",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "number": 2,
+   "text": "explain the role of the skeleton in firmness and locomotion;",
+   "page": {
+    "printed": 187,
+    "pdf": 192
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:o03",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "number": 3,
+   "text": "explain the function of different kinds of bone and bone joints;",
+   "page": {
+    "printed": 187,
+    "pdf": 192
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:o04",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "number": 4,
+   "text": "explain the function of muscles;",
+   "page": {
+    "printed": 187,
+    "pdf": 192
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:o05",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "number": 5,
+   "text": "explain the functions of tendons and ligaments;",
+   "page": {
+    "printed": 187,
+    "pdf": 192
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:o06",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "number": 6,
+   "text": "describe the causes, symptoms and remedy of osteoporosis;",
+   "page": {
+    "printed": 187,
+    "pdf": 192
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:o07",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "number": 7,
+   "text": "describe the causes, symptoms and remedy of arthritis;",
+   "page": {
+    "printed": 187,
+    "pdf": 192
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:o08",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "number": 8,
+   "text": "investigate the reasons of osteoporosis and arthritis;",
+   "page": {
+    "printed": 187,
+    "pdf": 192
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:o09",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "number": 9,
+   "text": "draw and label different parts of the skeleton;",
+   "page": {
+    "printed": 187,
+    "pdf": 192
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:o10",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "number": 10,
+   "text": "make awareness about the soundness of bones.",
+   "page": {
+    "printed": 187,
+    "pdf": 192
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:o01",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "number": 1,
+   "text": "explain the co-ordination system in plants;",
+   "page": {
+    "printed": 200,
+    "pdf": 205
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:o02",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "number": 2,
+   "text": "explain the co-ordination system in animals;",
+   "page": {
+    "printed": 200,
+    "pdf": 205
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:o03",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "number": 3,
+   "text": "explain the functions of the different parts of the nervous system;",
+   "page": {
+    "printed": 200,
+    "pdf": 205
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:o04",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "number": 4,
+   "text": "explain the structure and functions of a neuron;",
+   "page": {
+    "printed": 200,
+    "pdf": 205
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:o05",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "number": 5,
+   "text": "explain reflex actions;",
+   "page": {
+    "printed": 200,
+    "pdf": 205
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:o06",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "number": 6,
+   "text": "explain emotional transmission;",
+   "page": {
+    "printed": 200,
+    "pdf": 205
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:o07",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "number": 7,
+   "text": "explain the main functions of hormones;",
+   "page": {
+    "printed": 200,
+    "pdf": 205
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:o08",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "number": 8,
+   "text": "describe irregular secretion of hormones that creates physical problems;",
+   "page": {
+    "printed": 200,
+    "pdf": 205
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:o09",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "number": 9,
+   "text": "describe the causes and symptoms of stroke;",
+   "page": {
+    "printed": 200,
+    "pdf": 205
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:o10",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "number": 10,
+   "text": "describe instant measures to be taken against stroke and its treatment;",
+   "page": {
+    "printed": 200,
+    "pdf": 205
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:o11",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "number": 11,
+   "text": "describe nervous disorders’ symptoms, causes, and remedies;",
+   "page": {
+    "printed": 200,
+    "pdf": 205
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:o12",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "number": 12,
+   "text": "analyse the effects of tobacco and drugs in coordinating activities;",
+   "page": {
+    "printed": 200,
+    "pdf": 205
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:o13",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "number": 13,
+   "text": "investigate the cause of physical disorders regarding hormones; raise awareness regarding the harmful effects of drugs or addiction;",
+   "page": {
+    "printed": 200,
+    "pdf": 205
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:o14",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "number": 14,
+   "text": "draw a leaflet or poster regarding the harmful effects of drugs or addiction;",
+   "page": {
+    "printed": 200,
+    "pdf": 205
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:o15",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "number": 15,
+   "text": "be aware of the harmful effects of tobacco and drugs on the nervous system.",
+   "page": {
+    "printed": 200,
+    "pdf": 205
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:o01",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "number": 1,
+   "text": "explain the concept and significance of reproduction in organisms;",
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:o02",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "number": 2,
+   "text": "describe the functions of a flower as a reproductive organ;",
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:o03",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "number": 3,
+   "text": "explain sexual reproduction in plants with the life cycle of flowering plants;",
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:o04",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "number": 4,
+   "text": "explain the asexual and sexual reproduction of animals;",
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:o05",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "number": 5,
+   "text": "explain the nature of reproduction;",
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:o06",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "number": 6,
+   "text": "make differences between external and internal fertilization;",
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:o07",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "number": 7,
+   "text": "describe the steps of human reproduction with the help of block picture;",
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:o08",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "number": 8,
+   "text": "explain the role of hormones in reproduction;",
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:o09",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "number": 9,
+   "text": "explain the development of embryos;",
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:o10",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "number": 10,
+   "text": "explain the mode of transmission, prevention and remedy of AIDS in the human body;",
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:o11",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "number": 11,
+   "text": "explain the preventive measures of AIDS on the resistance of body;",
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:o12",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "number": 12,
+   "text": "draw the poster and leaflet describing the prevention of AIDS;",
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:o13",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "number": 13,
+   "text": "show sympathy towards AIDS patient.",
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:o01",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "number": 1,
+   "text": "explain the concept of heredity;",
+   "page": {
+    "printed": 250,
+    "pdf": 255
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:o02",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "number": 2,
+   "text": "describe the components containing the behavioural materials obtained through generations;",
+   "page": {
+    "printed": 250,
+    "pdf": 255
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:o03",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "number": 3,
+   "text": "explain the transmission of behavioural characteristics from generation to generation;",
+   "page": {
+    "printed": 250,
+    "pdf": 255
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:o04",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "number": 4,
+   "text": "explain the replication of DNA;",
+   "page": {
+    "printed": 250,
+    "pdf": 255
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:o05",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "number": 5,
+   "text": "explain the role of DNA in transferring heredity materials;",
+   "page": {
+    "printed": 250,
+    "pdf": 255
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:o06",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "number": 6,
+   "text": "explain the necessity of DNA tests;",
+   "page": {
+    "printed": 250,
+    "pdf": 255
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:o07",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "number": 7,
+   "text": "explain the role of a male in determining the gender of an offspring;",
+   "page": {
+    "printed": 250,
+    "pdf": 255
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:o08",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "number": 8,
+   "text": "explain the causes and results of genetic disorders;",
+   "page": {
+    "printed": 250,
+    "pdf": 255
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:o09",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "number": 9,
+   "text": "explain the cenception of the biological evolution;",
+   "page": {
+    "printed": 250,
+    "pdf": 255
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:o10",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "number": 10,
+   "text": "describe the natural selection theory of biological evolution;",
+   "page": {
+    "printed": 250,
+    "pdf": 255
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:o11",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "number": 11,
+   "text": "explain the significance of biological evolution in the survival of species;",
+   "page": {
+    "printed": 250,
+    "pdf": 255
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:o12",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "number": 12,
+   "text": "determine the differences between the similar and dissimilar features of the mother and father; conceive the roles of DNA test in our life.",
+   "page": {
+    "printed": 250,
+    "pdf": 255
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:o01",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "number": 1,
+   "text": "explain ecosystem;",
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:o02",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "number": 2,
+   "text": "explain the interrelationship between the elements of an ecosystem;",
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:o03",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "number": 3,
+   "text": "explain food chain and food web;",
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:o04",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "number": 4,
+   "text": "draw the comparisons between the energy flow and the nutrient elements of an ecosystem;",
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:o05",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "number": 5,
+   "text": "compare the relationship between energy performances in between trophic levels;",
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:o06",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "number": 6,
+   "text": "explain the concept of an energy pyramid;",
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:o07",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "number": 7,
+   "text": "explain the concept of an ecological pyramid in limiting the food chains;",
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:o08",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "number": 8,
+   "text": "explain biodiversity and types of biodiversity;",
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:o09",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "number": 9,
+   "text": "evaluate the role of biodiversity in sustaining the stability of an ecosystem;",
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:o10",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "number": 10,
+   "text": "explain the interactions and interdependence in between different organisms in maintaining balance in environment;",
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:o11",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "number": 11,
+   "text": "explain the methods used for the conservation of the environment;",
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:o12",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "number": 12,
+   "text": "analyse the importance of the conservation of the environment in maintaining the balance in it;",
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:o13",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "number": 13,
+   "text": "determine the reciprocal interrelationship between the producers, consumers and transformers in a given locality;",
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:o14",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "number": 14,
+   "text": "identify the causes of pollution of all the elements of a specific environment;",
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:o15",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "number": 15,
+   "text": "draw a flowchart showing the flow of energy, food chain and food web in an ecosystem; perceive the contribution of the components of an ecosystem to the maintenance of balance of the environment and will be cautious for its preservation.",
+   "page": {
+    "printed": 279,
+    "pdf": 284
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:o01",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "number": 1,
+   "text": "explain the concept and significance of biotechnology;",
+   "page": {
+    "printed": 302,
+    "pdf": 307
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:o02",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "number": 2,
+   "text": "explain tissue culture;",
+   "page": {
+    "printed": 302,
+    "pdf": 307
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:o03",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "number": 3,
+   "text": "describe the use of tissue culture in developing crops;",
+   "page": {
+    "printed": 302,
+    "pdf": 307
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:o04",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "number": 4,
+   "text": "explain the objectives of genetic engineering;",
+   "page": {
+    "printed": 302,
+    "pdf": 307
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:o05",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "number": 5,
+   "text": "describe the use of genetic engineering in producing crops;",
+   "page": {
+    "printed": 302,
+    "pdf": 307
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:o06",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "number": 6,
+   "text": "describe the use of genetic engineering in producing insulin and hormones;",
+   "page": {
+    "printed": 302,
+    "pdf": 307
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:o07",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "number": 7,
+   "text": "evaluate the efficacy of biotechnology;",
+   "page": {
+    "printed": 302,
+    "pdf": 307
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:o08",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "number": 8,
+   "text": "describe the use of biotechnology in curing diseases of animals;",
+   "page": {
+    "printed": 302,
+    "pdf": 307
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:o09",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "number": 9,
+   "text": "draw posters about the use of biotechnology and genetic engineering;",
+   "page": {
+    "printed": 302,
+    "pdf": 307
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:o10",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "number": 10,
+   "text": "understand the contribution of biotechnology in our everyday life.",
+   "page": {
+    "printed": 302,
+    "pdf": 307
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ],
+ "worked_examples": [
+  {
+   "id": "nctb:bio:c9-10:en:ch02:we01",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "topic_id": "nctb:bio:c9-10:en:ch02:t03",
+   "number": 1,
+   "page": {
+    "printed": 32,
+    "pdf": 37
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:we02",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "topic_id": "nctb:bio:c9-10:en:ch02:t03",
+   "number": 2,
+   "page": {
+    "printed": 32,
+    "pdf": 37
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:we03",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "topic_id": "nctb:bio:c9-10:en:ch02:t03",
+   "number": 3,
+   "page": {
+    "printed": 33,
+    "pdf": 38
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:we04",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "topic_id": "nctb:bio:c9-10:en:ch02:t03",
+   "number": 4,
+   "page": {
+    "printed": 33,
+    "pdf": 38
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:we05",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "topic_id": "nctb:bio:c9-10:en:ch02:t03",
+   "number": 5,
+   "page": {
+    "printed": 33,
+    "pdf": 38
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:we06",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "topic_id": "nctb:bio:c9-10:en:ch02:t03",
+   "number": 6,
+   "page": {
+    "printed": 33,
+    "pdf": 38
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:we01",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "topic_id": "nctb:bio:c9-10:en:ch05:t04",
+   "number": 1,
+   "page": {
+    "printed": 102,
+    "pdf": 107
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:we02",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "topic_id": "nctb:bio:c9-10:en:ch05:t05",
+   "number": 2,
+   "page": {
+    "printed": 103,
+    "pdf": 108
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:we01",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "topic_id": "nctb:bio:c9-10:en:ch10:t03",
+   "number": 1,
+   "page": {
+    "printed": 212,
+    "pdf": 217
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ],
+ "exercises": [
+  {
+   "id": "nctb:bio:c9-10:en:ch01:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 14,
+    "pdf": 19
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch01:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 14,
+    "pdf": 19
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch01:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 14,
+    "pdf": 19
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch01:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 14,
+    "pdf": 19
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch01:ex:cq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 15,
+    "pdf": 20
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch01:ex:sq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 15,
+    "pdf": 20
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch01:ex:sq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 15,
+    "pdf": 20
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch01:ex:sq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 15,
+    "pdf": 20
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch01:ex:sq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 15,
+    "pdf": 20
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch01:ex:sq05",
+   "chapter_id": "nctb:bio:c9-10:en:ch01",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 15,
+    "pdf": 20
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 46,
+    "pdf": 51
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 46,
+    "pdf": 51
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 46,
+    "pdf": 51
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 46,
+    "pdf": 51
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:ex:cq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 47,
+    "pdf": 52
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:ex:sq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 47,
+    "pdf": 52
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:ex:sq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 47,
+    "pdf": 52
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:ex:sq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 47,
+    "pdf": 52
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:ex:sq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 47,
+    "pdf": 52
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch02:ex:sq05",
+   "chapter_id": "nctb:bio:c9-10:en:ch02",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 47,
+    "pdf": 52
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 59,
+    "pdf": 64
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 59,
+    "pdf": 64
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 60,
+    "pdf": 65
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 60,
+    "pdf": 65
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:ex:cq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 60,
+    "pdf": 65
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:ex:sq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 60,
+    "pdf": 65
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:ex:sq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 60,
+    "pdf": 65
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:ex:sq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 60,
+    "pdf": 65
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:ex:sq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 60,
+    "pdf": 65
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch03:ex:sq05",
+   "chapter_id": "nctb:bio:c9-10:en:ch03",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 60,
+    "pdf": 65
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 79,
+    "pdf": 84
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 79,
+    "pdf": 84
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 80,
+    "pdf": 85
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 80,
+    "pdf": 85
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:ex:cq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 81,
+    "pdf": 86
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:ex:sq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 81,
+    "pdf": 86
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:ex:sq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 81,
+    "pdf": 86
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:ex:sq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 81,
+    "pdf": 86
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:ex:sq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 81,
+    "pdf": 86
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch04:ex:sq05",
+   "chapter_id": "nctb:bio:c9-10:en:ch04",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 81,
+    "pdf": 86
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 120,
+    "pdf": 125
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 120,
+    "pdf": 125
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 120,
+    "pdf": 125
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 120,
+    "pdf": 125
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:ex:cq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 121,
+    "pdf": 126
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:ex:cq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 121,
+    "pdf": 126
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:ex:sq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 121,
+    "pdf": 126
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:ex:sq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 121,
+    "pdf": 126
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:ex:sq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 121,
+    "pdf": 126
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:ex:sq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 121,
+    "pdf": 126
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch05:ex:sq05",
+   "chapter_id": "nctb:bio:c9-10:en:ch05",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 121,
+    "pdf": 126
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 155,
+    "pdf": 160
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 155,
+    "pdf": 160
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 155,
+    "pdf": 160
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 155,
+    "pdf": 160
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:ex:cq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 156,
+    "pdf": 161
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:ex:cq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 156,
+    "pdf": 161
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:ex:sq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 156,
+    "pdf": 161
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:ex:sq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 156,
+    "pdf": 161
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:ex:sq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 156,
+    "pdf": 161
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:ex:sq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 156,
+    "pdf": 161
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch06:ex:sq05",
+   "chapter_id": "nctb:bio:c9-10:en:ch06",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 156,
+    "pdf": 161
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 173,
+    "pdf": 178
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 173,
+    "pdf": 178
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:ex:cq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 173,
+    "pdf": 178
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:ex:cq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 174,
+    "pdf": 179
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:ex:sq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 174,
+    "pdf": 179
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:ex:sq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 174,
+    "pdf": 179
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:ex:sq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 174,
+    "pdf": 179
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:ex:sq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 174,
+    "pdf": 179
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch07:ex:sq05",
+   "chapter_id": "nctb:bio:c9-10:en:ch07",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 174,
+    "pdf": 179
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 184,
+    "pdf": 189
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 184,
+    "pdf": 189
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 184,
+    "pdf": 189
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 184,
+    "pdf": 189
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:ex:cq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 185,
+    "pdf": 190
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:ex:sq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 185,
+    "pdf": 190
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:ex:sq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 185,
+    "pdf": 190
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:ex:sq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 185,
+    "pdf": 190
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:ex:sq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 185,
+    "pdf": 190
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch08:ex:sq05",
+   "chapter_id": "nctb:bio:c9-10:en:ch08",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 185,
+    "pdf": 190
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 197,
+    "pdf": 202
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 197,
+    "pdf": 202
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 197,
+    "pdf": 202
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 197,
+    "pdf": 202
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:ex:cq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 198,
+    "pdf": 203
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:ex:sq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 198,
+    "pdf": 203
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:ex:sq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 198,
+    "pdf": 203
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:ex:sq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 198,
+    "pdf": 203
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:ex:sq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 198,
+    "pdf": 203
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch09:ex:sq05",
+   "chapter_id": "nctb:bio:c9-10:en:ch09",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 198,
+    "pdf": 203
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 224,
+    "pdf": 229
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 224,
+    "pdf": 229
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 224,
+    "pdf": 229
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 224,
+    "pdf": 229
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:ex:cq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 225,
+    "pdf": 230
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:ex:cq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 225,
+    "pdf": 230
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:ex:sq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 225,
+    "pdf": 230
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:ex:sq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 225,
+    "pdf": 230
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:ex:sq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 225,
+    "pdf": 230
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:ex:sq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 225,
+    "pdf": 230
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch10:ex:sq05",
+   "chapter_id": "nctb:bio:c9-10:en:ch10",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 225,
+    "pdf": 230
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 247,
+    "pdf": 252
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 247,
+    "pdf": 252
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 247,
+    "pdf": 252
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 247,
+    "pdf": 252
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:ex:cq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 248,
+    "pdf": 253
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:ex:sq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 248,
+    "pdf": 253
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:ex:sq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 248,
+    "pdf": 253
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:ex:sq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 248,
+    "pdf": 253
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:ex:sq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 248,
+    "pdf": 253
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch11:ex:sq05",
+   "chapter_id": "nctb:bio:c9-10:en:ch11",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 248,
+    "pdf": 253
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 276,
+    "pdf": 281
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 276,
+    "pdf": 281
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 276,
+    "pdf": 281
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 276,
+    "pdf": 281
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:ex:cq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 277,
+    "pdf": 282
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:ex:sq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 277,
+    "pdf": 282
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:ex:sq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 277,
+    "pdf": 282
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:ex:sq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 277,
+    "pdf": 282
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch12:ex:sq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch12",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 277,
+    "pdf": 282
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 299,
+    "pdf": 304
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 299,
+    "pdf": 304
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 299,
+    "pdf": 304
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 299,
+    "pdf": 304
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:ex:cq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 300,
+    "pdf": 305
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:ex:sq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 300,
+    "pdf": 305
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:ex:sq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 300,
+    "pdf": 305
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:ex:sq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 300,
+    "pdf": 305
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch13:ex:sq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch13",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 300,
+    "pdf": 305
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:ex:mcq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 311,
+    "pdf": 316
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:ex:mcq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 311,
+    "pdf": 316
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:ex:mcq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 311,
+    "pdf": 316
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:ex:mcq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 312,
+    "pdf": 317
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:ex:cq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 312,
+    "pdf": 317
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:ex:sq01",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 312,
+    "pdf": 317
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:ex:sq02",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 312,
+    "pdf": 317
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:ex:sq03",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 312,
+    "pdf": 317
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:ex:sq04",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 312,
+    "pdf": 317
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:bio:c9-10:en:ch14:ex:sq05",
+   "chapter_id": "nctb:bio:c9-10:en:ch14",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 312,
+    "pdf": 317
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ]
+}
