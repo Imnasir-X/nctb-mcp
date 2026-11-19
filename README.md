@@ -4,10 +4,12 @@ An MCP server that lets any AI assistant look up the Bangladesh NCTB curriculum 
 objective, with the official PDF page for everything it returns. Works offline (`npx`), read-only, no API keys.
 
 > **Scope:** Class 9-10 (SSC), 2026 edition, **Bangla version and English version**.
-> **Physics** has full, cross-checked section-level data. **Chemistry** and **Biology** ship OCR-extracted
-> section-level data (sections, objectives and exercise pointers, pending human review). **Higher Mathematics**
-> ships chapters plus exercise pointers — its headings are unnumbered in print, so section extraction needs a
-> separate pass. Every item is marked `verified: false` until a human checks it against the PDF page.
+> The catalogue is growing to **all 33 subjects** (science, commerce, arts and humanities). Every subject ships at
+> least chapter-level structure with official PDF pages; **Physics** has full, cross-checked section-level data,
+> **Chemistry** and **Biology** ship OCR-extracted sections, objectives and exercise pointers, and the remaining
+> subjects upgrade from `chapters` to `sections` scope as the OCR pipeline completes. Per-book depth is recorded
+> in `data/manifest.json` (`data_scope`). Every item is marked `verified: false` until a human checks it against
+> the PDF page.
 
 ```text
 You:    Give me Class 9 physics chapter 3.

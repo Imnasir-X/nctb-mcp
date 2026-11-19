@@ -32,12 +32,28 @@ describe("bundled data", () => {
     ]);
   });
 
-  it("physics data_scope is full, the three new subjects ship sections-level data without objectives parity", () => {
+  it("has the Class 9-10 books for four subjects, bn + en", () => {
+    const ids = catalog.books.map((b) => b.book.id);
+    for (const id of [
+      "nctb:bio:c9-10:bn",
+      "nctb:bio:c9-10:en",
+      "nctb:chem:c9-10:bn",
+      "nctb:chem:c9-10:en",
+      "nctb:math:c9-10:bn",
+      "nctb:math:c9-10:en",
+      "nctb:phy:c9-10:bn",
+      "nctb:phy:c9-10:en",
+    ])
+      expect(ids).toContain(id);
+    expect(new Set(ids).size).toBe(ids.length);
+    for (const b of catalog.books) expect(b.book.id).toMatch(/^nctb:[a-z]+:c9-10:(bn|en)$/);
+  });
+
+  it("physics data_scope is full, every other book is sections or chapters", () => {
     for (const b of catalog.books) {
       const scope = scopeOf(b);
-      expect(scope === "full" || scope === "sections").toBe(true);
+      expect(["full", "sections", "chapters"]).toContain(scope);
       if (b.book.subject.code === "phy") expect(scope).toBe("full");
-      else expect(scope).toBe("sections");
     }
   });
 
@@ -160,10 +176,9 @@ describe("bundled data", () => {
     }
   });
 
-  it("new-subject books carry extracted sections but stay out of the full-coverage contract", () => {
+  it("every book has a coherent chapter list and pages inside its PDF", () => {
     for (const b of catalog.books) {
-      if (scopeOf(b) === "full") continue;
-      expect(b.chapters.length).toBeGreaterThan(5);
+      expect(b.chapters.length).toBeGreaterThan(2);
       for (const c of b.chapters) {
         expect(c.pages.start.pdf).toBeLessThanOrEqual(c.pages.end.pdf);
         expect(c.pages.end.pdf).toBeLessThanOrEqual(b.book.source.pdf_pages);

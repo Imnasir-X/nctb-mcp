@@ -215,7 +215,7 @@ export function createServer(catalog: Catalog = Catalog.load()): McpServer {
     {
       title: "List chapters of an NCTB textbook",
       description:
-        "Start here. Lists the chapters of a Bangladesh NCTB textbook (Class 9-10 / SSC, 2026 edition, Bangla and English versions). Full section-level data: Physics. Section-level data extracted and pending review: Chemistry, Biology. Chapters with exercise pointers: Higher Mathematics. Returns chapter IDs, titles, page ranges and topic counts. Use the returned IDs with get_topic, get_objectives and get_exercises.",
+        "Start here. Lists the chapters of a Bangladesh NCTB textbook (Class 9-10 / SSC, 2026 edition, Bangla and English versions). Covers all Class 9-10 subjects (science, commerce, arts): chapter-level at minimum; Physics has full section-level data, Chemistry and Biology section-level data pending review. Returns chapter IDs, titles, page ranges and topic counts. Use the returned IDs with get_topic, get_objectives and get_exercises.",
       inputSchema: { subject: subjectSchema, class: classSchema, version: versionSchema },
       annotations: ro,
     },

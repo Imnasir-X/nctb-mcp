@@ -213,9 +213,10 @@
     "data_scope": {
      "enum": [
       "full",
-      "sections"
+      "sections",
+      "chapters"
      ],
-     "description": "full = chapters, sections, objectives and exercise pointers extracted and cross-checked. sections = chapter and section structure extracted; objective/exercise coverage is partial and flagged for review."
+     "description": "full = chapters, sections, objectives and exercise pointers extracted and cross-checked. sections = chapter and section structure extracted; objective/exercise coverage partial and flagged. chapters = chapter structure only; sections pending OCR extraction."
     },
     "source": {
      "type": "object",
