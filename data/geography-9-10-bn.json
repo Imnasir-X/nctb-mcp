@@ -1,0 +1,2852 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.3.0",
+ "generated_at": "2026-11-20",
+ "book": {
+  "subject": {
+   "code": "geo",
+   "name_bn": "ভূগোল ও পরিবেশ",
+   "name_en": "Geography and Environment",
+   "aliases": [
+    "geography",
+    "geo",
+    "ভূগোল"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:geo:c9-10:bn",
+  "version": "bn",
+  "title": "ভূগোল ও পরিবেশ, নবম ও দশম শ্রেণি (২০২৬ শিক্ষাবর্ষের জন্য পরিমার্জিত)",
+  "rights_statement": "[প্রকাশক কর্তৃক সর্বস্বত্ব সংরক্ষিত] — গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক বিনামূল্যে বিতরণের জন্য",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1IBxZA_tZ8Ayhcm0s7IAOXaju0iFt2Xsc/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/4KF6LH72lUYwYBB"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Geography and Environment (bn).pdf",
+   "sha256": "54143857fe880659c23f35469eb512d410ff8b8ee5fe75c4700cb28b33c8f79a",
+   "bytes": 68511711,
+   "pdf_pages": 238,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "id": "nctb:geo:c9-10:bn:ch01",
+   "concept_key": "nctb:geo:c9-10:ch01",
+   "number": 1,
+   "title": "অধ্যায় ভূগোল ও পরিবেশ",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": 7,
+     "pdf": 12
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch02",
+   "concept_key": "nctb:geo:c9-10:ch02",
+   "number": 2,
+   "title": "অধ্যায় মহাবিশ্ব ও আমাদের পৃথিবী",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 8,
+     "pdf": 13
+    },
+    "end": {
+     "printed": 30,
+     "pdf": 35
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch03",
+   "concept_key": "nctb:geo:c9-10:ch03",
+   "number": 3,
+   "title": "অধ্যায় মানচিত্র পঠন ও ব্যবহার",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 31,
+     "pdf": 36
+    },
+    "end": {
+     "printed": 46,
+     "pdf": 51
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 5,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch04",
+   "concept_key": "nctb:geo:c9-10:ch04",
+   "number": 4,
+   "title": "অধ্যায় পৃথিবীর অভ্যন্তরীণ ও বাহ্যিক গঠন",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 47,
+     "pdf": 52
+    },
+    "end": {
+     "printed": 68,
+     "pdf": 73
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 2,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch05",
+   "concept_key": "nctb:geo:c9-10:ch05",
+   "number": 5,
+   "title": "অধ্যায় বায়ুমণ্ডল",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 69,
+     "pdf": 74
+    },
+    "end": {
+     "printed": 90,
+     "pdf": 95
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 5,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch06",
+   "concept_key": "nctb:geo:c9-10:ch06",
+   "number": 6,
+   "title": "অধ্যায় বারিমণ্ডল",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 91,
+     "pdf": 96
+    },
+    "end": {
+     "printed": 104,
+     "pdf": 109
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 3,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "exercise-number-gap:mcq03",
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch07",
+   "concept_key": "nctb:geo:c9-10:ch07",
+   "number": 7,
+   "title": "অধ্যায় জনসংখ্যা",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 105,
+     "pdf": 110
+    },
+    "end": {
+     "printed": 125,
+     "pdf": 130
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 3,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch08",
+   "concept_key": "nctb:geo:c9-10:ch08",
+   "number": 8,
+   "title": "অধ্যায় মানববসতি",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 126,
+     "pdf": 131
+    },
+    "end": {
+     "printed": 137,
+     "pdf": 142
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 3,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found",
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch09",
+   "concept_key": "nctb:geo:c9-10:ch09",
+   "number": 9,
+   "title": "অধ্যায় সম্পদ ও অর্থনৈতিক কার্যাবলি",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 138,
+     "pdf": 143
+    },
+    "end": {
+     "printed": 146,
+     "pdf": 151
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 5,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch10",
+   "concept_key": "nctb:geo:c9-10:ch10",
+   "number": 10,
+   "title": "অধ্যায় বাংলাদেশের ভৌগোলিক বিবরণ",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 147,
+     "pdf": 152
+    },
+    "end": {
+     "printed": 163,
+     "pdf": 168
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 5,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch11",
+   "concept_key": "nctb:geo:c9-10:ch11",
+   "number": 11,
+   "title": "অধ্যায় বাংলাদেশের সম্পদ ও শিল্প",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 164,
+     "pdf": 169
+    },
+    "end": {
+     "printed": 184,
+     "pdf": 189
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch12",
+   "concept_key": "nctb:geo:c9-10:ch12",
+   "number": 12,
+   "title": "অধ্যায় বাংলাদেশের যোগাযোগ ব্যবস্থা ও বাণিজ্য",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 185,
+     "pdf": 190
+    },
+    "end": {
+     "printed": 197,
+     "pdf": 202
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch13",
+   "concept_key": "nctb:geo:c9-10:ch13",
+   "number": 13,
+   "title": "অধ্যায় বাংলাদেশের Bye কর্মকান্ড ও পরিবেশের ভারসাম্য",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 198,
+     "pdf": 203
+    },
+    "end": {
+     "printed": 207,
+     "pdf": 212
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 3,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch14",
+   "concept_key": "nctb:geo:c9-10:ch14",
+   "number": 14,
+   "title": "অধ্যায় বাংলাদেশের প্রাকৃতিক দুর্যোগ",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 208,
+     "pdf": 213
+    },
+    "end": {
+     "printed": 224,
+     "pdf": 229
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch15",
+   "concept_key": "nctb:geo:c9-10:ch15",
+   "number": 15,
+   "title": "অধ্যায় টেকসই উন্নয়ন-অভীষ্ট (এসডিজি)",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 225,
+     "pdf": 230
+    },
+    "end": {
+     "printed": 233,
+     "pdf": 238
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 3,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  }
+ ],
+ "topics": [],
+ "objectives": [
+  {
+   "id": "nctb:geo:c9-10:bn:ch01:o01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch01",
+   "number": 1,
+   "text": "ভূগোল ও পরিবেশের ধারণা ব্যাখ্যা করতে পারব; ভূগোলের পরিধি বর্ণনা করতে পারব; ভূগোল ও পরিবেশ পাঠের গুরুতৃ ব্যাখ্যা করতে পারব; ভূগোল ও পরিবেশের উপাদানসমূহের আন্তসম্পর্ক বিশ্লেষণ করতে পারব।",
+   "page": {
+    "printed": 1,
+    "pdf": 6
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch02:o01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch02",
+   "number": 1,
+   "text": "মহাবিশ্বের জ্যোতিষ্কমন্ডলে সৌরজগৎ, পৃথিবী ও অন্যান্য গ্রহ-উপগ্রহের অবস্থান এবং বৈশিষ্ট্য বর্ণনা করতে পারব; পৃথিবীর আকার-আকৃতি ও উপগ্রহ সম্বন্ধে বর্ণনা করতে পারব; অক্ষরেখা ও দ্রাধিমারেখাসহ গুরুত্বপূর্ণ রেখাসমূহ ব্যাখ্যা এবং এদের গুরুত্ব বর্ণনা করতে পারব্য অক্ষরেখা ও দ্রাধিমারেখা ব্যবহার করে মানচিত্রে [Sq স্থান শনাক্ত করতে পারব; আফিক গতি ও বার্ষিক গতি ব্যাখ্যা করতে পারব দিবারাত্রি সংঘটন ও.ক্বাস-বৃদ্ধির কারণ এবং প্রভাব বিশ্লেষণ করতে পারব খতু পরিবর্তনের কারণ ও প্রভাব বিশ্লেষণ করতে পারব; বিভিন্ন উপকরণের সাহায্যে সৌরজগতের মডেল তৈরি করতে পারব; আমাদের বসবাসের একমাত্র পৃথিবী সম্পর্কে আরও বেশি জানার আগ্রহ প্রকাশ করব।",
+   "page": {
+    "printed": 8,
+    "pdf": 13
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch03:o01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch03",
+   "number": 1,
+   "text": "মানচিত্রের ধারণা, গুরুতৃ ও ব্যবহার ব্যাখ্যা করতে পারব; বিভিনন প্রকার মানচিত্র সম্পর্কে বর্ণনা দিতে পারব; মানচিত্রে তথ্য-উপাত্ত উপস্থাপন নিয়মাবলি বর্ণনা করতে পারব এবং ব্যবহারিক প্রয়োগ করতে পারব; স্থানীয় সময় ও প্রমাণ সময় বর্ণনা করতে পারব; স্থানভেদে সময়ের পার্থক্য হওয়ার কারণ ব্যাখ্যা করতে পারব; মানচিত্রে জিপিএস ও জিআইএস-এর ব্যবহার সম্পর্কে ধারণা লাভ করব।",
+   "page": {
+    "printed": 31,
+    "pdf": 36
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch04:o01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch04",
+   "number": 1,
+   "text": "পৃথিবীর অভ্যন্তরীণ গঠন বর্ণনা করতে পারব; পৃথিবীর বাহ্যিক গঠন বর্ণনা করতে পারব; ভূপৃষ্ঠের পরিবর্তন প্রক্রিয়া ব্যাখ্যা করতে পারব; ভূপৃষ্ঠের আকস্মিক পরিবর্তনের কারণ ব্যাখ্যা করতে পারব ভূমিকম্প, সুনামি ও অগ্্যৎপাতের কারণ এবং ফলাফল বিশ্লেষণ করতে পারব; ভূপৃষ্ঠের ধীর পরিবর্তনের কারণ ও ফলাফল ব্যাখ্যা করতে পারব; নদীর গতিপথ ব্যাখ্যা করতে পারব; নদী দ্বারা সৃষ্ট ভূমিরূপ বর্ণনা করতে পারব; পৃথিবীর প্রধান ভূমিরূপের বৈশিষ্ট্য বর্ণনা করতে পারব; তথ্য-উপাত্ত পর্যালোচনার ভিত্তিতে অতীতে সংঘটিত কোনো একটি সুনামির প্রভাব বিশ্লেষণ করতে পারব।",
+   "page": {
+    "printed": 47,
+    "pdf": 52
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch05:o01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch05",
+   "number": 1,
+   "text": "বায়ুর উপাদান বর্ণনা করতে পারব বায়ুমণ্ডলের স্তরবিন্যাস ও তাদের বৈশিষ্ট্য ব্যাখ্যা করতে পারব; বায়ুমণ্ডলের বিভিনন স্তরের গুরুতু বিশ্লেষণ করতে পারব; আবহাওয়া ও জলবায়ুর উপাদান বর্ণনা করতে পারব; জলবায়ুর নিয়ামক বর্ণনা করতে পারব; বায়ুপ্রবাহ ও তার প্রভাব বিশ্লেষণ করতে পারব; পানিচক্র ব্যাখ্যা করতে পারব; বিভিনন প্রকারের বৃষ্ণিপাত সম্পর্কে বর্ণনা করতে পারব; বিশ্ব উষ্ণায়ন ও জলবায়ু পরিবর্তনের পারস্পরিক সম্পর্ক ব্যাখ্যা করতে পারব; বিশ্ব জলবায়ু পরিবর্তনের ফলে পৃথিবীর বিভিন্ন অঞ্চলে সম্ভাব্য যে প্রভাব পড়বে তা বিশ্লেষণ করতে পারব জলবায়ু পরিবর্তনে বাংলাদেশের মানুষের বাসস্থান, জীবন-জীবিকা ও পরিবেশের উপর সম্ভাব্য প্রভাব বিশ্লেষণ করতে পারব।",
+   "page": {
+    "printed": 69,
+    "pdf": 74
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch06:o01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch06",
+   "number": 1,
+   "text": "বারিমণ্ডলের ধারণা ব্যাখ্যা করতে পারব; মহাসাগর, সাগর ও উপসাগর বর্ণনা করতে পারব; সমুদ্র তলদেশের ভূমিরূপ ও সামুদ্রিক সম্পদ বর্ণনা করতে পারব; সমুদ্রস্রোতের কারণ ও প্রভাব ব্যাখ্যা করতে পারব; জোয়ার-ভাটার কারণ ও প্রভাব ব্যাখ্যা করতে পারব।",
+   "page": {
+    "printed": 91,
+    "pdf": 96
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch07:o01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch07",
+   "number": 1,
+   "text": "বিশ্বের জনসংখ্যার বর্তমান পরিস্থিতি ও পরিবর্তনের ধারা ব্যাখ্যা করতে পারব; জনসংখ্যার পরিবর্তনকে প্রভাবিত করার নিয়ামকসমূহ ব্যাখ্যা করতে পারব; অভিবাসনের কারণ, সুফল ও কুফল ব্যাখ্যা করতে পারব; অভিবাসনের সুফল-কুফল সম্পর্কে সচেতন হবো এবং অন্যকেও সচেতন করব; প্রাকৃতিক সম্পদের উপর জনসংখ্যার প্রভাব বিশ্লেষণ করতে পারব জনসংখ্যা ঘনতৃ ও জনসংখ্যা বণ্টন ব্যাখ্যা করতে পারব; জনসংখ্যা ঘনতৃ ও জনসংখ্যা বণ্টনের প্রভাবকসমূহ বিশ্লেষণ করতে পারব; বাংলাদেশের বর্তমান জনসংখ্যা বৃদ্ধির হার, সৃষ্ট সমস্যা এবং সমাধানের উপায় ব্যাখ্যা করতে পারব; বাংলাদেশের জনসংখ্যা বৃদ্ধি রোধের উপায় ব্যাখ্যা করতে পারব।",
+   "page": {
+    "printed": 105,
+    "pdf": 110
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch09:o01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch09",
+   "number": 1,
+   "text": "সম্পদের ধারণা ব্যাখ্যা করতে পারব এবং সম্পদের শ্রেণিবিন্যাস করতে পারব; সম্পদ সংরক্ষণের উপায় ব্যাখ্যা করতে পারব; সম্পদ সংরক্ষণে যত্নবান হবো এবং অন্যকেও সম্পদ সংরক্ষণ করতে উৎসাহিত করব অর্থনৈতিক কার্যাবলি ব্যাখ্যা করতে পারব; অনুন্নত, উন্নয়নশীল ও উন্নত দেশের অর্থনৈতিক কার্যাবলি ব্যাখ্যা করতে পারব; শিল্প গড়ে ওঠার নিয়ামক ব্যাখ্যা করতে পারব; শিল্পের শ্রেণিবিন্যাস ও অবস্থানগত কারণ বিশ্লেষণ করতে পারব; eo আমদানি ও রপ্তানি বাণিজ্য ব্যাখ্যা করতে পারব; বাণিজ্যিক ভারসাম্য ও উন্নয়নের সম্পর্ক বিশ্লেষণ করতে পারব।",
+   "page": {
+    "printed": 138,
+    "pdf": 143
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch10:o01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch10",
+   "number": 1,
+   "text": "বাংলাদেশের ভৌগোলিক অবস্থান এবং ভূপ্রকৃতি বর্ণনা করতে পারব; বাংলাদেশের প্রধান নদ-নদী, উপনদী এবং শাখানদী সম্পর্কে বর্ণনা দিতে পারব; বাংলাদেশের নদী ও জলাশয় ভরাটের মানবসৃষ্ট কারণ, প্রভাব ও প্রতিরোধের উপায় বর্ণনা করতে পারব; নদী ও জলাশয় ভরাটের ক্ষতিকর প্রভাব সম্পর্কে সচেতনতা সৃষ্টি করতে পারব; বাংলাদেশের জলবায়ুর বৈশিষ্ট্য, ঝতুভিত্তিক তাপমাত্রা, বায়ূপ্রবাহ ও বৃষ্টিপাত সম্পর্কে বর্ণনা দিতে পারব; মৌসুমি জলবায়ুর বৈশিষ্ট্য এবং কালবৈশাখি সম্পর্কে বর্ণনা করতে পারব; কালবৈশাখি ঝড় ও বজ্্পাতের ক্ষেত্রে সতর্কতা এবং নিরাপত্তামূলক ব্যবস্থা অবলম্বন করব, অন্যকেও এ ব্যাপারে সচেতন করব।",
+   "page": {
+    "printed": 147,
+    "pdf": 152
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch11:o01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch11",
+   "number": 1,
+   "text": "বাংলাদেশের প্রধান কৃষিপণ্য ও তাদের বণ্টন বর্ণনা করতে পারব; বাংলাদেশের বিভিনুন বনাঞ্চলের গুরুতু ব্যাখ্যা করতে পারব বনজ সম্পদ সংরক্ষণে সচেতন হবো এবং সর্বত্র সচেতনতা HT FCS পারব; ECR খনিজ তেল, প্রাকৃতিক গ্যাস, কয়লা ও কঠিন শিলার অবস্থান মানচিত্রে প্রদর্শনপূর্বক বর্ণনা করতে পারব; বাংলাদেশের অর্থনীতিতে খনিজ তেল, প্রাকৃতিক গ্যাস ও কয়লার গুরুত্ব বিশ্লেষণ করতে পারব; বাংলাদেশের প্রধান শিল্প সম্পর্কে বর্ণনা দিতে পারব এবং মানচিত্রে উপস্থাপন করতে পারব; বাংলাদেশের অর্থনীতিতে পোশাক শিল্পের অবদান বিশ্লেষণ করতে পারব; বাংলাদেশের প্রধান পর্যটন কেন্দ্রের বর্ণনা করতে পারব এবং মানচিত্রে প্রদর্শন করতে পারব; বাংলাদেশের পর্যটন শিল্পের oF ও সম্ভাবনা সম্পর্কে বর্ণনা করতে পারব; পর্যটক হিসেবে পর্যটন কেন্দ্রের সুস্থ পরিবেশ সংরক্ষণে নাগরিক দায়িত্ব পালন করব।",
+   "page": {
+    "printed": 164,
+    "pdf": 169
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch12:o01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch12",
+   "number": 1,
+   "text": "বাংলাদেশের সড়কপথ, রেলপথ, নৌপথ ও আকাশপথের বর্ণনা করতে পারব; যোগাযোগ ও পরিবহনে সড়কপথ, রেলপথ, নৌপথ ও আকাশপথের গুরুত্ব বিশ্লেষণ করতে পারব; সড়কপথ, রেলপথ ও নৌপথে চলাচলের ক্ষেত্রে দুর্ঘটনা এড়াতে সর্বদা সাবধানতা অবলম্বন করব এবং অন্যকে সাবধান করব বাংলাদেশের অভ্যস্তরীণ ও বৈদেশিক বাণিজ্য ব্যাখ্যা করতে পারব; বাণিজ্য আমদানি ও রপ্তানি পণ্য সম্পর্কে বর্ণনা দিতে পারব।",
+   "page": {
+    "printed": 185,
+    "pdf": 190
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch13:o01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch13",
+   "number": 1,
+   "text": "পরিবেশের ভারসাম্য এবং ভারসাম্যহীনতা ব্যাখ্যা করতে পারব; উন্নয়ন কর্মকাণ্ডের ব্যাখ্যাসহ বাংলাদেশের কয়েকটি উল্লেখযোগ্য উন্নয়ন কর্মকাণ্ড বর্ণনা করতে পারব; বাংলাদেশের বিভিন্ন উন্নয়ন কর্মকাণ্ড সম্পাদনের সময় কীভাবে পরিবেশ দূষণ ও ভারসাম্যহীন হয়ে পড়ছে তা ব্যাখ্যা করতে পারব; পরিবেশের ভারসাম্যহীনতার পরিণতি বিশ্লেষণ করতে পারব; উন্নয়ন কর্মকাণ্ড কীভাবে পরিবেশের ভারসাম্যকে প্রভাবিত করে তা বিশ্লেষণ করতে পারব; বাংলাদেশের উন্নয়ন কর্মকাণ্ড সম্পাদনের সময় পরিবেশের ভারসাম্য রক্ষার উপায় ব্যাখ্যা করতে পারব; পরিবেশ ভারসাম্যহীনতার পরিণতি সম্পর্কে সচেতন হবো এবং অন্যকে সচেতন করব।",
+   "page": {
+    "printed": 198,
+    "pdf": 203
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch14:o01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch14",
+   "number": 1,
+   "text": "দুর্যোগ ও বিপর্যয় ব্যাখ্যা করতে পারব; বাংলাদেশের বিভিন্ন ধরনের প্রাকৃতিক দুর্যোগ বর্ণনা করতে পারব; দুর্যোগ ব্যবস্থাপনা চক্রু ব্যাখ্যা করতে পারব; বাংলাদেশের উপকূলীয় প্রাকৃতিক দুর্যোগ ব্যবস্থাপনার উপায় ব্যাখ্যা করতে পারব; ভূমিকম্পের মাত্রা ও সুনামির পূর্বাভাস প্রদানে প্রযুক্তির ব্যবহার ও কার্যকারিতা মূল্যায়ন করতে পারব; প্রাকৃতিক দুর্যোগ মোকাবিলায় করণীয় সম্পর্কে সচেতন হবো এবং অন্যকে সচেতন করব।",
+   "page": {
+    "printed": 208,
+    "pdf": 213
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch15:o01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch15",
+   "number": 1,
+   "text": "টেকসই উন্নয়ন অভীষ্ট অর্জনে অংশীদারিত্বের গুরুতৃ ব্যাখ্যা করতে পারব; টেকসই উন্নয়ন অভীষ্ট অর্জনের ফলাফল বিশ্লেষণ করতে পারব; টেকসই TEA অভীষ্ট অর্জনে চ্যালেঞ্জসমূহ চিহ্নিত করতে পারব; টেকসই উন্নয়ন অভীষ্ট অর্জনে চ্যালেঞ্জ মোকাবিলায় করণীয় ব্যাখ্যা করতে পারব; টেকসই উন্নয়ন অভীষ্ট অর্জনে করণীয় সম্পর্কে সচেতনতা সৃষ্টির জন্য পোস্টার ডিজাইন করতে পারব টেকসই উন্নয়ন অভীষ্ট বাস্তবায়নে অনুপ্রাণিত হব।",
+   "page": {
+    "printed": 225,
+    "pdf": 230
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  }
+ ],
+ "worked_examples": [],
+ "exercises": [
+  {
+   "id": "nctb:geo:c9-10:bn:ch01:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch01",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 6,
+    "pdf": 11
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch01:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch01",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 6,
+    "pdf": 11
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch01:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch01",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 6,
+    "pdf": 11
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch01:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch01",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch01:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch01",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch01:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch01",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch01:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch01",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch01:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch01",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch01:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:bn:ch01",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch02:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch02",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 29,
+    "pdf": 34
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch02:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch02",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 29,
+    "pdf": 34
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch02:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch02",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 29,
+    "pdf": 34
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch02:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch02",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 29,
+    "pdf": 34
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch02:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch02",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 30,
+    "pdf": 35
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch02:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch02",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 30,
+    "pdf": 35
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch02:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch02",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 30,
+    "pdf": 35
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch02:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch02",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 30,
+    "pdf": 35
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch02:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:bn:ch02",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 30,
+    "pdf": 35
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch03:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 45,
+    "pdf": 50
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch03:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 45,
+    "pdf": 50
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch03:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 46,
+    "pdf": 51
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch03:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 46,
+    "pdf": 51
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch03:ex:mcq05",
+   "chapter_id": "nctb:geo:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 5,
+   "page": {
+    "printed": 46,
+    "pdf": 51
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch04:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch04",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 66,
+    "pdf": 71
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch04:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch04",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 67,
+    "pdf": 72
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch04:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch04",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 68,
+    "pdf": 73
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch04:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch04",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 68,
+    "pdf": 73
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch04:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch04",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 68,
+    "pdf": 73
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch04:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch04",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 68,
+    "pdf": 73
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch04:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:bn:ch04",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 68,
+    "pdf": 73
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch05:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch05:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch05:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch05:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch05:ex:mcq05",
+   "chapter_id": "nctb:geo:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 5,
+   "page": {
+    "printed": 89,
+    "pdf": 94
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch05:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch05",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 89,
+    "pdf": 94
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch05:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch05",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch05:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch05",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch05:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch05",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch05:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:bn:ch05",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch06:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch06",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 102,
+    "pdf": 107
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch06:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch06",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 102,
+    "pdf": 107
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch06:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch06",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 103,
+    "pdf": 108
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch06:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch06",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 103,
+    "pdf": 108
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch06:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch06",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 104,
+    "pdf": 109
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch06:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch06",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 104,
+    "pdf": 109
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch06:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch06",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 104,
+    "pdf": 109
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch06:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:bn:ch06",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 104,
+    "pdf": 109
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch07:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch07",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 123,
+    "pdf": 128
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch07:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch07",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 123,
+    "pdf": 128
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch07:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch07",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 124,
+    "pdf": 129
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch07:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch07",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 124,
+    "pdf": 129
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch07:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch07",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 125,
+    "pdf": 130
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch07:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch07",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 125,
+    "pdf": 130
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch07:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch07",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 125,
+    "pdf": 130
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch07:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:bn:ch07",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 125,
+    "pdf": 130
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch08:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch08",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 136,
+    "pdf": 141
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch08:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch08",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 136,
+    "pdf": 141
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch08:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch08",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 136,
+    "pdf": 141
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch08:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch08",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 137,
+    "pdf": 142
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch08:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch08",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 137,
+    "pdf": 142
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch08:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch08",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 137,
+    "pdf": 142
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch08:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch08",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 137,
+    "pdf": 142
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch08:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:bn:ch08",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 137,
+    "pdf": 142
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch09:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch09:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch09:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch09:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch09:ex:mcq05",
+   "chapter_id": "nctb:geo:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 5,
+   "page": {
+    "printed": 146,
+    "pdf": 151
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch10:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 161,
+    "pdf": 166
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch10:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 161,
+    "pdf": 166
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch10:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 161,
+    "pdf": 166
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch10:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 161,
+    "pdf": 166
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch10:ex:mcq05",
+   "chapter_id": "nctb:geo:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 5,
+   "page": {
+    "printed": 163,
+    "pdf": 168
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch11:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch11",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 182,
+    "pdf": 187
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch11:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch11",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 182,
+    "pdf": 187
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch11:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch11",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 183,
+    "pdf": 188
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch11:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch11",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 183,
+    "pdf": 188
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch11:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch11",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 184,
+    "pdf": 189
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch11:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch11",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 184,
+    "pdf": 189
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch11:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch11",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 184,
+    "pdf": 189
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch11:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch11",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 184,
+    "pdf": 189
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch11:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:bn:ch11",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 184,
+    "pdf": 189
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch12:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch12",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 196,
+    "pdf": 201
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch12:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch12",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 196,
+    "pdf": 201
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch12:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch12",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 196,
+    "pdf": 201
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch12:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch12",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 196,
+    "pdf": 201
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch12:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch12",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 197,
+    "pdf": 202
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch12:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch12",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 197,
+    "pdf": 202
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch12:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch12",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 197,
+    "pdf": 202
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch12:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch12",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 197,
+    "pdf": 202
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch12:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:bn:ch12",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 197,
+    "pdf": 202
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch13:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch13",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 206,
+    "pdf": 211
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch13:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch13",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 206,
+    "pdf": 211
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch13:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch13",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 206,
+    "pdf": 211
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch13:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch13",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 207,
+    "pdf": 212
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch13:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch13",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 207,
+    "pdf": 212
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch13:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch13",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 207,
+    "pdf": 212
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch13:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch13",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 207,
+    "pdf": 212
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch14:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch14",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 222,
+    "pdf": 227
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch14:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch14",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 223,
+    "pdf": 228
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch14:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch14",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 223,
+    "pdf": 228
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch14:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch14",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 223,
+    "pdf": 228
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch14:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 224,
+    "pdf": 229
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch14:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 224,
+    "pdf": 229
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch14:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 224,
+    "pdf": 229
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch14:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 224,
+    "pdf": 229
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch14:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:bn:ch14",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 224,
+    "pdf": 229
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch15:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch15",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 231,
+    "pdf": 236
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch15:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch15",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 231,
+    "pdf": 236
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch15:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch15",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 232,
+    "pdf": 237
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch15:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:bn:ch15",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 232,
+    "pdf": 237
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch15:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:bn:ch15",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 232,
+    "pdf": 237
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch15:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:bn:ch15",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 232,
+    "pdf": 237
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:bn:ch15:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:bn:ch15",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 232,
+    "pdf": 237
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  }
+ ]
+}

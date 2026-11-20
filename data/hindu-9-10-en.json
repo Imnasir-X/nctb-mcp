@@ -1,0 +1,320 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.3.0",
+ "generated_at": "2026-11-20",
+ "book": {
+  "subject": {
+   "code": "hindu",
+   "name_bn": "হিন্দুধর্ম শিক্ষা",
+   "name_en": "Hindu Religion Studies",
+   "aliases": [
+    "hindu",
+    "হিন্দুধর্ম"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:hindu:c9-10:en",
+  "version": "en",
+  "title": "Hindu Religion Studies, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1sewXn9WEXs7IbyXS1xwg3q4IqUlqJR_R/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/3TGn89AHrS9y8xT"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Hindu Religion Studies (en).pdf",
+   "sha256": "d8d3d51068d47d7cb6db16652b0f7a317d5c1081e8c4738ca8a1a7ddf46b6dd3",
+   "bytes": 38000855,
+   "pdf_pages": 150,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "chapters"
+ },
+ "chapters": [
+  {
+   "id": "nctb:hindu:c9-10:en:ch01",
+   "concept_key": "nctb:hindu:c9-10:ch01",
+   "number": 1,
+   "title": "Creator, Creation and His Worship",
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": null,
+     "pdf": 23
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:hindu:c9-10:en:ch02",
+   "concept_key": "nctb:hindu:c9-10:ch02",
+   "number": 2,
+   "title": "Origin and Evolution of Hinduism",
+   "pages": {
+    "start": {
+     "printed": 19,
+     "pdf": 24
+    },
+    "end": {
+     "printed": null,
+     "pdf": 33
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:hindu:c9-10:en:ch03",
+   "concept_key": "nctb:hindu:c9-10:ch03",
+   "number": 3,
+   "title": "Characteristics of Hindu Religion",
+   "pages": {
+    "start": {
+     "printed": 29,
+     "pdf": 34
+    },
+    "end": {
+     "printed": null,
+     "pdf": 45
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:hindu:c9-10:en:ch04",
+   "concept_key": "nctb:hindu:c9-10:ch04",
+   "number": 4,
+   "title": "Religious Customs and Ceremonies",
+   "pages": {
+    "start": {
+     "printed": 41,
+     "pdf": 46
+    },
+    "end": {
+     "printed": null,
+     "pdf": 53
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:hindu:c9-10:en:ch05",
+   "concept_key": "nctb:hindu:c9-10:ch05",
+   "number": 5,
+   "title": "Rituals in Hindu Religion",
+   "pages": {
+    "start": {
+     "printed": 49,
+     "pdf": 54
+    },
+    "end": {
+     "printed": null,
+     "pdf": 63
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:hindu:c9-10:en:ch06",
+   "concept_key": "nctb:hindu:c9-10:ch06",
+   "number": 6,
+   "title": "Deities and Puja",
+   "pages": {
+    "start": {
+     "printed": 59,
+     "pdf": 64
+    },
+    "end": {
+     "printed": null,
+     "pdf": 79
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:hindu:c9-10:en:ch07",
+   "concept_key": "nctb:hindu:c9-10:ch07",
+   "number": 7,
+   "title": "Yogasadhana",
+   "pages": {
+    "start": {
+     "printed": 75,
+     "pdf": 80
+    },
+    "end": {
+     "printed": null,
+     "pdf": 92
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:hindu:c9-10:en:ch08",
+   "concept_key": "nctb:hindu:c9-10:ch08",
+   "number": 8,
+   "title": "Moral Education in Hindu Religious Book",
+   "pages": {
+    "start": {
+     "printed": 88,
+     "pdf": 93
+    },
+    "end": {
+     "printed": null,
+     "pdf": 102
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:hindu:c9-10:en:ch09",
+   "concept_key": "nctb:hindu:c9-10:ch09",
+   "number": 9,
+   "title": "Religious Stories and Moral Education",
+   "pages": {
+    "start": {
+     "printed": 98,
+     "pdf": 103
+    },
+    "end": {
+     "printed": null,
+     "pdf": 109
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:hindu:c9-10:en:ch10",
+   "concept_key": "nctb:hindu:c9-10:ch10",
+   "number": 10,
+   "title": "The Ways of Religion and Ideal Life",
+   "pages": {
+    "start": {
+     "printed": 105,
+     "pdf": 110
+    },
+    "end": {
+     "printed": null,
+     "pdf": 122
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:hindu:c9-10:en:ch11",
+   "concept_key": "nctb:hindu:c9-10:ch11",
+   "number": 11,
+   "title": "Avatar and Stories of Ideal Characters",
+   "pages": {
+    "start": {
+     "printed": 118,
+     "pdf": 123
+    },
+    "end": {
+     "printed": null,
+     "pdf": 150
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  }
+ ],
+ "topics": [],
+ "objectives": [],
+ "worked_examples": [],
+ "exercises": []
+}

@@ -1,0 +1,4341 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.3.0",
+ "generated_at": "2026-11-20",
+ "book": {
+  "subject": {
+   "code": "geo",
+   "name_bn": "ভূগোল ও পরিবেশ",
+   "name_en": "Geography and Environment",
+   "aliases": [
+    "geography",
+    "geo",
+    "ভূগোল"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:geo:c9-10:en",
+  "version": "en",
+  "title": "Geography and Environment, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/19IEFm5j95N_KRAKDDKSun5REhDKts-HO/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/QXXoymQmD6JAeTg"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Geography and Environment (en).pdf",
+   "sha256": "0f2cf02b74c4d69430fc90d974426c7e17d4a55b6f532f025ee1beeba4584590",
+   "bytes": 64840236,
+   "pdf_pages": 248,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "id": "nctb:geo:c9-10:en:ch01",
+   "concept_key": "nctb:geo:c9-10:ch01",
+   "number": 1,
+   "title": "Geography and Environment",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": 6,
+     "pdf": 11
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 4,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02",
+   "concept_key": "nctb:geo:c9-10:ch02",
+   "number": 2,
+   "title": "The Universe and Our Earth",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 7,
+     "pdf": 12
+    },
+    "end": {
+     "printed": 29,
+     "pdf": 34
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 7,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch03",
+   "concept_key": "nctb:geo:c9-10:ch03",
+   "number": 3,
+   "title": "Map Reading and Its Uses",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 30,
+     "pdf": 35
+    },
+    "end": {
+     "printed": 44,
+     "pdf": 49
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 5,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04",
+   "concept_key": "nctb:geo:c9-10:ch04",
+   "number": 4,
+   "title": "Internal and External Structure of the Earth",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 45,
+     "pdf": 50
+    },
+    "end": {
+     "printed": 69,
+     "pdf": 74
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 10,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05",
+   "concept_key": "nctb:geo:c9-10:ch05",
+   "number": 5,
+   "title": "Atmosphere",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 70,
+     "pdf": 75
+    },
+    "end": {
+     "printed": 92,
+     "pdf": 97
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 10,
+    "worked_examples": 0,
+    "ex_mcq": 5,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch06",
+   "concept_key": "nctb:geo:c9-10:ch06",
+   "number": 6,
+   "title": "Hydrosphere",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 93,
+     "pdf": 98
+    },
+    "end": {
+     "printed": 106,
+     "pdf": 111
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 5,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch07",
+   "concept_key": "nctb:geo:c9-10:ch07",
+   "number": 7,
+   "title": "Population",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 107,
+     "pdf": 112
+    },
+    "end": {
+     "printed": 125,
+     "pdf": 130
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 6,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch08",
+   "concept_key": "nctb:geo:c9-10:ch08",
+   "number": 8,
+   "title": "Human Settlements",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 126,
+     "pdf": 131
+    },
+    "end": {
+     "printed": 137,
+     "pdf": 142
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 4,
+    "worked_examples": 0,
+    "ex_mcq": 3,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch09",
+   "concept_key": "nctb:geo:c9-10:ch09",
+   "number": 9,
+   "title": "Resources and Economic Activities",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 138,
+     "pdf": 143
+    },
+    "end": {
+     "printed": 147,
+     "pdf": 152
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 5,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch10",
+   "concept_key": "nctb:geo:c9-10:ch10",
+   "number": 10,
+   "title": "Geographical Description of Bangladesh",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 148,
+     "pdf": 153
+    },
+    "end": {
+     "printed": 165,
+     "pdf": 170
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 4,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11",
+   "concept_key": "nctb:geo:c9-10:ch11",
+   "number": 11,
+   "title": "Resources and Industries of Bangladesh",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 166,
+     "pdf": 171
+    },
+    "end": {
+     "printed": 189,
+     "pdf": 194
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 8,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch12",
+   "concept_key": "nctb:geo:c9-10:ch12",
+   "number": 12,
+   "title": "Transport System and Trade of Bangladesh",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 190,
+     "pdf": 195
+    },
+    "end": {
+     "printed": 204,
+     "pdf": 209
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 3,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch13",
+   "concept_key": "nctb:geo:c9-10:ch13",
+   "number": 13,
+   "title": "Development Activities of Bangladesh and",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 205,
+     "pdf": 210
+    },
+    "end": {
+     "printed": 215,
+     "pdf": 220
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 8,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 3,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch14",
+   "concept_key": "nctb:geo:c9-10:ch14",
+   "number": 14,
+   "title": "Natural Disaster of Bangladesh",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 216,
+     "pdf": 221
+    },
+    "end": {
+     "printed": 232,
+     "pdf": 237
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 6,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch15",
+   "concept_key": "nctb:geo:c9-10:ch15",
+   "number": 15,
+   "title": "Sustainable Development Goals (SDG)",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 233,
+     "pdf": 238
+    },
+    "end": {
+     "printed": 243,
+     "pdf": 248
+    }
+   },
+   "counts": {
+    "topics": 0,
+    "subtopics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 3,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found",
+     "count-differs-from-other-version:objectives"
+    ]
+   }
+  }
+ ],
+ "topics": [],
+ "objectives": [
+  {
+   "id": "nctb:geo:c9-10:en:ch01:o01",
+   "chapter_id": "nctb:geo:c9-10:en:ch01",
+   "number": 1,
+   "text": "explain the idea of geography and environment;",
+   "page": {
+    "printed": 1,
+    "pdf": 6
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch01:o02",
+   "chapter_id": "nctb:geo:c9-10:en:ch01",
+   "number": 2,
+   "text": "describe the scope of geography;",
+   "page": {
+    "printed": 1,
+    "pdf": 6
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch01:o03",
+   "chapter_id": "nctb:geo:c9-10:en:ch01",
+   "number": 3,
+   "text": "explain the importance of studying geography and environment;",
+   "page": {
+    "printed": 1,
+    "pdf": 6
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch01:o04",
+   "chapter_id": "nctb:geo:c9-10:en:ch01",
+   "number": 4,
+   "text": "explain the inter-relationship among different elements of geography and environment.",
+   "page": {
+    "printed": 1,
+    "pdf": 6
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02:o01",
+   "chapter_id": "nctb:geo:c9-10:en:ch02",
+   "number": 1,
+   "text": "describe the location and characteristics of the solar system, earth and other planets and satellites;",
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02:o02",
+   "chapter_id": "nctb:geo:c9-10:en:ch02",
+   "number": 2,
+   "text": "describe the nature and diameter of earth and satellite;",
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02:o03",
+   "chapter_id": "nctb:geo:c9-10:en:ch02",
+   "number": 3,
+   "text": "explain the importance of lines of latitude and longitude;",
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02:o04",
+   "chapter_id": "nctb:geo:c9-10:en:ch02",
+   "number": 4,
+   "text": "identify different places using latitude and longitude;",
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02:o05",
+   "chapter_id": "nctb:geo:c9-10:en:ch02",
+   "number": 5,
+   "text": "explain rotation and revolution;",
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02:o06",
+   "chapter_id": "nctb:geo:c9-10:en:ch02",
+   "number": 6,
+   "text": "analyze the cause of day and night, its increase and decrease and its impact; cause of season change and its impact;",
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02:o07",
+   "chapter_id": "nctb:geo:c9-10:en:ch02",
+   "number": 7,
+   "text": "make the model of solar system using different materials; have more interest to know about our only place of habitat, earth.",
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch03:o01",
+   "chapter_id": "nctb:geo:c9-10:en:ch03",
+   "number": 1,
+   "text": "explain the concept, importance and use of a map;",
+   "page": {
+    "printed": 30,
+    "pdf": 35
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch03:o02",
+   "chapter_id": "nctb:geo:c9-10:en:ch03",
+   "number": 2,
+   "text": "describe the maps of various kinds;",
+   "page": {
+    "printed": 30,
+    "pdf": 35
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch03:o03",
+   "chapter_id": "nctb:geo:c9-10:en:ch03",
+   "number": 3,
+   "text": "explain how to present information on a map for practical use;",
+   "page": {
+    "printed": 30,
+    "pdf": 35
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch03:o04",
+   "chapter_id": "nctb:geo:c9-10:en:ch03",
+   "number": 4,
+   "text": "explain local time and standard time;",
+   "page": {
+    "printed": 30,
+    "pdf": 35
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch03:o05",
+   "chapter_id": "nctb:geo:c9-10:en:ch03",
+   "number": 5,
+   "text": "explain why time changes from place to place; gain conception of the use of GPS and GIS in the map.",
+   "page": {
+    "printed": 30,
+    "pdf": 35
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:o01",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "number": 1,
+   "text": "describe the internal structure of the earth;",
+   "page": {
+    "printed": 45,
+    "pdf": 50
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:o02",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "number": 2,
+   "text": "describe the external structure of the earth;",
+   "page": {
+    "printed": 45,
+    "pdf": 50
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:o03",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "number": 3,
+   "text": "describe the landform change of the earth surface;",
+   "page": {
+    "printed": 45,
+    "pdf": 50
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:o04",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "number": 4,
+   "text": "explain the reason of the abrupt change of the earth surface;",
+   "page": {
+    "printed": 45,
+    "pdf": 50
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:o05",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "number": 5,
+   "text": "analyze the result and reason of earthquake, tsunami and volcano;",
+   "page": {
+    "printed": 45,
+    "pdf": 50
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:o06",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "number": 6,
+   "text": "explain the result and reason of slow change of the earth surface.",
+   "page": {
+    "printed": 45,
+    "pdf": 50
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:o07",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "number": 7,
+   "text": "cxplain the rivers path way;",
+   "page": {
+    "printed": 46,
+    "pdf": 51
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:o08",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "number": 8,
+   "text": "describe the landforms created by rivers;",
+   "page": {
+    "printed": 46,
+    "pdf": 51
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:o09",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "number": 9,
+   "text": "describe the characteristics of the main landforms of the earth;",
+   "page": {
+    "printed": 46,
+    "pdf": 51
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:o10",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "number": 10,
+   "text": "analyze on the basis of data, the impact of tsunami occurred in the past.",
+   "page": {
+    "printed": 46,
+    "pdf": 51
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:o01",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "number": 1,
+   "text": "explain the elements of the air;",
+   "page": {
+    "printed": 70,
+    "pdf": 75
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:o02",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "number": 2,
+   "text": "explain the layers of atmosphere and their characteristics;",
+   "page": {
+    "printed": 70,
+    "pdf": 75
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:o03",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "number": 3,
+   "text": "explain the importance and analyze the different layers of the atmosphere;",
+   "page": {
+    "printed": 70,
+    "pdf": 75
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:o04",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "number": 4,
+   "text": "discuss the difference between weather and climate;",
+   "page": {
+    "printed": 70,
+    "pdf": 75
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:o05",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "number": 5,
+   "text": "explain the factors of climate;",
+   "page": {
+    "printed": 70,
+    "pdf": 75
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:o06",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "number": 6,
+   "text": "analyze the wind circulation and their impact; cxplain the water cycle;",
+   "page": {
+    "printed": 71,
+    "pdf": 76
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:o07",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "number": 7,
+   "text": "discuss different types of rainfall;",
+   "page": {
+    "printed": 71,
+    "pdf": 76
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:o08",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "number": 8,
+   "text": "discuss the inter-relationship of global warming and climate change;",
+   "page": {
+    "printed": 71,
+    "pdf": 76
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:o09",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "number": 9,
+   "text": "analyze global climatic change and its impact on different regions of the world;",
+   "page": {
+    "printed": 71,
+    "pdf": 76
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:o10",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "number": 10,
+   "text": "analyze the impact of climatic change on the people of Bangladesh in their living condition and economic activities and the environment.",
+   "page": {
+    "printed": 71,
+    "pdf": 76
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch06:o01",
+   "chapter_id": "nctb:geo:c9-10:en:ch06",
+   "number": 1,
+   "text": "explain the concept of hydrosphere;",
+   "page": {
+    "printed": 93,
+    "pdf": 98
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch06:o02",
+   "chapter_id": "nctb:geo:c9-10:en:ch06",
+   "number": 2,
+   "text": "describe oceans, seas and bays;",
+   "page": {
+    "printed": 93,
+    "pdf": 98
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch06:o03",
+   "chapter_id": "nctb:geo:c9-10:en:ch06",
+   "number": 3,
+   "text": "describe the topography of ocean floor and marine resources;",
+   "page": {
+    "printed": 93,
+    "pdf": 98
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch06:o04",
+   "chapter_id": "nctb:geo:c9-10:en:ch06",
+   "number": 4,
+   "text": "explain the causes and effects of ocean currents;",
+   "page": {
+    "printed": 93,
+    "pdf": 98
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch06:o05",
+   "chapter_id": "nctb:geo:c9-10:en:ch06",
+   "number": 5,
+   "text": "explain the causes and effects of low and high tide.",
+   "page": {
+    "printed": 93,
+    "pdf": 98
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch07:o01",
+   "chapter_id": "nctb:geo:c9-10:en:ch07",
+   "number": 1,
+   "text": "explain the world population at present and its changing pattern;",
+   "page": {
+    "printed": 107,
+    "pdf": 112
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch07:o02",
+   "chapter_id": "nctb:geo:c9-10:en:ch07",
+   "number": 2,
+   "text": "explain factors related to the change of population;",
+   "page": {
+    "printed": 107,
+    "pdf": 112
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch07:o03",
+   "chapter_id": "nctb:geo:c9-10:en:ch07",
+   "number": 3,
+   "text": "explain factors, merits and demerits of migration; gather knowledge about the merits and demerits of migration and provide information to others about its;",
+   "page": {
+    "printed": 107,
+    "pdf": 112
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch07:o04",
+   "chapter_id": "nctb:geo:c9-10:en:ch07",
+   "number": 4,
+   "text": "explain the relationship between rate of population and the natural resources; cxplain the density and distribution of population;",
+   "page": {
+    "printed": 108,
+    "pdf": 113
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch07:o05",
+   "chapter_id": "nctb:geo:c9-10:en:ch07",
+   "number": 5,
+   "text": "discuss the factors of density and distribution of population;",
+   "page": {
+    "printed": 108,
+    "pdf": 113
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch07:o06",
+   "chapter_id": "nctb:geo:c9-10:en:ch07",
+   "number": 6,
+   "text": "explain the growth of population of Bangladesh, its problems and its solution; provide solution to reduce the population growth.",
+   "page": {
+    "printed": 108,
+    "pdf": 113
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch08:o01",
+   "chapter_id": "nctb:geo:c9-10:en:ch08",
+   "number": 1,
+   "text": "explain the factors of location settlement;",
+   "page": {
+    "printed": 126,
+    "pdf": 131
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch08:o02",
+   "chapter_id": "nctb:geo:c9-10:en:ch08",
+   "number": 2,
+   "text": "discuss the pattern of urban and rural settlement;",
+   "page": {
+    "printed": 126,
+    "pdf": 131
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch08:o03",
+   "chapter_id": "nctb:geo:c9-10:en:ch08",
+   "number": 3,
+   "text": "discuss the pattern and explain type of rural settlement; know about urbanization and types of cities; know the impact of urbanization; know problems due to unplanned urbanization;",
+   "page": {
+    "printed": 126,
+    "pdf": 131
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch08:o04",
+   "chapter_id": "nctb:geo:c9-10:en:ch08",
+   "number": 4,
+   "text": "classify the type and pattern of settlement of our area; know the surrounding physical environment and take care of it.",
+   "page": {
+    "printed": 126,
+    "pdf": 131
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch09:o01",
+   "chapter_id": "nctb:geo:c9-10:en:ch09",
+   "number": 1,
+   "text": "describe the concept of resources and classify them;",
+   "page": {
+    "printed": 138,
+    "pdf": 143
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch09:o02",
+   "chapter_id": "nctb:geo:c9-10:en:ch09",
+   "number": 2,
+   "text": "explain the ways of conservation of resources; raise awareness among people about conserving resources; cxplain the economic activities;",
+   "page": {
+    "printed": 138,
+    "pdf": 143
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch09:o03",
+   "chapter_id": "nctb:geo:c9-10:en:ch09",
+   "number": 3,
+   "text": "explain the economic activities of underdeveloped, developing and developed countries;",
+   "page": {
+    "printed": 138,
+    "pdf": 143
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch09:o04",
+   "chapter_id": "nctb:geo:c9-10:en:ch09",
+   "number": 4,
+   "text": "explain the factors of industrial development; cxplain the classification and analyze the location of industries; cxplain the export and import trade;",
+   "page": {
+    "printed": 139,
+    "pdf": 144
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch09:o05",
+   "chapter_id": "nctb:geo:c9-10:en:ch09",
+   "number": 5,
+   "text": "analyze the relationship between the balance of trade and development.",
+   "page": {
+    "printed": 139,
+    "pdf": 144
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch10:o01",
+   "chapter_id": "nctb:geo:c9-10:en:ch10",
+   "number": 1,
+   "text": "describe geographical location and physiography of Bangladesh;",
+   "page": {
+    "printed": 148,
+    "pdf": 153
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch10:o02",
+   "chapter_id": "nctb:geo:c9-10:en:ch10",
+   "number": 2,
+   "text": "describe the main rivers, tributaries and distributaries;",
+   "page": {
+    "printed": 148,
+    "pdf": 153
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch10:o03",
+   "chapter_id": "nctb:geo:c9-10:en:ch10",
+   "number": 3,
+   "text": "describe reasons of filling up the rivers and wetland caused by human; their influence and ways of prevention; raise awareness about the harmful influence of filling up the rivers and wetlands;",
+   "page": {
+    "printed": 148,
+    "pdf": 153
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch10:o04",
+   "chapter_id": "nctb:geo:c9-10:en:ch10",
+   "number": 4,
+   "text": "describe the characteristics of climate, seasonal temperatures, wind and rainfall; eo describe the characteristics of monsoon climate and norwester; take precautionary and safety measures against nor’wester storms and lightning, and raise awareness among others.",
+   "page": {
+    "printed": 148,
+    "pdf": 153
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:o01",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "number": 1,
+   "text": "explain the main agricultural products of Bangladesh and their distribution;",
+   "page": {
+    "printed": 166,
+    "pdf": 171
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:o02",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "number": 2,
+   "text": "explain the importance of different forest regions/areas of Bangladesh;",
+   "page": {
+    "printed": 166,
+    "pdf": 171
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:o03",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "number": 3,
+   "text": "create awareness of preserving the forest resources everywhere;",
+   "page": {
+    "printed": 166,
+    "pdf": 171
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:o04",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "number": 4,
+   "text": "explain the position of petroleum, natural gas, coal and limestone displayed on the map;",
+   "page": {
+    "printed": 166,
+    "pdf": 171
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:o05",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "number": 5,
+   "text": "explain the importance of Petroleum, Natural gas, Coal on the economy of Bangladesh; explain/describe the main industries of Bangladesh and represent them in map;",
+   "page": {
+    "printed": 166,
+    "pdf": 171
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:o06",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "number": 6,
+   "text": "analyze the contribution of Garment Industries to the economy of Bangladesh;",
+   "page": {
+    "printed": 167,
+    "pdf": 172
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:o07",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "number": 7,
+   "text": "explain the main tourist places of Bangladesh and display them on map;",
+   "page": {
+    "printed": 167,
+    "pdf": 172
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:o08",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "number": 8,
+   "text": "explain the importance and prospect of Tourism Industry of Bangladesh; follow the duty of citizen in preserving the favourable environment of tourism places as tourist.",
+   "page": {
+    "printed": 167,
+    "pdf": 172
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch12:o01",
+   "chapter_id": "nctb:geo:c9-10:en:ch12",
+   "number": 1,
+   "text": "provide description of the roads, the railways, the waterways and the airways of Bangladesh;",
+   "page": {
+    "printed": 190,
+    "pdf": 195
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch12:o02",
+   "chapter_id": "nctb:geo:c9-10:en:ch12",
+   "number": 2,
+   "text": "analyze the importance of roads, railways, waterways and the airways; try to avoid accidents while travelling by roads, railways, and waterways and make others aware of it;",
+   "page": {
+    "printed": 190,
+    "pdf": 195
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch12:o03",
+   "chapter_id": "nctb:geo:c9-10:en:ch12",
+   "number": 3,
+   "text": "explain the domestic and foreign trade of Bangladesh; give an account of the import and export products.",
+   "page": {
+    "printed": 190,
+    "pdf": 195
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch13:o01",
+   "chapter_id": "nctb:geo:c9-10:en:ch13",
+   "number": 1,
+   "text": "explain the balance and imbalance of the environment;",
+   "page": {
+    "printed": 205,
+    "pdf": 210
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch13:o02",
+   "chapter_id": "nctb:geo:c9-10:en:ch13",
+   "number": 2,
+   "text": "explain the development activities along with the explanations of some",
+   "page": {
+    "printed": 205,
+    "pdf": 210
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch13:o03",
+   "chapter_id": "nctb:geo:c9-10:en:ch13",
+   "number": 3,
+   "text": "explain how the environment was polluted and imbalance was created at the time of implementation of the development activities;",
+   "page": {
+    "printed": 205,
+    "pdf": 210
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch13:o04",
+   "chapter_id": "nctb:geo:c9-10:en:ch13",
+   "number": 4,
+   "text": "analyze the result of environmental imbalance;",
+   "page": {
+    "printed": 205,
+    "pdf": 210
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch13:o05",
+   "chapter_id": "nctb:geo:c9-10:en:ch13",
+   "number": 5,
+   "text": "analyze how the environmental balance influencs the development activities;",
+   "page": {
+    "printed": 205,
+    "pdf": 210
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch13:o06",
+   "chapter_id": "nctb:geo:c9-10:en:ch13",
+   "number": 6,
+   "text": "find out the measures of protecting the environmental balance of during implementation of the development activities;",
+   "page": {
+    "printed": 206,
+    "pdf": 211
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch13:o07",
+   "chapter_id": "nctb:geo:c9-10:en:ch13",
+   "number": 7,
+   "text": "make ourselves aware of the results of the environmental imbalance and",
+   "page": {
+    "printed": 206,
+    "pdf": 211
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch13:o08",
+   "chapter_id": "nctb:geo:c9-10:en:ch13",
+   "number": 8,
+   "text": "make others aware of these.",
+   "page": {
+    "printed": 206,
+    "pdf": 211
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch14:o01",
+   "chapter_id": "nctb:geo:c9-10:en:ch14",
+   "number": 1,
+   "text": "explain the disaster and hazard;",
+   "page": {
+    "printed": 216,
+    "pdf": 221
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch14:o02",
+   "chapter_id": "nctb:geo:c9-10:en:ch14",
+   "number": 2,
+   "text": "explain the different kinds of natural disasters of Bangladesh;",
+   "page": {
+    "printed": 216,
+    "pdf": 221
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch14:o03",
+   "chapter_id": "nctb:geo:c9-10:en:ch14",
+   "number": 3,
+   "text": "explain the disaster management cycle;",
+   "page": {
+    "printed": 216,
+    "pdf": 221
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch14:o04",
+   "chapter_id": "nctb:geo:c9-10:en:ch14",
+   "number": 4,
+   "text": "explain the disaster management of the natural disaster of coastal areas of Bangladesh;",
+   "page": {
+    "printed": 216,
+    "pdf": 221
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch14:o05",
+   "chapter_id": "nctb:geo:c9-10:en:ch14",
+   "number": 5,
+   "text": "evaluate the functional and technological use of warning about the Tsunami and the scale of earthquake;",
+   "page": {
+    "printed": 216,
+    "pdf": 221
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch14:o06",
+   "chapter_id": "nctb:geo:c9-10:en:ch14",
+   "number": 6,
+   "text": "make people aware about how to confront natural disaster and what are the measures to mitigate it.",
+   "page": {
+    "printed": 216,
+    "pdf": 221
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ],
+ "worked_examples": [],
+ "exercises": [
+  {
+   "id": "nctb:geo:c9-10:en:ch01:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 5,
+    "pdf": 10
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch01:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 6,
+    "pdf": 11
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch01:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 6,
+    "pdf": 11
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch01:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 6,
+    "pdf": 11
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch01:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch01",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 6,
+    "pdf": 11
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch01:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch01",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 6,
+    "pdf": 11
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch01:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch01",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 6,
+    "pdf": 11
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch01:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch01",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 6,
+    "pdf": 11
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch01:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:en:ch01",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 6,
+    "pdf": 11
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 27,
+    "pdf": 32
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 28,
+    "pdf": 33
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 28,
+    "pdf": 33
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 28,
+    "pdf": 33
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch02",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 29,
+    "pdf": 34
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch02",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 29,
+    "pdf": 34
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch02",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 29,
+    "pdf": 34
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch02",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 29,
+    "pdf": 34
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch02:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:en:ch02",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 29,
+    "pdf": 34
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch03:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 43,
+    "pdf": 48
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch03:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 43,
+    "pdf": 48
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch03:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 44,
+    "pdf": 49
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch03:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 44,
+    "pdf": 49
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch03:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch03",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 44,
+    "pdf": 49
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch03:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch03",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 44,
+    "pdf": 49
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch03:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch03",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 44,
+    "pdf": 49
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch03:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch03",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 44,
+    "pdf": 49
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch03:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:en:ch03",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 44,
+    "pdf": 49
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 67,
+    "pdf": 72
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 67,
+    "pdf": 72
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 68,
+    "pdf": 73
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 68,
+    "pdf": 73
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 68,
+    "pdf": 73
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 69,
+    "pdf": 74
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 69,
+    "pdf": 74
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 69,
+    "pdf": 74
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch04:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:en:ch04",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 69,
+    "pdf": 74
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 91,
+    "pdf": 96
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 91,
+    "pdf": 96
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:ex:mcq05",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 5,
+   "page": {
+    "printed": 91,
+    "pdf": 96
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 92,
+    "pdf": 97
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 92,
+    "pdf": 97
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 92,
+    "pdf": 97
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 92,
+    "pdf": 97
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch05:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:en:ch05",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 92,
+    "pdf": 97
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch06:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 105,
+    "pdf": 110
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch06:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 105,
+    "pdf": 110
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch06:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 105,
+    "pdf": 110
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch06:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 106,
+    "pdf": 111
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch06:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch06",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 106,
+    "pdf": 111
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch06:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch06",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 106,
+    "pdf": 111
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch06:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch06",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 106,
+    "pdf": 111
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch06:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch06",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 106,
+    "pdf": 111
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch06:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:en:ch06",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 106,
+    "pdf": 111
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch07:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 122,
+    "pdf": 127
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch07:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 123,
+    "pdf": 128
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch07:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 123,
+    "pdf": 128
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch07:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 124,
+    "pdf": 129
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch07:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch07",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 124,
+    "pdf": 129
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch07:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch07",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 125,
+    "pdf": 130
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch07:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch07",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 125,
+    "pdf": 130
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch07:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch07",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 125,
+    "pdf": 130
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch07:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:en:ch07",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 125,
+    "pdf": 130
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch08:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 136,
+    "pdf": 141
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch08:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 136,
+    "pdf": 141
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch08:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 136,
+    "pdf": 141
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch08:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch08",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 137,
+    "pdf": 142
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch08:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch08",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 137,
+    "pdf": 142
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch08:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch08",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 137,
+    "pdf": 142
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch08:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch08",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 137,
+    "pdf": 142
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch08:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:en:ch08",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 137,
+    "pdf": 142
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch09:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 146,
+    "pdf": 151
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch09:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 146,
+    "pdf": 151
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch09:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 146,
+    "pdf": 151
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch09:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 146,
+    "pdf": 151
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch09:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch09",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 147,
+    "pdf": 152
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch09:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch09",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 147,
+    "pdf": 152
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch09:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch09",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 147,
+    "pdf": 152
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch09:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch09",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 147,
+    "pdf": 152
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch09:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:en:ch09",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 147,
+    "pdf": 152
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch10:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 163,
+    "pdf": 168
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch10:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 164,
+    "pdf": 169
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch10:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 164,
+    "pdf": 169
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch10:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 164,
+    "pdf": 169
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch10:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch10",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 165,
+    "pdf": 170
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch10:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch10",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 165,
+    "pdf": 170
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch10:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch10",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 165,
+    "pdf": 170
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch10:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch10",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 165,
+    "pdf": 170
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch10:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:en:ch10",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 165,
+    "pdf": 170
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 186,
+    "pdf": 191
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 186,
+    "pdf": 191
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 187,
+    "pdf": 192
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 188,
+    "pdf": 193
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 188,
+    "pdf": 193
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 189,
+    "pdf": 194
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 189,
+    "pdf": 194
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 189,
+    "pdf": 194
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch11:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:en:ch11",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 189,
+    "pdf": 194
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch12:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch12",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 203,
+    "pdf": 208
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch12:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch12",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 203,
+    "pdf": 208
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch12:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch12",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 203,
+    "pdf": 208
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch12:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch12",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 203,
+    "pdf": 208
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch12:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch12",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 204,
+    "pdf": 209
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch12:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch12",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 204,
+    "pdf": 209
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch12:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch12",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 204,
+    "pdf": 209
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch12:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch12",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 204,
+    "pdf": 209
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch12:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:en:ch12",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 204,
+    "pdf": 209
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch13:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch13",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 214,
+    "pdf": 219
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch13:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch13",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 214,
+    "pdf": 219
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch13:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch13",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 215,
+    "pdf": 220
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch13:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch13",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 215,
+    "pdf": 220
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch13:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch13",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 215,
+    "pdf": 220
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch13:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch13",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 215,
+    "pdf": 220
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch13:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch13",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 215,
+    "pdf": 220
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch14:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch14",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 231,
+    "pdf": 236
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch14:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch14",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 231,
+    "pdf": 236
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch14:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch14",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 231,
+    "pdf": 236
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch14:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch14",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 232,
+    "pdf": 237
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch14:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch14",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 232,
+    "pdf": 237
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch14:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch14",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 232,
+    "pdf": 237
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch14:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch14",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 232,
+    "pdf": 237
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch14:ex:cq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch14",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 232,
+    "pdf": 237
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch14:ex:cq05",
+   "chapter_id": "nctb:geo:c9-10:en:ch14",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 232,
+    "pdf": 237
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch15:ex:mcq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch15",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 241,
+    "pdf": 246
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch15:ex:mcq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch15",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 241,
+    "pdf": 246
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch15:ex:mcq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch15",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 241,
+    "pdf": 246
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch15:ex:mcq04",
+   "chapter_id": "nctb:geo:c9-10:en:ch15",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 241,
+    "pdf": 246
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch15:ex:cq01",
+   "chapter_id": "nctb:geo:c9-10:en:ch15",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 242,
+    "pdf": 247
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch15:ex:cq02",
+   "chapter_id": "nctb:geo:c9-10:en:ch15",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 242,
+    "pdf": 247
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:geo:c9-10:en:ch15:ex:cq03",
+   "chapter_id": "nctb:geo:c9-10:en:ch15",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 242,
+    "pdf": 247
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.3.0",
+ "generated_at": "2026-11-20",
+ "book": {
+  "subject": {
+   "code": "biz",
+   "name_bn": "ব্যবসায় উদ্যোগ",
+   "name_en": "Business Entrepreneurship",
+   "aliases": [
+    "business",
+    "entrepreneurship",
+    "ব্যবসায়"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:biz:c9-10:en",
+  "version": "en",
+  "title": "Business Entrepreneurship, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1uW_mv260C02yvPaUsapyZN6WfudlneAk/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/Izu5Ew0RPaCSQ9M"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Business Entrepreneurship (en).pdf",
+   "sha256": "a98668513d8c452135289da499e37e606f6a949049e0bf3a0d4aef9ccc367c0a",
+   "bytes": 49204847,
+   "pdf_pages": 169,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "chapters"
+ },
+ "chapters": [
+  {
+   "id": "nctb:biz:c9-10:en:ch01",
+   "concept_key": "nctb:biz:c9-10:ch01",
+   "number": 1,
+   "title": "Introduction to Business",
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": null,
+     "pdf": 18
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:biz:c9-10:en:ch02",
+   "concept_key": "nctb:biz:c9-10:ch02",
+   "number": 2,
+   "title": "Business Entrepreneurship and Entrepreneur",
+   "pages": {
+    "start": {
+     "printed": 14,
+     "pdf": 19
+    },
+    "end": {
+     "printed": null,
+     "pdf": 30
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:biz:c9-10:en:ch03",
+   "concept_key": "nctb:biz:c9-10:ch03",
+   "number": 3,
+   "title": "Self-employment",
+   "pages": {
+    "start": {
+     "printed": 26,
+     "pdf": 31
+    },
+    "end": {
+     "printed": null,
+     "pdf": 45
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:biz:c9-10:en:ch04",
+   "concept_key": "nctb:biz:c9-10:ch04",
+   "number": 4,
+   "title": "Business Based on Ownership",
+   "pages": {
+    "start": {
+     "printed": 41,
+     "pdf": 46
+    },
+    "end": {
+     "printed": null,
+     "pdf": 74
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:biz:c9-10:en:ch05",
+   "concept_key": "nctb:biz:c9-10:ch05",
+   "number": 5,
+   "title": "Legal Aspects of Business",
+   "pages": {
+    "start": {
+     "printed": 70,
+     "pdf": 75
+    },
+    "end": {
+     "printed": null,
+     "pdf": 85
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:biz:c9-10:en:ch06",
+   "concept_key": "nctb:biz:c9-10:ch06",
+   "number": 6,
+   "title": "Business Plan",
+   "pages": {
+    "start": {
+     "printed": 81,
+     "pdf": 86
+    },
+    "end": {
+     "printed": null,
+     "pdf": 96
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:biz:c9-10:en:ch07",
+   "concept_key": "nctb:biz:c9-10:ch07",
+   "number": 7,
+   "title": "Industries of Bangladesh",
+   "pages": {
+    "start": {
+     "printed": 92,
+     "pdf": 97
+    },
+    "end": {
+     "printed": null,
+     "pdf": 109
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:biz:c9-10:en:ch08",
+   "concept_key": "nctb:biz:c9-10:ch08",
+   "number": 8,
+   "title": "Management of Business Organization",
+   "pages": {
+    "start": {
+     "printed": 105,
+     "pdf": 110
+    },
+    "end": {
+     "printed": null,
+     "pdf": 121
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:biz:c9-10:en:ch09",
+   "concept_key": "nctb:biz:c9-10:ch09",
+   "number": 9,
+   "title": "Marketing",
+   "pages": {
+    "start": {
+     "printed": 117,
+     "pdf": 122
+    },
+    "end": {
+     "printed": null,
+     "pdf": 133
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:biz:c9-10:en:ch10",
+   "concept_key": "nctb:biz:c9-10:ch10",
+   "number": 10,
+   "title": "Assistance for Entrepreneurship Development",
+   "pages": {
+    "start": {
+     "printed": 129,
+     "pdf": 134
+    },
+    "end": {
+     "printed": null,
+     "pdf": 144
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:biz:c9-10:en:ch11",
+   "concept_key": "nctb:biz:c9-10:ch11",
+   "number": 11,
+   "title": "Ethics and Social Responsibilities in Business",
+   "pages": {
+    "start": {
+     "printed": 140,
+     "pdf": 145
+    },
+    "end": {
+     "printed": null,
+     "pdf": 154
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:biz:c9-10:en:ch12",
+   "concept_key": "nctb:biz:c9-10:ch12",
+   "number": 12,
+   "title": "Lessons to learn from the Lives of Successful",
+   "pages": {
+    "start": {
+     "printed": 150,
+     "pdf": 155
+    },
+    "end": {
+     "printed": null,
+     "pdf": 169
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  }
+ ],
+ "topics": [],
+ "objectives": [],
+ "worked_examples": [],
+ "exercises": []
+}

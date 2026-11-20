@@ -1,0 +1,371 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.3.0",
+ "generated_at": "2026-11-20",
+ "book": {
+  "subject": {
+   "code": "fin",
+   "name_bn": "ফিন্যান্স ও ব্যাংকিং",
+   "name_en": "Finance and Banking",
+   "aliases": [
+    "finance",
+    "banking",
+    "ফিন্যান্স"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:fin:c9-10:en",
+  "version": "en",
+  "title": "Finance and Banking, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1hBS2yCf8DcsVvmkTFBy6deo9iHggX-G-/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/f8CmqYoBCAHhm74"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Finance and Banking (en).pdf",
+   "sha256": "6a7518aab129c3f2e6059728ced09970bd84ecdb338d991c6e71fe3ba1a37282",
+   "bytes": 44742757,
+   "pdf_pages": 154,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "chapters"
+ },
+ "chapters": [
+  {
+   "id": "nctb:fin:c9-10:en:ch01",
+   "concept_key": "nctb:fin:c9-10:ch01",
+   "number": 1,
+   "title": "Finance and Business Finance",
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": null,
+     "pdf": 22
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:fin:c9-10:en:ch02",
+   "concept_key": "nctb:fin:c9-10:ch02",
+   "number": 2,
+   "title": "Sources of Finance",
+   "pages": {
+    "start": {
+     "printed": 18,
+     "pdf": 23
+    },
+    "end": {
+     "printed": null,
+     "pdf": 37
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:fin:c9-10:en:ch03",
+   "concept_key": "nctb:fin:c9-10:ch03",
+   "number": 3,
+   "title": "Share, Bond and Debenture",
+   "pages": {
+    "start": {
+     "printed": 33,
+     "pdf": 38
+    },
+    "end": {
+     "printed": null,
+     "pdf": 49
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:fin:c9-10:en:ch04",
+   "concept_key": "nctb:fin:c9-10:ch04",
+   "number": 4,
+   "title": "Time Value of Money",
+   "pages": {
+    "start": {
+     "printed": 45,
+     "pdf": 50
+    },
+    "end": {
+     "printed": null,
+     "pdf": 59
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:fin:c9-10:en:ch05",
+   "concept_key": "nctb:fin:c9-10:ch05",
+   "number": 5,
+   "title": "Risk and Uncertainty",
+   "pages": {
+    "start": {
+     "printed": 55,
+     "pdf": 60
+    },
+    "end": {
+     "printed": null,
+     "pdf": 69
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:fin:c9-10:en:ch06",
+   "concept_key": "nctb:fin:c9-10:ch06",
+   "number": 6,
+   "title": "Capital Budgeting",
+   "pages": {
+    "start": {
+     "printed": 65,
+     "pdf": 70
+    },
+    "end": {
+     "printed": null,
+     "pdf": 84
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:fin:c9-10:en:ch07",
+   "concept_key": "nctb:fin:c9-10:ch07",
+   "number": 7,
+   "title": "Cost of Capital",
+   "pages": {
+    "start": {
+     "printed": 80,
+     "pdf": 85
+    },
+    "end": {
+     "printed": null,
+     "pdf": 96
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:fin:c9-10:en:ch08",
+   "concept_key": "nctb:fin:c9-10:ch08",
+   "number": 8,
+   "title": "Currency, Bank and Banking",
+   "pages": {
+    "start": {
+     "printed": 92,
+     "pdf": 97
+    },
+    "end": {
+     "printed": null,
+     "pdf": 104
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:fin:c9-10:en:ch09",
+   "concept_key": "nctb:fin:c9-10:ch09",
+   "number": 9,
+   "title": "Banking Business and Types",
+   "pages": {
+    "start": {
+     "printed": 100,
+     "pdf": 105
+    },
+    "end": {
+     "printed": null,
+     "pdf": 115
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:fin:c9-10:en:ch10",
+   "concept_key": "nctb:fin:c9-10:ch10",
+   "number": 10,
+   "title": "Commercial Banks",
+   "pages": {
+    "start": {
+     "printed": 111,
+     "pdf": 116
+    },
+    "end": {
+     "printed": null,
+     "pdf": 124
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:fin:c9-10:en:ch11",
+   "concept_key": "nctb:fin:c9-10:ch11",
+   "number": 11,
+   "title": "Bank Deposit",
+   "pages": {
+    "start": {
+     "printed": 120,
+     "pdf": 125
+    },
+    "end": {
+     "printed": null,
+     "pdf": 136
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:fin:c9-10:en:ch12",
+   "concept_key": "nctb:fin:c9-10:ch12",
+   "number": 12,
+   "title": "Bank and Client",
+   "pages": {
+    "start": {
+     "printed": 132,
+     "pdf": 137
+    },
+    "end": {
+     "printed": null,
+     "pdf": 142
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:fin:c9-10:en:ch13",
+   "concept_key": "nctb:fin:c9-10:ch13",
+   "number": 13,
+   "title": "Central Bank",
+   "pages": {
+    "start": {
+     "printed": 138,
+     "pdf": 143
+    },
+    "end": {
+     "printed": null,
+     "pdf": 154
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  }
+ ],
+ "topics": [],
+ "objectives": [],
+ "worked_examples": [],
+ "exercises": []
+}

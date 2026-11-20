@@ -1,16 +1,44 @@
 {
  "dataset": "nctb-data",
- "dataset_version": "0.2.0",
- "tag": "nctb-data@0.2.0",
+ "dataset_version": "0.3.0",
+ "tag": "nctb-data@0.3.0",
  "edition": 2026,
  "id_scheme": "see IDS.md",
- "status": "draft: machine-extracted (OCR), section-level cross-checks applied, not human-verified",
+ "status": "draft: machine-extracted (OCR), review flags per item, not human-verified",
  "content_policy": "Structure, IDs, chapter/section titles, learning objectives and page pointers only. No body text, no exercise or worked-example text. NCTB reserves all rights in the textbooks.",
  "books": [
   {
+   "file": "agriculture-9-10/agriculture-9-10-bn.json",
+   "book_id": "nctb:agri:c9-10:bn",
+   "sha256": "4f64a257c3bcca48dc3a156550dc842a6cc97ca6205ecbea57c1d42418701f27",
+   "counts": {
+    "chapters": 7,
+    "topics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "exercises": 0
+   },
+   "verified_items": 0,
+   "data_scope": "chapters"
+  },
+  {
+   "file": "agriculture-9-10/agriculture-9-10-en.json",
+   "book_id": "nctb:agri:c9-10:en",
+   "sha256": "ca4d1be92d9a83912742a605e939a7c7488c2a81465b11df36767f0a04407b00",
+   "counts": {
+    "chapters": 7,
+    "topics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "exercises": 0
+   },
+   "verified_items": 0,
+   "data_scope": "chapters"
+  },
+  {
    "file": "biology-9-10/biology-9-10-bn.json",
    "book_id": "nctb:bio:c9-10:bn",
-   "sha256": "aa54a291b562371cf4b6ca4f0dcb61a3eaade070ee58a31ae748618618ea6c79",
+   "sha256": "a816000ef6f41bf2cde0b3a99d5d899eb1a10dfac238ddb84ef1fc2db68fb134",
    "counts": {
     "chapters": 14,
     "topics": 127,
@@ -24,7 +52,7 @@
   {
    "file": "biology-9-10/biology-9-10-en.json",
    "book_id": "nctb:bio:c9-10:en",
-   "sha256": "b4d533c8d8d0731d535f45e123ebbd4ddfc8ba5ff53dba9de66cd9bd32c79f3b",
+   "sha256": "7baab3604e026fd6ee06f57a0ece888a165b46e4726dfcc9b30561a16a06beed",
    "counts": {
     "chapters": 14,
     "topics": 133,
@@ -36,9 +64,79 @@
    "data_scope": "sections"
   },
   {
+   "file": "business-9-10/business-9-10-en.json",
+   "book_id": "nctb:biz:c9-10:en",
+   "sha256": "2a9a03f85cc4e27c2a5f47e428bbaa20ae5f878edc348c1dfba3ff1a101483d2",
+   "counts": {
+    "chapters": 12,
+    "topics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "exercises": 0
+   },
+   "verified_items": 0,
+   "data_scope": "chapters"
+  },
+  {
+   "file": "buddhist-9-10/buddhist-9-10-bn.json",
+   "book_id": "nctb:buddha:c9-10:bn",
+   "sha256": "444b30d472d0643a9d701b1aa40b42104bc76b0eedd270c646faac9116cd2438",
+   "counts": {
+    "chapters": 11,
+    "topics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "exercises": 0
+   },
+   "verified_items": 0,
+   "data_scope": "chapters"
+  },
+  {
+   "file": "buddhist-9-10/buddhist-9-10-en.json",
+   "book_id": "nctb:buddha:c9-10:en",
+   "sha256": "94f1f7a7f5cf17582ec62e2e3aa1345a386e4db0da2b270ce21154f16077a18d",
+   "counts": {
+    "chapters": 10,
+    "topics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "exercises": 0
+   },
+   "verified_items": 0,
+   "data_scope": "chapters"
+  },
+  {
+   "file": "career-9-10/career-9-10-bn.json",
+   "book_id": "nctb:career:c9-10:bn",
+   "sha256": "2f9ad2997fca1a30447123eddd64d437feebc96af2bb8a0c3007fac6a4613d1a",
+   "counts": {
+    "chapters": 4,
+    "topics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "exercises": 0
+   },
+   "verified_items": 0,
+   "data_scope": "chapters"
+  },
+  {
+   "file": "career-9-10/career-9-10-en.json",
+   "book_id": "nctb:career:c9-10:en",
+   "sha256": "40205004c6d34c5abff78b1c22b93a6da4c0557acc7295b2ff808b41a7750188",
+   "counts": {
+    "chapters": 4,
+    "topics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "exercises": 0
+   },
+   "verified_items": 0,
+   "data_scope": "chapters"
+  },
+  {
    "file": "chemistry-9-10/chemistry-9-10-bn.json",
    "book_id": "nctb:chem:c9-10:bn",
-   "sha256": "f5e685dd2af57f259d7f1df373541f3c1da653a8da937dc4d9a6f0714e938af1",
+   "sha256": "c4576ad5c6cb50a21c6352f821f9504238ed1830da3395554b57b3b90d2198e5",
    "counts": {
     "chapters": 12,
     "topics": 141,
@@ -52,7 +150,7 @@
   {
    "file": "chemistry-9-10/chemistry-9-10-en.json",
    "book_id": "nctb:chem:c9-10:en",
-   "sha256": "8828e99998570f47d60f911b3dcdecb5f2d914043a6cd85aa49e6dc86753d888",
+   "sha256": "0a8973b98fd3c6bec03bee2dc6c509db567ced623025fcf4377bef62f70b2cbf",
    "counts": {
     "chapters": 12,
     "topics": 153,
@@ -64,9 +162,107 @@
    "data_scope": "sections"
   },
   {
+   "file": "christian-9-10/christian-9-10-en.json",
+   "book_id": "nctb:christ:c9-10:en",
+   "sha256": "e0d7e66abacd8b0c36b76cf5b3c7c753acb7b942edd0c08b025f953c2f6d1683",
+   "counts": {
+    "chapters": 15,
+    "topics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "exercises": 0
+   },
+   "verified_items": 0,
+   "data_scope": "chapters"
+  },
+  {
+   "file": "civics-9-10/civics-9-10-en.json",
+   "book_id": "nctb:civics:c9-10:en",
+   "sha256": "70adf0ec4f8b6b476399ff80cf30b2a04a93522aabc5fa1d42c9270b6b08c728",
+   "counts": {
+    "chapters": 10,
+    "topics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "exercises": 0
+   },
+   "verified_items": 0,
+   "data_scope": "chapters"
+  },
+  {
+   "file": "economics-9-10/economics-9-10-en.json",
+   "book_id": "nctb:eco:c9-10:en",
+   "sha256": "b55fa78bfa55bbc0d762fed2101c37dc4cc3e05accc662d3bd760aca6fa5feca",
+   "counts": {
+    "chapters": 10,
+    "topics": 64,
+    "objectives": 66,
+    "worked_examples": 0,
+    "exercises": 82
+   },
+   "verified_items": 0,
+   "data_scope": "sections"
+  },
+  {
+   "file": "finance-9-10/finance-9-10-en.json",
+   "book_id": "nctb:fin:c9-10:en",
+   "sha256": "987d939bb15834eac261da5b53c5e6629ff1f21cf47b1103cca5da90ca890dee",
+   "counts": {
+    "chapters": 13,
+    "topics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "exercises": 0
+   },
+   "verified_items": 0,
+   "data_scope": "chapters"
+  },
+  {
+   "file": "geography-9-10/geography-9-10-bn.json",
+   "book_id": "nctb:geo:c9-10:bn",
+   "sha256": "2acc10689685fb0f701dc2ac359598a5c1f20fbbe039ea4d413e697f2578c729",
+   "counts": {
+    "chapters": 15,
+    "topics": 0,
+    "objectives": 14,
+    "worked_examples": 0,
+    "exercises": 115
+   },
+   "verified_items": 0,
+   "data_scope": "sections"
+  },
+  {
+   "file": "geography-9-10/geography-9-10-en.json",
+   "book_id": "nctb:geo:c9-10:en",
+   "sha256": "c33c80cc46d4548260731438665f7ee0ae88d3685e508197dccbed4b72433533",
+   "counts": {
+    "chapters": 15,
+    "topics": 0,
+    "objectives": 85,
+    "worked_examples": 0,
+    "exercises": 131
+   },
+   "verified_items": 0,
+   "data_scope": "sections"
+  },
+  {
+   "file": "hindu-9-10/hindu-9-10-en.json",
+   "book_id": "nctb:hindu:c9-10:en",
+   "sha256": "8ffb678964e38adbbf864d14c0dc91fcbc63554e8391c8d5bee656e6d8889bea",
+   "counts": {
+    "chapters": 11,
+    "topics": 0,
+    "objectives": 0,
+    "worked_examples": 0,
+    "exercises": 0
+   },
+   "verified_items": 0,
+   "data_scope": "chapters"
+  },
+  {
    "file": "hmath-9-10/hmath-9-10-bn.json",
    "book_id": "nctb:math:c9-10:bn",
-   "sha256": "c466d7f66024620e6677a3b18f37f7aa51bd5ecc683607909ac02758e5a50a92",
+   "sha256": "4982a34785c3b680c1399679d4508f78ca9d935ef6248c480680ae36186089a9",
    "counts": {
     "chapters": 14,
     "topics": 0,
@@ -80,7 +276,7 @@
   {
    "file": "hmath-9-10/hmath-9-10-en.json",
    "book_id": "nctb:math:c9-10:en",
-   "sha256": "90bc9118e5c6eeca96d7d725b3db1c5b415f7d5208887e7a493ed496f9abbff2",
+   "sha256": "c0803d2d4723c05e8ed65d24a28b412287df19a723aa16cf02bc809422d8fac5",
    "counts": {
     "chapters": 14,
     "topics": 0,
@@ -118,6 +314,34 @@
    },
    "verified_items": 0,
    "data_scope": "full"
+  },
+  {
+   "file": "science-9-10/science-9-10-bn.json",
+   "book_id": "nctb:sci:c9-10:bn",
+   "sha256": "e7365449bce592535ed0e78ef92a4da3c95c3f8209d55743215270604f03f737",
+   "counts": {
+    "chapters": 11,
+    "topics": 146,
+    "objectives": 10,
+    "worked_examples": 1,
+    "exercises": 94
+   },
+   "verified_items": 0,
+   "data_scope": "sections"
+  },
+  {
+   "file": "science-9-10/science-9-10-en.json",
+   "book_id": "nctb:sci:c9-10:en",
+   "sha256": "68785981060867b85f631bf9cbc99453f224277df3743edfb3afc89ce0376f0c",
+   "counts": {
+    "chapters": 11,
+    "topics": 155,
+    "objectives": 100,
+    "worked_examples": 0,
+    "exercises": 107
+   },
+   "verified_items": 0,
+   "data_scope": "sections"
   }
  ]
 }

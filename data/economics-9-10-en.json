@@ -1,0 +1,4418 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.3.0",
+ "generated_at": "2026-11-20",
+ "book": {
+  "subject": {
+   "code": "eco",
+   "name_bn": "অর্থনীতি",
+   "name_en": "Economics",
+   "aliases": [
+    "economics",
+    "eco",
+    "অর্থনীতি"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:eco:c9-10:en",
+  "version": "en",
+  "title": "Economics, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/10c4HmrEcHcAebfZRerjAU2NfkJszDlKf/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/OH8lYfwTxtL6HUN"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Economics (en).pdf",
+   "sha256": "72f89b3f24d9a636c8fec718ced6f3fb487d0ae380a344ecd1ae51afe16c145b",
+   "bytes": 31069884,
+   "pdf_pages": 178,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "id": "nctb:eco:c9-10:en:ch01",
+   "concept_key": "nctb:eco:c9-10:ch01",
+   "number": 1,
+   "title": "Introduction to Economics",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": 18,
+     "pdf": 23
+    }
+   },
+   "counts": {
+    "topics": 6,
+    "subtopics": 1,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found"
+    ]
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02",
+   "concept_key": "nctb:eco:c9-10:ch02",
+   "number": 2,
+   "title": "The Important Ideas of Economics",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 19,
+     "pdf": 24
+    },
+    "end": {
+     "printed": 34,
+     "pdf": 39
+    }
+   },
+   "counts": {
+    "topics": 6,
+    "subtopics": 0,
+    "objectives": 9,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 4,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03",
+   "concept_key": "nctb:eco:c9-10:ch03",
+   "number": 3,
+   "title": "Utility, Demand, Supply, and Equilibrium",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 35,
+     "pdf": 40
+    },
+    "end": {
+     "printed": 50,
+     "pdf": 55
+    }
+   },
+   "counts": {
+    "topics": 8,
+    "subtopics": 0,
+    "objectives": 5,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04",
+   "concept_key": "nctb:eco:c9-10:ch04",
+   "number": 4,
+   "title": "Production and Organization",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 51,
+     "pdf": 56
+    },
+    "end": {
+     "printed": 66,
+     "pdf": 71
+    }
+   },
+   "counts": {
+    "topics": 8,
+    "subtopics": 0,
+    "objectives": 10,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 4,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch05",
+   "concept_key": "nctb:eco:c9-10:ch05",
+   "number": 5,
+   "title": "Market",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 67,
+     "pdf": 72
+    },
+    "end": {
+     "printed": 79,
+     "pdf": 84
+    }
+   },
+   "counts": {
+    "topics": 2,
+    "subtopics": 0,
+    "objectives": 7,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 1,
+    "ex_sq": 1,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06",
+   "concept_key": "nctb:eco:c9-10:ch06",
+   "number": 6,
+   "title": "National Income and Its Measurement",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 80,
+     "pdf": 85
+    },
+    "end": {
+     "printed": 91,
+     "pdf": 96
+    }
+   },
+   "counts": {
+    "topics": 6,
+    "subtopics": 0,
+    "objectives": 5,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 3,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07",
+   "concept_key": "nctb:eco:c9-10:ch07",
+   "number": 7,
+   "title": "Money and Banking System",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 92,
+     "pdf": 97
+    },
+    "end": {
+     "printed": 113,
+     "pdf": 118
+    }
+   },
+   "counts": {
+    "topics": 7,
+    "subtopics": 0,
+    "objectives": 6,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 3,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08",
+   "concept_key": "nctb:eco:c9-10:ch08",
+   "number": 8,
+   "title": "The Economy of Bangladesh",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 114,
+     "pdf": 119
+    },
+    "end": {
+     "printed": 134,
+     "pdf": 139
+    }
+   },
+   "counts": {
+    "topics": 4,
+    "subtopics": 0,
+    "objectives": 6,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 1,
+    "ex_sq": 3,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09",
+   "concept_key": "nctb:eco:c9-10:ch09",
+   "number": 9,
+   "title": "Important Economic Issues in Bangladesh",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 135,
+     "pdf": 140
+    },
+    "end": {
+     "printed": 154,
+     "pdf": 159
+    }
+   },
+   "counts": {
+    "topics": 7,
+    "subtopics": 3,
+    "objectives": 10,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 3,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10",
+   "concept_key": "nctb:eco:c9-10:ch10",
+   "number": 10,
+   "title": "The Public Finance of Bangladesh Government",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 155,
+     "pdf": 160
+    },
+    "end": {
+     "printed": 173,
+     "pdf": 178
+    }
+   },
+   "counts": {
+    "topics": 6,
+    "subtopics": 0,
+    "objectives": 8,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 3,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": []
+   }
+  }
+ ],
+ "topics": [
+  {
+   "id": "nctb:eco:c9-10:en:ch01:t01",
+   "concept_key": "nctb:eco:c9-10:ch01:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.1",
+   "level": "topic",
+   "title": "The Origin and Development of Economics",
+   "title_alt": null,
+   "page": {
+    "printed": 2,
+    "pdf": 7
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch01:t02",
+   "concept_key": "nctb:eco:c9-10:ch01:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.2",
+   "level": "topic",
+   "title": "Two Basic Economic Problems: Scarcity and Unlimited Wants",
+   "title_alt": null,
+   "page": {
+    "printed": 3,
+    "pdf": 8
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch01:t03",
+   "concept_key": "nctb:eco:c9-10:ch01:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.3",
+   "level": "topic",
+   "title": "The Concept of Economics",
+   "title_alt": null,
+   "page": {
+    "printed": 5,
+    "pdf": 10
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch01:t03:s01",
+   "concept_key": "nctb:eco:c9-10:ch01:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch01",
+   "parent_id": "nctb:eco:c9-10:en:ch01:t03",
+   "number": "1.3.1",
+   "level": "subtopic",
+   "title": "Microeconomics and Macroeconomics",
+   "title_alt": null,
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch01:t04",
+   "concept_key": "nctb:eco:c9-10:ch01:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.4",
+   "level": "topic",
+   "title": "Ten Principles of Economics",
+   "title_alt": null,
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch01:t05",
+   "concept_key": "nctb:eco:c9-10:ch01:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.5",
+   "level": "topic",
+   "title": "The Circular Flow of Income (Two-Sector Model)",
+   "title_alt": null,
+   "page": {
+    "printed": 10,
+    "pdf": 15
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch01:t06",
+   "concept_key": "nctb:eco:c9-10:ch01:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.6",
+   "level": "topic",
+   "title": "Types of Economic Systems",
+   "title_alt": null,
+   "page": {
+    "printed": 11,
+    "pdf": 16
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:t01",
+   "concept_key": "nctb:eco:c9-10:ch02:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.1",
+   "level": "topic",
+   "title": "Economic Resources",
+   "title_alt": null,
+   "page": {
+    "printed": 20,
+    "pdf": 25
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:t02",
+   "concept_key": "nctb:eco:c9-10:ch02:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.2",
+   "level": "topic",
+   "title": "Goods",
+   "title_alt": null,
+   "page": {
+    "printed": 26,
+    "pdf": 31
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:t03",
+   "concept_key": "nctb:eco:c9-10:ch02:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.3",
+   "level": "topic",
+   "title": "Opportunity Cost and Choice",
+   "title_alt": null,
+   "page": {
+    "printed": 27,
+    "pdf": 32
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:t04",
+   "concept_key": "nctb:eco:c9-10:ch02:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.4",
+   "level": "topic",
+   "title": "Income, Savings, and Investment",
+   "title_alt": null,
+   "page": {
+    "printed": 29,
+    "pdf": 34
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:t05",
+   "concept_key": "nctb:eco:c9-10:ch02:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.5",
+   "level": "topic",
+   "title": "Economic and Non-Economic Activities",
+   "title_alt": null,
+   "page": {
+    "printed": 30,
+    "pdf": 35
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:t06",
+   "concept_key": "nctb:eco:c9-10:ch02:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.6",
+   "level": "topic",
+   "title": "Economic Activities of Bangladesh",
+   "title_alt": null,
+   "page": {
+    "printed": 31,
+    "pdf": 36
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:t01",
+   "concept_key": "nctb:eco:c9-10:ch03:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.1",
+   "level": "topic",
+   "title": "Utility, Consumption, and Consumer",
+   "title_alt": null,
+   "page": {
+    "printed": 36,
+    "pdf": 41
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:t02",
+   "concept_key": "nctb:eco:c9-10:ch03:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.2",
+   "level": "topic",
+   "title": "Total Utility and Marginal Utility",
+   "title_alt": null,
+   "page": {
+    "printed": 36,
+    "pdf": 41
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:t03",
+   "concept_key": "nctb:eco:c9-10:ch03:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.3",
+   "level": "topic",
+   "title": "Law of Diminishing Marginal Utility",
+   "title_alt": null,
+   "page": {
+    "printed": 38,
+    "pdf": 43
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:t04",
+   "concept_key": "nctb:eco:c9-10:ch03:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.4",
+   "level": "topic",
+   "title": "Demand",
+   "title_alt": null,
+   "page": {
+    "printed": 40,
+    "pdf": 45
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:t05",
+   "concept_key": "nctb:eco:c9-10:ch03:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.5",
+   "level": "topic",
+   "title": "Drawing the Market Demand Curve",
+   "title_alt": null,
+   "page": {
+    "printed": 42,
+    "pdf": 47
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:t06",
+   "concept_key": "nctb:eco:c9-10:ch03:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.6",
+   "level": "topic",
+   "title": "Supply",
+   "title_alt": null,
+   "page": {
+    "printed": 44,
+    "pdf": 49
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:t07",
+   "concept_key": "nctb:eco:c9-10:ch03:t07",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.7",
+   "level": "topic",
+   "title": "Drawing the Market Supply Curve",
+   "title_alt": null,
+   "page": {
+    "printed": 46,
+    "pdf": 51
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:t08",
+   "concept_key": "nctb:eco:c9-10:ch03:t08",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.8",
+   "level": "topic",
+   "title": "Determining Equilibrium Price and Quantity",
+   "title_alt": null,
+   "page": {
+    "printed": 47,
+    "pdf": 52
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:t01",
+   "concept_key": "nctb:eco:c9-10:ch04:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "parent_id": null,
+   "number": "4.1",
+   "level": "topic",
+   "title": "Production and Producer",
+   "title_alt": null,
+   "page": {
+    "printed": 52,
+    "pdf": 57
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:t02",
+   "concept_key": "nctb:eco:c9-10:ch04:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "parent_id": null,
+   "number": "4.2",
+   "level": "topic",
+   "title": "Factors of Production",
+   "title_alt": null,
+   "page": {
+    "printed": 54,
+    "pdf": 59
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:t03",
+   "concept_key": "nctb:eco:c9-10:ch04:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "parent_id": null,
+   "number": "4.3",
+   "level": "topic",
+   "title": "Organization and Its Development",
+   "title_alt": null,
+   "page": {
+    "printed": 56,
+    "pdf": 61
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:t04",
+   "concept_key": "nctb:eco:c9-10:ch04:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "parent_id": null,
+   "number": "4.4",
+   "level": "topic",
+   "title": "Total, Average, and Marginal Production",
+   "title_alt": null,
+   "page": {
+    "printed": 58,
+    "pdf": 63
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:t05",
+   "concept_key": "nctb:eco:c9-10:ch04:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "parent_id": null,
+   "number": "4.5",
+   "level": "topic",
+   "title": "Law of Diminishing Marginal Returns",
+   "title_alt": null,
+   "page": {
+    "printed": 59,
+    "pdf": 64
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:t06",
+   "concept_key": "nctb:eco:c9-10:ch04:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "parent_id": null,
+   "number": "4.6",
+   "level": "topic",
+   "title": "Cost of Production",
+   "title_alt": null,
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:t07",
+   "concept_key": "nctb:eco:c9-10:ch04:t07",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "parent_id": null,
+   "number": "4.7",
+   "level": "topic",
+   "title": "Explicit and Implicit Costs",
+   "title_alt": null,
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:t08",
+   "concept_key": "nctb:eco:c9-10:ch04:t08",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "parent_id": null,
+   "number": "4.8",
+   "level": "topic",
+   "title": "Personal and Social Costs",
+   "title_alt": null,
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch05:t01",
+   "concept_key": "nctb:eco:c9-10:ch05:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch05",
+   "parent_id": null,
+   "number": "5.1",
+   "level": "topic",
+   "title": "Evolution and Types of Markets",
+   "title_alt": null,
+   "page": {
+    "printed": 68,
+    "pdf": 73
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch05:t02",
+   "concept_key": "nctb:eco:c9-10:ch05:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch05",
+   "parent_id": null,
+   "number": "5.2",
+   "level": "topic",
+   "title": "Market System of Bangladesh",
+   "title_alt": null,
+   "page": {
+    "printed": 76,
+    "pdf": 81
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:t01",
+   "concept_key": "nctb:eco:c9-10:ch06:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "parent_id": null,
+   "number": "6.1",
+   "level": "topic",
+   "title": "Concepts of National Income",
+   "title_alt": null,
+   "page": {
+    "printed": 81,
+    "pdf": 86
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:t02",
+   "concept_key": "nctb:eco:c9-10:ch06:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "parent_id": null,
+   "number": "6.2",
+   "level": "topic",
+   "title": "Measurments of Gross Domestic Product— Production, Income",
+   "title_alt": null,
+   "page": {
+    "printed": 82,
+    "pdf": 87
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:t03",
+   "concept_key": "nctb:eco:c9-10:ch06:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "parent_id": null,
+   "number": "6.3",
+   "level": "topic",
+   "title": "Per Capita Gross Domestic Product",
+   "title_alt": null,
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:t04",
+   "concept_key": "nctb:eco:c9-10:ch06:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "parent_id": null,
+   "number": "6.4",
+   "level": "topic",
+   "title": "Determinants of Gross Domestic Product (GDP)",
+   "title_alt": null,
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:t05",
+   "concept_key": "nctb:eco:c9-10:ch06:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "parent_id": null,
+   "number": "6.5",
+   "level": "topic",
+   "title": "Factors not included in GDP Calculation",
+   "title_alt": null,
+   "page": {
+    "printed": 85,
+    "pdf": 90
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:t06",
+   "concept_key": "nctb:eco:c9-10:ch06:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "parent_id": null,
+   "number": "6.6",
+   "level": "topic",
+   "title": "Method of Estimation of Gross National Product (GDP) in Bangladesh",
+   "title_alt": null,
+   "page": {
+    "printed": 86,
+    "pdf": 91
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:t01",
+   "concept_key": "nctb:eco:c9-10:ch07:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "parent_id": null,
+   "number": "7.1",
+   "level": "topic",
+   "title": "Money and Its Classification",
+   "title_alt": null,
+   "page": {
+    "printed": 93,
+    "pdf": 98
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:t02",
+   "concept_key": "nctb:eco:c9-10:ch07:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "parent_id": null,
+   "number": "7.2",
+   "level": "topic",
+   "title": "Functions of Money",
+   "title_alt": null,
+   "page": {
+    "printed": 95,
+    "pdf": 100
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:t03",
+   "concept_key": "nctb:eco:c9-10:ch07:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "parent_id": null,
+   "number": "7.3",
+   "level": "topic",
+   "title": "Commercial Bank",
+   "title_alt": null,
+   "page": {
+    "printed": 97,
+    "pdf": 102
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:t04",
+   "concept_key": "nctb:eco:c9-10:ch07:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "parent_id": null,
+   "number": "7.4",
+   "level": "topic",
+   "title": "Rules of opening and maintaining bank account",
+   "title_alt": null,
+   "page": {
+    "printed": 100,
+    "pdf": 105
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:t05",
+   "concept_key": "nctb:eco:c9-10:ch07:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "parent_id": null,
+   "number": "7.5",
+   "level": "topic",
+   "title": "Central Bank",
+   "title_alt": null,
+   "page": {
+    "printed": 102,
+    "pdf": 107
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:t06",
+   "concept_key": "nctb:eco:c9-10:ch07:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "parent_id": null,
+   "number": "7.6",
+   "level": "topic",
+   "title": "Banking System in Bangladesh",
+   "title_alt": null,
+   "page": {
+    "printed": 105,
+    "pdf": 110
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:t07",
+   "concept_key": "nctb:eco:c9-10:ch07:t07",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "parent_id": null,
+   "number": "7.7",
+   "level": "topic",
+   "title": "Role of important Banks of Bangladesh in Agricultural",
+   "title_alt": null,
+   "page": {
+    "printed": 106,
+    "pdf": 111
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:t01",
+   "concept_key": "nctb:eco:c9-10:ch08:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "parent_id": null,
+   "number": "8.1",
+   "level": "topic",
+   "title": "Characteristics of Bangladesh Economy",
+   "title_alt": null,
+   "page": {
+    "printed": 115,
+    "pdf": 120
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:t02",
+   "concept_key": "nctb:eco:c9-10:ch08:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "parent_id": null,
+   "number": "8.2",
+   "level": "topic",
+   "title": "Main Sectors of Bangladesh Economy",
+   "title_alt": null,
+   "page": {
+    "printed": 120,
+    "pdf": 125
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:t03",
+   "concept_key": "nctb:eco:c9-10:ch08:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "parent_id": null,
+   "number": "8.3",
+   "level": "topic",
+   "title": "Relative Importance of Various Sectors",
+   "title_alt": null,
+   "page": {
+    "printed": 128,
+    "pdf": 133
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:t04",
+   "concept_key": "nctb:eco:c9-10:ch08:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "parent_id": null,
+   "number": "8.4",
+   "level": "topic",
+   "title": "Dependency of Agriculture and Industry Sectors on Each Other",
+   "title_alt": null,
+   "page": {
+    "printed": 130,
+    "pdf": 135
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:t01",
+   "concept_key": "nctb:eco:c9-10:ch09:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "parent_id": null,
+   "number": "9.1",
+   "level": "topic",
+   "title": "Economic Growth and Development",
+   "title_alt": null,
+   "page": {
+    "printed": 136,
+    "pdf": 141
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:t02",
+   "concept_key": "nctb:eco:c9-10:ch09:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "parent_id": null,
+   "number": "9.2",
+   "level": "topic",
+   "title": "Characteristics of Developed, Least Developed and Developing",
+   "title_alt": null,
+   "page": {
+    "printed": 136,
+    "pdf": 141
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:t02:s01",
+   "concept_key": "nctb:eco:c9-10:ch09:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "parent_id": "nctb:eco:c9-10:en:ch09:t02",
+   "number": "9.2.1",
+   "level": "subtopic",
+   "title": "Characteristics of Developed Countries",
+   "title_alt": null,
+   "page": {
+    "printed": 137,
+    "pdf": 142
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:t02:s02",
+   "concept_key": "nctb:eco:c9-10:ch09:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "parent_id": "nctb:eco:c9-10:en:ch09:t02",
+   "number": "9.2.2",
+   "level": "subtopic",
+   "title": "Characteristics of Least Developed Countries",
+   "title_alt": null,
+   "page": {
+    "printed": 138,
+    "pdf": 143
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:t02:s03",
+   "concept_key": "nctb:eco:c9-10:ch09:t02:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "parent_id": "nctb:eco:c9-10:en:ch09:t02",
+   "number": "9.2.3",
+   "level": "subtopic",
+   "title": "Characteristics of Developing Countries",
+   "title_alt": null,
+   "page": {
+    "printed": 140,
+    "pdf": 145
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:t03",
+   "concept_key": "nctb:eco:c9-10:ch09:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "parent_id": null,
+   "number": "9.3",
+   "level": "topic",
+   "title": "Obstacles to Economic Development of Bangladesh",
+   "title_alt": null,
+   "page": {
+    "printed": 141,
+    "pdf": 146
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:t04",
+   "concept_key": "nctb:eco:c9-10:ch09:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "parent_id": null,
+   "number": "9.4",
+   "level": "topic",
+   "title": "Development Programmes of Non-government Organisations",
+   "title_alt": null,
+   "page": {
+    "printed": 143,
+    "pdf": 148
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:t05",
+   "concept_key": "nctb:eco:c9-10:ch09:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "parent_id": null,
+   "number": "9.5",
+   "level": "topic",
+   "title": "Poverty",
+   "title_alt": null,
+   "page": {
+    "printed": 144,
+    "pdf": 149
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:t06",
+   "concept_key": "nctb:eco:c9-10:ch09:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "parent_id": null,
+   "number": "9.6",
+   "level": "topic",
+   "title": "Unemployment",
+   "title_alt": null,
+   "page": {
+    "printed": 147,
+    "pdf": 152
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:t07",
+   "concept_key": "nctb:eco:c9-10:ch09:t07",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "parent_id": null,
+   "number": "9.7",
+   "level": "topic",
+   "title": "Human Resource",
+   "title_alt": null,
+   "page": {
+    "printed": 150,
+    "pdf": 155
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:t01",
+   "concept_key": "nctb:eco:c9-10:ch10:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.1",
+   "level": "topic",
+   "title": "Public Finance",
+   "title_alt": null,
+   "page": {
+    "printed": 156,
+    "pdf": 161
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:t02",
+   "concept_key": "nctb:eco:c9-10:ch10:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.2",
+   "level": "topic",
+   "title": "The Sources of Revenue of Bangladesh Government",
+   "title_alt": null,
+   "page": {
+    "printed": 156,
+    "pdf": 161
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:t03",
+   "concept_key": "nctb:eco:c9-10:ch10:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.3",
+   "level": "topic",
+   "title": "The Sectors of Expenditures of Bangladesh Government",
+   "title_alt": null,
+   "page": {
+    "printed": 160,
+    "pdf": 165
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:t04",
+   "concept_key": "nctb:eco:c9-10:ch10:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.4",
+   "level": "topic",
+   "title": "Budget",
+   "title_alt": null,
+   "page": {
+    "printed": 164,
+    "pdf": 169
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:t05",
+   "concept_key": "nctb:eco:c9-10:ch10:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.5",
+   "level": "topic",
+   "title": "Bangladesh Government Budget",
+   "title_alt": null,
+   "page": {
+    "printed": 167,
+    "pdf": 172
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:t06",
+   "concept_key": "nctb:eco:c9-10:ch10:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.6",
+   "level": "topic",
+   "title": "The Budget for the year 2021- 2022 and the Revised Budget for the",
+   "title_alt": null,
+   "page": {
+    "printed": 170,
+    "pdf": 175
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ],
+ "objectives": [
+  {
+   "id": "nctb:eco:c9-10:en:ch02:o01",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "number": 1,
+   "text": "explain the concept of economic wealth;",
+   "page": {
+    "printed": 19,
+    "pdf": 24
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:o02",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "number": 2,
+   "text": "compare natural, human, and manufactured resources;",
+   "page": {
+    "printed": 19,
+    "pdf": 24
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:o03",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "number": 3,
+   "text": "identify the key economic resources of Bangladesh;",
+   "page": {
+    "printed": 19,
+    "pdf": 24
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:o04",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "number": 4,
+   "text": "define and describe different types of goods;",
+   "page": {
+    "printed": 19,
+    "pdf": 24
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:o05",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "number": 5,
+   "text": "differentiate between non-renewable goods and economic goods;",
+   "page": {
+    "printed": 19,
+    "pdf": 24
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:o06",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "number": 6,
+   "text": "compare durable and non-durable consumer goods;",
+   "page": {
+    "printed": 19,
+    "pdf": 24
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:o07",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "number": 7,
+   "text": "distinguish between intermediate goods and capital goods;",
+   "page": {
+    "printed": 19,
+    "pdf": 24
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:o08",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "number": 8,
+   "text": "explain the idea of opportunity cost and the principle of choice;",
+   "page": {
+    "printed": 19,
+    "pdf": 24
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:o09",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "number": 9,
+   "text": "understand the interrelationship between income, savings, and investment; and compile a sector-wise list of various economic activities in Bangladesh.",
+   "page": {
+    "printed": 19,
+    "pdf": 24
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:o01",
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "number": 1,
+   "text": "Explain the concept of utility;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:o02",
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "number": 2,
+   "text": "Understand the relationship among utility, consumption, and the consumer;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:o03",
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "number": 3,
+   "text": "Demonstrate that total utility is the sum of marginal utilities; Illustrate the law of diminishing marginal utility using diagrams;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:o04",
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "number": 4,
+   "text": "Analyze the relationship between price and quantity demanded; Examine the relationship between price and quantity supplied; and",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:o05",
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "number": 5,
+   "text": "Identify how equilibrium price and quantity are determined.",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:o01",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "number": 1,
+   "text": "describe the concept of production;",
+   "page": {
+    "printed": 51,
+    "pdf": 56
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:o02",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "number": 2,
+   "text": "explain the relationship between the producer and production;",
+   "page": {
+    "printed": 51,
+    "pdf": 56
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:o03",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "number": 3,
+   "text": "explain the materials of production;",
+   "page": {
+    "printed": 51,
+    "pdf": 56
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:o04",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "number": 4,
+   "text": "explain the organization and its development;",
+   "page": {
+    "printed": 51,
+    "pdf": 56
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:o05",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "number": 5,
+   "text": "explain the relationship between average and marginal product;",
+   "page": {
+    "printed": 51,
+    "pdf": 56
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:o06",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "number": 6,
+   "text": "explain the concept of production cost;",
+   "page": {
+    "printed": 51,
+    "pdf": 56
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:o07",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "number": 7,
+   "text": "Identify visible and invisible costs;",
+   "page": {
+    "printed": 51,
+    "pdf": 56
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:o08",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "number": 8,
+   "text": "Distinguish between private and social costs;",
+   "page": {
+    "printed": 51,
+    "pdf": 56
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:o09",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "number": 9,
+   "text": "Be interested in productive activities and initiatives;",
+   "page": {
+    "printed": 51,
+    "pdf": 56
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:o10",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "number": 10,
+   "text": "Be able to present the law of diminishing marginal product with the help of tables and graphs.",
+   "page": {
+    "printed": 52,
+    "pdf": 57
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch05:o01",
+   "chapter_id": "nctb:eco:c9-10:en:ch05",
+   "number": 1,
+   "text": "Define the concept of a market;",
+   "page": {
+    "printed": 67,
+    "pdf": 72
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch05:o02",
+   "chapter_id": "nctb:eco:c9-10:en:ch05",
+   "number": 2,
+   "text": "Describe the patterns and types of market development;",
+   "page": {
+    "printed": 67,
+    "pdf": 72
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch05:o03",
+   "chapter_id": "nctb:eco:c9-10:en:ch05",
+   "number": 3,
+   "text": "Explain the features of a perfectly competitive market;",
+   "page": {
+    "printed": 67,
+    "pdf": 72
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch05:o04",
+   "chapter_id": "nctb:eco:c9-10:en:ch05",
+   "number": 4,
+   "text": "Compare perfect competition with monopolistic and monopolistic competitive",
+   "page": {
+    "printed": 67,
+    "pdf": 72
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch05:o05",
+   "chapter_id": "nctb:eco:c9-10:en:ch05",
+   "number": 5,
+   "text": "Identify the different types of market systems in Bangladesh;",
+   "page": {
+    "printed": 67,
+    "pdf": 72
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch05:o06",
+   "chapter_id": "nctb:eco:c9-10:en:ch05",
+   "number": 6,
+   "text": "Understand the reasons behind price fluctuations and their impact;",
+   "page": {
+    "printed": 67,
+    "pdf": 72
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch05:o07",
+   "chapter_id": "nctb:eco:c9-10:en:ch05",
+   "number": 7,
+   "text": "Create a chart categorizing market types based on competition.",
+   "page": {
+    "printed": 67,
+    "pdf": 72
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:o01",
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "number": 1,
+   "text": "eo illustrate the ideas of national income;",
+   "page": {
+    "printed": 80,
+    "pdf": 85
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:o02",
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "number": 2,
+   "text": "demonstrate the differences between the national income (NI) and the gross domestic product (GDP);",
+   "page": {
+    "printed": 80,
+    "pdf": 85
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:o03",
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "number": 3,
+   "text": "compare the national income (NI) and the net national product (NNP); illustrate various methods asuring the national income;",
+   "page": {
+    "printed": 80,
+    "pdf": 85
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:o04",
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "number": 4,
+   "text": "classify the determinants of GDP in two groups, which are factors and technology; prepare a list of factors excluded from GDP;",
+   "page": {
+    "printed": 80,
+    "pdf": 85
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:o05",
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "number": 5,
+   "text": "describe the system to measure the national income in Bangladesh.",
+   "page": {
+    "printed": 80,
+    "pdf": 85
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:o01",
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "number": 1,
+   "text": "describe the idea and classification of money;",
+   "page": {
+    "printed": 92,
+    "pdf": 97
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:o02",
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "number": 2,
+   "text": "explain the functions of money;",
+   "page": {
+    "printed": 92,
+    "pdf": 97
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:o03",
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "number": 3,
+   "text": "describe the concept of a commercial bank and its main functions; illustrate the procedures of opening and operating a bank account;",
+   "page": {
+    "printed": 92,
+    "pdf": 97
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:o04",
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "number": 4,
+   "text": "explain the concept of the central bank and its major functions;",
+   "page": {
+    "printed": 92,
+    "pdf": 97
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:o05",
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "number": 5,
+   "text": "compare the central bank with commercial banks; cvaluate the role of some important banks of Bangladesh in agricultural development, industrialization and self-employment and",
+   "page": {
+    "printed": 92,
+    "pdf": 97
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:o06",
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "number": 6,
+   "text": "show the banking system of Bangladesh by drawing charts.",
+   "page": {
+    "printed": 92,
+    "pdf": 97
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:o01",
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "number": 1,
+   "text": "explain the main characteristics of Bangladeshi economy;",
+   "page": {
+    "printed": 114,
+    "pdf": 119
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:o02",
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "number": 2,
+   "text": "explain the main sectors (agriculture, industry and service) of Bangladeshi economy;",
+   "page": {
+    "printed": 114,
+    "pdf": 119
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:o03",
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "number": 3,
+   "text": "analyse the comparative importance of the main sectors (agriculture, industry and service) of Bangladeshi economy;",
+   "page": {
+    "printed": 114,
+    "pdf": 119
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:o04",
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "number": 4,
+   "text": "identify the dependence of agriculture and manufacturing sectors on one another;",
+   "page": {
+    "printed": 114,
+    "pdf": 119
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:o05",
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "number": 5,
+   "text": "discuss sectorwise analysis of the data of the economy and use it mathematically and",
+   "page": {
+    "printed": 114,
+    "pdf": 119
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:o06",
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "number": 6,
+   "text": "discuss the importance of various sectors through drawing graphs.",
+   "page": {
+    "printed": 114,
+    "pdf": 119
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:o01",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "number": 1,
+   "text": "explain the relationship between economic growth and development;",
+   "page": {
+    "printed": 135,
+    "pdf": 140
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:o02",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "number": 2,
+   "text": "explain the characteristics of developed, less developed and developing countries;",
+   "page": {
+    "printed": 135,
+    "pdf": 140
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:o03",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "number": 3,
+   "text": "identify the stages of development of Bangladesh economy;",
+   "page": {
+    "printed": 135,
+    "pdf": 140
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:o04",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "number": 4,
+   "text": "make a list of obstacles to economic development of Bangladesh;",
+   "page": {
+    "printed": 135,
+    "pdf": 140
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:o05",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "number": 5,
+   "text": "explain the importance of development projects run by Bangladesh government;",
+   "page": {
+    "printed": 135,
+    "pdf": 140
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:o06",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "number": 6,
+   "text": "explain the importance of development projects run by Non- Government Organisations (NGOs) for national development;",
+   "page": {
+    "printed": 135,
+    "pdf": 140
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:o07",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "number": 7,
+   "text": "explain the type, reasons and ways of reducing poverty in Bangladesh;",
+   "page": {
+    "printed": 135,
+    "pdf": 140
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:o08",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "number": 8,
+   "text": "analyse the nature of unemployment in Bangladesh and the ways to remove it;",
+   "page": {
+    "printed": 135,
+    "pdf": 140
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:o09",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "number": 9,
+   "text": "explain the concept of human resources and",
+   "page": {
+    "printed": 135,
+    "pdf": 140
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:o10",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "number": 10,
+   "text": "explain the way in which the population of a nation can become its asset.",
+   "page": {
+    "printed": 135,
+    "pdf": 140
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:o01",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "number": 1,
+   "text": "explain what public finance is;",
+   "page": {
+    "printed": 155,
+    "pdf": 160
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:o02",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "number": 2,
+   "text": "explain what the sources of government revenue are;",
+   "page": {
+    "printed": 155,
+    "pdf": 160
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:o03",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "number": 3,
+   "text": "explain what the sectors of government expenditure are;",
+   "page": {
+    "printed": 155,
+    "pdf": 160
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:o04",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "number": 4,
+   "text": "explain the concept of budget;",
+   "page": {
+    "printed": 155,
+    "pdf": 160
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:o05",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "number": 5,
+   "text": "differentiate between current budget and capital budget;",
+   "page": {
+    "printed": 155,
+    "pdf": 160
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:o06",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "number": 6,
+   "text": "compare between balanced budget and unbalanced budget;",
+   "page": {
+    "printed": 155,
+    "pdf": 160
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:o07",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "number": 7,
+   "text": "explain the budget of Bangladesh government and its classifications;",
+   "page": {
+    "printed": 155,
+    "pdf": 160
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:o08",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "number": 8,
+   "text": "identify the sources to finance the development budget of Bangladesh government and participate in the discussion of the national budget.",
+   "page": {
+    "printed": 155,
+    "pdf": 160
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ],
+ "worked_examples": [],
+ "exercises": [
+  {
+   "id": "nctb:eco:c9-10:en:ch01:ex:mcq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 16,
+    "pdf": 21
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch01:ex:mcq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 16,
+    "pdf": 21
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch01:ex:mcq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch01:ex:mcq04",
+   "chapter_id": "nctb:eco:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch01:ex:cq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch01",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 17,
+    "pdf": 22
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch01:ex:cq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch01",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 18,
+    "pdf": 23
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:ex:mcq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 32,
+    "pdf": 37
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:ex:mcq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 32,
+    "pdf": 37
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:ex:mcq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 32,
+    "pdf": 37
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:ex:mcq04",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 33,
+    "pdf": 38
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:ex:cq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 33,
+    "pdf": 38
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:ex:cq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 33,
+    "pdf": 38
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:ex:sq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 34,
+    "pdf": 39
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:ex:sq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 34,
+    "pdf": 39
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:ex:sq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 34,
+    "pdf": 39
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch02:ex:sq04",
+   "chapter_id": "nctb:eco:c9-10:en:ch02",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 34,
+    "pdf": 39
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:ex:mcq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 48,
+    "pdf": 53
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:ex:mcq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:ex:mcq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:ex:mcq04",
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:ex:cq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch03:ex:cq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch03",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 50,
+    "pdf": 55
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:ex:mcq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 63,
+    "pdf": 68
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:ex:mcq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 63,
+    "pdf": 68
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:ex:mcq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 64,
+    "pdf": 69
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:ex:mcq04",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 64,
+    "pdf": 69
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:ex:cq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 64,
+    "pdf": 69
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:ex:cq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 65,
+    "pdf": 70
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:ex:sq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 66,
+    "pdf": 71
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:ex:sq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 66,
+    "pdf": 71
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:ex:sq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 66,
+    "pdf": 71
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch04:ex:sq04",
+   "chapter_id": "nctb:eco:c9-10:en:ch04",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 66,
+    "pdf": 71
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch05:ex:mcq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 78,
+    "pdf": 83
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch05:ex:mcq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 78,
+    "pdf": 83
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch05:ex:mcq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 78,
+    "pdf": 83
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch05:ex:mcq04",
+   "chapter_id": "nctb:eco:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 78,
+    "pdf": 83
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch05:ex:cq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch05",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 79,
+    "pdf": 84
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch05:ex:sq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch05",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 79,
+    "pdf": 84
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:ex:mcq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 89,
+    "pdf": 94
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:ex:mcq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 89,
+    "pdf": 94
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:ex:mcq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 89,
+    "pdf": 94
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:ex:mcq04",
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 89,
+    "pdf": 94
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:ex:cq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:ex:cq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:ex:sq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 91,
+    "pdf": 96
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:ex:sq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 91,
+    "pdf": 96
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch06:ex:sq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch06",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 91,
+    "pdf": 96
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:ex:mcq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 112,
+    "pdf": 117
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:ex:mcq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 112,
+    "pdf": 117
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:ex:mcq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 112,
+    "pdf": 117
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:ex:mcq04",
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 112,
+    "pdf": 117
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:ex:cq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 113,
+    "pdf": 118
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:ex:cq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 113,
+    "pdf": 118
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:ex:sq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 113,
+    "pdf": 118
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:ex:sq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 113,
+    "pdf": 118
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch07:ex:sq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch07",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 113,
+    "pdf": 118
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:ex:mcq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 132,
+    "pdf": 137
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:ex:mcq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 132,
+    "pdf": 137
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:ex:mcq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 133,
+    "pdf": 138
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:ex:mcq04",
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 133,
+    "pdf": 138
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:ex:cq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 133,
+    "pdf": 138
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:ex:sq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:ex:sq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch08:ex:sq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch08",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:ex:mcq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 152,
+    "pdf": 157
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:ex:mcq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 152,
+    "pdf": 157
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:ex:mcq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 153,
+    "pdf": 158
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:ex:mcq04",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 153,
+    "pdf": 158
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:ex:cq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 153,
+    "pdf": 158
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:ex:cq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 154,
+    "pdf": 159
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:ex:sq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 154,
+    "pdf": 159
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:ex:sq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 154,
+    "pdf": 159
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch09:ex:sq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch09",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 154,
+    "pdf": 159
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:ex:mcq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 171,
+    "pdf": 176
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:ex:mcq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 171,
+    "pdf": 176
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:ex:mcq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 171,
+    "pdf": 176
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:ex:mcq04",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 171,
+    "pdf": 176
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:ex:cq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:ex:cq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "a",
+    "b",
+    "d"
+   ]
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:ex:sq01",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:ex:sq02",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:eco:c9-10:en:ch10:ex:sq03",
+   "chapter_id": "nctb:eco:c9-10:en:ch10",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ]
+}

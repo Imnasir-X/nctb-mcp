@@ -1,0 +1,5668 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.3.0",
+ "generated_at": "2026-11-20",
+ "book": {
+  "subject": {
+   "code": "sci",
+   "name_bn": "বিজ্ঞান",
+   "name_en": "Science",
+   "aliases": [
+    "science",
+    "বিজ্ঞান",
+    "biggan"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:sci:c9-10:bn",
+  "version": "bn",
+  "title": "বিজ্ঞান, নবম ও দশম শ্রেণি (২০২৬ শিক্ষাবর্ষের জন্য পরিমার্জিত)",
+  "rights_statement": "[প্রকাশক কর্তৃক সর্বস্বত্ব সংরক্ষিত] — গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক বিনামূল্যে বিতরণের জন্য",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1AYg7uY_WjVYJmoskhb0-D58iFPvgwmpJ/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/NupFtnqI21e6svU"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Science (bn).pdf",
+   "sha256": "c5426a583e1d7a71f875b41ce92a5f61c206bd7e9476835bb3b9dc0d3fedfcae",
+   "bytes": 91936929,
+   "pdf_pages": 254,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "id": "nctb:sci:c9-10:bn:ch01",
+   "concept_key": "nctb:sci:c9-10:ch01",
+   "number": 1,
+   "title": "উন্নততর জীবনধারা",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": 32,
+     "pdf": 37
+    }
+   },
+   "counts": {
+    "topics": 8,
+    "subtopics": 15,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02",
+   "concept_key": "nctb:sci:c9-10:ch02",
+   "number": 2,
+   "title": "জীবনের জন্য পানি",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 33,
+     "pdf": 38
+    },
+    "end": {
+     "printed": 56,
+     "pdf": 61
+    }
+   },
+   "counts": {
+    "topics": 9,
+    "subtopics": 7,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03",
+   "concept_key": "nctb:sci:c9-10:ch03",
+   "number": 3,
+   "title": "হৃদ্যন্ত্রের যত কথা এবং অন্যান্য",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 57,
+     "pdf": 62
+    },
+    "end": {
+     "printed": 84,
+     "pdf": 89
+    }
+   },
+   "counts": {
+    "topics": 6,
+    "subtopics": 12,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 4,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "exercise-number-gap:cq04",
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04",
+   "concept_key": "nctb:sci:c9-10:ch04",
+   "number": 4,
+   "title": "নবজীবনের সূচনা",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 85,
+     "pdf": 90
+    },
+    "end": {
+     "printed": 114,
+     "pdf": 119
+    }
+   },
+   "counts": {
+    "topics": 4,
+    "subtopics": 2,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "heading-number-unreadable:8.3.5 বয়ঃসন্ধিকালের পরিবর্তনসমূহ",
+     "heading-number-unreadable:8.5.0 দৈহিক স্বাস্থ্য ঠিক রাখা",
+     "heading-number-unreadable:8.5.8 মানসিক স্বাস্থ্য ঠিক রাখা",
+     "heading-number-unreadable:8.8.3 ডারউইনবাদ বা ডারউইনের ত্্ব",
+     "subtopic-number-gap:4.1.1",
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05",
+   "concept_key": "nctb:sci:c9-10:ch05",
+   "number": 5,
+   "title": "দেখতে হলে আলো চাই",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 115,
+     "pdf": 120
+    },
+    "end": {
+     "printed": 128,
+     "pdf": 133
+    }
+   },
+   "counts": {
+    "topics": 4,
+    "subtopics": 5,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06",
+   "concept_key": "nctb:sci:c9-10:ch06",
+   "number": 6,
+   "title": "পলিমার",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 129,
+     "pdf": 134
+    },
+    "end": {
+     "printed": 144,
+     "pdf": 149
+    }
+   },
+   "counts": {
+    "topics": 3,
+    "subtopics": 6,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07",
+   "concept_key": "nctb:sci:c9-10:ch07",
+   "number": 7,
+   "title": "oq, FES ও লবণের ব্যবহার",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 145,
+     "pdf": 150
+    },
+    "end": {
+     "printed": 164,
+     "pdf": 169
+    }
+   },
+   "counts": {
+    "topics": 4,
+    "subtopics": 10,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "objectives-not-found",
+     "subtopic-number-gap:7.1.3",
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08",
+   "concept_key": "nctb:sci:c9-10:ch08",
+   "number": 8,
+   "title": "আমাদের সম্পদ",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 165,
+     "pdf": 170
+    },
+    "end": {
+     "printed": 183,
+     "pdf": 188
+    }
+   },
+   "counts": {
+    "topics": 3,
+    "subtopics": 8,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09",
+   "concept_key": "nctb:sci:c9-10:ch09",
+   "number": 9,
+   "title": "দুর্যোগের সাথে বসবাস",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 184,
+     "pdf": 189
+    },
+    "end": {
+     "printed": 211,
+     "pdf": 216
+    }
+   },
+   "counts": {
+    "topics": 4,
+    "subtopics": 13,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 4,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "exercise-number-gap:cq04",
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10",
+   "concept_key": "nctb:sci:c9-10:ch10",
+   "number": 10,
+   "title": "এসো বলকে জানি",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 212,
+     "pdf": 217
+    },
+    "end": {
+     "printed": 229,
+     "pdf": 234
+    }
+   },
+   "counts": {
+    "topics": 5,
+    "subtopics": 4,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11",
+   "concept_key": "nctb:sci:c9-10:ch11",
+   "number": 11,
+   "title": "প্রাত্যহিক জীবনে তড়িৎ",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 230,
+     "pdf": 235
+    },
+    "end": {
+     "printed": 249,
+     "pdf": 254
+    }
+   },
+   "counts": {
+    "topics": 5,
+    "subtopics": 9,
+    "objectives": 1,
+    "worked_examples": 1,
+    "ex_mcq": 4,
+    "ex_cq": 5,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:worked_examples",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq"
+    ]
+   }
+  }
+ ],
+ "topics": [
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t01",
+   "concept_key": "nctb:sci:c9-10:ch01:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": null,
+   "number": "1.1",
+   "level": "topic",
+   "title": "খাদ্য ও পুষ্টি",
+   "title_alt": null,
+   "page": {
+    "printed": 3,
+    "pdf": 8
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch01:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": "nctb:sci:c9-10:bn:ch01:t01",
+   "number": "1.1.1",
+   "level": "subtopic",
+   "title": "শর্করা বা কার্বোহাইড্রেট",
+   "title_alt": null,
+   "page": {
+    "printed": 4,
+    "pdf": 9
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t01:s02",
+   "concept_key": "nctb:sci:c9-10:ch01:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": "nctb:sci:c9-10:bn:ch01:t01",
+   "number": "1.1.2",
+   "level": "subtopic",
+   "title": "আমিষ বা প্রোটিন",
+   "title_alt": null,
+   "page": {
+    "printed": 5,
+    "pdf": 10
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t01:s03",
+   "concept_key": "nctb:sci:c9-10:ch01:t01:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": "nctb:sci:c9-10:bn:ch01:t01",
+   "number": "1.1.3",
+   "level": "subtopic",
+   "title": "2 পদার্থ বা লিপিড",
+   "title_alt": null,
+   "page": {
+    "printed": 6,
+    "pdf": 11
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t01:s04",
+   "concept_key": "nctb:sci:c9-10:ch01:t01:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": "nctb:sci:c9-10:bn:ch01:t01",
+   "number": "1.1.4",
+   "level": "subtopic",
+   "title": "খাদ্যপ্রাণ বা ভিটামিন",
+   "title_alt": null,
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t01:s05",
+   "concept_key": "nctb:sci:c9-10:ch01:t01:s05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": "nctb:sci:c9-10:bn:ch01:t01",
+   "number": "1.1.5",
+   "level": "subtopic",
+   "title": "খনিজ পদার্থ এবং পানি",
+   "title_alt": null,
+   "page": {
+    "printed": 10,
+    "pdf": 15
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t01:s06",
+   "concept_key": "nctb:sci:c9-10:ch01:t01:s06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": "nctb:sci:c9-10:bn:ch01:t01",
+   "number": "1.1.6",
+   "level": "subtopic",
+   "title": "রাফেজ বা আঁশ",
+   "title_alt": null,
+   "page": {
+    "printed": 12,
+    "pdf": 17
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t02",
+   "concept_key": "nctb:sci:c9-10:ch01:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": null,
+   "number": "1.2",
+   "level": "topic",
+   "title": "বড়ি মাস ইনডেক্স (BMI) বা দেহের ভরসূচি",
+   "title_alt": null,
+   "page": {
+    "printed": 13,
+    "pdf": 18
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t03",
+   "concept_key": "nctb:sci:c9-10:ch01:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": null,
+   "number": "1.3",
+   "level": "topic",
+   "title": "দৈনিক খাবার কেমন হবে",
+   "title_alt": null,
+   "page": {
+    "printed": 15,
+    "pdf": 20
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t03:s01",
+   "concept_key": "nctb:sci:c9-10:ch01:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": "nctb:sci:c9-10:bn:ch01:t03",
+   "number": "1.3.1",
+   "level": "subtopic",
+   "title": "সুষম খাদ্য",
+   "title_alt": null,
+   "page": {
+    "printed": 16,
+    "pdf": 21
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t03:s02",
+   "concept_key": "nctb:sci:c9-10:ch01:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": "nctb:sci:c9-10:bn:ch01:t03",
+   "number": "1.3.2",
+   "level": "subtopic",
+   "title": "উন্নত জীবনযাপনের জন্য খাদ্য উপাদান বাছাই",
+   "title_alt": null,
+   "page": {
+    "printed": 18,
+    "pdf": 23
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t04",
+   "concept_key": "nctb:sci:c9-10:ch01:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": null,
+   "number": "1.4",
+   "level": "topic",
+   "title": "খাদ্য সংরক্ষণ",
+   "title_alt": null,
+   "page": {
+    "printed": 20,
+    "pdf": 25
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t04:s01",
+   "concept_key": "nctb:sci:c9-10:ch01:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": "nctb:sci:c9-10:bn:ch01:t04",
+   "number": "1.4.1",
+   "level": "subtopic",
+   "title": "খাদ্য সংরক্ষণের বিভিন্ন পদ্ধতি",
+   "title_alt": null,
+   "page": {
+    "printed": 20,
+    "pdf": 25
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t04:s02",
+   "concept_key": "nctb:sci:c9-10:ch01:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": "nctb:sci:c9-10:bn:ch01:t04",
+   "number": "1.4.2",
+   "level": "subtopic",
+   "title": "খাদ্যদ্রব্য সংরক্ষণে রাসায়নিক পদার্থের ব্যবহার ও এর শারীরিক প্রতিক্রিয়া",
+   "title_alt": null,
+   "page": {
+    "printed": 22,
+    "pdf": 27
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t05",
+   "concept_key": "nctb:sci:c9-10:ch01:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": null,
+   "number": "1.5",
+   "level": "topic",
+   "title": "তামাক ও অন্যান্য মাদকদ্রব্য",
+   "title_alt": null,
+   "page": {
+    "printed": 23,
+    "pdf": 28
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t05:s01",
+   "concept_key": "nctb:sci:c9-10:ch01:t05:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": "nctb:sci:c9-10:bn:ch01:t05",
+   "number": "1.5.1",
+   "level": "subtopic",
+   "title": "ধূমপানের ক্ষতিকর দিক",
+   "title_alt": null,
+   "page": {
+    "printed": 23,
+    "pdf": 28
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t05:s02",
+   "concept_key": "nctb:sci:c9-10:ch01:t05:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": "nctb:sci:c9-10:bn:ch01:t05",
+   "number": "1.5.2",
+   "level": "subtopic",
+   "title": "ধূমপান ও তামাকজাত পদার্থের ব্যবহার নিয়ন্ত্রণে প্রচেষ্টাসমূহ",
+   "title_alt": null,
+   "page": {
+    "printed": 24,
+    "pdf": 29
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t06",
+   "concept_key": "nctb:sci:c9-10:ch01:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": null,
+   "number": "1.6",
+   "level": "topic",
+   "title": "মাদকাসস্তি",
+   "title_alt": null,
+   "page": {
+    "printed": 24,
+    "pdf": 29
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t06:s01",
+   "concept_key": "nctb:sci:c9-10:ch01:t06:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": "nctb:sci:c9-10:bn:ch01:t06",
+   "number": "1.6.1",
+   "level": "subtopic",
+   "title": "মাদকাসন্তির লক্ষণ",
+   "title_alt": null,
+   "page": {
+    "printed": 25,
+    "pdf": 30
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t06:s02",
+   "concept_key": "nctb:sci:c9-10:ch01:t06:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": "nctb:sci:c9-10:bn:ch01:t06",
+   "number": "1.6.2",
+   "level": "subtopic",
+   "title": "ড্রাগ আসস্তি নিয়ন্ত্রণ",
+   "title_alt": null,
+   "page": {
+    "printed": 26,
+    "pdf": 31
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t07",
+   "concept_key": "nctb:sci:c9-10:ch01:t07",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": null,
+   "number": "1.7",
+   "level": "topic",
+   "title": "এইডস",
+   "title_alt": "AIDS",
+   "page": {
+    "printed": 27,
+    "pdf": 32
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t07:s01",
+   "concept_key": "nctb:sci:c9-10:ch01:t07:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": "nctb:sci:c9-10:bn:ch01:t07",
+   "number": "1.7.1",
+   "level": "subtopic",
+   "title": "AIDS রোগের কারণ",
+   "title_alt": null,
+   "page": {
+    "printed": 28,
+    "pdf": 33
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:t08",
+   "concept_key": "nctb:sci:c9-10:ch01:t08",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "parent_id": null,
+   "number": "1.8",
+   "level": "topic",
+   "title": "স্বাস্থ্য রক্ষায় শরীরচর্চা এবং বিশ্রাম",
+   "title_alt": null,
+   "page": {
+    "printed": 29,
+    "pdf": 34
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:t01",
+   "concept_key": "nctb:sci:c9-10:ch02:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "parent_id": null,
+   "number": "2.1",
+   "level": "topic",
+   "title": "পানি",
+   "title_alt": null,
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch02:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "parent_id": "nctb:sci:c9-10:bn:ch02:t01",
+   "number": "2.1.1",
+   "level": "subtopic",
+   "title": "পানির ধর্ম",
+   "title_alt": null,
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:t01:s02",
+   "concept_key": "nctb:sci:c9-10:ch02:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "parent_id": "nctb:sci:c9-10:bn:ch02:t01",
+   "number": "2.1.2",
+   "level": "subtopic",
+   "title": "পানির উৎস",
+   "title_alt": null,
+   "page": {
+    "printed": 36,
+    "pdf": 41
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:t01:s03",
+   "concept_key": "nctb:sci:c9-10:ch02:t01:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "parent_id": "nctb:sci:c9-10:bn:ch02:t01",
+   "number": "2.1.3",
+   "level": "subtopic",
+   "title": "জলজ উদ্ভিদের জন্য পানির প্রয়োজনীয়তা",
+   "title_alt": null,
+   "page": {
+    "printed": 37,
+    "pdf": 42
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:t01:s04",
+   "concept_key": "nctb:sci:c9-10:ch02:t01:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "parent_id": "nctb:sci:c9-10:bn:ch02:t01",
+   "number": "2.1.4",
+   "level": "subtopic",
+   "title": "জলজ প্রাণীর জন্য পানির প্রয়োজনীয়তা",
+   "title_alt": null,
+   "page": {
+    "printed": 38,
+    "pdf": 43
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:t02",
+   "concept_key": "nctb:sci:c9-10:ch02:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "parent_id": null,
+   "number": "2.2",
+   "level": "topic",
+   "title": "পানির মানদণ্ড",
+   "title_alt": null,
+   "page": {
+    "printed": 38,
+    "pdf": 43
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:t03",
+   "concept_key": "nctb:sci:c9-10:ch02:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "parent_id": null,
+   "number": "2.3",
+   "level": "topic",
+   "title": "পানির পুনরাবর্তন ও পরিবেশ সংরক্ষণে পানির ভূমিকা",
+   "title_alt": null,
+   "page": {
+    "printed": 40,
+    "pdf": 45
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:t04",
+   "concept_key": "nctb:sci:c9-10:ch02:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "parent_id": null,
+   "number": "2.4",
+   "level": "topic",
+   "title": "পানি বিশুদ্ধকরণ",
+   "title_alt": null,
+   "page": {
+    "printed": 42,
+    "pdf": 47
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:t05",
+   "concept_key": "nctb:sci:c9-10:ch02:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "parent_id": null,
+   "number": "2.5",
+   "level": "topic",
+   "title": "বাংলাদেশের পানির উৎস দূষণের কারণ",
+   "title_alt": null,
+   "page": {
+    "printed": 43,
+    "pdf": 48
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:t05:s01",
+   "concept_key": "nctb:sci:c9-10:ch02:t05:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "parent_id": "nctb:sci:c9-10:bn:ch02:t05",
+   "number": "2.5.1",
+   "level": "subtopic",
+   "title": "উদ্ভিদ, প্রাণী এবং মানুষের উপর পানিদূষণের প্রভাব",
+   "title_alt": null,
+   "page": {
+    "printed": 44,
+    "pdf": 49
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:t06",
+   "concept_key": "nctb:sci:c9-10:ch02:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "parent_id": null,
+   "number": "2.6",
+   "level": "topic",
+   "title": "বৈশ্বিক উষ্ণতা",
+   "title_alt": null,
+   "page": {
+    "printed": 46,
+    "pdf": 51
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:t06:s01",
+   "concept_key": "nctb:sci:c9-10:ch02:t06:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "parent_id": "nctb:sci:c9-10:bn:ch02:t06",
+   "number": "2.6.1",
+   "level": "subtopic",
+   "title": "মিঠা পানিতে বৈশ্বিক",
+   "title_alt": null,
+   "page": {
+    "printed": 46,
+    "pdf": 51
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:t06:s02",
+   "concept_key": "nctb:sci:c9-10:ch02:t06:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "parent_id": "nctb:sci:c9-10:bn:ch02:t06",
+   "number": "2.6.2",
+   "level": "subtopic",
+   "title": "বাংলাদেশে বৈশ্বিক উষ্ণতার প্রভাব",
+   "title_alt": null,
+   "page": {
+    "printed": 47,
+    "pdf": 52
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:t07",
+   "concept_key": "nctb:sci:c9-10:ch02:t07",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "parent_id": null,
+   "number": "2.7",
+   "level": "topic",
+   "title": "বাংলাদেশে পানিদূষণ প্রতিরোধের কৌশল এবং নাগরিকের দায়িত্ব",
+   "title_alt": null,
+   "page": {
+    "printed": 48,
+    "pdf": 53
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:t08",
+   "concept_key": "nctb:sci:c9-10:ch02:t08",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "parent_id": null,
+   "number": "2.8",
+   "level": "topic",
+   "title": "বাংলাদেশে পানির উৎসে হুমকি",
+   "title_alt": null,
+   "page": {
+    "printed": 51,
+    "pdf": 56
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:t09",
+   "concept_key": "nctb:sci:c9-10:ch02:t09",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "parent_id": null,
+   "number": "2.9",
+   "level": "topic",
+   "title": "পানিপ্রবাহের সর্বজনীনতা এবং আন্তর্জাতিক নিয়মনীতি",
+   "title_alt": null,
+   "page": {
+    "printed": 54,
+    "pdf": 59
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t01",
+   "concept_key": "nctb:sci:c9-10:ch03:t01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": null,
+   "number": "3.1",
+   "level": "topic",
+   "title": "রক্ত",
+   "title_alt": "Blood",
+   "page": {
+    "printed": 59,
+    "pdf": 64
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch03:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": "nctb:sci:c9-10:bn:ch03:t01",
+   "number": "3.1.1",
+   "level": "subtopic",
+   "title": "TA বা প্লাজমা",
+   "title_alt": null,
+   "page": {
+    "printed": 60,
+    "pdf": 65
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t01:s02",
+   "concept_key": "nctb:sci:c9-10:ch03:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": "nctb:sci:c9-10:bn:ch03:t01",
+   "number": "3.1.2",
+   "level": "subtopic",
+   "title": "রন্তকোষ",
+   "title_alt": null,
+   "page": {
+    "printed": 60,
+    "pdf": 65
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t01:s03",
+   "concept_key": "nctb:sci:c9-10:ch03:t01:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": "nctb:sci:c9-10:bn:ch03:t01",
+   "number": "3.1.3",
+   "level": "subtopic",
+   "title": "FEF সাধারণ কাজ",
+   "title_alt": null,
+   "page": {
+    "printed": 64,
+    "pdf": 69
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t01:s04",
+   "concept_key": "nctb:sci:c9-10:ch03:t01:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": "nctb:sci:c9-10:bn:ch03:t01",
+   "number": "3.1.4",
+   "level": "subtopic",
+   "title": "রক্ত উপাদানের অস্বাভাবিক অবস্থা",
+   "title_alt": null,
+   "page": {
+    "printed": 65,
+    "pdf": 70
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t02",
+   "concept_key": "nctb:sci:c9-10:ch03:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": null,
+   "number": "3.2",
+   "level": "topic",
+   "title": "TET গ্রুপ",
+   "title_alt": null,
+   "page": {
+    "printed": 66,
+    "pdf": 71
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t02:s01",
+   "concept_key": "nctb:sci:c9-10:ch03:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": "nctb:sci:c9-10:bn:ch03:t02",
+   "number": "3.2.1",
+   "level": "subtopic",
+   "title": "আ্যান্টিজেন এবং আ্যান্টিবডি",
+   "title_alt": null,
+   "page": {
+    "printed": 66,
+    "pdf": 71
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t02:s02",
+   "concept_key": "nctb:sci:c9-10:ch03:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": "nctb:sci:c9-10:bn:ch03:t02",
+   "number": "3.2.2",
+   "level": "subtopic",
+   "title": "Rh ফ্যাক্টর",
+   "title_alt": null,
+   "page": {
+    "printed": 69,
+    "pdf": 74
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t02:s03",
+   "concept_key": "nctb:sci:c9-10:ch03:t02:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": "nctb:sci:c9-10:bn:ch03:t02",
+   "number": "3.2.3",
+   "level": "subtopic",
+   "title": "TY শ্রেণিবিভাগের গুরুত্ব",
+   "title_alt": null,
+   "page": {
+    "printed": 71,
+    "pdf": 76
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t03",
+   "concept_key": "nctb:sci:c9-10:ch03:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": null,
+   "number": "3.3",
+   "level": "topic",
+   "title": "রক্ত সঞ্চালন",
+   "title_alt": null,
+   "page": {
+    "printed": 72,
+    "pdf": 77
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t03:s01",
+   "concept_key": "nctb:sci:c9-10:ch03:t03:s01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": "nctb:sci:c9-10:bn:ch03:t03",
+   "number": "3.3.1",
+   "level": "subtopic",
+   "title": "হৃৎপিণ্ড",
+   "title_alt": "Heart",
+   "page": {
+    "printed": 72,
+    "pdf": 77
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t03:s02",
+   "concept_key": "nctb:sci:c9-10:ch03:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": "nctb:sci:c9-10:bn:ch03:t03",
+   "number": "3.3.2",
+   "level": "subtopic",
+   "title": "হৃৎপিণ্ডের কাজ",
+   "title_alt": null,
+   "page": {
+    "printed": 74,
+    "pdf": 79
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t03:s03",
+   "concept_key": "nctb:sci:c9-10:ch03:t03:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": "nctb:sci:c9-10:bn:ch03:t03",
+   "number": "3.3.3",
+   "level": "subtopic",
+   "title": "হার্ট-বিট বা পালসরেট গণনার পদ্ধতি",
+   "title_alt": null,
+   "page": {
+    "printed": 77,
+    "pdf": 82
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t04",
+   "concept_key": "nctb:sci:c9-10:ch03:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": null,
+   "number": "3.4",
+   "level": "topic",
+   "title": "রক্তচাপ",
+   "title_alt": null,
+   "page": {
+    "printed": 78,
+    "pdf": 83
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t04:s01",
+   "concept_key": "nctb:sci:c9-10:ch03:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": "nctb:sci:c9-10:bn:ch03:t04",
+   "number": "3.4.1",
+   "level": "subtopic",
+   "title": "উচ্চ রক্তচাপ",
+   "title_alt": null,
+   "page": {
+    "printed": 78,
+    "pdf": 83
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t04:s02",
+   "concept_key": "nctb:sci:c9-10:ch03:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": "nctb:sci:c9-10:bn:ch03:t04",
+   "number": "3.4.2",
+   "level": "subtopic",
+   "title": "কোলেস্টেরল",
+   "title_alt": null,
+   "page": {
+    "printed": 79,
+    "pdf": 84
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t05",
+   "concept_key": "nctb:sci:c9-10:ch03:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": null,
+   "number": "3.5",
+   "level": "topic",
+   "title": "হৃদ্যমন্তবকে ভালো রাখার উপায়",
+   "title_alt": null,
+   "page": {
+    "printed": 80,
+    "pdf": 85
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:t06",
+   "concept_key": "nctb:sci:c9-10:ch03:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "parent_id": null,
+   "number": "3.6",
+   "level": "topic",
+   "title": "ডায়াবেটিস, বহুমূত্র বা মধুমেহ রোগ",
+   "title_alt": null,
+   "page": {
+    "printed": 81,
+    "pdf": 86
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04:t01",
+   "concept_key": "nctb:sci:c9-10:ch04:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch04",
+   "parent_id": null,
+   "number": "4.1",
+   "level": "topic",
+   "title": "বয়ঃসন্ধিকাল",
+   "title_alt": null,
+   "page": {
+    "printed": 87,
+    "pdf": 92
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04:t01:s02",
+   "concept_key": "nctb:sci:c9-10:ch04:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch04",
+   "parent_id": "nctb:sci:c9-10:bn:ch04:t01",
+   "number": "4.1.2",
+   "level": "subtopic",
+   "title": "বয়ঃসন্ধিকালে পরিবর্তনের কারণ",
+   "title_alt": null,
+   "page": {
+    "printed": 89,
+    "pdf": 94
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04:t02",
+   "concept_key": "nctb:sci:c9-10:ch04:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch04",
+   "parent_id": null,
+   "number": "4.2",
+   "level": "topic",
+   "title": "সন্তানের লিঙ্গ নির্ধারণ",
+   "title_alt": null,
+   "page": {
+    "printed": 97,
+    "pdf": 102
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04:t03",
+   "concept_key": "nctb:sci:c9-10:ch04:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch04",
+   "parent_id": null,
+   "number": "4.3",
+   "level": "topic",
+   "title": "পৃথিবীতে জীবনের উৎপত্তি ও বিকাশ",
+   "title_alt": null,
+   "page": {
+    "printed": 100,
+    "pdf": 105
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04:t03:s01",
+   "concept_key": "nctb:sci:c9-10:ch04:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch04",
+   "parent_id": "nctb:sci:c9-10:bn:ch04:t03",
+   "number": "4.3.1",
+   "level": "subtopic",
+   "title": "জীবনের আবির্ভাব কোথায়, কবে এবং কীভাবে ঘটেছে",
+   "title_alt": null,
+   "page": {
+    "printed": 101,
+    "pdf": 106
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04:t04",
+   "concept_key": "nctb:sci:c9-10:ch04:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch04",
+   "parent_id": null,
+   "number": "4.4",
+   "level": "topic",
+   "title": "জৈব অভিব্যস্তির উপর বিভিন্ন মতবাদ",
+   "title_alt": null,
+   "page": {
+    "printed": 108,
+    "pdf": 113
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:t01",
+   "concept_key": "nctb:sci:c9-10:ch05:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "parent_id": null,
+   "number": "5.1",
+   "level": "topic",
+   "title": "আয়না বা দর্পণের ব্যবহার",
+   "title_alt": null,
+   "page": {
+    "printed": 117,
+    "pdf": 122
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:t02",
+   "concept_key": "nctb:sci:c9-10:ch05:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "parent_id": null,
+   "number": "5.2",
+   "level": "topic",
+   "title": "আলোর প্রতিসরণ",
+   "title_alt": null,
+   "page": {
+    "printed": 119,
+    "pdf": 124
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:t03",
+   "concept_key": "nctb:sci:c9-10:ch05:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "parent_id": null,
+   "number": "5.3",
+   "level": "topic",
+   "title": "লেস",
+   "title_alt": null,
+   "page": {
+    "printed": 120,
+    "pdf": 125
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:t03:s01",
+   "concept_key": "nctb:sci:c9-10:ch05:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "parent_id": "nctb:sci:c9-10:bn:ch05:t03",
+   "number": "5.3.1",
+   "level": "subtopic",
+   "title": "লেঙ্গের ক্ষমতা",
+   "title_alt": null,
+   "page": {
+    "printed": 122,
+    "pdf": 127
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:t04",
+   "concept_key": "nctb:sci:c9-10:ch05:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "parent_id": null,
+   "number": "5.4",
+   "level": "topic",
+   "title": "চোখের ক্রিয়া",
+   "title_alt": null,
+   "page": {
+    "printed": 122,
+    "pdf": 127
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:t04:s01",
+   "concept_key": "nctb:sci:c9-10:ch05:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "parent_id": "nctb:sci:c9-10:bn:ch05:t04",
+   "number": "5.4.1",
+   "level": "subtopic",
+   "title": "আমরা কীভাবে দেখতে পাই",
+   "title_alt": null,
+   "page": {
+    "printed": 122,
+    "pdf": 127
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:t04:s02",
+   "concept_key": "nctb:sci:c9-10:ch05:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "parent_id": "nctb:sci:c9-10:bn:ch05:t04",
+   "number": "5.4.2",
+   "level": "subtopic",
+   "title": "স্পষ্ট দৃষ্টির ন্যুনতম দূরত্ব",
+   "title_alt": null,
+   "page": {
+    "printed": 123,
+    "pdf": 128
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:t04:s03",
+   "concept_key": "nctb:sci:c9-10:ch05:t04:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "parent_id": "nctb:sci:c9-10:bn:ch05:t04",
+   "number": "5.4.3",
+   "level": "subtopic",
+   "title": "চোখের ত্রুটি এবং তার প্রতিকার",
+   "title_alt": null,
+   "page": {
+    "printed": 123,
+    "pdf": 128
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:t04:s04",
+   "concept_key": "nctb:sci:c9-10:ch05:t04:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "parent_id": "nctb:sci:c9-10:bn:ch05:t04",
+   "number": "5.4.4",
+   "level": "subtopic",
+   "title": "চোখ ভালো রাখায় উপায়",
+   "title_alt": null,
+   "page": {
+    "printed": 126,
+    "pdf": 131
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:t01",
+   "concept_key": "nctb:sci:c9-10:ch06:t01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "parent_id": null,
+   "number": "6.1",
+   "level": "topic",
+   "title": "পলিমার",
+   "title_alt": "Polymer",
+   "page": {
+    "printed": 131,
+    "pdf": 136
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch06:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "parent_id": "nctb:sci:c9-10:bn:ch06:t01",
+   "number": "6.1.1",
+   "level": "subtopic",
+   "title": "পলিমারকরণ",
+   "title_alt": null,
+   "page": {
+    "printed": 131,
+    "pdf": 136
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:t02",
+   "concept_key": "nctb:sci:c9-10:ch06:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "parent_id": null,
+   "number": "6.2",
+   "level": "topic",
+   "title": "তন্দু বা সুতা",
+   "title_alt": null,
+   "page": {
+    "printed": 132,
+    "pdf": 137
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:t02:s01",
+   "concept_key": "nctb:sci:c9-10:ch06:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "parent_id": "nctb:sci:c9-10:bn:ch06:t02",
+   "number": "6.2.1",
+   "level": "subtopic",
+   "title": "তন্দুর বৈশিষ্ট্য ও ব্যবহার",
+   "title_alt": null,
+   "page": {
+    "printed": 133,
+    "pdf": 138
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:t02:s02",
+   "concept_key": "nctb:sci:c9-10:ch06:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "parent_id": "nctb:sci:c9-10:bn:ch06:t02",
+   "number": "6.2.2",
+   "level": "subtopic",
+   "title": "OF থেকে সুতা তৈরি",
+   "title_alt": null,
+   "page": {
+    "printed": 136,
+    "pdf": 141
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:t03",
+   "concept_key": "nctb:sci:c9-10:ch06:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "parent_id": null,
+   "number": "6.3",
+   "level": "topic",
+   "title": "রাবার ও প্লাস্টিক",
+   "title_alt": null,
+   "page": {
+    "printed": 140,
+    "pdf": 145
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:t03:s01",
+   "concept_key": "nctb:sci:c9-10:ch06:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "parent_id": "nctb:sci:c9-10:bn:ch06:t03",
+   "number": "6.3.1",
+   "level": "subtopic",
+   "title": "রাবার",
+   "title_alt": null,
+   "page": {
+    "printed": 140,
+    "pdf": 145
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:t03:s02",
+   "concept_key": "nctb:sci:c9-10:ch06:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "parent_id": "nctb:sci:c9-10:bn:ch06:t03",
+   "number": "6.3.2",
+   "level": "subtopic",
+   "title": "প্লাস্টিক",
+   "title_alt": null,
+   "page": {
+    "printed": 141,
+    "pdf": 146
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:t03:s03",
+   "concept_key": "nctb:sci:c9-10:ch06:t03:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "parent_id": "nctb:sci:c9-10:bn:ch06:t03",
+   "number": "6.3.3",
+   "level": "subtopic",
+   "title": "পরিবেশের ভারসাম্যহীনতায় রাবার ও প্লাস্টিক",
+   "title_alt": null,
+   "page": {
+    "printed": 142,
+    "pdf": 147
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:t01",
+   "concept_key": "nctb:sci:c9-10:ch07:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "parent_id": null,
+   "number": "7.1",
+   "level": "topic",
+   "title": "এসিড",
+   "title_alt": null,
+   "page": {
+    "printed": 147,
+    "pdf": 152
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch07:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "parent_id": "nctb:sci:c9-10:bn:ch07:t01",
+   "number": "7.1.1",
+   "level": "subtopic",
+   "title": "শত্তিশালী ও দুর্বল এসিড",
+   "title_alt": null,
+   "page": {
+    "printed": 147,
+    "pdf": 152
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:t01:s02",
+   "concept_key": "nctb:sci:c9-10:ch07:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "parent_id": "nctb:sci:c9-10:bn:ch07:t01",
+   "number": "7.1.2",
+   "level": "subtopic",
+   "title": "প্রাত্যহিক জীবনে এসিডের ব্যবহার ও",
+   "title_alt": null,
+   "page": {
+    "printed": 148,
+    "pdf": 153
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:t01:s04",
+   "concept_key": "nctb:sci:c9-10:ch07:t01:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "parent_id": "nctb:sci:c9-10:bn:ch07:t01",
+   "number": "7.1.4",
+   "level": "subtopic",
+   "title": "এসিড ছুড়লে শাচম্তি",
+   "title_alt": null,
+   "page": {
+    "printed": 150,
+    "pdf": 155
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:t01:s05",
+   "concept_key": "nctb:sci:c9-10:ch07:t01:s05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "parent_id": "nctb:sci:c9-10:bn:ch07:t01",
+   "number": "7.1.5",
+   "level": "subtopic",
+   "title": "নির্দেশক ব্যবহার করে বিভিন্ন বস্তুর wg ও ক্ষারকত্ব শনান্তকরণ",
+   "title_alt": null,
+   "page": {
+    "printed": 151,
+    "pdf": 156
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:t01:s06",
+   "concept_key": "nctb:sci:c9-10:ch07:t01:s06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "parent_id": "nctb:sci:c9-10:bn:ch07:t01",
+   "number": "7.1.6",
+   "level": "subtopic",
+   "title": "পাকস্থলীতে এসিডিটির কারণ ও সঠিক খাদ্য নির্বাচন",
+   "title_alt": null,
+   "page": {
+    "printed": 152,
+    "pdf": 157
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:t02",
+   "concept_key": "nctb:sci:c9-10:ch07:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "parent_id": null,
+   "number": "7.2",
+   "level": "topic",
+   "title": "pH-47 মান জানার প্রয়োজনীয়তা",
+   "title_alt": null,
+   "page": {
+    "printed": 154,
+    "pdf": 159
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:t03",
+   "concept_key": "nctb:sci:c9-10:ch07:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "parent_id": null,
+   "number": "7.3",
+   "level": "topic",
+   "title": "ক্ষার",
+   "title_alt": null,
+   "page": {
+    "printed": 156,
+    "pdf": 161
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:t03:s01",
+   "concept_key": "nctb:sci:c9-10:ch07:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "parent_id": "nctb:sci:c9-10:bn:ch07:t03",
+   "number": "7.3.1",
+   "level": "subtopic",
+   "title": "ক্ষারকের রাসায়নিক বৈশিষ্ট্য",
+   "title_alt": null,
+   "page": {
+    "printed": 156,
+    "pdf": 161
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:t03:s02",
+   "concept_key": "nctb:sci:c9-10:ch07:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "parent_id": "nctb:sci:c9-10:bn:ch07:t03",
+   "number": "7.3.2",
+   "level": "subtopic",
+   "title": "প্রাত্যহিক জীবনে FET",
+   "title_alt": null,
+   "page": {
+    "printed": 157,
+    "pdf": 162
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:t03:s03",
+   "concept_key": "nctb:sci:c9-10:ch07:t03:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "parent_id": "nctb:sci:c9-10:bn:ch07:t03",
+   "number": "7.3.3",
+   "level": "subtopic",
+   "title": "প্রশমন এবং এর প্রয়োজনীয়তা",
+   "title_alt": null,
+   "page": {
+    "printed": 159,
+    "pdf": 164
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:t04",
+   "concept_key": "nctb:sci:c9-10:ch07:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "parent_id": null,
+   "number": "7.4",
+   "level": "topic",
+   "title": "লবণ",
+   "title_alt": null,
+   "page": {
+    "printed": 159,
+    "pdf": 164
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:t04:s01",
+   "concept_key": "nctb:sci:c9-10:ch07:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "parent_id": "nctb:sci:c9-10:bn:ch07:t04",
+   "number": "7.4.1",
+   "level": "subtopic",
+   "title": "লবণের রাসায়নিক বৈশিষ্ট্য",
+   "title_alt": null,
+   "page": {
+    "printed": 159,
+    "pdf": 164
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:t04:s02",
+   "concept_key": "nctb:sci:c9-10:ch07:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "parent_id": "nctb:sci:c9-10:bn:ch07:t04",
+   "number": "7.4.2",
+   "level": "subtopic",
+   "title": "লবণের ব্যবহার",
+   "title_alt": null,
+   "page": {
+    "printed": 161,
+    "pdf": 166
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:t01",
+   "concept_key": "nctb:sci:c9-10:ch08:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "parent_id": null,
+   "number": "8.1",
+   "level": "topic",
+   "title": "মাটি",
+   "title_alt": null,
+   "page": {
+    "printed": 167,
+    "pdf": 172
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch08:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "parent_id": "nctb:sci:c9-10:bn:ch08:t01",
+   "number": "8.1.1",
+   "level": "subtopic",
+   "title": "মাটির গঠন",
+   "title_alt": null,
+   "page": {
+    "printed": 167,
+    "pdf": 172
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:t01:s02",
+   "concept_key": "nctb:sci:c9-10:ch08:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "parent_id": "nctb:sci:c9-10:bn:ch08:t01",
+   "number": "8.1.2",
+   "level": "subtopic",
+   "title": "মাটির প্রকারভেদ",
+   "title_alt": null,
+   "page": {
+    "printed": 170,
+    "pdf": 175
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:t01:s03",
+   "concept_key": "nctb:sci:c9-10:ch08:t01:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "parent_id": "nctb:sci:c9-10:bn:ch08:t01",
+   "number": "8.1.3",
+   "level": "subtopic",
+   "title": "মাটির pH",
+   "title_alt": null,
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:t01:s04",
+   "concept_key": "nctb:sci:c9-10:ch08:t01:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "parent_id": "nctb:sci:c9-10:bn:ch08:t01",
+   "number": "8.1.4",
+   "level": "subtopic",
+   "title": "মাটি দূষণের কারণ ও ফলাফল",
+   "title_alt": null,
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:t01:s05",
+   "concept_key": "nctb:sci:c9-10:ch08:t01:s05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "parent_id": "nctb:sci:c9-10:bn:ch08:t01",
+   "number": "8.1.5",
+   "level": "subtopic",
+   "title": "মাটি সংরক্ষণ কৌশল",
+   "title_alt": null,
+   "page": {
+    "printed": 174,
+    "pdf": 179
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:t02",
+   "concept_key": "nctb:sci:c9-10:ch08:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "parent_id": null,
+   "number": "8.2",
+   "level": "topic",
+   "title": "মাটিতে অবস্থিত সাধারণ খনিজ",
+   "title_alt": null,
+   "page": {
+    "printed": 175,
+    "pdf": 180
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:t03",
+   "concept_key": "nctb:sci:c9-10:ch08:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "parent_id": null,
+   "number": "8.3",
+   "level": "topic",
+   "title": "বাংলাদেশে প্রাকৃতিক জ্বালানির উৎস",
+   "title_alt": null,
+   "page": {
+    "printed": 177,
+    "pdf": 182
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:t03:s01",
+   "concept_key": "nctb:sci:c9-10:ch08:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "parent_id": "nctb:sci:c9-10:bn:ch08:t03",
+   "number": "8.3.1",
+   "level": "subtopic",
+   "title": "প্রাকৃতিক গ্যাস",
+   "title_alt": null,
+   "page": {
+    "printed": 177,
+    "pdf": 182
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:t03:s02",
+   "concept_key": "nctb:sci:c9-10:ch08:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "parent_id": "nctb:sci:c9-10:bn:ch08:t03",
+   "number": "8.3.2",
+   "level": "subtopic",
+   "title": "পেট্রোলিয়াম",
+   "title_alt": null,
+   "page": {
+    "printed": 179,
+    "pdf": 184
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:t03:s03",
+   "concept_key": "nctb:sci:c9-10:ch08:t03:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "parent_id": "nctb:sci:c9-10:bn:ch08:t03",
+   "number": "8.3.3",
+   "level": "subtopic",
+   "title": "কয়লা",
+   "title_alt": null,
+   "page": {
+    "printed": 179,
+    "pdf": 184
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t01",
+   "concept_key": "nctb:sci:c9-10:ch09:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": null,
+   "number": "9.1",
+   "level": "topic",
+   "title": "জলবায়ুর পরিবর্তনের প্রভাব",
+   "title_alt": null,
+   "page": {
+    "printed": 186,
+    "pdf": 191
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch09:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": "nctb:sci:c9-10:bn:ch09:t01",
+   "number": "9.1.1",
+   "level": "subtopic",
+   "title": "বাংলাদেশ প্রেক্ষাপট",
+   "title_alt": null,
+   "page": {
+    "printed": 186,
+    "pdf": 191
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t01:s02",
+   "concept_key": "nctb:sci:c9-10:ch09:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": "nctb:sci:c9-10:bn:ch09:t01",
+   "number": "9.1.2",
+   "level": "subtopic",
+   "title": "আন্তর্জাতিক প্রেক্ষাপট",
+   "title_alt": null,
+   "page": {
+    "printed": 189,
+    "pdf": 194
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t02",
+   "concept_key": "nctb:sci:c9-10:ch09:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": null,
+   "number": "9.2",
+   "level": "topic",
+   "title": "পরিবেশগত সমস্যা",
+   "title_alt": null,
+   "page": {
+    "printed": 189,
+    "pdf": 194
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t02:s01",
+   "concept_key": "nctb:sci:c9-10:ch09:t02:s01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": "nctb:sci:c9-10:bn:ch09:t02",
+   "number": "9.2.1",
+   "level": "subtopic",
+   "title": "বৈশ্বিক উষ্ণতা",
+   "title_alt": "Global Warming",
+   "page": {
+    "printed": 191,
+    "pdf": 196
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t02:s02",
+   "concept_key": "nctb:sci:c9-10:ch09:t02:s02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": "nctb:sci:c9-10:bn:ch09:t02",
+   "number": "9.2.2",
+   "level": "subtopic",
+   "title": "কার্বন দূষণ",
+   "title_alt": "Carbon Pollution",
+   "page": {
+    "printed": 191,
+    "pdf": 196
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t02:s03",
+   "concept_key": "nctb:sci:c9-10:ch09:t02:s03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": "nctb:sci:c9-10:bn:ch09:t02",
+   "number": "9.2.3",
+   "level": "subtopic",
+   "title": "বনশূন্য করা",
+   "title_alt": "Deforestation",
+   "page": {
+    "printed": 192,
+    "pdf": 197
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t03",
+   "concept_key": "nctb:sci:c9-10:ch09:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": null,
+   "number": "9.3",
+   "level": "topic",
+   "title": "দুর সৃষ্টির কারণ, প্রতিরোধ, মোকাবিলার কৌশল এবং তাৎক্ষণিক",
+   "title_alt": null,
+   "page": {
+    "printed": 192,
+    "pdf": 197
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t03:s01",
+   "concept_key": "nctb:sci:c9-10:ch09:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": "nctb:sci:c9-10:bn:ch09:t03",
+   "number": "9.3.1",
+   "level": "subtopic",
+   "title": "বন্যা",
+   "title_alt": null,
+   "page": {
+    "printed": 192,
+    "pdf": 197
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t03:s02",
+   "concept_key": "nctb:sci:c9-10:ch09:t03:s02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": "nctb:sci:c9-10:bn:ch09:t03",
+   "number": "9.3.2",
+   "level": "subtopic",
+   "title": "খরা",
+   "title_alt": "Drought",
+   "page": {
+    "printed": 194,
+    "pdf": 199
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t03:s03",
+   "concept_key": "nctb:sci:c9-10:ch09:t03:s03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": "nctb:sci:c9-10:bn:ch09:t03",
+   "number": "9.3.3",
+   "level": "subtopic",
+   "title": "সাইক্লোন বা ঘূর্ণিঝড়",
+   "title_alt": "Cyclone",
+   "page": {
+    "printed": 196,
+    "pdf": 201
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t03:s04",
+   "concept_key": "nctb:sci:c9-10:ch09:t03:s04",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": "nctb:sci:c9-10:bn:ch09:t03",
+   "number": "9.3.4",
+   "level": "subtopic",
+   "title": "সুনামি",
+   "title_alt": "Tsunami",
+   "page": {
+    "printed": 199,
+    "pdf": 204
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t03:s05",
+   "concept_key": "nctb:sci:c9-10:ch09:t03:s05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": "nctb:sci:c9-10:bn:ch09:t03",
+   "number": "9.3.5",
+   "level": "subtopic",
+   "title": "এসিড বৃন্টি (৭০10. Rain)",
+   "title_alt": null,
+   "page": {
+    "printed": 200,
+    "pdf": 205
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t03:s06",
+   "concept_key": "nctb:sci:c9-10:ch09:t03:s06",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": "nctb:sci:c9-10:bn:ch09:t03",
+   "number": "9.3.6",
+   "level": "subtopic",
+   "title": "ভূমিকম্প",
+   "title_alt": "Earthquake",
+   "page": {
+    "printed": 202,
+    "pdf": 207
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t04",
+   "concept_key": "nctb:sci:c9-10:ch09:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": null,
+   "number": "9.4",
+   "level": "topic",
+   "title": "মানসম্মত ও উন্নত পরিবেশের গুরুত্ব",
+   "title_alt": null,
+   "page": {
+    "printed": 207,
+    "pdf": 212
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t04:s01",
+   "concept_key": "nctb:sci:c9-10:ch09:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": "nctb:sci:c9-10:bn:ch09:t04",
+   "number": "9.4.1",
+   "level": "subtopic",
+   "title": "প্রকৃতি সংরক্ষণশীলতার তাৎপর্য",
+   "title_alt": null,
+   "page": {
+    "printed": 207,
+    "pdf": 212
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:t04:s02",
+   "concept_key": "nctb:sci:c9-10:ch09:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "parent_id": "nctb:sci:c9-10:bn:ch09:t04",
+   "number": "9.4.2",
+   "level": "subtopic",
+   "title": "প্রকৃতি সংরক্ষণশীলতার বিভিন্ন কৌশল",
+   "title_alt": null,
+   "page": {
+    "printed": 208,
+    "pdf": 213
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:t01",
+   "concept_key": "nctb:sci:c9-10:ch10:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "parent_id": null,
+   "number": "10.1",
+   "level": "topic",
+   "title": "ধাক্কা ও টানা: বল",
+   "title_alt": null,
+   "page": {
+    "printed": 214,
+    "pdf": 219
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch10:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "parent_id": "nctb:sci:c9-10:bn:ch10:t01",
+   "number": "10.1.1",
+   "level": "subtopic",
+   "title": "জড়তা",
+   "title_alt": null,
+   "page": {
+    "printed": 214,
+    "pdf": 219
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:t02",
+   "concept_key": "nctb:sci:c9-10:ch10:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "parent_id": null,
+   "number": "10.2",
+   "level": "topic",
+   "title": "বলের পরিমাণ ও নিউটনের দ্বিতীয় গতিসূত্র",
+   "title_alt": null,
+   "page": {
+    "printed": 216,
+    "pdf": 221
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:t03",
+   "concept_key": "nctb:sci:c9-10:ch10:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "parent_id": null,
+   "number": "10.3",
+   "level": "topic",
+   "title": "ক্রিয়া ও প্রতিক্রিয়া বল",
+   "title_alt": null,
+   "page": {
+    "printed": 217,
+    "pdf": 222
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:t04",
+   "concept_key": "nctb:sci:c9-10:ch10:t04",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "parent_id": null,
+   "number": "10.4",
+   "level": "topic",
+   "title": "বলের প্রকৃতি",
+   "title_alt": "Nature of Force",
+   "page": {
+    "printed": 221,
+    "pdf": 226
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:t05",
+   "concept_key": "nctb:sci:c9-10:ch10:t05",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "parent_id": null,
+   "number": "10.5",
+   "level": "topic",
+   "title": "ঘর্ষণ বল",
+   "title_alt": "Frictional Force",
+   "page": {
+    "printed": 223,
+    "pdf": 228
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:t05:s01",
+   "concept_key": "nctb:sci:c9-10:ch10:t05:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "parent_id": "nctb:sci:c9-10:bn:ch10:t05",
+   "number": "10.5.1",
+   "level": "subtopic",
+   "title": "ঘর্ষণের প্রকারভেদ",
+   "title_alt": null,
+   "page": {
+    "printed": 224,
+    "pdf": 229
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:t05:s02",
+   "concept_key": "nctb:sci:c9-10:ch10:t05:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "parent_id": "nctb:sci:c9-10:bn:ch10:t05",
+   "number": "10.5.2",
+   "level": "subtopic",
+   "title": "ঘর্ষণ বাড়ানো-কমানো",
+   "title_alt": null,
+   "page": {
+    "printed": 225,
+    "pdf": 230
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:t05:s03",
+   "concept_key": "nctb:sci:c9-10:ch10:t05:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "parent_id": "nctb:sci:c9-10:bn:ch10:t05",
+   "number": "10.5.3",
+   "level": "subtopic",
+   "title": "ঘর্ষণ: একটি প্রয়োজনীয় উপদ্রব",
+   "title_alt": null,
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:t01",
+   "concept_key": "nctb:sci:c9-10:ch11:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "parent_id": null,
+   "number": "11.1",
+   "level": "topic",
+   "title": "চল তড়িৎ",
+   "title_alt": null,
+   "page": {
+    "printed": 232,
+    "pdf": 237
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch11:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "parent_id": "nctb:sci:c9-10:bn:ch11:t01",
+   "number": "11.1.1",
+   "level": "subtopic",
+   "title": "তড়িৎ বর্তনীর প্রতীক",
+   "title_alt": null,
+   "page": {
+    "printed": 232,
+    "pdf": 237
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:t01:s02",
+   "concept_key": "nctb:sci:c9-10:ch11:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "parent_id": "nctb:sci:c9-10:bn:ch11:t01",
+   "number": "11.1.2",
+   "level": "subtopic",
+   "title": "ব্যাটারির কার্যক্ম",
+   "title_alt": null,
+   "page": {
+    "printed": 232,
+    "pdf": 237
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:t01:s03",
+   "concept_key": "nctb:sci:c9-10:ch11:t01:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "parent_id": "nctb:sci:c9-10:bn:ch11:t01",
+   "number": "11.1.3",
+   "level": "subtopic",
+   "title": "ইলেকট্রিক সার্কিট বা তড়িৎ বর্তনী",
+   "title_alt": null,
+   "page": {
+    "printed": 233,
+    "pdf": 238
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:t01:s04",
+   "concept_key": "nctb:sci:c9-10:ch11:t01:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "parent_id": "nctb:sci:c9-10:bn:ch11:t01",
+   "number": "11.1.4",
+   "level": "subtopic",
+   "title": "বাড়িতে তড়িৎ বর্তনীর নকশা বা হাউজ ওয়ারিং",
+   "title_alt": null,
+   "page": {
+    "printed": 235,
+    "pdf": 240
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:t02",
+   "concept_key": "nctb:sci:c9-10:ch11:t02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "parent_id": null,
+   "number": "11.2",
+   "level": "topic",
+   "title": "তড়িৎ বিশ্লেষণ",
+   "title_alt": "Electrolysis",
+   "page": {
+    "printed": 237,
+    "pdf": 242
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:t02:s01",
+   "concept_key": "nctb:sci:c9-10:ch11:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "parent_id": "nctb:sci:c9-10:bn:ch11:t02",
+   "number": "11.2.1",
+   "level": "subtopic",
+   "title": "তুঁতের দ্রবণে তড়িৎ বিশ্লেষণের ব্যাখ্যা",
+   "title_alt": null,
+   "page": {
+    "printed": 238,
+    "pdf": 243
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:t02:s02",
+   "concept_key": "nctb:sci:c9-10:ch11:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "parent_id": "nctb:sci:c9-10:bn:ch11:t02",
+   "number": "11.2.2",
+   "level": "subtopic",
+   "title": "প্রাত্যহিক জীবনে তড়িৎ বিশ্লেষণের গুরুত্ব",
+   "title_alt": null,
+   "page": {
+    "printed": 239,
+    "pdf": 244
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:t03",
+   "concept_key": "nctb:sci:c9-10:ch11:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "parent_id": null,
+   "number": "11.3",
+   "level": "topic",
+   "title": "তড়িৎ ক্ষমতা",
+   "title_alt": null,
+   "page": {
+    "printed": 240,
+    "pdf": 245
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:t04",
+   "concept_key": "nctb:sci:c9-10:ch11:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "parent_id": null,
+   "number": "11.4",
+   "level": "topic",
+   "title": "তড়িৎ শক্তি ব্যবহার",
+   "title_alt": null,
+   "page": {
+    "printed": 243,
+    "pdf": 248
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:t04:s01",
+   "concept_key": "nctb:sci:c9-10:ch11:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "parent_id": "nctb:sci:c9-10:bn:ch11:t04",
+   "number": "11.4.1",
+   "level": "subtopic",
+   "title": "আইপিএস এবং ইউপিএস",
+   "title_alt": null,
+   "page": {
+    "printed": 243,
+    "pdf": 248
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:t04:s02",
+   "concept_key": "nctb:sci:c9-10:ch11:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "parent_id": "nctb:sci:c9-10:bn:ch11:t04",
+   "number": "11.4.2",
+   "level": "subtopic",
+   "title": "তড়িতের সিস্টেম লস",
+   "title_alt": null,
+   "page": {
+    "printed": 244,
+    "pdf": 249
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:t04:s03",
+   "concept_key": "nctb:sci:c9-10:ch11:t04:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "parent_id": "nctb:sci:c9-10:bn:ch11:t04",
+   "number": "11.4.3",
+   "level": "subtopic",
+   "title": "লোড শেডিং",
+   "title_alt": null,
+   "page": {
+    "printed": 244,
+    "pdf": 249
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:t05",
+   "concept_key": "nctb:sci:c9-10:ch11:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "parent_id": null,
+   "number": "11.5",
+   "level": "topic",
+   "title": "উন্নয়ন কার্যক্কমে শক্তির ব্যবহার",
+   "title_alt": null,
+   "page": {
+    "printed": 245,
+    "pdf": 250
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ],
+ "objectives": [
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:o01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "number": 1,
+   "text": "খাদ্য উপাদান ও আদর্শ খাদ্য পিরামিড ব্যাখ্যা করতে পারব; খাদ্য সংরক্ষণের প্রয়োজনীয়তা বর্ণনা করতে পারব; স্বাস্থ্য রক্ষায় প্রাকৃতিক খাদ্য এবং ফাস্ট ফুডের প্রভাব বিশ্লেষণ করতে পারব; ভিটামিনের উৎস এবং এর অভাবজনিত প্রতিক্রিয়া ব্যাখ্যা করতে পারব; খনিজ লবণের উৎস এবং এর অভাবজনিত প্রতিক্রিয়া ব্যাখ্যা করতে পারব; পানি ও আঁশযুন্ত খাবারের উপকারিতা বর্ণনা করতে পারব; বড়ি মাস ইনডেক্সের প্রয়োজনীয়তা ব্যাখ্যা করতে পারব; খাদ্যে রাসায়নিক পদার্থের ব্যবহার এবং এর শারীরিক প্রতিক্রিয়া বলতে পারব; শরীরে তামাক ও ড্রাগসের ক্ষতিকর প্রতিক্রিয়া ব্যাখ্যা করতে পারব; এইডস কী ব্যাখ্যা করতে পারব; শারীরিক ফিটনেস বজায় রাখার কৌশল ব্যাখ্যা করতে পারব।",
+   "page": {
+    "printed": 2,
+    "pdf": 7
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:o01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "number": 1,
+   "text": "পানির ধর্ম বর্ণনা করতে পারব; পানির গঠন ব্যাখ্যা করতে পারব; পানির বিভিন্ন উৎস বর্ণনা করতে পারব; জলজ উদ্ভিদ ও জলজ প্রাণীর জন্য পানির প্রয়োজনীয়তা এবং পানির মানদণ্ড ব্যাখ্যা করতে পারব; পরিবেশ সংরক্ষণে পানির পুনরাবর্তন ধাপসমূহে পানির ভূমিকা বিশ্লেষণ করতে পারব; মানসম্মত পানির প্রয়োজনীয়তা বর্ণনা করতে পারব; পানি বিশুদ্ধকরণ প্রক্রিয়া ব্যাখ্যা করতে পারব; বাংলাদেশে পানির উৎসে দূষণের কারণ ব্যাখ্যা করতে পারব; পানিদূষণের প্রভাব বিশ্লেষণ করতে পারব; বাংলাদেশের মিঠা পানিতে বৈশ্বিক উষ্ণতার প্রভাব বিশ্লেষণ করতে পারব; পানিদূষণ প্রতিরোধের কৌশল ও নাগরিকের দায়িত্ব বর্ণনা করতে পারব; উন্নয়ন কার্যক্কমে পানির ভূমিকা বিশ্লেষণ করতে পারব; বাংলাদেশে পানির উৎসে হুমকির প্রভাব বিশ্লেষণ করতে পারব; পানির উৎস সংরক্ষণের প্রয়োজনীয়তা এবং কৌশল বর্ণনা করতে পারব; পানি প্রাপ্তি সকল নাগরিকের মৌলিক অধিকার: ব্যাখ্যা করতে পারব; পানিপ্রবাহের সর্বজনীনতা এবং আন্তর্জাতিক নিয়মনীতি বর্ণনা করতে পারব; বিশুদ্ধ পানির ব্যবহার এবং সুস্থ জীবনযাপনে এর প্রভাব বিষয়ে অনুসন্ধানমূলক কাজ পরিচালনা করতে পারব; পানির সংকটের (গৃহস্থালি/কৃষি/শিল্পে ব্যবহার) কারণ অনুসন্ধান করতে পারব; পানি ব্যবহার ও পানির সংরক্ষণে সচেতনতা সৃষ্টির লক্ষ্যে পোস্টার অঙ্কন করতে পারব; পানির উৎসে পানির স্বাভাবিক প্রবাহ, দূষণ রোধ বিষয়ে জনসচেতনতা সৃষ্টি করব; পানি নাগরিকের মৌলিক মানবিক অধিকার' বিষয়ে সচেতনতা সৃষ্টি করব; পানির অপচয়রোধ এবং কার্যকর ব্যবহারে সচেতন হব।",
+   "page": {
+    "printed": 34,
+    "pdf": 39
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:o01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "number": 1,
+   "text": "TEA উপাদান এবং এদের কার্যক্রম ব্যাখ্যা করতে পারব; রক্তের গ্রুপের বৈশিষ্ট্য ব্যাখ্যা করতে পারব; রক্তের স্থানান্তরের নীতি ব্যাখ্যা করতে পারব; রক্ত গ্রহণে প্রয়োজনীয় সতর্কতা অবলম্বন ব্যাখ্যা করতে পারব; ACS বিঘ্নতা/বিশৃঙ্খলা সৃষ্টির কারণ এবং এর ফলাফল ব্যাখ্যা করতে পারব; শরীরে রক্ত সঞ্চালন কার্যক্রম ব্যাখ্যা করতে পারব; আদর্শ রক্তচাপ, হার্টবিট, হার্টরেট এবং পালসরেটের মধ্যে সম্পর্ক বিশ্লেষণ করতে পারব; রস্তচাপজনিত শারীরিক সমস্যা সৃষ্টির কারণ ও প্রতিরোধের কৌশল ব্যাখ্যা করতে পারব; শরীরে রক্ত সঞ্চালনে কোলেস্টেরলের ভূমিকা বিশ্লেষণ করতে পারব; কোলেস্টেরলকে প্রত্যাশিত সীমায় রাখার প্রয়োজনীয়তা ও উপায় ব্যাখ্যা করতে পারব; রক্তে সুগারের ভারসাম্যতার কারণ, প্রতিরোধ ও প্রতিকারে করণীয় ব্যাখ্যা করতে পারব; হৃদ্যমন্তরকে ভালো রাখার উপায় বর্ণনা করতে পারব।",
+   "page": {
+    "printed": 58,
+    "pdf": 63
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04:o01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch04",
+   "number": 1,
+   "text": "বয়ঃসম্ধিকাল ব্যাখ্যা করতে পারব; বয়ঃসন্ধিকালে শারীরিক পরিবর্তনের কারণ ব্যাখ্যা করতে পারব; বয়ঃসন্ধিকালের মানসিক ও আচরণিক পরিবর্তনে নিজেকে খাপ খাওয়ানোর উপায় বর্ণনা করতে পারব; বয়ঃসন্ধিকালে দৈহিক ও মানসিক স্বাস্থ্যরক্ষার কৌশল ব্যাখ্যা করতে পারব; বয়ঃসন্ধিকালীন বিবাহে স্বাস্থ্যঝুঁকি এবং এর প্রভাব বিশ্লেষণ করতে পারব; টেস্টটিউব বেবির ধারণা ব্যাখ্যা করতে পারব; লিঙ্গ নির্ধারণের কৌশল ব্যাখ্যা করতে পারব; জীবনের উৎপত্তি এবং জীবজগতে অভিব্যস্তির ধারণা ব্যাখ্যা করতে পারব; পৃথিবীতে নতুন প্রজাতির উৎপত্তির ধারণা ব্যাখ্যা করতে পারব।",
+   "page": {
+    "printed": 86,
+    "pdf": 91
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:o01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "number": 1,
+   "text": "দর্পণের ব্যবহার ব্যাখ্যা করতে পারব; আলোর প্রতিসরণ ব্যাখ্যা করতে পারব; দৃষ্টি SRG চোখের ক্রিয়া ব্যাখ্যা করতে পারব; স্পষ্ট দর্শনের নিকটতম বিন্দু ব্যাখ্যা করতে পারব; GIR ক্ষমতা ব্যাখ্যা করতে পারব; চোখের ত্রুটি সৃষ্টির কারণ ব্যাখ্যা করতে পারব; CT ব্যবহার করে চোখের Go সংশোধনের উপায় বর্ণনা করতে পারব; চোখ ভালো রাখার উপায় ব্যাখ্যা করতে পারব; চোখের ত্রুটি সৃষ্টির কারণ অনুসন্ধান করতে পারব; চোখের প্রতি যত্ন নেব এবং অন্যদের সচেতন করব।",
+   "page": {
+    "printed": 116,
+    "pdf": 121
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:o01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "number": 1,
+   "text": "প্রাকৃতিক ও কৃত্রিম পলিমার ব্যাখ্যা করতে পারব; পলিমারকরণ প্রক্রিয়া ব্যাখ্যা করতে পারব; প্রাকৃতিক ও কৃত্রিম তন্তু ও বস্ত্রের উৎস, বৈশিষ্ট্য এবং ব্যবহার বর্ণনা করতে পারব; তন্তু হতে সুতা তৈরির প্রক্রিয়া ব্যাখ্যা করতে পারব; বিভিন্ন প্রকার সুতার বৈশিষ্ট্য ব্যাখ্যা করতে পারব; রাবার ও প্লাস্টিকের ভৌত ও রাসায়নিক ধর্ম ব্যাখ্যা করতে পারব; পরিবেশের ভারসাম্যহীনতা সৃষ্টিতে রাবার ও প্লীস্টিকের ভূমিকা ব্যাখ্যা করতে পারব; তাপ প্রয়োগ করে বিভিন্ন প্রকার সুতার বৈশিষ্ট্য শনান্ত করতে পারব; পরিবেশের ভারসাম্য রক্ষায় রাবার ও প্লাস্টিকের ব্যবহার ও সংরক্ষণে সচেতন হব।",
+   "page": {
+    "printed": 130,
+    "pdf": 135
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:o01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "number": 1,
+   "text": "মাটি ও ভূমির বৈশিষ্ট্য ব্যাখ্যা করতে পারব; বিভিন্ন প্রকার মাটির মধ্যে পার্থক্য করতে পারব; মাটির গঠন ব্যাখ্যা করতে পারব; মাটির pH মান জানার প্রয়োজনীয়তা ব্যাখ্যা করতে পারব; মাটি দূষণের কারণ, ফলাফল এবং মাটি সংরক্ষণের কৌশল বর্ণনা করতে পারব; মাটিতে অবস্থিত খনিজের ভৌত ও রাসায়নিক ধর্ম ব্যাখ্যা করতে পারব; খনিজের ব্যবহার এবং সংরক্ষণের কৌশল বর্ণনা করতে পারব; প্রাকৃতিক জ্বালানির গঠন, প্রক্রিয়াকরণ, ব্যবহার এবং সংরক্ষণের কৌশল বর্ণনা করতে পারব; শিক্ষার্থীর এলাকায় মাটিদূষণের কারণ ও ফলাফল অনুসন্ধান করতে পারব; pH পেপার দিয়ে মাটির pH নির্ণয় অথবা লিটমাস পেপার দিয়ে মাটির অল্পত্ব ও ক্ষারত্ব নির্ণয় করতে পারব; সম্পদ সংরক্ষণে যত্নবান হব ও অন্যদের সচেতন করব।",
+   "page": {
+    "printed": 166,
+    "pdf": 171
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:o01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "number": 1,
+   "text": "বাংলাদেশ ও আন্তর্জাতিক প্রেক্ষাপটে জলবায়ুর পরিবর্তনের প্রভাব বিশ্লেষণ করতে পারব; পরিবেশগত সমস্যা সৃষ্টির কারণ ব্যাখ্যা করতে পারব; দুর্যোগ সৃষ্টির কারণ, প্রতিরোধ, মোকাবেলার কৌশল এবং তাৎক্ষণিক করণীয় ব্যাখ্যা করতে পারব; সুস্থ জীনযাপনে মানসম্মত ও উন্নত পরিবেশের গুরুত্ব বিশ্লেষণ করতে পারব; প্রকৃতি সংরক্ষণশীলতার তাৎপর্য বিশ্লেষণ করতে পারব; প্রকৃতি সংরক্ষণশীলতার বিভিন্ন কৌশল বর্ণনা করতে পারব; নিজ এলাকায় মানসম্মত ও উন্নত পরিবেশ সৃষ্টির সমস্যা ও চ্যালেঞ্জ মোকাবিলায় একটি অনুসন্ধানমূলক কাজ সম্পন্ন করতে পারব; দুর্যোগ প্রতিরোধ এবং দুর্যোগের করণীয় বিষয়ে সমাজকে সচেতন করার বিষয়ে পোস্টার অঙ্কন করতে পারব; প্রকৃতি সংরক্ষণশীলতার প্রয়োজনীয়তা বিষয়ে সামাজিক সচেতনতা সৃষ্টি বিষয়ে পোস্টার অঙ্কন করতে পারব; পরিবেশ সংরক্ষণে সমাজে সচেতনতা সৃষ্টির উদ্যোগ গ্রহণ করব।",
+   "page": {
+    "printed": 185,
+    "pdf": 190
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:o01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "number": 1,
+   "text": "বস্তুর জড়তা এবং বলের গুণগত ধারণা নিউটনের গতির প্রথম সূত্রের সাহায্যে ব্যাখ্যা করতে পারব; জড়তার ব্যবহারিক অভিজ্ঞতা ব্যাখ্যা করতে পারব; বিভিন্ন প্রকার বলের প্রকৃতি ব্যাখ্যা করতে পারব; ব্যবহারিক জীবনে ঘর্ষণের সুবিধা বর্ণনা করতে পারব; শ্থিতি ও গতির ওপর বলের প্রভাব ব্যাখ্যা করতে পারব; নিউটনের দ্বিতীয় সূত্র ব্যবহার করে বলের পরিমাপ করতে পারব; সহজ পরীক্ষণের সাহায্যে বল পরিমাপ করতে পারব; নিউটনের তৃতীয় সূত্রের সাহায্যে সংঘঠিত কয়েকটি জনপ্রিয় ঘটনা ব্যাখ্যা করতে পারব; আমাদের জীবনে বলের প্রয়োজনীয়তা উপলব্ধি করতে পারব।",
+   "page": {
+    "printed": 213,
+    "pdf": 218
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:o01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "number": 1,
+   "text": "তড়িৎ উপাংশ ও যন্ত্র প্রতীকের সাহায্যে প্রকাশ করতে পারব; ব্যাটারির কার্যক্রম ব্যাখ্যা করতে পারব; বাসাবাড়িতে ব্যবহার-উপযোগী বর্তনীর নকশা প্রণয়ন করতে পারব; তড়িৎ বিশ্লেষণ এবং তড়িৎ প্রলেপন প্রক্রিয়া ব্যাখ্যা করতে পারব; প্রাত্যহিক জীবনে তড়িৎ বিশ্লেষণের এবং তড়িৎ প্রলেপনের গুরুত্ব বর্ণনা করতে পারব; কিলোওয়াট ও কিলোওয়াট-ঘণ্টা ব্যাখ্যা করতে পারব; বৈদ্যুতিক ক্ষমতার হিসাব করতে পারব; এনার্জি সেভিং AMER সুবিধা ব্যাখ্যা করতে পারব; আইপিএস ও ইউপিএসের FSW ও ব্যবহার ব্যাখ্যা করতে পারব; সিস্টেম লস এবং লোড শেডিং ব্যাখ্যা করতে পারব; উন্নয়ন কার্যক্মে বিদ্যুতের অবদান ব্যাখ্যা করতে পারব; বাসাবাড়িতে ব্যবহার-উপযোগী বর্তনীর ব্যবহার প্রদর্শন করতে পারব; পরীক্ষার সাহায্যে তড়িৎ বিশ্লেষণ প্রদর্শন করতে পারব; তড়িৎ উপকরণ ও যন্দ্রপাতির সঠিক ব্যবহারে সক্ষম হব; তড়িতের অপচয় রোধে যত্নবান হব এবং অন্যদের সচেতন করব।",
+   "page": {
+    "printed": 231,
+    "pdf": 236
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  }
+ ],
+ "worked_examples": [
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:we01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "topic_id": "nctb:sci:c9-10:bn:ch11:t01",
+   "number": 1,
+   "page": {
+    "printed": 235,
+    "pdf": 240
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ],
+ "exercises": [
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 31,
+    "pdf": 36
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 31,
+    "pdf": 36
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 31,
+    "pdf": 36
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 31,
+    "pdf": 36
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 32,
+    "pdf": 37
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 32,
+    "pdf": 37
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:ex:cq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 32,
+    "pdf": 37
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:ex:cq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 32,
+    "pdf": 37
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch01:ex:cq05",
+   "chapter_id": "nctb:sci:c9-10:bn:ch01",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 32,
+    "pdf": 37
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 55,
+    "pdf": 60
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 55,
+    "pdf": 60
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 55,
+    "pdf": 60
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 55,
+    "pdf": 60
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 56,
+    "pdf": 61
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 56,
+    "pdf": 61
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:ex:cq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 56,
+    "pdf": 61
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:ex:cq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 56,
+    "pdf": 61
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch02:ex:cq05",
+   "chapter_id": "nctb:sci:c9-10:bn:ch02",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 56,
+    "pdf": 61
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 84,
+    "pdf": 89
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:ex:cq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 84,
+    "pdf": 89
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch03:ex:cq05",
+   "chapter_id": "nctb:sci:c9-10:bn:ch03",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 84,
+    "pdf": 89
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch04",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 113,
+    "pdf": 118
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch04",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 113,
+    "pdf": 118
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch04",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 113,
+    "pdf": 118
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch04",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 114,
+    "pdf": 119
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch04",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 114,
+    "pdf": 119
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch04",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 114,
+    "pdf": 119
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04:ex:cq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch04",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 114,
+    "pdf": 119
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04:ex:cq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch04",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 114,
+    "pdf": 119
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch04:ex:cq05",
+   "chapter_id": "nctb:sci:c9-10:bn:ch04",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 114,
+    "pdf": 119
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 127,
+    "pdf": 132
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 127,
+    "pdf": 132
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 127,
+    "pdf": 132
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 127,
+    "pdf": 132
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 128,
+    "pdf": 133
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 128,
+    "pdf": 133
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:ex:cq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 128,
+    "pdf": 133
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:ex:cq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 128,
+    "pdf": 133
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch05:ex:cq05",
+   "chapter_id": "nctb:sci:c9-10:bn:ch05",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 128,
+    "pdf": 133
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 143,
+    "pdf": 148
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 143,
+    "pdf": 148
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 143,
+    "pdf": 148
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 144,
+    "pdf": 149
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 144,
+    "pdf": 149
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 144,
+    "pdf": 149
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:ex:cq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 144,
+    "pdf": 149
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:ex:cq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 144,
+    "pdf": 149
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch06:ex:cq05",
+   "chapter_id": "nctb:sci:c9-10:bn:ch06",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 144,
+    "pdf": 149
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 163,
+    "pdf": 168
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 163,
+    "pdf": 168
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 163,
+    "pdf": 168
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 163,
+    "pdf": 168
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 164,
+    "pdf": 169
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 164,
+    "pdf": 169
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:ex:cq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 164,
+    "pdf": 169
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:ex:cq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 164,
+    "pdf": 169
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch07:ex:cq05",
+   "chapter_id": "nctb:sci:c9-10:bn:ch07",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 164,
+    "pdf": 169
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 181,
+    "pdf": 186
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 181,
+    "pdf": 186
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 182,
+    "pdf": 187
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 182,
+    "pdf": 187
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 182,
+    "pdf": 187
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch08:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch08",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 182,
+    "pdf": 187
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 210,
+    "pdf": 215
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 210,
+    "pdf": 215
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 210,
+    "pdf": 215
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 210,
+    "pdf": 215
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 211,
+    "pdf": 216
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 211,
+    "pdf": 216
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:ex:cq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 211,
+    "pdf": 216
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch09:ex:cq05",
+   "chapter_id": "nctb:sci:c9-10:bn:ch09",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 211,
+    "pdf": 216
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 228,
+    "pdf": 233
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 228,
+    "pdf": 233
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 228,
+    "pdf": 233
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 228,
+    "pdf": 233
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:ex:cq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 229,
+    "pdf": 234
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:ex:cq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 229,
+    "pdf": 234
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch10:ex:cq05",
+   "chapter_id": "nctb:sci:c9-10:bn:ch10",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 229,
+    "pdf": 234
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 246,
+    "pdf": 251
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 246,
+    "pdf": 251
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 246,
+    "pdf": 251
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 247,
+    "pdf": 252
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 247,
+    "pdf": 252
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 247,
+    "pdf": 252
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": [
+    "ক",
+    "খ",
+    "গ",
+    "ঘ"
+   ]
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:ex:cq03",
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "kind": "cq",
+   "number": 3,
+   "page": {
+    "printed": 248,
+    "pdf": 253
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:ex:cq04",
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "kind": "cq",
+   "number": 4,
+   "page": {
+    "printed": 248,
+    "pdf": 253
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:bn:ch11:ex:cq05",
+   "chapter_id": "nctb:sci:c9-10:bn:ch11",
+   "kind": "cq",
+   "number": 5,
+   "page": {
+    "printed": 248,
+    "pdf": 253
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  }
+ ]
+}

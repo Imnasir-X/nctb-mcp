@@ -1,0 +1,296 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.3.0",
+ "generated_at": "2026-11-20",
+ "book": {
+  "subject": {
+   "code": "buddha",
+   "name_bn": "বৌদ্ধধর্ম শিক্ষা",
+   "name_en": "Buddhist Religion Studies",
+   "aliases": [
+    "buddhist",
+    "buddhism",
+    "বৌদ্ধধর্ম"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:buddha:c9-10:en",
+  "version": "en",
+  "title": "Buddhist Religion Studies, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1MLmMuLmZgbYHrtqEFdqVXftoT5AFODL1/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/eKjaLxyQjAIH7Oo"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Buddhist Religion Studies (en).pdf",
+   "sha256": "3cbb1e51389dae978d21aef5c592d7130c46d3f03f1f98cb860396b1451aefc7",
+   "bytes": 38127468,
+   "pdf_pages": 188,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "chapters"
+ },
+ "chapters": [
+  {
+   "id": "nctb:buddha:c9-10:en:ch01",
+   "concept_key": "nctb:buddha:c9-10:ch01",
+   "number": 1,
+   "title": "Life and Education of Gautama Buddha",
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": null,
+     "pdf": 30
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:en:ch02",
+   "concept_key": "nctb:buddha:c9-10:ch02",
+   "number": 2,
+   "title": "Buddha and Bodhisattva",
+   "pages": {
+    "start": {
+     "printed": 26,
+     "pdf": 31
+    },
+    "end": {
+     "printed": null,
+     "pdf": 45
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:en:ch03",
+   "concept_key": "nctb:buddha:c9-10:ch03",
+   "number": 3,
+   "title": "Tipitaka",
+   "pages": {
+    "start": {
+     "printed": 41,
+     "pdf": 46
+    },
+    "end": {
+     "printed": null,
+     "pdf": 66
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:en:ch04",
+   "concept_key": "nctb:buddha:c9-10:ch04",
+   "number": 4,
+   "title": "Sutta and Moral Verses",
+   "pages": {
+    "start": {
+     "printed": 62,
+     "pdf": 67
+    },
+    "end": {
+     "printed": null,
+     "pdf": 80
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:en:ch05",
+   "concept_key": "nctb:buddha:c9-10:ch05",
+   "number": 5,
+   "title": "Buddhist Kammavada",
+   "pages": {
+    "start": {
+     "printed": 76,
+     "pdf": 81
+    },
+    "end": {
+     "printed": null,
+     "pdf": 96
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:en:ch06",
+   "concept_key": "nctb:buddha:c9-10:ch06",
+   "number": 6,
+   "title": "Atthakatha",
+   "pages": {
+    "start": {
+     "printed": 92,
+     "pdf": 97
+    },
+    "end": {
+     "printed": null,
+     "pdf": 112
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:en:ch07",
+   "concept_key": "nctb:buddha:c9-10:ch07",
+   "number": 7,
+   "title": "Nibbana",
+   "pages": {
+    "start": {
+     "printed": 108,
+     "pdf": 113
+    },
+    "end": {
+     "printed": null,
+     "pdf": 122
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:en:ch08",
+   "concept_key": "nctb:buddha:c9-10:ch08",
+   "number": 8,
+   "title": "The Councils",
+   "pages": {
+    "start": {
+     "printed": 118,
+     "pdf": 123
+    },
+    "end": {
+     "printed": null,
+     "pdf": 139
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:en:ch09",
+   "concept_key": "nctb:buddha:c9-10:ch09",
+   "number": 9,
+   "title": "Jataka",
+   "pages": {
+    "start": {
+     "printed": 135,
+     "pdf": 140
+    },
+    "end": {
+     "printed": null,
+     "pdf": 152
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:en:ch10",
+   "concept_key": "nctb:buddha:c9-10:ch10",
+   "number": 10,
+   "title": "Biographies",
+   "pages": {
+    "start": {
+     "printed": 148,
+     "pdf": 153
+    },
+    "end": {
+     "printed": null,
+     "pdf": 188
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  }
+ ],
+ "topics": [],
+ "objectives": [],
+ "worked_examples": [],
+ "exercises": []
+}

@@ -1,0 +1,296 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.3.0",
+ "generated_at": "2026-11-20",
+ "book": {
+  "subject": {
+   "code": "civics",
+   "name_bn": "পৌরনীতি ও নাগরিকতা",
+   "name_en": "Civics and Citizenship",
+   "aliases": [
+    "civics",
+    "citizenship",
+    "পৌরনীতি"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:civics:c9-10:en",
+  "version": "en",
+  "title": "Civics and Citizenship, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1xYHmmx3jC3MoFlwerj4AIskSSbnR92wP/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/NX4KpPJ2SbVt4Sk"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Civics and Citizenship (en).pdf",
+   "sha256": "08125d648c56cbe0a64dfd98a44e01beb15ab40f84744a88b5a3c559384b01fe",
+   "bytes": 64409694,
+   "pdf_pages": 140,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "chapters"
+ },
+ "chapters": [
+  {
+   "id": "nctb:civics:c9-10:en:ch01",
+   "concept_key": "nctb:civics:c9-10:ch01",
+   "number": 1,
+   "title": "Civics and Citizenship",
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": null,
+     "pdf": 17
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:civics:c9-10:en:ch02",
+   "concept_key": "nctb:civics:c9-10:ch02",
+   "number": 2,
+   "title": "Citizen and Citizenship",
+   "pages": {
+    "start": {
+     "printed": 13,
+     "pdf": 18
+    },
+    "end": {
+     "printed": null,
+     "pdf": 27
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:civics:c9-10:en:ch03",
+   "concept_key": "nctb:civics:c9-10:ch03",
+   "number": 3,
+   "title": "Law, Liberty and Equality",
+   "pages": {
+    "start": {
+     "printed": 23,
+     "pdf": 28
+    },
+    "end": {
+     "printed": null,
+     "pdf": 36
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:civics:c9-10:en:ch04",
+   "concept_key": "nctb:civics:c9-10:ch04",
+   "number": 4,
+   "title": "State and System of Government",
+   "pages": {
+    "start": {
+     "printed": 32,
+     "pdf": 37
+    },
+    "end": {
+     "printed": null,
+     "pdf": 52
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:civics:c9-10:en:ch05",
+   "concept_key": "nctb:civics:c9-10:ch05",
+   "number": 5,
+   "title": "Constitution",
+   "pages": {
+    "start": {
+     "printed": 48,
+     "pdf": 53
+    },
+    "end": {
+     "printed": null,
+     "pdf": 62
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:civics:c9-10:en:ch06",
+   "concept_key": "nctb:civics:c9-10:ch06",
+   "number": 6,
+   "title": "Government System In Bangladesh",
+   "pages": {
+    "start": {
+     "printed": 58,
+     "pdf": 63
+    },
+    "end": {
+     "printed": null,
+     "pdf": 77
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:civics:c9-10:en:ch07",
+   "concept_key": "nctb:civics:c9-10:ch07",
+   "number": 7,
+   "title": "Political Parties and Election System in Democracy",
+   "pages": {
+    "start": {
+     "printed": 73,
+     "pdf": 78
+    },
+    "end": {
+     "printed": null,
+     "pdf": 86
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:civics:c9-10:en:ch08",
+   "concept_key": "nctb:civics:c9-10:ch08",
+   "number": 8,
+   "title": "Local Government System in Bangladesh",
+   "pages": {
+    "start": {
+     "printed": 82,
+     "pdf": 87
+    },
+    "end": {
+     "printed": null,
+     "pdf": 105
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:civics:c9-10:en:ch09",
+   "concept_key": "nctb:civics:c9-10:ch09",
+   "number": 9,
+   "title": "Problems of Citizens and Our Responsibilities",
+   "pages": {
+    "start": {
+     "printed": 101,
+     "pdf": 106
+    },
+    "end": {
+     "printed": null,
+     "pdf": 124
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:civics:c9-10:en:ch10",
+   "concept_key": "nctb:civics:c9-10:ch10",
+   "number": 10,
+   "title": "Bangladesh and International Organizations",
+   "pages": {
+    "start": {
+     "printed": 120,
+     "pdf": 125
+    },
+    "end": {
+     "printed": null,
+     "pdf": 140
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  }
+ ],
+ "topics": [],
+ "objectives": [],
+ "worked_examples": [],
+ "exercises": []
+}

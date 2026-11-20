@@ -1,0 +1,321 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.3.0",
+ "generated_at": "2026-11-20",
+ "book": {
+  "subject": {
+   "code": "buddha",
+   "name_bn": "বৌদ্ধধর্ম শিক্ষা",
+   "name_en": "Buddhist Religion Studies",
+   "aliases": [
+    "buddhist",
+    "buddhism",
+    "বৌদ্ধধর্ম"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:buddha:c9-10:bn",
+  "version": "bn",
+  "title": "বৌদ্ধধর্ম শিক্ষা, নবম ও দশম শ্রেণি (২০২৬ শিক্ষাবর্ষের জন্য পরিমার্জিত)",
+  "rights_statement": "[প্রকাশক কর্তৃক সর্বস্বত্ব সংরক্ষিত] — গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক বিনামূল্যে বিতরণের জন্য",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/16414iujNW-t1KgfPQ-6DP_JD96jmMNFy/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/Fl8XtU8s05CV4Xp"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Buddhist Religion Studies (bn).pdf",
+   "sha256": "3abfc2235227fade04c69f331abba4c8d1a212baa6d51650ae42fd456c847562",
+   "bytes": 54050649,
+   "pdf_pages": 156,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "chapters"
+ },
+ "chapters": [
+  {
+   "id": "nctb:buddha:c9-10:bn:ch01",
+   "concept_key": "nctb:buddha:c9-10:ch01",
+   "number": 1,
+   "title": "গৌতম বুদ্ধের জীবন ও শিক্ষা",
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": null,
+     "pdf": 26
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:bn:ch02",
+   "concept_key": "nctb:buddha:c9-10:ch02",
+   "number": 2,
+   "title": "বুদ্ধ ও বোধিসত্তব",
+   "pages": {
+    "start": {
+     "printed": 22,
+     "pdf": 27
+    },
+    "end": {
+     "printed": null,
+     "pdf": 38
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:bn:ch03",
+   "concept_key": "nctb:buddha:c9-10:ch03",
+   "number": 3,
+   "title": "ব্রিপিটক",
+   "pages": {
+    "start": {
+     "printed": 34,
+     "pdf": 39
+    },
+    "end": {
+     "printed": null,
+     "pdf": 53
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:bn:ch04",
+   "concept_key": "nctb:buddha:c9-10:ch04",
+   "number": 4,
+   "title": "সূত্র ও নীতিগাথা",
+   "pages": {
+    "start": {
+     "printed": 49,
+     "pdf": 54
+    },
+    "end": {
+     "printed": null,
+     "pdf": 66
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:bn:ch05",
+   "concept_key": "nctb:buddha:c9-10:ch05",
+   "number": 5,
+   "title": "বৌদ্ধ কর্মবাদ",
+   "pages": {
+    "start": {
+     "printed": 62,
+     "pdf": 67
+    },
+    "end": {
+     "printed": null,
+     "pdf": 79
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:bn:ch06",
+   "concept_key": "nctb:buddha:c9-10:ch06",
+   "number": 6,
+   "title": "অট্ঠকথা",
+   "pages": {
+    "start": {
+     "printed": 75,
+     "pdf": 80
+    },
+    "end": {
+     "printed": null,
+     "pdf": 92
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:bn:ch07",
+   "concept_key": "nctb:buddha:c9-10:ch07",
+   "number": 7,
+   "title": "নির্বাণ",
+   "pages": {
+    "start": {
+     "printed": 88,
+     "pdf": 93
+    },
+    "end": {
+     "printed": null,
+     "pdf": 101
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:bn:ch08",
+   "concept_key": "nctb:buddha:c9-10:ch08",
+   "number": 8,
+   "title": "সঙ্গীতি",
+   "pages": {
+    "start": {
+     "printed": 97,
+     "pdf": 102
+    },
+    "end": {
+     "printed": null,
+     "pdf": 115
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:bn:ch09",
+   "concept_key": "nctb:buddha:c9-10:ch09",
+   "number": 9,
+   "title": "জাতক",
+   "pages": {
+    "start": {
+     "printed": 111,
+     "pdf": 116
+    },
+    "end": {
+     "printed": null,
+     "pdf": 126
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:bn:ch10",
+   "concept_key": "nctb:buddha:c9-10:ch10",
+   "number": 10,
+   "title": "চরিতমালা",
+   "pages": {
+    "start": {
+     "printed": 122,
+     "pdf": 127
+    },
+    "end": {
+     "printed": null,
+     "pdf": 142
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:buddha:c9-10:bn:ch11",
+   "concept_key": "nctb:buddha:c9-10:ch11",
+   "number": 11,
+   "title": "বৌদ্ধ ভিক্ষু ও গৃহীদের নিত্যকর্ম ও অনুশাসন",
+   "pages": {
+    "start": {
+     "printed": 138,
+     "pdf": 143
+    },
+    "end": {
+     "printed": null,
+     "pdf": 156
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  }
+ ],
+ "topics": [],
+ "objectives": [],
+ "worked_examples": [],
+ "exercises": []
+}

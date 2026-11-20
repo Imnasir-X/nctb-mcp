@@ -1,0 +1,145 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.3.0",
+ "generated_at": "2026-11-20",
+ "book": {
+  "subject": {
+   "code": "career",
+   "name_bn": "ক্যারিয়ার শিক্ষা",
+   "name_en": "Career Education",
+   "aliases": [
+    "career",
+    "ক্যারিয়ার"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:career:c9-10:bn",
+  "version": "bn",
+  "title": "ক্যারিয়ার শিক্ষা, নবম ও দশম শ্রেণি (২০২৬ শিক্ষাবর্ষের জন্য পরিমার্জিত)",
+  "rights_statement": "[প্রকাশক কর্তৃক সর্বস্বত্ব সংরক্ষিত] — গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক বিনামূল্যে বিতরণের জন্য",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1EuhyBut1DVTgv-gn0AdLxMtb8RWE4veB/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/BbG1MTVu3u4ZHa8"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Career Education (bn).pdf",
+   "sha256": "6fe47cf2eb2ec4c7b0322a78a6aea938680c3666075b81fa6428a11328e8944c",
+   "bytes": 23786634,
+   "pdf_pages": 90,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "chapters"
+ },
+ "chapters": [
+  {
+   "id": "nctb:career:c9-10:bn:ch01",
+   "concept_key": "nctb:career:c9-10:ch01",
+   "number": 1,
+   "title": "আমি ও আমার ক্যারিয়ার",
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": null,
+     "pdf": 27
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:career:c9-10:bn:ch02",
+   "concept_key": "nctb:career:c9-10:ch02",
+   "number": 2,
+   "title": "৷ ক্যারিয়ার গঠন : গুণ ও দক্ষতা",
+   "pages": {
+    "start": {
+     "printed": 23,
+     "pdf": 28
+    },
+    "end": {
+     "printed": null,
+     "pdf": 51
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:career:c9-10:bn:ch03",
+   "concept_key": "nctb:career:c9-10:ch03",
+   "number": 3,
+   "title": "ক্যারিয়ার গঠনে সংযোগ স্থাপন ও আচরণ",
+   "pages": {
+    "start": {
+     "printed": 47,
+     "pdf": 52
+    },
+    "end": {
+     "printed": null,
+     "pdf": 67
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:career:c9-10:bn:ch04",
+   "concept_key": "nctb:career:c9-10:ch04",
+   "number": 4,
+   "title": "_ আমি ও আমার কর্মক্ষেত্র",
+   "pages": {
+    "start": {
+     "printed": 63,
+     "pdf": 68
+    },
+    "end": {
+     "printed": null,
+     "pdf": 90
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  }
+ ],
+ "topics": [],
+ "objectives": [],
+ "worked_examples": [],
+ "exercises": []
+}

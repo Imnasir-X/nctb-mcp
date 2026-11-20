@@ -1,0 +1,221 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.3.0",
+ "generated_at": "2026-11-20",
+ "book": {
+  "subject": {
+   "code": "agri",
+   "name_bn": "কৃষিশিক্ষা",
+   "name_en": "Agriculture Studies",
+   "aliases": [
+    "agriculture",
+    "agri",
+    "কৃষিশিক্ষা"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:agri:c9-10:en",
+  "version": "en",
+  "title": "Agriculture Studies, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1ACj_VNapZbjfhStSpuYNP60SYld2cZRj/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/TAPpHdby4IcF8f6"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Agriculture Studies (en).pdf",
+   "sha256": "d297c4bf2e62bf69f54b43bd3014e9e5a7d01dcf13bb028e9e7ae7653394c56b",
+   "bytes": 79747844,
+   "pdf_pages": 262,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "chapters"
+ },
+ "chapters": [
+  {
+   "id": "nctb:agri:c9-10:en:ch01",
+   "concept_key": "nctb:agri:c9-10:ch01",
+   "number": 1,
+   "title": "Agricultural Technology",
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": null,
+     "pdf": 42
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:agri:c9-10:en:ch02",
+   "concept_key": "nctb:agri:c9-10:ch02",
+   "number": 2,
+   "title": "Agricultural Inputs",
+   "pages": {
+    "start": {
+     "printed": 38,
+     "pdf": 43
+    },
+    "end": {
+     "printed": null,
+     "pdf": 80
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:agri:c9-10:en:ch03",
+   "concept_key": "nctb:agri:c9-10:ch03",
+   "number": 3,
+   "title": "Agriculture and Climate",
+   "pages": {
+    "start": {
+     "printed": 76,
+     "pdf": 81
+    },
+    "end": {
+     "printed": null,
+     "pdf": 109
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:agri:c9-10:en:ch04",
+   "concept_key": "nctb:agri:c9-10:ch04",
+   "number": 4,
+   "title": "Agricultural Produciton",
+   "pages": {
+    "start": {
+     "printed": 105,
+     "pdf": 110
+    },
+    "end": {
+     "printed": null,
+     "pdf": 201
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:agri:c9-10:en:ch05",
+   "concept_key": "nctb:agri:c9-10:ch05",
+   "number": 5,
+   "title": "Afforestation",
+   "pages": {
+    "start": {
+     "printed": 197,
+     "pdf": 202
+    },
+    "end": {
+     "printed": null,
+     "pdf": 231
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:agri:c9-10:en:ch06",
+   "concept_key": "nctb:agri:c9-10:ch06",
+   "number": 6,
+   "title": "Agricultural Co-opratives",
+   "pages": {
+    "start": {
+     "printed": 227,
+     "pdf": 232
+    },
+    "end": {
+     "printed": null,
+     "pdf": 241
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:agri:c9-10:en:ch07",
+   "concept_key": "nctb:agri:c9-10:ch07",
+   "number": 7,
+   "title": "Household Farming",
+   "pages": {
+    "start": {
+     "printed": 237,
+     "pdf": 242
+    },
+    "end": {
+     "printed": null,
+     "pdf": 262
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  }
+ ],
+ "topics": [],
+ "objectives": [],
+ "worked_examples": [],
+ "exercises": []
+}

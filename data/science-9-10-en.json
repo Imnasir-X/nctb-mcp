@@ -1,0 +1,7430 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.3.0",
+ "generated_at": "2026-11-20",
+ "book": {
+  "subject": {
+   "code": "sci",
+   "name_bn": "বিজ্ঞান",
+   "name_en": "Science",
+   "aliases": [
+    "science",
+    "বিজ্ঞান",
+    "biggan"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:sci:c9-10:en",
+  "version": "en",
+  "title": "Science, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1TCyuezoQIAUCGYLUzDKJIb448kg0_7cQ/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/N3ZlCv0rSQ0LqmF"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Science (en).pdf",
+   "sha256": "ce09f5819d57af42c1e57c6647700b0494599a2422be95c1e4edec56c412226c",
+   "bytes": 50373853,
+   "pdf_pages": 262,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "id": "nctb:sci:c9-10:en:ch01",
+   "concept_key": "nctb:sci:c9-10:ch01",
+   "number": 1,
+   "title": "Healthy Life, Better Living",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": 33,
+     "pdf": 38
+    }
+   },
+   "counts": {
+    "topics": 8,
+    "subtopics": 15,
+    "objectives": 11,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02",
+   "concept_key": "nctb:sci:c9-10:ch02",
+   "number": 2,
+   "title": "Water for Life",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 34,
+     "pdf": 39
+    },
+    "end": {
+     "printed": 59,
+     "pdf": 64
+    }
+   },
+   "counts": {
+    "topics": 9,
+    "subtopics": 7,
+    "objectives": 21,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03",
+   "concept_key": "nctb:sci:c9-10:ch03",
+   "number": 3,
+   "title": "All about Heart and others",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 60,
+     "pdf": 65
+    },
+    "end": {
+     "printed": 88,
+     "pdf": 93
+    }
+   },
+   "counts": {
+    "topics": 6,
+    "subtopics": 12,
+    "objectives": 12,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04",
+   "concept_key": "nctb:sci:c9-10:ch04",
+   "number": 4,
+   "title": "Starting a New Life",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 89,
+     "pdf": 94
+    },
+    "end": {
+     "printed": 118,
+     "pdf": 123
+    }
+   },
+   "counts": {
+    "topics": 4,
+    "subtopics": 9,
+    "objectives": 9,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05",
+   "concept_key": "nctb:sci:c9-10:ch05",
+   "number": 5,
+   "title": "Light for Sight",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 119,
+     "pdf": 124
+    },
+    "end": {
+     "printed": 132,
+     "pdf": 137
+    }
+   },
+   "counts": {
+    "topics": 4,
+    "subtopics": 5,
+    "objectives": 8,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06",
+   "concept_key": "nctb:sci:c9-10:ch06",
+   "number": 6,
+   "title": "Polymer",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 133,
+     "pdf": 138
+    },
+    "end": {
+     "printed": 149,
+     "pdf": 154
+    }
+   },
+   "counts": {
+    "topics": 3,
+    "subtopics": 6,
+    "objectives": 9,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 4,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07",
+   "concept_key": "nctb:sci:c9-10:ch07",
+   "number": 7,
+   "title": "Use of Acid, Base and Salt",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 150,
+     "pdf": 155
+    },
+    "end": {
+     "printed": 170,
+     "pdf": 175
+    }
+   },
+   "counts": {
+    "topics": 4,
+    "subtopics": 11,
+    "objectives": 1,
+    "worked_examples": 0,
+    "ex_mcq": 3,
+    "ex_cq": 2,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08",
+   "concept_key": "nctb:sci:c9-10:ch08",
+   "number": 8,
+   "title": "Our Resources",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 171,
+     "pdf": 176
+    },
+    "end": {
+     "printed": 189,
+     "pdf": 194
+    }
+   },
+   "counts": {
+    "topics": 3,
+    "subtopics": 8,
+    "objectives": 12,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09",
+   "concept_key": "nctb:sci:c9-10:ch09",
+   "number": 9,
+   "title": "Living with Disaster",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 190,
+     "pdf": 195
+    },
+    "end": {
+     "printed": 220,
+     "pdf": 225
+    }
+   },
+   "counts": {
+    "topics": 4,
+    "subtopics": 13,
+    "objectives": 8,
+    "worked_examples": 0,
+    "ex_mcq": 4,
+    "ex_cq": 2,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10",
+   "concept_key": "nctb:sci:c9-10:ch10",
+   "number": 10,
+   "title": "Let Us Know Force",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 221,
+     "pdf": 226
+    },
+    "end": {
+     "printed": 238,
+     "pdf": 243
+    }
+   },
+   "counts": {
+    "topics": 5,
+    "subtopics": 5,
+    "objectives": 9,
+    "worked_examples": 0,
+    "ex_mcq": 3,
+    "ex_cq": 2,
+    "ex_sq": 5,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq",
+     "count-differs-from-other-version:ex_sq"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch11",
+   "concept_key": "nctb:sci:c9-10:ch11",
+   "number": 11,
+   "title": "Electricity in Daily Life",
+   "title_alt": null,
+   "pages": {
+    "start": {
+     "printed": 239,
+     "pdf": 244
+    },
+    "end": {
+     "printed": 257,
+     "pdf": 262
+    }
+   },
+   "counts": {
+    "topics": 5,
+    "subtopics": 9,
+    "objectives": 0,
+    "worked_examples": 0,
+    "ex_mcq": 0,
+    "ex_cq": 0,
+    "ex_sq": 0,
+    "ex_num": 0
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "exercise-section-not-found",
+     "objectives-not-found",
+     "count-differs-from-other-version:objectives",
+     "count-differs-from-other-version:worked_examples",
+     "count-differs-from-other-version:ex_mcq",
+     "count-differs-from-other-version:ex_cq"
+    ]
+   }
+  }
+ ],
+ "topics": [
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t01",
+   "concept_key": "nctb:sci:c9-10:ch01:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.1",
+   "level": "topic",
+   "title": "Food and Nutrition",
+   "title_alt": null,
+   "page": {
+    "printed": 3,
+    "pdf": 8
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch01:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": "nctb:sci:c9-10:en:ch01:t01",
+   "number": "1.1.1",
+   "level": "subtopic",
+   "title": "Carbohydrates",
+   "title_alt": null,
+   "page": {
+    "printed": 4,
+    "pdf": 9
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t01:s02",
+   "concept_key": "nctb:sci:c9-10:ch01:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": "nctb:sci:c9-10:en:ch01:t01",
+   "number": "1.1.2",
+   "level": "subtopic",
+   "title": "Proteins",
+   "title_alt": null,
+   "page": {
+    "printed": 5,
+    "pdf": 10
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t01:s03",
+   "concept_key": "nctb:sci:c9-10:ch01:t01:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": "nctb:sci:c9-10:en:ch01:t01",
+   "number": "1.1.3",
+   "level": "subtopic",
+   "title": "Fats and Lipid",
+   "title_alt": null,
+   "page": {
+    "printed": 6,
+    "pdf": 11
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t01:s04",
+   "concept_key": "nctb:sci:c9-10:ch01:t01:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": "nctb:sci:c9-10:en:ch01:t01",
+   "number": "1.1.4",
+   "level": "subtopic",
+   "title": "Vitamins",
+   "title_alt": null,
+   "page": {
+    "printed": 7,
+    "pdf": 12
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t01:s05",
+   "concept_key": "nctb:sci:c9-10:ch01:t01:s05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": "nctb:sci:c9-10:en:ch01:t01",
+   "number": "1.1.5",
+   "level": "subtopic",
+   "title": "Minerals and Water",
+   "title_alt": null,
+   "page": {
+    "printed": 11,
+    "pdf": 16
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t01:s06",
+   "concept_key": "nctb:sci:c9-10:ch01:t01:s06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": "nctb:sci:c9-10:en:ch01:t01",
+   "number": "1.1.6",
+   "level": "subtopic",
+   "title": "Fibre",
+   "title_alt": null,
+   "page": {
+    "printed": 14,
+    "pdf": 19
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t02",
+   "concept_key": "nctb:sci:c9-10:ch01:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.2",
+   "level": "topic",
+   "title": "Body Mass Index (BMI)",
+   "title_alt": null,
+   "page": {
+    "printed": 14,
+    "pdf": 19
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t03",
+   "concept_key": "nctb:sci:c9-10:ch01:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.3",
+   "level": "topic",
+   "title": "What will be the daily diet",
+   "title_alt": null,
+   "page": {
+    "printed": 16,
+    "pdf": 21
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t03:s01",
+   "concept_key": "nctb:sci:c9-10:ch01:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": "nctb:sci:c9-10:en:ch01:t03",
+   "number": "1.3.1",
+   "level": "subtopic",
+   "title": "Balanced Diet",
+   "title_alt": null,
+   "page": {
+    "printed": 18,
+    "pdf": 23
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t03:s02",
+   "concept_key": "nctb:sci:c9-10:ch01:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": "nctb:sci:c9-10:en:ch01:t03",
+   "number": "1.3.2",
+   "level": "subtopic",
+   "title": "Selecting Food for High Standard Living",
+   "title_alt": null,
+   "page": {
+    "printed": 19,
+    "pdf": 24
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t04",
+   "concept_key": "nctb:sci:c9-10:ch01:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.4",
+   "level": "topic",
+   "title": "Preservation of Food",
+   "title_alt": null,
+   "page": {
+    "printed": 21,
+    "pdf": 26
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t04:s01",
+   "concept_key": "nctb:sci:c9-10:ch01:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": "nctb:sci:c9-10:en:ch01:t04",
+   "number": "1.4.1",
+   "level": "subtopic",
+   "title": "Various Methods of Food Preservation",
+   "title_alt": null,
+   "page": {
+    "printed": 22,
+    "pdf": 27
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t04:s02",
+   "concept_key": "nctb:sci:c9-10:ch01:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": "nctb:sci:c9-10:en:ch01:t04",
+   "number": "1.4.2",
+   "level": "subtopic",
+   "title": "Use of Chemicals for Preservation of Foods, and its Physiological",
+   "title_alt": null,
+   "page": {
+    "printed": 23,
+    "pdf": 28
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t05",
+   "concept_key": "nctb:sci:c9-10:ch01:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.5",
+   "level": "topic",
+   "title": "Tobacco and Other Addictive Substances",
+   "title_alt": null,
+   "page": {
+    "printed": 24,
+    "pdf": 29
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t05:s01",
+   "concept_key": "nctb:sci:c9-10:ch01:t05:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": "nctb:sci:c9-10:en:ch01:t05",
+   "number": "1.5.1",
+   "level": "subtopic",
+   "title": "Bad Effects of Smoking",
+   "title_alt": null,
+   "page": {
+    "printed": 25,
+    "pdf": 30
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t05:s02",
+   "concept_key": "nctb:sci:c9-10:ch01:t05:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": "nctb:sci:c9-10:en:ch01:t05",
+   "number": "1.5.2",
+   "level": "subtopic",
+   "title": "Attempts to Control Smoking and Use of Tobacco Products",
+   "title_alt": null,
+   "page": {
+    "printed": 25,
+    "pdf": 30
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t06",
+   "concept_key": "nctb:sci:c9-10:ch01:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.6",
+   "level": "topic",
+   "title": "Drug Addiction of Substance Abuse",
+   "title_alt": null,
+   "page": {
+    "printed": 26,
+    "pdf": 31
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t06:s01",
+   "concept_key": "nctb:sci:c9-10:ch01:t06:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": "nctb:sci:c9-10:en:ch01:t06",
+   "number": "1.6.1",
+   "level": "subtopic",
+   "title": "Symptoms of Drug Addiction",
+   "title_alt": null,
+   "page": {
+    "printed": 26,
+    "pdf": 31
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t06:s02",
+   "concept_key": "nctb:sci:c9-10:ch01:t06:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": "nctb:sci:c9-10:en:ch01:t06",
+   "number": "1.6.2",
+   "level": "subtopic",
+   "title": "Control of Drug Addiction",
+   "title_alt": null,
+   "page": {
+    "printed": 27,
+    "pdf": 32
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t07",
+   "concept_key": "nctb:sci:c9-10:ch01:t07",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.7",
+   "level": "topic",
+   "title": "AIDS",
+   "title_alt": null,
+   "page": {
+    "printed": 28,
+    "pdf": 33
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t07:s01",
+   "concept_key": "nctb:sci:c9-10:ch01:t07:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": "nctb:sci:c9-10:en:ch01:t07",
+   "number": "1.7.1",
+   "level": "subtopic",
+   "title": "Causes of AIDS",
+   "title_alt": null,
+   "page": {
+    "printed": 29,
+    "pdf": 34
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:t08",
+   "concept_key": "nctb:sci:c9-10:ch01:t08",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "parent_id": null,
+   "number": "1.8",
+   "level": "topic",
+   "title": "Physical Exercise and Rest for Health",
+   "title_alt": null,
+   "page": {
+    "printed": 30,
+    "pdf": 35
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:t01",
+   "concept_key": "nctb:sci:c9-10:ch02:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.1",
+   "level": "topic",
+   "title": "Water",
+   "title_alt": null,
+   "page": {
+    "printed": 36,
+    "pdf": 41
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch02:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "parent_id": "nctb:sci:c9-10:en:ch02:t01",
+   "number": "2.1.1",
+   "level": "subtopic",
+   "title": "Properties of Water",
+   "title_alt": null,
+   "page": {
+    "printed": 36,
+    "pdf": 41
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:t01:s02",
+   "concept_key": "nctb:sci:c9-10:ch02:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "parent_id": "nctb:sci:c9-10:en:ch02:t01",
+   "number": "2.1.2",
+   "level": "subtopic",
+   "title": "Sources of Water",
+   "title_alt": null,
+   "page": {
+    "printed": 37,
+    "pdf": 42
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:t01:s03",
+   "concept_key": "nctb:sci:c9-10:ch02:t01:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "parent_id": "nctb:sci:c9-10:en:ch02:t01",
+   "number": "2.1.3",
+   "level": "subtopic",
+   "title": "Importance of Water for Aquatic Flora",
+   "title_alt": null,
+   "page": {
+    "printed": 38,
+    "pdf": 43
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:t01:s04",
+   "concept_key": "nctb:sci:c9-10:ch02:t01:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "parent_id": "nctb:sci:c9-10:en:ch02:t01",
+   "number": "2.1.4",
+   "level": "subtopic",
+   "title": "Importance of Water for Aquatic Fauna",
+   "title_alt": null,
+   "page": {
+    "printed": 39,
+    "pdf": 44
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:t02",
+   "concept_key": "nctb:sci:c9-10:ch02:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.2",
+   "level": "topic",
+   "title": "Water Quality Parameter",
+   "title_alt": null,
+   "page": {
+    "printed": 39,
+    "pdf": 44
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:t03",
+   "concept_key": "nctb:sci:c9-10:ch02:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.3",
+   "level": "topic",
+   "title": "Recycling of Water and Role of Water in Conservation of",
+   "title_alt": null,
+   "page": {
+    "printed": 42,
+    "pdf": 47
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:t04",
+   "concept_key": "nctb:sci:c9-10:ch02:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.4",
+   "level": "topic",
+   "title": "Purification of Water",
+   "title_alt": null,
+   "page": {
+    "printed": 43,
+    "pdf": 48
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:t05",
+   "concept_key": "nctb:sci:c9-10:ch02:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.5",
+   "level": "topic",
+   "title": "Reasons for Pollution of Water Sources in Bangladesh",
+   "title_alt": null,
+   "page": {
+    "printed": 45,
+    "pdf": 50
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:t05:s01",
+   "concept_key": "nctb:sci:c9-10:ch02:t05:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "parent_id": "nctb:sci:c9-10:en:ch02:t05",
+   "number": "2.5.1",
+   "level": "subtopic",
+   "title": "Effects of Water Pollution on Plants, Animals and Human Beings",
+   "title_alt": null,
+   "page": {
+    "printed": 46,
+    "pdf": 51
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:t06",
+   "concept_key": "nctb:sci:c9-10:ch02:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.6",
+   "level": "topic",
+   "title": "Global Warming",
+   "title_alt": null,
+   "page": {
+    "printed": 48,
+    "pdf": 53
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:t06:s01",
+   "concept_key": "nctb:sci:c9-10:ch02:t06:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "parent_id": "nctb:sci:c9-10:en:ch02:t06",
+   "number": "2.6.1",
+   "level": "subtopic",
+   "title": "Effects of Global Warming on Fresh Water",
+   "title_alt": null,
+   "page": {
+    "printed": 48,
+    "pdf": 53
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:t06:s02",
+   "concept_key": "nctb:sci:c9-10:ch02:t06:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "parent_id": "nctb:sci:c9-10:en:ch02:t06",
+   "number": "2.6.2",
+   "level": "subtopic",
+   "title": "The Effect of Global Warming in Bangladesh",
+   "title_alt": null,
+   "page": {
+    "printed": 49,
+    "pdf": 54
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:t07",
+   "concept_key": "nctb:sci:c9-10:ch02:t07",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.7",
+   "level": "topic",
+   "title": "Strategy for Preventing Water Pollution and Responsibility of",
+   "title_alt": null,
+   "page": {
+    "printed": 51,
+    "pdf": 56
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:t08",
+   "concept_key": "nctb:sci:c9-10:ch02:t08",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.8",
+   "level": "topic",
+   "title": "Threats at Water Sources in Bangladesh",
+   "title_alt": null,
+   "page": {
+    "printed": 54,
+    "pdf": 59
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:t09",
+   "concept_key": "nctb:sci:c9-10:ch02:t09",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "parent_id": null,
+   "number": "2.9",
+   "level": "topic",
+   "title": "Universality of Water Flow and International Conventions",
+   "title_alt": null,
+   "page": {
+    "printed": 56,
+    "pdf": 61
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t01",
+   "concept_key": "nctb:sci:c9-10:ch03:t01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.1",
+   "level": "topic",
+   "title": "Blood",
+   "title_alt": null,
+   "page": {
+    "printed": 62,
+    "pdf": 67
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch03:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": "nctb:sci:c9-10:en:ch03:t01",
+   "number": "3.1.1",
+   "level": "subtopic",
+   "title": "Plasma",
+   "title_alt": null,
+   "page": {
+    "printed": 63,
+    "pdf": 68
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t01:s02",
+   "concept_key": "nctb:sci:c9-10:ch03:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": "nctb:sci:c9-10:en:ch03:t01",
+   "number": "3.1.2",
+   "level": "subtopic",
+   "title": "Blood Cells",
+   "title_alt": null,
+   "page": {
+    "printed": 64,
+    "pdf": 69
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t01:s03",
+   "concept_key": "nctb:sci:c9-10:ch03:t01:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": "nctb:sci:c9-10:en:ch03:t01",
+   "number": "3.1.3",
+   "level": "subtopic",
+   "title": "The Functions of Blood",
+   "title_alt": null,
+   "page": {
+    "printed": 67,
+    "pdf": 72
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t01:s04",
+   "concept_key": "nctb:sci:c9-10:ch03:t01:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": "nctb:sci:c9-10:en:ch03:t01",
+   "number": "3.1.4",
+   "level": "subtopic",
+   "title": "Abnormal Condition of Blood Elements",
+   "title_alt": null,
+   "page": {
+    "printed": 68,
+    "pdf": 73
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t02",
+   "concept_key": "nctb:sci:c9-10:ch03:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.2",
+   "level": "topic",
+   "title": "Blood Group",
+   "title_alt": null,
+   "page": {
+    "printed": 69,
+    "pdf": 74
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t02:s01",
+   "concept_key": "nctb:sci:c9-10:ch03:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": "nctb:sci:c9-10:en:ch03:t02",
+   "number": "3.2.1",
+   "level": "subtopic",
+   "title": "Antigen and Antibody",
+   "title_alt": null,
+   "page": {
+    "printed": 69,
+    "pdf": 74
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t02:s02",
+   "concept_key": "nctb:sci:c9-10:ch03:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": "nctb:sci:c9-10:en:ch03:t02",
+   "number": "3.2.2",
+   "level": "subtopic",
+   "title": "Rh Factor",
+   "title_alt": null,
+   "page": {
+    "printed": 72,
+    "pdf": 77
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t02:s03",
+   "concept_key": "nctb:sci:c9-10:ch03:t02:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": "nctb:sci:c9-10:en:ch03:t02",
+   "number": "3.2.3",
+   "level": "subtopic",
+   "title": "The Importance of Classification of Blood",
+   "title_alt": null,
+   "page": {
+    "printed": 74,
+    "pdf": 79
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t03",
+   "concept_key": "nctb:sci:c9-10:ch03:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.3",
+   "level": "topic",
+   "title": "Blood Circulation",
+   "title_alt": null,
+   "page": {
+    "printed": 75,
+    "pdf": 80
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t03:s01",
+   "concept_key": "nctb:sci:c9-10:ch03:t03:s01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": "nctb:sci:c9-10:en:ch03:t03",
+   "number": "3.3.1",
+   "level": "subtopic",
+   "title": "Heart",
+   "title_alt": null,
+   "page": {
+    "printed": 75,
+    "pdf": 80
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t03:s02",
+   "concept_key": "nctb:sci:c9-10:ch03:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": "nctb:sci:c9-10:en:ch03:t03",
+   "number": "3.3.2",
+   "level": "subtopic",
+   "title": "Functions of Heart",
+   "title_alt": null,
+   "page": {
+    "printed": 77,
+    "pdf": 82
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t03:s03",
+   "concept_key": "nctb:sci:c9-10:ch03:t03:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": "nctb:sci:c9-10:en:ch03:t03",
+   "number": "3.3.3",
+   "level": "subtopic",
+   "title": "The Method of Counting Pulse Rate or Heart Beat",
+   "title_alt": null,
+   "page": {
+    "printed": 81,
+    "pdf": 86
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t04",
+   "concept_key": "nctb:sci:c9-10:ch03:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.4",
+   "level": "topic",
+   "title": "Blood Pressure",
+   "title_alt": null,
+   "page": {
+    "printed": 82,
+    "pdf": 87
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t04:s01",
+   "concept_key": "nctb:sci:c9-10:ch03:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": "nctb:sci:c9-10:en:ch03:t04",
+   "number": "3.4.1",
+   "level": "subtopic",
+   "title": "High Blood Pressure",
+   "title_alt": null,
+   "page": {
+    "printed": 82,
+    "pdf": 87
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t04:s02",
+   "concept_key": "nctb:sci:c9-10:ch03:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": "nctb:sci:c9-10:en:ch03:t04",
+   "number": "3.4.2",
+   "level": "subtopic",
+   "title": "Cholesterol",
+   "title_alt": null,
+   "page": {
+    "printed": 83,
+    "pdf": 88
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t05",
+   "concept_key": "nctb:sci:c9-10:ch03:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.5",
+   "level": "topic",
+   "title": "Ways to Keep the Heart Healthy",
+   "title_alt": null,
+   "page": {
+    "printed": 84,
+    "pdf": 89
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:t06",
+   "concept_key": "nctb:sci:c9-10:ch03:t06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "parent_id": null,
+   "number": "3.6",
+   "level": "topic",
+   "title": "Diabetes",
+   "title_alt": null,
+   "page": {
+    "printed": 84,
+    "pdf": 89
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:t01",
+   "concept_key": "nctb:sci:c9-10:ch04:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "parent_id": null,
+   "number": "4.1",
+   "level": "topic",
+   "title": "Adolescence",
+   "title_alt": null,
+   "page": {
+    "printed": 91,
+    "pdf": 96
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch04:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "parent_id": "nctb:sci:c9-10:en:ch04:t01",
+   "number": "4.1.1",
+   "level": "subtopic",
+   "title": "Changes at Puberty",
+   "title_alt": null,
+   "page": {
+    "printed": 91,
+    "pdf": 96
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:t01:s02",
+   "concept_key": "nctb:sci:c9-10:ch04:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "parent_id": "nctb:sci:c9-10:en:ch04:t01",
+   "number": "4.1.2",
+   "level": "subtopic",
+   "title": "Cause of Changes in Adolescence",
+   "title_alt": null,
+   "page": {
+    "printed": 93,
+    "pdf": 98
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:t01:s03",
+   "concept_key": "nctb:sci:c9-10:ch04:t01:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "parent_id": "nctb:sci:c9-10:en:ch04:t01",
+   "number": "4.1.3",
+   "level": "subtopic",
+   "title": "Keeping Proper Physical Health",
+   "title_alt": null,
+   "page": {
+    "printed": 95,
+    "pdf": 100
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:t01:s04",
+   "concept_key": "nctb:sci:c9-10:ch04:t01:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "parent_id": "nctb:sci:c9-10:en:ch04:t01",
+   "number": "4.1.4",
+   "level": "subtopic",
+   "title": "Keeping Proper Mental Health",
+   "title_alt": null,
+   "page": {
+    "printed": 96,
+    "pdf": 101
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:t01:s05",
+   "concept_key": "nctb:sci:c9-10:ch04:t01:s05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "parent_id": "nctb:sci:c9-10:en:ch04:t01",
+   "number": "4.1.5",
+   "level": "subtopic",
+   "title": "Marriage in Adolescence and Pregnancy",
+   "title_alt": null,
+   "page": {
+    "printed": 97,
+    "pdf": 102
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:t01:s06",
+   "concept_key": "nctb:sci:c9-10:ch04:t01:s06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "parent_id": "nctb:sci:c9-10:en:ch04:t01",
+   "number": "4.1.6",
+   "level": "subtopic",
+   "title": "Test Tube Baby",
+   "title_alt": null,
+   "page": {
+    "printed": 101,
+    "pdf": 106
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:t02",
+   "concept_key": "nctb:sci:c9-10:ch04:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "parent_id": null,
+   "number": "4.2",
+   "level": "topic",
+   "title": "Sex Determination of Child",
+   "title_alt": null,
+   "page": {
+    "printed": 101,
+    "pdf": 106
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:t03",
+   "concept_key": "nctb:sci:c9-10:ch04:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "parent_id": null,
+   "number": "4.3",
+   "level": "topic",
+   "title": "Origin of Life on Earth",
+   "title_alt": null,
+   "page": {
+    "printed": 104,
+    "pdf": 109
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:t03:s01",
+   "concept_key": "nctb:sci:c9-10:ch04:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "parent_id": "nctb:sci:c9-10:en:ch04:t03",
+   "number": "4.3.1",
+   "level": "subtopic",
+   "title": "How, When and Where Life Originated",
+   "title_alt": null,
+   "page": {
+    "printed": 105,
+    "pdf": 110
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:t04",
+   "concept_key": "nctb:sci:c9-10:ch04:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "parent_id": null,
+   "number": "4.4",
+   "level": "topic",
+   "title": "Theories of Evolution",
+   "title_alt": null,
+   "page": {
+    "printed": 112,
+    "pdf": 117
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:t04:s01",
+   "concept_key": "nctb:sci:c9-10:ch04:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "parent_id": "nctb:sci:c9-10:en:ch04:t04",
+   "number": "4.4.1",
+   "level": "subtopic",
+   "title": "Lamarck's Theory",
+   "title_alt": null,
+   "page": {
+    "printed": 112,
+    "pdf": 117
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:t04:s02",
+   "concept_key": "nctb:sci:c9-10:ch04:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "parent_id": "nctb:sci:c9-10:en:ch04:t04",
+   "number": "4.4.2",
+   "level": "subtopic",
+   "title": "Darwin's Theory or Darwinism",
+   "title_alt": null,
+   "page": {
+    "printed": 114,
+    "pdf": 119
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:t01",
+   "concept_key": "nctb:sci:c9-10:ch05:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "parent_id": null,
+   "number": "5.1",
+   "level": "topic",
+   "title": "Uses of Mirrors",
+   "title_alt": null,
+   "page": {
+    "printed": 121,
+    "pdf": 126
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:t02",
+   "concept_key": "nctb:sci:c9-10:ch05:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "parent_id": null,
+   "number": "5.2",
+   "level": "topic",
+   "title": "Refraction of Light",
+   "title_alt": null,
+   "page": {
+    "printed": 123,
+    "pdf": 128
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:t03",
+   "concept_key": "nctb:sci:c9-10:ch05:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "parent_id": null,
+   "number": "5.3",
+   "level": "topic",
+   "title": "Lens",
+   "title_alt": null,
+   "page": {
+    "printed": 124,
+    "pdf": 129
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:t03:s01",
+   "concept_key": "nctb:sci:c9-10:ch05:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "parent_id": "nctb:sci:c9-10:en:ch05:t03",
+   "number": "5.3.1",
+   "level": "subtopic",
+   "title": "Power of Lens",
+   "title_alt": null,
+   "page": {
+    "printed": 126,
+    "pdf": 131
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:t04",
+   "concept_key": "nctb:sci:c9-10:ch05:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "parent_id": null,
+   "number": "5.4",
+   "level": "topic",
+   "title": "Functions of Eye",
+   "title_alt": null,
+   "page": {
+    "printed": 126,
+    "pdf": 131
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:t04:s01",
+   "concept_key": "nctb:sci:c9-10:ch05:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "parent_id": "nctb:sci:c9-10:en:ch05:t04",
+   "number": "5.4.1",
+   "level": "subtopic",
+   "title": "How We See",
+   "title_alt": null,
+   "page": {
+    "printed": 126,
+    "pdf": 131
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:t04:s02",
+   "concept_key": "nctb:sci:c9-10:ch05:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "parent_id": "nctb:sci:c9-10:en:ch05:t04",
+   "number": "5.4.2",
+   "level": "subtopic",
+   "title": "Least Distance of Distinct Vision",
+   "title_alt": null,
+   "page": {
+    "printed": 127,
+    "pdf": 132
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:t04:s03",
+   "concept_key": "nctb:sci:c9-10:ch05:t04:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "parent_id": "nctb:sci:c9-10:en:ch05:t04",
+   "number": "5.4.3",
+   "level": "subtopic",
+   "title": "Defects of Eye and Its Remedy",
+   "title_alt": null,
+   "page": {
+    "printed": 127,
+    "pdf": 132
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:t04:s04",
+   "concept_key": "nctb:sci:c9-10:ch05:t04:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "parent_id": "nctb:sci:c9-10:en:ch05:t04",
+   "number": "5.4.4",
+   "level": "subtopic",
+   "title": "Ways to Protect Normal Eye Vision",
+   "title_alt": null,
+   "page": {
+    "printed": 130,
+    "pdf": 135
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:t01",
+   "concept_key": "nctb:sci:c9-10:ch06:t01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "parent_id": null,
+   "number": "6.1",
+   "level": "topic",
+   "title": "Polymer",
+   "title_alt": null,
+   "page": {
+    "printed": 135,
+    "pdf": 140
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch06:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "parent_id": "nctb:sci:c9-10:en:ch06:t01",
+   "number": "6.1.1",
+   "level": "subtopic",
+   "title": "Polymerization",
+   "title_alt": null,
+   "page": {
+    "printed": 135,
+    "pdf": 140
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:t02",
+   "concept_key": "nctb:sci:c9-10:ch06:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "parent_id": null,
+   "number": "6.2",
+   "level": "topic",
+   "title": "Fiber and Yarn",
+   "title_alt": null,
+   "page": {
+    "printed": 136,
+    "pdf": 141
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:t02:s01",
+   "concept_key": "nctb:sci:c9-10:ch06:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "parent_id": "nctb:sci:c9-10:en:ch06:t02",
+   "number": "6.2.1",
+   "level": "subtopic",
+   "title": "Characteristics and Use of Fibers",
+   "title_alt": null,
+   "page": {
+    "printed": 137,
+    "pdf": 142
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:t02:s02",
+   "concept_key": "nctb:sci:c9-10:ch06:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "parent_id": "nctb:sci:c9-10:en:ch06:t02",
+   "number": "6.2.2",
+   "level": "subtopic",
+   "title": "Manufacturing Yarn from Fiber",
+   "title_alt": null,
+   "page": {
+    "printed": 140,
+    "pdf": 145
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:t03",
+   "concept_key": "nctb:sci:c9-10:ch06:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "parent_id": null,
+   "number": "6.3",
+   "level": "topic",
+   "title": "Rubber and Plastic",
+   "title_alt": null,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:t03:s01",
+   "concept_key": "nctb:sci:c9-10:ch06:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "parent_id": "nctb:sci:c9-10:en:ch06:t03",
+   "number": "6.3.1",
+   "level": "subtopic",
+   "title": "Rubber",
+   "title_alt": null,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:t03:s02",
+   "concept_key": "nctb:sci:c9-10:ch06:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "parent_id": "nctb:sci:c9-10:en:ch06:t03",
+   "number": "6.3.2",
+   "level": "subtopic",
+   "title": "Plastic",
+   "title_alt": null,
+   "page": {
+    "printed": 145,
+    "pdf": 150
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:t03:s03",
+   "concept_key": "nctb:sci:c9-10:ch06:t03:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "parent_id": "nctb:sci:c9-10:en:ch06:t03",
+   "number": "6.3.3",
+   "level": "subtopic",
+   "title": "Rubber and Plastic in Environmental Imbalance",
+   "title_alt": null,
+   "page": {
+    "printed": 147,
+    "pdf": 152
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:t01",
+   "concept_key": "nctb:sci:c9-10:ch07:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "parent_id": null,
+   "number": "7.1",
+   "level": "topic",
+   "title": "Acid",
+   "title_alt": null,
+   "page": {
+    "printed": 152,
+    "pdf": 157
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch07:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "parent_id": "nctb:sci:c9-10:en:ch07:t01",
+   "number": "7.1.1",
+   "level": "subtopic",
+   "title": "Strong and Weak Acid",
+   "title_alt": null,
+   "page": {
+    "printed": 152,
+    "pdf": 157
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:t01:s02",
+   "concept_key": "nctb:sci:c9-10:ch07:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "parent_id": "nctb:sci:c9-10:en:ch07:t01",
+   "number": "7.1.2",
+   "level": "subtopic",
+   "title": "Use of Acids in Daily Life and Caution",
+   "title_alt": null,
+   "page": {
+    "printed": 153,
+    "pdf": 158
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:t01:s03",
+   "concept_key": "nctb:sci:c9-10:ch07:t01:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "parent_id": "nctb:sci:c9-10:en:ch07:t01",
+   "number": "7.1.3",
+   "level": "subtopic",
+   "title": "Misuse of Acids, Laws and Social Effects",
+   "title_alt": null,
+   "page": {
+    "printed": 155,
+    "pdf": 160
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:t01:s04",
+   "concept_key": "nctb:sci:c9-10:ch07:t01:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "parent_id": "nctb:sci:c9-10:en:ch07:t01",
+   "number": "7.1.4",
+   "level": "subtopic",
+   "title": "Penalty of Acid Throwing",
+   "title_alt": null,
+   "page": {
+    "printed": 156,
+    "pdf": 161
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:t01:s05",
+   "concept_key": "nctb:sci:c9-10:ch07:t01:s05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "parent_id": "nctb:sci:c9-10:en:ch07:t01",
+   "number": "7.1.5",
+   "level": "subtopic",
+   "title": "Determining Acidity and Alkalinity by Using Indicators.",
+   "title_alt": null,
+   "page": {
+    "printed": 156,
+    "pdf": 161
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:t01:s06",
+   "concept_key": "nctb:sci:c9-10:ch07:t01:s06",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "parent_id": "nctb:sci:c9-10:en:ch07:t01",
+   "number": "7.1.6",
+   "level": "subtopic",
+   "title": "Reasons of Acidity in Stomach and Selection of Proper Food",
+   "title_alt": null,
+   "page": {
+    "printed": 158,
+    "pdf": 163
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:t02",
+   "concept_key": "nctb:sci:c9-10:ch07:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "parent_id": null,
+   "number": "7.2",
+   "level": "topic",
+   "title": "Necessity of Knowing pH",
+   "title_alt": null,
+   "page": {
+    "printed": 159,
+    "pdf": 164
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:t03",
+   "concept_key": "nctb:sci:c9-10:ch07:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "parent_id": null,
+   "number": "7.3",
+   "level": "topic",
+   "title": "Base",
+   "title_alt": null,
+   "page": {
+    "printed": 161,
+    "pdf": 166
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:t03:s01",
+   "concept_key": "nctb:sci:c9-10:ch07:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "parent_id": "nctb:sci:c9-10:en:ch07:t03",
+   "number": "7.3.1",
+   "level": "subtopic",
+   "title": "Chemical Properties of Base",
+   "title_alt": null,
+   "page": {
+    "printed": 161,
+    "pdf": 166
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:t03:s02",
+   "concept_key": "nctb:sci:c9-10:ch07:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "parent_id": "nctb:sci:c9-10:en:ch07:t03",
+   "number": "7.3.2",
+   "level": "subtopic",
+   "title": "Use of Alkali in Our Daily Life and Caution",
+   "title_alt": null,
+   "page": {
+    "printed": 163,
+    "pdf": 168
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:t03:s03",
+   "concept_key": "nctb:sci:c9-10:ch07:t03:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "parent_id": "nctb:sci:c9-10:en:ch07:t03",
+   "number": "7.3.3",
+   "level": "subtopic",
+   "title": "Neutralization Reaction and Its Importance",
+   "title_alt": null,
+   "page": {
+    "printed": 164,
+    "pdf": 169
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:t04",
+   "concept_key": "nctb:sci:c9-10:ch07:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "parent_id": null,
+   "number": "7.4",
+   "level": "topic",
+   "title": "Salt",
+   "title_alt": null,
+   "page": {
+    "printed": 165,
+    "pdf": 170
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:t04:s01",
+   "concept_key": "nctb:sci:c9-10:ch07:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "parent_id": "nctb:sci:c9-10:en:ch07:t04",
+   "number": "7.4.1",
+   "level": "subtopic",
+   "title": "Chemical Characteristics of Salt",
+   "title_alt": null,
+   "page": {
+    "printed": 165,
+    "pdf": 170
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:t04:s02",
+   "concept_key": "nctb:sci:c9-10:ch07:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "parent_id": "nctb:sci:c9-10:en:ch07:t04",
+   "number": "7.4.2",
+   "level": "subtopic",
+   "title": "Use of Salts",
+   "title_alt": null,
+   "page": {
+    "printed": 167,
+    "pdf": 172
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:t01",
+   "concept_key": "nctb:sci:c9-10:ch08:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "parent_id": null,
+   "number": "8.1",
+   "level": "topic",
+   "title": "Soil",
+   "title_alt": null,
+   "page": {
+    "printed": 173,
+    "pdf": 178
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch08:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "parent_id": "nctb:sci:c9-10:en:ch08:t01",
+   "number": "8.1.1",
+   "level": "subtopic",
+   "title": "Structure of Soil",
+   "title_alt": null,
+   "page": {
+    "printed": 173,
+    "pdf": 178
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:t01:s02",
+   "concept_key": "nctb:sci:c9-10:ch08:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "parent_id": "nctb:sci:c9-10:en:ch08:t01",
+   "number": "8.1.2",
+   "level": "subtopic",
+   "title": "Types of Soil",
+   "title_alt": null,
+   "page": {
+    "printed": 176,
+    "pdf": 181
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:t01:s03",
+   "concept_key": "nctb:sci:c9-10:ch08:t01:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "parent_id": "nctb:sci:c9-10:en:ch08:t01",
+   "number": "8.1.3",
+   "level": "subtopic",
+   "title": "Soil pH",
+   "title_alt": null,
+   "page": {
+    "printed": 178,
+    "pdf": 183
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:t01:s04",
+   "concept_key": "nctb:sci:c9-10:ch08:t01:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "parent_id": "nctb:sci:c9-10:en:ch08:t01",
+   "number": "8.1.4",
+   "level": "subtopic",
+   "title": "Reasons and Effects of Soil Pollution",
+   "title_alt": null,
+   "page": {
+    "printed": 178,
+    "pdf": 183
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:t01:s05",
+   "concept_key": "nctb:sci:c9-10:ch08:t01:s05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "parent_id": "nctb:sci:c9-10:en:ch08:t01",
+   "number": "8.1.5",
+   "level": "subtopic",
+   "title": "Conservation of soil through prevention of erosion",
+   "title_alt": null,
+   "page": {
+    "printed": 180,
+    "pdf": 185
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:t02",
+   "concept_key": "nctb:sci:c9-10:ch08:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "parent_id": null,
+   "number": "8.2",
+   "level": "topic",
+   "title": "Common Minerals Present in Soil",
+   "title_alt": null,
+   "page": {
+    "printed": 182,
+    "pdf": 187
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:t03",
+   "concept_key": "nctb:sci:c9-10:ch08:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "parent_id": null,
+   "number": "8.3",
+   "level": "topic",
+   "title": "Sources of Natural Fuels in Bangladesh",
+   "title_alt": null,
+   "page": {
+    "printed": 183,
+    "pdf": 188
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:t03:s01",
+   "concept_key": "nctb:sci:c9-10:ch08:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "parent_id": "nctb:sci:c9-10:en:ch08:t03",
+   "number": "8.3.1",
+   "level": "subtopic",
+   "title": "Natural Gas",
+   "title_alt": null,
+   "page": {
+    "printed": 184,
+    "pdf": 189
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:t03:s02",
+   "concept_key": "nctb:sci:c9-10:ch08:t03:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "parent_id": "nctb:sci:c9-10:en:ch08:t03",
+   "number": "8.3.2",
+   "level": "subtopic",
+   "title": "Petroleum",
+   "title_alt": null,
+   "page": {
+    "printed": 186,
+    "pdf": 191
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:t03:s03",
+   "concept_key": "nctb:sci:c9-10:ch08:t03:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "parent_id": "nctb:sci:c9-10:en:ch08:t03",
+   "number": "8.3.3",
+   "level": "subtopic",
+   "title": "Coal",
+   "title_alt": null,
+   "page": {
+    "printed": 186,
+    "pdf": 191
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t01",
+   "concept_key": "nctb:sci:c9-10:ch09:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": null,
+   "number": "9.1",
+   "level": "topic",
+   "title": "Effects of Climate Change",
+   "title_alt": null,
+   "page": {
+    "printed": 192,
+    "pdf": 197
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch09:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": "nctb:sci:c9-10:en:ch09:t01",
+   "number": "9.1.1",
+   "level": "subtopic",
+   "title": "Bangladesh Perspective",
+   "title_alt": null,
+   "page": {
+    "printed": 192,
+    "pdf": 197
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t01:s02",
+   "concept_key": "nctb:sci:c9-10:ch09:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": "nctb:sci:c9-10:en:ch09:t01",
+   "number": "9.1.2",
+   "level": "subtopic",
+   "title": "Global Perspective",
+   "title_alt": null,
+   "page": {
+    "printed": 195,
+    "pdf": 200
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t02",
+   "concept_key": "nctb:sci:c9-10:ch09:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": null,
+   "number": "9.2",
+   "level": "topic",
+   "title": "Environmental Problems",
+   "title_alt": null,
+   "page": {
+    "printed": 196,
+    "pdf": 201
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t02:s01",
+   "concept_key": "nctb:sci:c9-10:ch09:t02:s01",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": "nctb:sci:c9-10:en:ch09:t02",
+   "number": "9.2.1",
+   "level": "subtopic",
+   "title": "Global Warming",
+   "title_alt": null,
+   "page": {
+    "printed": 197,
+    "pdf": 202
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t02:s02",
+   "concept_key": "nctb:sci:c9-10:ch09:t02:s02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": "nctb:sci:c9-10:en:ch09:t02",
+   "number": "9.2.2",
+   "level": "subtopic",
+   "title": "Carbon Pollution",
+   "title_alt": null,
+   "page": {
+    "printed": 198,
+    "pdf": 203
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t02:s03",
+   "concept_key": "nctb:sci:c9-10:ch09:t02:s03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": "nctb:sci:c9-10:en:ch09:t02",
+   "number": "9.2.3",
+   "level": "subtopic",
+   "title": "Deforestation",
+   "title_alt": null,
+   "page": {
+    "printed": 198,
+    "pdf": 203
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t03",
+   "concept_key": "nctb:sci:c9-10:ch09:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": null,
+   "number": "9.3",
+   "level": "topic",
+   "title": "Reasons behind Disasters, Prevention, Strategies and Immediate Remedies",
+   "title_alt": null,
+   "page": {
+    "printed": 198,
+    "pdf": 203
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t03:s01",
+   "concept_key": "nctb:sci:c9-10:ch09:t03:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": "nctb:sci:c9-10:en:ch09:t03",
+   "number": "9.3.1",
+   "level": "subtopic",
+   "title": "Flood",
+   "title_alt": null,
+   "page": {
+    "printed": 198,
+    "pdf": 203
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t03:s02",
+   "concept_key": "nctb:sci:c9-10:ch09:t03:s02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": "nctb:sci:c9-10:en:ch09:t03",
+   "number": "9.3.2",
+   "level": "subtopic",
+   "title": "Drought",
+   "title_alt": null,
+   "page": {
+    "printed": 201,
+    "pdf": 206
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t03:s03",
+   "concept_key": "nctb:sci:c9-10:ch09:t03:s03",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": "nctb:sci:c9-10:en:ch09:t03",
+   "number": "9.3.3",
+   "level": "subtopic",
+   "title": "Cyclones",
+   "title_alt": null,
+   "page": {
+    "printed": 203,
+    "pdf": 208
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t03:s04",
+   "concept_key": "nctb:sci:c9-10:ch09:t03:s04",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": "nctb:sci:c9-10:en:ch09:t03",
+   "number": "9.3.4",
+   "level": "subtopic",
+   "title": "Tsunami",
+   "title_alt": null,
+   "page": {
+    "printed": 206,
+    "pdf": 211
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t03:s05",
+   "concept_key": "nctb:sci:c9-10:ch09:t03:s05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": "nctb:sci:c9-10:en:ch09:t03",
+   "number": "9.3.5",
+   "level": "subtopic",
+   "title": "Acid Rain",
+   "title_alt": null,
+   "page": {
+    "printed": 208,
+    "pdf": 213
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t03:s06",
+   "concept_key": "nctb:sci:c9-10:ch09:t03:s06",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": "nctb:sci:c9-10:en:ch09:t03",
+   "number": "9.3.6",
+   "level": "subtopic",
+   "title": "Earthquake",
+   "title_alt": null,
+   "page": {
+    "printed": 210,
+    "pdf": 215
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t04",
+   "concept_key": "nctb:sci:c9-10:ch09:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": null,
+   "number": "9.4",
+   "level": "topic",
+   "title": "Importance of Standard and Improved Environment",
+   "title_alt": null,
+   "page": {
+    "printed": 215,
+    "pdf": 220
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t04:s01",
+   "concept_key": "nctb:sci:c9-10:ch09:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": "nctb:sci:c9-10:en:ch09:t04",
+   "number": "9.4.1",
+   "level": "subtopic",
+   "title": "Significance of Conservation of Nature",
+   "title_alt": null,
+   "page": {
+    "printed": 216,
+    "pdf": 221
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:t04:s02",
+   "concept_key": "nctb:sci:c9-10:ch09:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "parent_id": "nctb:sci:c9-10:en:ch09:t04",
+   "number": "9.4.2",
+   "level": "subtopic",
+   "title": "Strategies for Conservation of Nature",
+   "title_alt": null,
+   "page": {
+    "printed": 216,
+    "pdf": 221
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:t01",
+   "concept_key": "nctb:sci:c9-10:ch10:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.1",
+   "level": "topic",
+   "title": "Push and Pull: Force",
+   "title_alt": null,
+   "page": {
+    "printed": 223,
+    "pdf": 228
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch10:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "parent_id": "nctb:sci:c9-10:en:ch10:t01",
+   "number": "10.1.1",
+   "level": "subtopic",
+   "title": "Inertia",
+   "title_alt": null,
+   "page": {
+    "printed": 224,
+    "pdf": 229
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:t02",
+   "concept_key": "nctb:sci:c9-10:ch10:t02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.2",
+   "level": "topic",
+   "title": "Amount of Force and Newton’s Second Law of Motion",
+   "title_alt": null,
+   "page": {
+    "printed": 225,
+    "pdf": 230
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:t03",
+   "concept_key": "nctb:sci:c9-10:ch10:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.3",
+   "level": "topic",
+   "title": "Action and Reaction Force",
+   "title_alt": null,
+   "page": {
+    "printed": 227,
+    "pdf": 232
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:t04",
+   "concept_key": "nctb:sci:c9-10:ch10:t04",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.4",
+   "level": "topic",
+   "title": "Nature of Force",
+   "title_alt": null,
+   "page": {
+    "printed": 230,
+    "pdf": 235
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:t04:s01",
+   "concept_key": "nctb:sci:c9-10:ch10:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "parent_id": "nctb:sci:c9-10:en:ch10:t04",
+   "number": "10.4.1",
+   "level": "subtopic",
+   "title": "Four Fundamental Forces",
+   "title_alt": null,
+   "page": {
+    "printed": 230,
+    "pdf": 235
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:t05",
+   "concept_key": "nctb:sci:c9-10:ch10:t05",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "parent_id": null,
+   "number": "10.5",
+   "level": "topic",
+   "title": "Frictional force",
+   "title_alt": null,
+   "page": {
+    "printed": 232,
+    "pdf": 237
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:t05:s01",
+   "concept_key": "nctb:sci:c9-10:ch10:t05:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "parent_id": "nctb:sci:c9-10:en:ch10:t05",
+   "number": "10.5.1",
+   "level": "subtopic",
+   "title": "Types of Friction",
+   "title_alt": null,
+   "page": {
+    "printed": 233,
+    "pdf": 238
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:t05:s02",
+   "concept_key": "nctb:sci:c9-10:ch10:t05:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "parent_id": "nctb:sci:c9-10:en:ch10:t05",
+   "number": "10.5.2",
+   "level": "subtopic",
+   "title": "Increase and Decrease of Friction",
+   "title_alt": null,
+   "page": {
+    "printed": 235,
+    "pdf": 240
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:t05:s03",
+   "concept_key": "nctb:sci:c9-10:ch10:t05:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "parent_id": "nctb:sci:c9-10:en:ch10:t05",
+   "number": "10.5.3",
+   "level": "subtopic",
+   "title": "Friction: A Necessary Nuisance",
+   "title_alt": null,
+   "page": {
+    "printed": 236,
+    "pdf": 241
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch11:t01",
+   "concept_key": "nctb:sci:c9-10:ch11:t01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch11",
+   "parent_id": null,
+   "number": "11.1",
+   "level": "topic",
+   "title": "Current Electricity",
+   "title_alt": null,
+   "page": {
+    "printed": 241,
+    "pdf": 246
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch11:t01:s01",
+   "concept_key": "nctb:sci:c9-10:ch11:t01:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch11",
+   "parent_id": "nctb:sci:c9-10:en:ch11:t01",
+   "number": "11.1.1",
+   "level": "subtopic",
+   "title": "Symbol of Electric Circuit",
+   "title_alt": null,
+   "page": {
+    "printed": 241,
+    "pdf": 246
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch11:t01:s02",
+   "concept_key": "nctb:sci:c9-10:ch11:t01:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch11",
+   "parent_id": "nctb:sci:c9-10:en:ch11:t01",
+   "number": "11.1.2",
+   "level": "subtopic",
+   "title": "Function of Battery",
+   "title_alt": null,
+   "page": {
+    "printed": 241,
+    "pdf": 246
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch11:t01:s03",
+   "concept_key": "nctb:sci:c9-10:ch11:t01:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch11",
+   "parent_id": "nctb:sci:c9-10:en:ch11:t01",
+   "number": "11.1.3",
+   "level": "subtopic",
+   "title": "Electric Circuit",
+   "title_alt": null,
+   "page": {
+    "printed": 242,
+    "pdf": 247
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch11:t01:s04",
+   "concept_key": "nctb:sci:c9-10:ch11:t01:s04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch11",
+   "parent_id": "nctb:sci:c9-10:en:ch11:t01",
+   "number": "11.1.4",
+   "level": "subtopic",
+   "title": "Design of Electric Circuit or House Wiring",
+   "title_alt": null,
+   "page": {
+    "printed": 244,
+    "pdf": 249
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch11:t02",
+   "concept_key": "nctb:sci:c9-10:ch11:t02",
+   "concept_key_checked": true,
+   "chapter_id": "nctb:sci:c9-10:en:ch11",
+   "parent_id": null,
+   "number": "11.2",
+   "level": "topic",
+   "title": "Electrolysis",
+   "title_alt": null,
+   "page": {
+    "printed": 245,
+    "pdf": 250
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch11:t02:s01",
+   "concept_key": "nctb:sci:c9-10:ch11:t02:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch11",
+   "parent_id": "nctb:sci:c9-10:en:ch11:t02",
+   "number": "11.2.1",
+   "level": "subtopic",
+   "title": "Explanation of ® ®",
+   "title_alt": null,
+   "page": {
+    "printed": 246,
+    "pdf": 251
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch11:t02:s02",
+   "concept_key": "nctb:sci:c9-10:ch11:t02:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch11",
+   "parent_id": "nctb:sci:c9-10:en:ch11:t02",
+   "number": "11.2.2",
+   "level": "subtopic",
+   "title": "Importance of Electrolysis in Everyday Life",
+   "title_alt": null,
+   "page": {
+    "printed": 247,
+    "pdf": 252
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch11:t03",
+   "concept_key": "nctb:sci:c9-10:ch11:t03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch11",
+   "parent_id": null,
+   "number": "11.3",
+   "level": "topic",
+   "title": "Electric power",
+   "title_alt": null,
+   "page": {
+    "printed": 249,
+    "pdf": 254
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch11:t04",
+   "concept_key": "nctb:sci:c9-10:ch11:t04",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch11",
+   "parent_id": null,
+   "number": "11.4",
+   "level": "topic",
+   "title": "Use of Electric Energy",
+   "title_alt": null,
+   "page": {
+    "printed": 251,
+    "pdf": 256
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch11:t04:s01",
+   "concept_key": "nctb:sci:c9-10:ch11:t04:s01",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch11",
+   "parent_id": "nctb:sci:c9-10:en:ch11:t04",
+   "number": "11.4.1",
+   "level": "subtopic",
+   "title": "IPS and UPS",
+   "title_alt": null,
+   "page": {
+    "printed": 251,
+    "pdf": 256
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": [
+     "ocr-uncertain"
+    ]
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch11:t04:s02",
+   "concept_key": "nctb:sci:c9-10:ch11:t04:s02",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch11",
+   "parent_id": "nctb:sci:c9-10:en:ch11:t04",
+   "number": "11.4.2",
+   "level": "subtopic",
+   "title": "System Loss of Electricity",
+   "title_alt": null,
+   "page": {
+    "printed": 253,
+    "pdf": 258
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch11:t04:s03",
+   "concept_key": "nctb:sci:c9-10:ch11:t04:s03",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch11",
+   "parent_id": "nctb:sci:c9-10:en:ch11:t04",
+   "number": "11.4.3",
+   "level": "subtopic",
+   "title": "Load-shedding",
+   "title_alt": null,
+   "page": {
+    "printed": 253,
+    "pdf": 258
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch11:t05",
+   "concept_key": "nctb:sci:c9-10:ch11:t05",
+   "concept_key_checked": false,
+   "chapter_id": "nctb:sci:c9-10:en:ch11",
+   "parent_id": null,
+   "number": "11.5",
+   "level": "topic",
+   "title": "Role of Energy in Development",
+   "title_alt": null,
+   "page": {
+    "printed": 253,
+    "pdf": 258
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ],
+ "objectives": [
+  {
+   "id": "nctb:sci:c9-10:en:ch01:o01",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "number": 1,
+   "text": "explain the components of food and an ideal food pyramid;",
+   "page": {
+    "printed": 2,
+    "pdf": 7
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:o02",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "number": 2,
+   "text": "describe the needs of the preservation of food;",
+   "page": {
+    "printed": 2,
+    "pdf": 7
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:o03",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "number": 3,
+   "text": "analyse the impact of narural and fast food on the preservation of health;",
+   "page": {
+    "printed": 2,
+    "pdf": 7
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:o04",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "number": 4,
+   "text": "explain the sources of vitamins and their deficiency symptoms;",
+   "page": {
+    "printed": 2,
+    "pdf": 7
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:o05",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "number": 5,
+   "text": "explain the sources of minerals and their deficiency symptoms;",
+   "page": {
+    "printed": 2,
+    "pdf": 7
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:o06",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "number": 6,
+   "text": "explain the necessity of Body Mass Index (BMI);",
+   "page": {
+    "printed": 2,
+    "pdf": 7
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:o07",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "number": 7,
+   "text": "explain the usefulness of water and fibrous food;",
+   "page": {
+    "printed": 2,
+    "pdf": 7
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:o08",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "number": 8,
+   "text": "describe the use of chemicals in food and their effects;",
+   "page": {
+    "printed": 2,
+    "pdf": 7
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:o09",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "number": 9,
+   "text": "explain the harmful reactions of tobacco and drugs in human body;",
+   "page": {
+    "printed": 2,
+    "pdf": 7
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:o10",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "number": 10,
+   "text": "explain what AIDS is;",
+   "page": {
+    "printed": 2,
+    "pdf": 7
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:o11",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "number": 11,
+   "text": "explain the techniques of maintaining physical fitness.",
+   "page": {
+    "printed": 2,
+    "pdf": 7
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o01",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 1,
+   "text": "describe the properties of water;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o02",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 2,
+   "text": "explain the structure of water;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o03",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 3,
+   "text": "describe the different sources of water;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o04",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 4,
+   "text": "explain the necessity of water for aquatic flora and fauna and also the standard of water;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o05",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 5,
+   "text": "analyze the role of water in recycling steps for water conservation;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o06",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 6,
+   "text": "describe the necessity of good quality water;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o07",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 7,
+   "text": "explain the process of purification of water;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o08",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 8,
+   "text": "explain the reasons for water pollution at sources in Bangladesh",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o09",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 9,
+   "text": "explain the effects of water pollution;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o10",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 10,
+   "text": "explain the effects of global warming on fresh water in Bangladesh;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o11",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 11,
+   "text": "describe the strategy to prevent water pollution and the responsibility of civil society;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o12",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 12,
+   "text": "analyze the role of water in the development works;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o13",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 13,
+   "text": "analyze the effects of threats on sources of water;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o14",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 14,
+   "text": "describe the necessity for conservation of water sources and the strategies involved;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o15",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 15,
+   "text": "explain that getting water is a fundamental right of all citizens;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o16",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 16,
+   "text": "describe the universality of water and international rules;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o17",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 17,
+   "text": "make investigations on the use of pure water and its effects on healthy living;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o18",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 18,
+   "text": "investigate the reasons for the crisis of water (in domestic /agricultural industrial use);",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o19",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 19,
+   "text": "draw posters to make people aware of the use and conservation of water;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o20",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 20,
+   "text": "make people aware of normal water flow and prevention of water pollution; raise public awareness on the issue \"water is a fundamental human right\";",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:o21",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "number": 21,
+   "text": "be aware of preventing misuse of water and doing proper use of water;",
+   "page": {
+    "printed": 35,
+    "pdf": 40
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:o01",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "number": 1,
+   "text": "explain the components and functions of blood;",
+   "page": {
+    "printed": 61,
+    "pdf": 66
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:o02",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "number": 2,
+   "text": "explain the characteristics of blood groups;",
+   "page": {
+    "printed": 61,
+    "pdf": 66
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:o03",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "number": 3,
+   "text": "explain the principles of blood transmission;",
+   "page": {
+    "printed": 61,
+    "pdf": 66
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:o04",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "number": 4,
+   "text": "explain the necessary precautions for blood transfusion;",
+   "page": {
+    "printed": 61,
+    "pdf": 66
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:o05",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "number": 5,
+   "text": "explain the causes of obstacles in blood circulation and its effects;",
+   "page": {
+    "printed": 61,
+    "pdf": 66
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:o06",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "number": 6,
+   "text": "explain the blood circulation process in human body;",
+   "page": {
+    "printed": 61,
+    "pdf": 66
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:o07",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "number": 7,
+   "text": "analyze the relation among normal blood pressure, heart beat, heart rate and pulse rate;",
+   "page": {
+    "printed": 61,
+    "pdf": 66
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:o08",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "number": 8,
+   "text": "explain the physical problems related to blood pressure, and its prevention technique;",
+   "page": {
+    "printed": 61,
+    "pdf": 66
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:o09",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "number": 9,
+   "text": "analyze the role of cholesterol in blood circulation in the body;",
+   "page": {
+    "printed": 61,
+    "pdf": 66
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:o10",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "number": 10,
+   "text": "explain the necessity and ways of keeping cholesterol at the expected level;",
+   "page": {
+    "printed": 61,
+    "pdf": 66
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:o11",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "number": 11,
+   "text": "explain the causes, preventive measures and cures for imbalanced blood sugar;",
+   "page": {
+    "printed": 61,
+    "pdf": 66
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:o12",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "number": 12,
+   "text": "describe the ways of keeping a healthy heart.",
+   "page": {
+    "printed": 61,
+    "pdf": 66
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:o01",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "number": 1,
+   "text": "explain adolescence;",
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:o02",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "number": 2,
+   "text": "explain the causes of physical changes in adolescence;",
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:o03",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "number": 3,
+   "text": "describe the ways of adjustment to the physical and mental changes in adolescence;",
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:o04",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "number": 4,
+   "text": "explain the strategies of keeping good physical and mental health during adolescence;",
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:o05",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "number": 5,
+   "text": "explain health risk of marriage in adolescence and its effects;",
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:o06",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "number": 6,
+   "text": "explain the concept of test tube baby;",
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:o07",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "number": 7,
+   "text": "explain the way of determining sex;",
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:o08",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "number": 8,
+   "text": "explain the origin of life and the concept of biological evolution;",
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:o09",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "number": 9,
+   "text": "explain the concept of origin of new species on earth.",
+   "page": {
+    "printed": 90,
+    "pdf": 95
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:o01",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "number": 1,
+   "text": "explain the uses of mirrors;",
+   "page": {
+    "printed": 120,
+    "pdf": 125
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:o02",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "number": 2,
+   "text": "explain the refraction of light;",
+   "page": {
+    "printed": 120,
+    "pdf": 125
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:o03",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "number": 3,
+   "text": "explain the function of the eyes in viewing anything;",
+   "page": {
+    "printed": 120,
+    "pdf": 125
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:o04",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "number": 4,
+   "text": "explain the least distance of distinct vision;",
+   "page": {
+    "printed": 120,
+    "pdf": 125
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:o05",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "number": 5,
+   "text": "explain the power of a lens;",
+   "page": {
+    "printed": 120,
+    "pdf": 125
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:o06",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "number": 6,
+   "text": "explain what causes defects of vision;",
+   "page": {
+    "printed": 120,
+    "pdf": 125
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:o07",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "number": 7,
+   "text": "describe the way of rectifying defects of the eyes by using lenses;",
+   "page": {
+    "printed": 120,
+    "pdf": 125
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:o08",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "number": 8,
+   "text": "explain the way of keeping vision normal; take good care of the eyes and make others aware of eye care.",
+   "page": {
+    "printed": 120,
+    "pdf": 125
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:o01",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "number": 1,
+   "text": "identify natural and synthetic polymer;",
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:o02",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "number": 2,
+   "text": "explain the polymerization process;",
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:o03",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "number": 3,
+   "text": "describe the sources, characteristics and usage of natural and synthetic",
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:o04",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "number": 4,
+   "text": "explain the process of yarn manufacturing from fiber;",
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:o05",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "number": 5,
+   "text": "explain the characteristics of different types of yarn;",
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:o06",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "number": 6,
+   "text": "explain the physical and chemical properties of rubber and plastic;",
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:o07",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "number": 7,
+   "text": "explain the role of rubber and plastic for environmental imbalance;",
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:o08",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "number": 8,
+   "text": "identify the characteristics of different types of yarn by applying heat;",
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:o09",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "number": 9,
+   "text": "be aware of using rubber and plastic.",
+   "page": {
+    "printed": 134,
+    "pdf": 139
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:o01",
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "number": 1,
+   "text": "important for measuring acid and base.",
+   "page": {
+    "printed": 150,
+    "pdf": 155
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:o01",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "number": 1,
+   "text": "explain the characteristics of soil and land;",
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:o02",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "number": 2,
+   "text": "differentiate among different types of soil;",
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:o03",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "number": 3,
+   "text": "explain the structure of soil;",
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:o04",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "number": 4,
+   "text": "explain the necessity of knowing soil pH;",
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:o05",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "number": 5,
+   "text": "describe the reasons and effects of soil pollution and conservation strategy of soil;",
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:o06",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "number": 6,
+   "text": "explain the physical and chemical properties of minerals present in soil;",
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:o07",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "number": 7,
+   "text": "describe the use and conservation strategy of minerals;",
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:o08",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "number": 8,
+   "text": "explain the sources and structure of natural fuel;",
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:o09",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "number": 9,
+   "text": "describe the structure, processing, use and conservation strategy of natural fuels;",
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:o10",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "number": 10,
+   "text": "investigate the reasons and effects of soil pollution in the area where we live;",
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:o11",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "number": 11,
+   "text": "determine the pH of soil with the help of pH paper or acidity and alkalinity of soil with the help of litmus proper;",
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:o12",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "number": 12,
+   "text": "be careful in conserving our resources and make people aware as well.",
+   "page": {
+    "printed": 172,
+    "pdf": 177
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:o01",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "number": 1,
+   "text": "analyze the effects of climate change in Bangladesh and other parts of the world;",
+   "page": {
+    "printed": 191,
+    "pdf": 196
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:o02",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "number": 2,
+   "text": "explain the causes of environmental problems;",
+   "page": {
+    "printed": 191,
+    "pdf": 196
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:o03",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "number": 3,
+   "text": "describe the causes, prevention strategies and immedite measures to be taken;",
+   "page": {
+    "printed": 191,
+    "pdf": 196
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:o04",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "number": 4,
+   "text": "analyze the importance of standard and improved environment to lead a healthy life;",
+   "page": {
+    "printed": 191,
+    "pdf": 196
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:o05",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "number": 5,
+   "text": "explain the importance of conservation of nature;",
+   "page": {
+    "printed": 191,
+    "pdf": 196
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:o06",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "number": 6,
+   "text": "describe different ways of natural conservation; carry out an investigation on problems and challenges for maintaining standard and improved environment in our area;",
+   "page": {
+    "printed": 191,
+    "pdf": 196
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:o07",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "number": 7,
+   "text": "make posters on prevention of disasters and response after disasters;",
+   "page": {
+    "printed": 191,
+    "pdf": 196
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:o08",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "number": 8,
+   "text": "make poster for creating social awareness on conservation of nature; take steps to build social awareness for conserving environment.",
+   "page": {
+    "printed": 191,
+    "pdf": 196
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:o01",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "number": 1,
+   "text": "explain the characteristic concept of the force and inertia of a body on the basis of Newton's first law of motion;",
+   "page": {
+    "printed": 222,
+    "pdf": 227
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:o02",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "number": 2,
+   "text": "explain practical experience of inertia;",
+   "page": {
+    "printed": 222,
+    "pdf": 227
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:o03",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "number": 3,
+   "text": "explain the nature of different kinds of forces;",
+   "page": {
+    "printed": 222,
+    "pdf": 227
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:o04",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "number": 4,
+   "text": "describe the advantage of friction in our practical life;",
+   "page": {
+    "printed": 222,
+    "pdf": 227
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:o05",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "number": 5,
+   "text": "explain the influence of force on a body at rest or in motion;",
+   "page": {
+    "printed": 222,
+    "pdf": 227
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:o06",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "number": 6,
+   "text": "measure force using Newton's second law of motion;",
+   "page": {
+    "printed": 222,
+    "pdf": 227
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:o07",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "number": 7,
+   "text": "measure force with the help of an easy experiment;",
+   "page": {
+    "printed": 222,
+    "pdf": 227
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:o08",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "number": 8,
+   "text": "explain several popular occurrences on the basis of Newton's third law of motion;",
+   "page": {
+    "printed": 222,
+    "pdf": 227
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:o09",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "number": 9,
+   "text": "understand the necessity of force in our life.",
+   "page": {
+    "printed": 222,
+    "pdf": 227
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ],
+ "worked_examples": [],
+ "exercises": [
+  {
+   "id": "nctb:sci:c9-10:en:ch01:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 32,
+    "pdf": 37
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 32,
+    "pdf": 37
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 32,
+    "pdf": 37
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 32,
+    "pdf": 37
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 33,
+    "pdf": 38
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 33,
+    "pdf": 38
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:ex:sq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 33,
+    "pdf": 38
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:ex:sq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 33,
+    "pdf": 38
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:ex:sq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 33,
+    "pdf": 38
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:ex:sq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 33,
+    "pdf": 38
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch01:ex:sq05",
+   "chapter_id": "nctb:sci:c9-10:en:ch01",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 33,
+    "pdf": 38
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 58,
+    "pdf": 63
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 58,
+    "pdf": 63
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 58,
+    "pdf": 63
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 58,
+    "pdf": 63
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 59,
+    "pdf": 64
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 59,
+    "pdf": 64
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:ex:sq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 59,
+    "pdf": 64
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:ex:sq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 59,
+    "pdf": 64
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:ex:sq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 59,
+    "pdf": 64
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:ex:sq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 59,
+    "pdf": 64
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch02:ex:sq05",
+   "chapter_id": "nctb:sci:c9-10:en:ch02",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 59,
+    "pdf": 64
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 87,
+    "pdf": 92
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 87,
+    "pdf": 92
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 87,
+    "pdf": 92
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 87,
+    "pdf": 92
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:ex:sq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:ex:sq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:ex:sq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:ex:sq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch03:ex:sq05",
+   "chapter_id": "nctb:sci:c9-10:en:ch03",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 88,
+    "pdf": 93
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 117,
+    "pdf": 122
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 117,
+    "pdf": 122
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 118,
+    "pdf": 123
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 118,
+    "pdf": 123
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 118,
+    "pdf": 123
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 118,
+    "pdf": 123
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:ex:sq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 118,
+    "pdf": 123
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:ex:sq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 118,
+    "pdf": 123
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:ex:sq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 118,
+    "pdf": 123
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:ex:sq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 118,
+    "pdf": 123
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch04:ex:sq05",
+   "chapter_id": "nctb:sci:c9-10:en:ch04",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 118,
+    "pdf": 123
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 131,
+    "pdf": 136
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 131,
+    "pdf": 136
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 131,
+    "pdf": 136
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 131,
+    "pdf": 136
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 132,
+    "pdf": 137
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 132,
+    "pdf": 137
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:ex:sq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 132,
+    "pdf": 137
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:ex:sq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 132,
+    "pdf": 137
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:ex:sq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 132,
+    "pdf": 137
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:ex:sq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 132,
+    "pdf": 137
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch05:ex:sq05",
+   "chapter_id": "nctb:sci:c9-10:en:ch05",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 132,
+    "pdf": 137
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 148,
+    "pdf": 153
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 148,
+    "pdf": 153
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 148,
+    "pdf": 153
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 148,
+    "pdf": 153
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 149,
+    "pdf": 154
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 149,
+    "pdf": 154
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:ex:sq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 149,
+    "pdf": 154
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:ex:sq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 149,
+    "pdf": 154
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:ex:sq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 149,
+    "pdf": 154
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch06:ex:sq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch06",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 149,
+    "pdf": 154
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 169,
+    "pdf": 174
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 169,
+    "pdf": 174
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 169,
+    "pdf": 174
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 170,
+    "pdf": 175
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 170,
+    "pdf": 175
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:ex:sq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 170,
+    "pdf": 175
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:ex:sq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 170,
+    "pdf": 175
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:ex:sq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 170,
+    "pdf": 175
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:ex:sq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 170,
+    "pdf": 175
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch07:ex:sq05",
+   "chapter_id": "nctb:sci:c9-10:en:ch07",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 170,
+    "pdf": 175
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 188,
+    "pdf": 193
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 188,
+    "pdf": 193
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 188,
+    "pdf": 193
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 188,
+    "pdf": 193
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 189,
+    "pdf": 194
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 189,
+    "pdf": 194
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:ex:sq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 189,
+    "pdf": 194
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:ex:sq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 189,
+    "pdf": 194
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:ex:sq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 189,
+    "pdf": 194
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:ex:sq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 189,
+    "pdf": 194
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch08:ex:sq05",
+   "chapter_id": "nctb:sci:c9-10:en:ch08",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 189,
+    "pdf": 194
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:ex:mcq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 1,
+   "page": {
+    "printed": 219,
+    "pdf": 224
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 219,
+    "pdf": 224
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 219,
+    "pdf": 224
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 219,
+    "pdf": 224
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 220,
+    "pdf": 225
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 220,
+    "pdf": 225
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:ex:sq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 220,
+    "pdf": 225
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:ex:sq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 220,
+    "pdf": 225
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:ex:sq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 220,
+    "pdf": 225
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:ex:sq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 220,
+    "pdf": 225
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch09:ex:sq05",
+   "chapter_id": "nctb:sci:c9-10:en:ch09",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 220,
+    "pdf": 225
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:ex:mcq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 2,
+   "page": {
+    "printed": 237,
+    "pdf": 242
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:ex:mcq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 3,
+   "page": {
+    "printed": 237,
+    "pdf": 242
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:ex:mcq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "kind": "mcq",
+   "number": 4,
+   "page": {
+    "printed": 237,
+    "pdf": 242
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:ex:cq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "kind": "cq",
+   "number": 1,
+   "page": {
+    "printed": 238,
+    "pdf": 243
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:ex:cq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "kind": "cq",
+   "number": 2,
+   "page": {
+    "printed": 238,
+    "pdf": 243
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   },
+   "parts": []
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:ex:sq01",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "kind": "sq",
+   "number": 1,
+   "page": {
+    "printed": 238,
+    "pdf": 243
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:ex:sq02",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "kind": "sq",
+   "number": 2,
+   "page": {
+    "printed": 238,
+    "pdf": 243
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:ex:sq03",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "kind": "sq",
+   "number": 3,
+   "page": {
+    "printed": 238,
+    "pdf": 243
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:ex:sq04",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "kind": "sq",
+   "number": 4,
+   "page": {
+    "printed": 238,
+    "pdf": 243
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  },
+  {
+   "id": "nctb:sci:c9-10:en:ch10:ex:sq05",
+   "chapter_id": "nctb:sci:c9-10:en:ch10",
+   "kind": "sq",
+   "number": 5,
+   "page": {
+    "printed": 238,
+    "pdf": 243
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": false,
+    "flags": []
+   }
+  }
+ ]
+}

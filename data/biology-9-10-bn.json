@@ -1,7 +1,7 @@
 {
  "dataset": "nctb-data",
- "dataset_version": "0.2.0",
- "generated_at": "2026-11-16",
+ "dataset_version": "0.3.0",
+ "generated_at": "2026-11-20",
  "book": {
   "id": "nctb:bio:c9-10:bn",
   "subject": {

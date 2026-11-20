@@ -1,0 +1,421 @@
+{
+ "dataset": "nctb-data",
+ "dataset_version": "0.3.0",
+ "generated_at": "2026-11-20",
+ "book": {
+  "subject": {
+   "code": "christ",
+   "name_bn": "খ্রীষ্টধর্ম শিক্ষা",
+   "name_en": "Christian Religion Studies",
+   "aliases": [
+    "christian",
+    "christianity",
+    "খ্রীষ্টধর্ম"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:christ:c9-10:en",
+  "version": "en",
+  "title": "Christian Religion Studies, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1ggNoHPa4IYdFa1WjaayWk0k6Qe38xoUs/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/nbmH1AFmBBux7Wg"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Christian Religion Studies (en).pdf",
+   "sha256": "a4c8437121df4a2c0562070f3d39254b0ed661435111a40ad2b220fb7e924477",
+   "bytes": 31345679,
+   "pdf_pages": 164,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "chapters"
+ },
+ "chapters": [
+  {
+   "id": "nctb:christ:c9-10:en:ch01",
+   "concept_key": "nctb:christ:c9-10:ch01",
+   "number": 1,
+   "title": "Call to Freedom",
+   "pages": {
+    "start": {
+     "printed": 1,
+     "pdf": 6
+    },
+    "end": {
+     "printed": null,
+     "pdf": 17
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:christ:c9-10:en:ch02",
+   "concept_key": "nctb:christ:c9-10:ch02",
+   "number": 2,
+   "title": "Freedom and Me",
+   "pages": {
+    "start": {
+     "printed": 13,
+     "pdf": 18
+    },
+    "end": {
+     "printed": null,
+     "pdf": 34
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:christ:c9-10:en:ch03",
+   "concept_key": "nctb:christ:c9-10:ch03",
+   "number": 3,
+   "title": "My Freedom and My Society",
+   "pages": {
+    "start": {
+     "printed": 30,
+     "pdf": 35
+    },
+    "end": {
+     "printed": null,
+     "pdf": 47
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:christ:c9-10:en:ch04",
+   "concept_key": "nctb:christ:c9-10:ch04",
+   "number": 4,
+   "title": "Growing in Freedom",
+   "pages": {
+    "start": {
+     "printed": 43,
+     "pdf": 48
+    },
+    "end": {
+     "printed": null,
+     "pdf": 57
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:christ:c9-10:en:ch05",
+   "concept_key": "nctb:christ:c9-10:ch05",
+   "number": 5,
+   "title": "Freedom and Obedience",
+   "pages": {
+    "start": {
+     "printed": 53,
+     "pdf": 58
+    },
+    "end": {
+     "printed": null,
+     "pdf": 67
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:christ:c9-10:en:ch06",
+   "concept_key": "nctb:christ:c9-10:ch06",
+   "number": 6,
+   "title": "Trusted Friend",
+   "pages": {
+    "start": {
+     "printed": 63,
+     "pdf": 68
+    },
+    "end": {
+     "printed": null,
+     "pdf": 76
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:christ:c9-10:en:ch07",
+   "concept_key": "nctb:christ:c9-10:ch07",
+   "number": 7,
+   "title": "Man and Woman",
+   "pages": {
+    "start": {
+     "printed": 72,
+     "pdf": 77
+    },
+    "end": {
+     "printed": null,
+     "pdf": 85
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:christ:c9-10:en:ch08",
+   "concept_key": "nctb:christ:c9-10:ch08",
+   "number": 8,
+   "title": "Freedom and Vocation",
+   "pages": {
+    "start": {
+     "printed": 81,
+     "pdf": 86
+    },
+    "end": {
+     "printed": null,
+     "pdf": 96
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:christ:c9-10:en:ch09",
+   "concept_key": "nctb:christ:c9-10:ch09",
+   "number": 9,
+   "title": "In front of the Father",
+   "pages": {
+    "start": {
+     "printed": 92,
+     "pdf": 97
+    },
+    "end": {
+     "printed": null,
+     "pdf": 106
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:christ:c9-10:en:ch10",
+   "concept_key": "nctb:christ:c9-10:ch10",
+   "number": 10,
+   "title": "Healing the Sick World",
+   "pages": {
+    "start": {
+     "printed": 102,
+     "pdf": 107
+    },
+    "end": {
+     "printed": null,
+     "pdf": 115
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:christ:c9-10:en:ch11",
+   "concept_key": "nctb:christ:c9-10:ch11",
+   "number": 11,
+   "title": "The Silent Voice of Conscience",
+   "pages": {
+    "start": {
+     "printed": 111,
+     "pdf": 116
+    },
+    "end": {
+     "printed": null,
+     "pdf": 127
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:christ:c9-10:en:ch12",
+   "concept_key": "nctb:christ:c9-10:ch12",
+   "number": 12,
+   "title": "Severe Pain of the Heart",
+   "pages": {
+    "start": {
+     "printed": 123,
+     "pdf": 128
+    },
+    "end": {
+     "printed": null,
+     "pdf": 136
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:christ:c9-10:en:ch13",
+   "concept_key": "nctb:christ:c9-10:ch13",
+   "number": 13,
+   "title": "Violence and Peace",
+   "pages": {
+    "start": {
+     "printed": 132,
+     "pdf": 137
+    },
+    "end": {
+     "printed": null,
+     "pdf": 145
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:christ:c9-10:en:ch14",
+   "concept_key": "nctb:christ:c9-10:ch14",
+   "number": 14,
+   "title": "We Want a Changed World",
+   "pages": {
+    "start": {
+     "printed": 141,
+     "pdf": 146
+    },
+    "end": {
+     "printed": null,
+     "pdf": 154
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  },
+  {
+   "id": "nctb:christ:c9-10:en:ch15",
+   "concept_key": "nctb:christ:c9-10:ch15",
+   "number": 15,
+   "title": "Our Way of Freedom",
+   "pages": {
+    "start": {
+     "printed": 150,
+     "pdf": 155
+    },
+    "end": {
+     "printed": null,
+     "pdf": 164
+    }
+   },
+   "review": {
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "agent_checked": true,
+    "flags": [
+     "chapters-only"
+    ]
+   }
+  }
+ ],
+ "topics": [],
+ "objectives": [],
+ "worked_examples": [],
+ "exercises": []
+}
