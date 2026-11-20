@@ -1,0 +1,101 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 254,
+ "book": {
+  "subject": {
+   "code": "sci",
+   "name_bn": "বিজ্ঞান",
+   "name_en": "Science",
+   "aliases": [
+    "science",
+    "বিজ্ঞান",
+    "biggan"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:sci:c9-10:bn",
+  "version": "bn",
+  "title": "বিজ্ঞান, নবম ও দশম শ্রেণি (২০২৬ শিক্ষাবর্ষের জন্য পরিমার্জিত)",
+  "rights_statement": "[প্রকাশক কর্তৃক সর্বস্বত্ব সংরক্ষিত] — গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক বিনামূল্যে বিতরণের জন্য",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1AYg7uY_WjVYJmoskhb0-D58iFPvgwmpJ/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/NupFtnqI21e6svU"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Science (bn).pdf",
+   "sha256": "c5426a583e1d7a71f875b41ce92a5f61c206bd7e9476835bb3b9dc0d3fedfcae",
+   "bytes": 91936929,
+   "pdf_pages": 254,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "উন্নততর জীবনধারা",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "জীবনের জন্য পানি",
+   "printed_start": 33
+  },
+  {
+   "number": 3,
+   "title": "হৃদ্যন্ত্রের যত কথা এবং অন্যান্য",
+   "printed_start": 57
+  },
+  {
+   "number": 4,
+   "title": "নবজীবনের সূচনা",
+   "printed_start": 85
+  },
+  {
+   "number": 5,
+   "title": "দেখতে হলে আলো চাই",
+   "printed_start": 115
+  },
+  {
+   "number": 6,
+   "title": "পলিমার",
+   "printed_start": 129
+  },
+  {
+   "number": 7,
+   "title": "oq, FES ও লবণের ব্যবহার",
+   "printed_start": 145
+  },
+  {
+   "number": 8,
+   "title": "আমাদের সম্পদ",
+   "printed_start": 165
+  },
+  {
+   "number": 9,
+   "title": "দুর্যোগের সাথে বসবাস",
+   "printed_start": 184
+  },
+  {
+   "number": 10,
+   "title": "এসো বলকে জানি",
+   "printed_start": 212
+  },
+  {
+   "number": 11,
+   "title": "প্রাত্যহিক জীবনে তড়িৎ",
+   "printed_start": 230
+  }
+ ],
+ "running_heads": [
+  "বিজ্ঞান",
+  "Science",
+  "ফর্মা"
+ ]
+}

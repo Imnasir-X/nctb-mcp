@@ -1,0 +1,121 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 248,
+ "book": {
+  "subject": {
+   "code": "geo",
+   "name_bn": "ভূগোল ও পরিবেশ",
+   "name_en": "Geography and Environment",
+   "aliases": [
+    "geography",
+    "geo",
+    "ভূগোল"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:geo:c9-10:en",
+  "version": "en",
+  "title": "Geography and Environment, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/19IEFm5j95N_KRAKDDKSun5REhDKts-HO/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/QXXoymQmD6JAeTg"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Geography and Environment (en).pdf",
+   "sha256": "0f2cf02b74c4d69430fc90d974426c7e17d4a55b6f532f025ee1beeba4584590",
+   "bytes": 64840236,
+   "pdf_pages": 248,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Geography and Environment",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "The Universe and Our Earth",
+   "printed_start": 7
+  },
+  {
+   "number": 3,
+   "title": "Map Reading and Its Uses",
+   "printed_start": 30
+  },
+  {
+   "number": 4,
+   "title": "Internal and External Structure of the Earth",
+   "printed_start": 45
+  },
+  {
+   "number": 5,
+   "title": "Atmosphere",
+   "printed_start": 70
+  },
+  {
+   "number": 6,
+   "title": "Hydrosphere",
+   "printed_start": 93
+  },
+  {
+   "number": 7,
+   "title": "Population",
+   "printed_start": 107
+  },
+  {
+   "number": 8,
+   "title": "Human Settlements",
+   "printed_start": 126
+  },
+  {
+   "number": 9,
+   "title": "Resources and Economic Activities",
+   "printed_start": 138
+  },
+  {
+   "number": 10,
+   "title": "Geographical Description of Bangladesh",
+   "printed_start": 148
+  },
+  {
+   "number": 11,
+   "title": "Resources and Industries of Bangladesh",
+   "printed_start": 166
+  },
+  {
+   "number": 12,
+   "title": "Transport System and Trade of Bangladesh",
+   "printed_start": 190
+  },
+  {
+   "number": 13,
+   "title": "Development Activities of Bangladesh and",
+   "printed_start": 205
+  },
+  {
+   "number": 14,
+   "title": "Natural Disaster of Bangladesh",
+   "printed_start": 216
+  },
+  {
+   "number": 15,
+   "title": "Sustainable Development Goals (SDG)",
+   "printed_start": 233
+  }
+ ],
+ "running_heads": [
+  "ভূগোল ও পরিবেশ",
+  "Geography and Environment",
+  "ফর্মা"
+ ]
+}

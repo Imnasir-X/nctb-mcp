@@ -1,0 +1,101 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 262,
+ "book": {
+  "subject": {
+   "code": "sci",
+   "name_bn": "বিজ্ঞান",
+   "name_en": "Science",
+   "aliases": [
+    "science",
+    "বিজ্ঞান",
+    "biggan"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:sci:c9-10:en",
+  "version": "en",
+  "title": "Science, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1TCyuezoQIAUCGYLUzDKJIb448kg0_7cQ/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/N3ZlCv0rSQ0LqmF"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Science (en).pdf",
+   "sha256": "ce09f5819d57af42c1e57c6647700b0494599a2422be95c1e4edec56c412226c",
+   "bytes": 50373853,
+   "pdf_pages": 262,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Healthy Life, Better Living",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "Water for Life",
+   "printed_start": 34
+  },
+  {
+   "number": 3,
+   "title": "All about Heart and others",
+   "printed_start": 60
+  },
+  {
+   "number": 4,
+   "title": "Starting a New Life",
+   "printed_start": 89
+  },
+  {
+   "number": 5,
+   "title": "Light for Sight",
+   "printed_start": 119
+  },
+  {
+   "number": 6,
+   "title": "Polymer",
+   "printed_start": 133
+  },
+  {
+   "number": 7,
+   "title": "Use of Acid, Base and Salt",
+   "printed_start": 150
+  },
+  {
+   "number": 8,
+   "title": "Our Resources",
+   "printed_start": 171
+  },
+  {
+   "number": 9,
+   "title": "Living with Disaster",
+   "printed_start": 190
+  },
+  {
+   "number": 10,
+   "title": "Let Us Know Force",
+   "printed_start": 221
+  },
+  {
+   "number": 11,
+   "title": "Electricity in Daily Life",
+   "printed_start": 239
+  }
+ ],
+ "running_heads": [
+  "বিজ্ঞান",
+  "Science",
+  "ফর্মা"
+ ]
+}

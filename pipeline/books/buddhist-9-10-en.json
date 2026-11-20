@@ -1,0 +1,96 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 188,
+ "book": {
+  "subject": {
+   "code": "buddha",
+   "name_bn": "বৌদ্ধধর্ম শিক্ষা",
+   "name_en": "Buddhist Religion Studies",
+   "aliases": [
+    "buddhist",
+    "buddhism",
+    "বৌদ্ধধর্ম"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:buddha:c9-10:en",
+  "version": "en",
+  "title": "Buddhist Religion Studies, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1MLmMuLmZgbYHrtqEFdqVXftoT5AFODL1/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/eKjaLxyQjAIH7Oo"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Buddhist Religion Studies (en).pdf",
+   "sha256": "3cbb1e51389dae978d21aef5c592d7130c46d3f03f1f98cb860396b1451aefc7",
+   "bytes": 38127468,
+   "pdf_pages": 188,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Life and Education of Gautama Buddha",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "Buddha and Bodhisattva",
+   "printed_start": 26
+  },
+  {
+   "number": 3,
+   "title": "Tipitaka",
+   "printed_start": 41
+  },
+  {
+   "number": 4,
+   "title": "Sutta and Moral Verses",
+   "printed_start": 62
+  },
+  {
+   "number": 5,
+   "title": "Buddhist Kammavada",
+   "printed_start": 76
+  },
+  {
+   "number": 6,
+   "title": "Atthakatha",
+   "printed_start": 92
+  },
+  {
+   "number": 7,
+   "title": "Nibbana",
+   "printed_start": 108
+  },
+  {
+   "number": 8,
+   "title": "The Councils",
+   "printed_start": 118
+  },
+  {
+   "number": 9,
+   "title": "Jataka",
+   "printed_start": 135
+  },
+  {
+   "number": 10,
+   "title": "Biographies",
+   "printed_start": 148
+  }
+ ],
+ "running_heads": [
+  "বৌদ্ধধর্ম শিক্ষা",
+  "Buddhist Religion Studies",
+  "ফর্মা"
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 338,
+ "book": {
+  "subject": {
+   "code": "enggram",
+   "name_bn": "English Grammar and Composition",
+   "name_en": "English Grammar and Composition",
+   "aliases": [
+    "english grammar",
+    "enggram",
+    "grammar"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:enggram:c9-10:en",
+  "version": "en",
+  "title": "English Grammar and Composition, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1bcIWidHEPsNpwx4Q9EXHdCbFA6HBQWbr/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/6cNd5kYL7lbK62r"
+   ],
+   "filename": "NCTB 2026 Class 9-10 English Grammar and Composition (en).pdf",
+   "sha256": "ec88d921e9632063810cd54f8c014248cd298bed12d36e6509450f1ac7b58508",
+   "bytes": 87540645,
+   "pdf_pages": 338,
+   "retrieved_at": "2026-11-21",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "The Noun",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "Pronouns and Possessives",
+   "printed_start": 14
+  },
+  {
+   "number": 3,
+   "title": "Adjectives",
+   "printed_start": 22
+  },
+  {
+   "number": 4,
+   "title": "Verbs and Tenses",
+   "printed_start": 33
+  },
+  {
+   "number": 5,
+   "title": "Verbs: Modals",
+   "printed_start": 74
+  },
+  {
+   "number": 6,
+   "title": "Kinds of Verbs",
+   "printed_start": 97
+  },
+  {
+   "number": 7,
+   "title": "The Adverb",
+   "printed_start": 111
+  },
+  {
+   "number": 8,
+   "title": "The Preposition",
+   "printed_start": 118
+  },
+  {
+   "number": 9,
+   "title": "Sentences",
+   "printed_start": 126
+  },
+  {
+   "number": 10,
+   "title": "Introductory ‘it’ & ‘there’",
+   "printed_start": 167
+  },
+  {
+   "number": 11,
+   "title": "Conditionals",
+   "printed_start": 172
+  },
+  {
+   "number": 12,
+   "title": "The Passive",
+   "printed_start": 180
+  },
+  {
+   "number": 13,
+   "title": "Speech",
+   "printed_start": 191
+  },
+  {
+   "number": 14,
+   "title": "Letters",
+   "printed_start": 209
+  },
+  {
+   "number": 15,
+   "title": "CV & Cover Letter",
+   "printed_start": 223
+  },
+  {
+   "number": 16,
+   "title": "E-mails",
+   "printed_start": 232
+  },
+  {
+   "number": 17,
+   "title": "Short Composition : Paragraphs",
+   "printed_start": 237
+  },
+  {
+   "number": 18,
+   "title": "Short Composition",
+   "printed_start": 263
+  },
+  {
+   "number": 19,
+   "title": "Completing Stories",
+   "printed_start": 273
+  },
+  {
+   "number": 20,
+   "title": "Writing Summaries",
+   "printed_start": 277
+  },
+  {
+   "number": 21,
+   "title": "Describing Graphs and Charts",
+   "printed_start": 287
+  }
+ ],
+ "running_heads": [
+  "English Grammar and Composition",
+  "English Grammar and Composition",
+  "ফর্মা"
+ ]
+}

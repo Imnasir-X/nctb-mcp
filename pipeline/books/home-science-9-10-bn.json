@@ -1,0 +1,136 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 190,
+ "book": {
+  "subject": {
+   "code": "home",
+   "name_bn": "গার্হস্থ্যবিজ্ঞান",
+   "name_en": "Home Science",
+   "aliases": [
+    "home science",
+    "home",
+    "গার্হস্থ্যবিজ্ঞান"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:home:c9-10:bn",
+  "version": "bn",
+  "title": "গার্হস্থ্যবিজ্ঞান, নবম ও দশম শ্রেণি (২০২৬ শিক্ষাবর্ষের জন্য পরিমার্জিত)",
+  "rights_statement": "[প্রকাশক কর্তৃক সর্বস্বত্ব সংরক্ষিত] — গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক বিনামূল্যে বিতরণের জন্য",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1RaKjS79_GO6mP3nZ8fLTyqFa5s5fBdMm/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/aEU87jLhPFgokSM"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Home Science (bn).pdf",
+   "sha256": "b6477a13a8f466fab6aa30ce9264e8faf92b474f24c1ca9bb5e52e70e8514a1e",
+   "bytes": 50515124,
+   "pdf_pages": 190,
+   "retrieved_at": "2026-11-21",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "গৃহ ব্যবস্থাপনা",
+   "printed_start": 2
+  },
+  {
+   "number": 2,
+   "title": "গৃহ ব্যবস্থাপক",
+   "printed_start": 11
+  },
+  {
+   "number": 3,
+   "title": "গৃহসম্পাদক",
+   "printed_start": 18
+  },
+  {
+   "number": 4,
+   "title": "গৃহসম্পদের ব্যবস্থাপনা",
+   "printed_start": 24
+  },
+  {
+   "number": 5,
+   "title": "গৃহের অভ্যন্তরীণ সজ্জা",
+   "printed_start": 34
+  },
+  {
+   "number": 6,
+   "title": "শিশুর বর্ধন ও বিকাশ",
+   "printed_start": 48
+  },
+  {
+   "number": 7,
+   "title": "শিশুর বিকাশ ও পারিবারিক পরিবেশ",
+   "printed_start": 60
+  },
+  {
+   "number": 8,
+   "title": "কৈশোরের মনোসামাজিক সমস্যা–প্রতিকার ও প্রতিরোধ",
+   "printed_start": 71
+  },
+  {
+   "number": 9,
+   "title": "প্রতিবন্ধী শিশু",
+   "printed_start": 79
+  },
+  {
+   "number": 10,
+   "title": "খাদ্যের কাজ ও উপাদান",
+   "printed_start": 87
+  },
+  {
+   "number": 11,
+   "title": "খাদ্যের পরিপাক ও খাদ্য পরিকল্পনা",
+   "printed_start": 111
+  },
+  {
+   "number": 12,
+   "title": "নিয়মতান্ত্রিক জীবনযাপন ও খাদ্য ব্যবস্থাপনা",
+   "printed_start": 119
+  },
+  {
+   "number": 13,
+   "title": "খাদ্য প্রস্তুত ও পরিবেশন",
+   "printed_start": 128
+  },
+  {
+   "number": 14,
+   "title": "বয়ন তন্ত্র",
+   "printed_start": 141
+  },
+  {
+   "number": 15,
+   "title": "পোশাকের শিল্প উপাদান ও শিল্পনীতি",
+   "printed_start": 150
+  },
+  {
+   "number": 16,
+   "title": "বস্ত্র ছাপা ও রংকরণ",
+   "printed_start": 161
+  },
+  {
+   "number": 17,
+   "title": "ড্রাফটিং",
+   "printed_start": 165
+  },
+  {
+   "number": 18,
+   "title": "পোশাকের যন্ত্র ও পারিপার্টি",
+   "printed_start": 170
+  }
+ ],
+ "running_heads": [
+  "গার্হস্থ্যবিজ্ঞান",
+  "Home Science",
+  "ফর্মা"
+ ]
+}

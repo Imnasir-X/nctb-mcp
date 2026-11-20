@@ -1,0 +1,100 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 150,
+ "book": {
+  "subject": {
+   "code": "hindu",
+   "name_bn": "হিন্দুধর্ম শিক্ষা",
+   "name_en": "Hindu Religion Studies",
+   "aliases": [
+    "hindu",
+    "হিন্দুধর্ম"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:hindu:c9-10:en",
+  "version": "en",
+  "title": "Hindu Religion Studies, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1sewXn9WEXs7IbyXS1xwg3q4IqUlqJR_R/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/3TGn89AHrS9y8xT"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Hindu Religion Studies (en).pdf",
+   "sha256": "d8d3d51068d47d7cb6db16652b0f7a317d5c1081e8c4738ca8a1a7ddf46b6dd3",
+   "bytes": 38000855,
+   "pdf_pages": 150,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Creator, Creation and His Worship",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "Origin and Evolution of Hinduism",
+   "printed_start": 19
+  },
+  {
+   "number": 3,
+   "title": "Characteristics of Hindu Religion",
+   "printed_start": 29
+  },
+  {
+   "number": 4,
+   "title": "Religious Customs and Ceremonies",
+   "printed_start": 41
+  },
+  {
+   "number": 5,
+   "title": "Rituals in Hindu Religion",
+   "printed_start": 49
+  },
+  {
+   "number": 6,
+   "title": "Deities and Puja",
+   "printed_start": 59
+  },
+  {
+   "number": 7,
+   "title": "Yogasadhana",
+   "printed_start": 75
+  },
+  {
+   "number": 8,
+   "title": "Moral Education in Hindu Religious Book",
+   "printed_start": 88
+  },
+  {
+   "number": 9,
+   "title": "Religious Stories and Moral Education",
+   "printed_start": 98
+  },
+  {
+   "number": 10,
+   "title": "The Ways of Religion and Ideal Life",
+   "printed_start": 105
+  },
+  {
+   "number": 11,
+   "title": "Avatar and Stories of Ideal Characters",
+   "printed_start": 118
+  }
+ ],
+ "running_heads": [
+  "হিন্দুধর্ম শিক্ষা",
+  "Hindu Religion Studies",
+  "ফর্মা"
+ ]
+}

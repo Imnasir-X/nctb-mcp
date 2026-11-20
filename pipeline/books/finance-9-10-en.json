@@ -1,0 +1,111 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 154,
+ "book": {
+  "subject": {
+   "code": "fin",
+   "name_bn": "ফিন্যান্স ও ব্যাংকিং",
+   "name_en": "Finance and Banking",
+   "aliases": [
+    "finance",
+    "banking",
+    "ফিন্যান্স"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:fin:c9-10:en",
+  "version": "en",
+  "title": "Finance and Banking, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1hBS2yCf8DcsVvmkTFBy6deo9iHggX-G-/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/f8CmqYoBCAHhm74"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Finance and Banking (en).pdf",
+   "sha256": "6a7518aab129c3f2e6059728ced09970bd84ecdb338d991c6e71fe3ba1a37282",
+   "bytes": 44742757,
+   "pdf_pages": 154,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Finance and Business Finance",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "Sources of Finance",
+   "printed_start": 18
+  },
+  {
+   "number": 3,
+   "title": "Share, Bond and Debenture",
+   "printed_start": 33
+  },
+  {
+   "number": 4,
+   "title": "Time Value of Money",
+   "printed_start": 45
+  },
+  {
+   "number": 5,
+   "title": "Risk and Uncertainty",
+   "printed_start": 55
+  },
+  {
+   "number": 6,
+   "title": "Capital Budgeting",
+   "printed_start": 65
+  },
+  {
+   "number": 7,
+   "title": "Cost of Capital",
+   "printed_start": 80
+  },
+  {
+   "number": 8,
+   "title": "Currency, Bank and Banking",
+   "printed_start": 92
+  },
+  {
+   "number": 9,
+   "title": "Banking Business and Types",
+   "printed_start": 100
+  },
+  {
+   "number": 10,
+   "title": "Commercial Banks",
+   "printed_start": 111
+  },
+  {
+   "number": 11,
+   "title": "Bank Deposit",
+   "printed_start": 120
+  },
+  {
+   "number": 12,
+   "title": "Bank and Client",
+   "printed_start": 132
+  },
+  {
+   "number": 13,
+   "title": "Central Bank",
+   "printed_start": 138
+  }
+ ],
+ "running_heads": [
+  "ফিন্যান্স ও ব্যাংকিং",
+  "Finance and Banking",
+  "ফর্মা"
+ ]
+}

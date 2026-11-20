@@ -1,0 +1,96 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 140,
+ "book": {
+  "subject": {
+   "code": "civics",
+   "name_bn": "পৌরনীতি ও নাগরিকতা",
+   "name_en": "Civics and Citizenship",
+   "aliases": [
+    "civics",
+    "citizenship",
+    "পৌরনীতি"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:civics:c9-10:en",
+  "version": "en",
+  "title": "Civics and Citizenship, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1xYHmmx3jC3MoFlwerj4AIskSSbnR92wP/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/NX4KpPJ2SbVt4Sk"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Civics and Citizenship (en).pdf",
+   "sha256": "08125d648c56cbe0a64dfd98a44e01beb15ab40f84744a88b5a3c559384b01fe",
+   "bytes": 64409694,
+   "pdf_pages": 140,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Civics and Citizenship",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "Citizen and Citizenship",
+   "printed_start": 13
+  },
+  {
+   "number": 3,
+   "title": "Law, Liberty and Equality",
+   "printed_start": 23
+  },
+  {
+   "number": 4,
+   "title": "State and System of Government",
+   "printed_start": 32
+  },
+  {
+   "number": 5,
+   "title": "Constitution",
+   "printed_start": 48
+  },
+  {
+   "number": 6,
+   "title": "Government System In Bangladesh",
+   "printed_start": 58
+  },
+  {
+   "number": 7,
+   "title": "Political Parties and Election System in Democracy",
+   "printed_start": 73
+  },
+  {
+   "number": 8,
+   "title": "Local Government System in Bangladesh",
+   "printed_start": 82
+  },
+  {
+   "number": 9,
+   "title": "Problems of Citizens and Our Responsibilities",
+   "printed_start": 101
+  },
+  {
+   "number": 10,
+   "title": "Bangladesh and International Organizations",
+   "printed_start": 120
+  }
+ ],
+ "running_heads": [
+  "পৌরনীতি ও নাগরিকতা",
+  "Civics and Citizenship",
+  "ফর্মা"
+ ]
+}

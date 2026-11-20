@@ -20,19 +20,6 @@ describe("bundled data", () => {
   const scopeOf = (b: { book: { id: string } }) => manifestScope(b.book.id) ?? "chapters";
 
   it("has the Class 9-10 books for four subjects, bn + en", () => {
-    expect(catalog.books.map((b) => b.book.id).sort()).toEqual([
-      "nctb:bio:c9-10:bn",
-      "nctb:bio:c9-10:en",
-      "nctb:chem:c9-10:bn",
-      "nctb:chem:c9-10:en",
-      "nctb:math:c9-10:bn",
-      "nctb:math:c9-10:en",
-      "nctb:phy:c9-10:bn",
-      "nctb:phy:c9-10:en",
-    ]);
-  });
-
-  it("has the Class 9-10 books for four subjects, bn + en", () => {
     const ids = catalog.books.map((b) => b.book.id);
     for (const id of [
       "nctb:bio:c9-10:bn",

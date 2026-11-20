@@ -1,0 +1,65 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 106,
+ "book": {
+  "subject": {
+   "code": "career",
+   "name_bn": "ক্যারিয়ার শিক্ষা",
+   "name_en": "Career Education",
+   "aliases": [
+    "career",
+    "ক্যারিয়ার"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:career:c9-10:en",
+  "version": "en",
+  "title": "Career Education, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1pC4sSiUfFUAl47mcP-wvg8_AL3exYz8s/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/AECEYMJzojt5BQd"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Career Education (en).pdf",
+   "sha256": "f9d417f915e653a03198805c0bbea50a02892b4057fb3bfcbc5c0a3726667946",
+   "bytes": 26127281,
+   "pdf_pages": 106,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Me and My Career",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "Career Building: Quality and Skills",
+   "printed_start": 25
+  },
+  {
+   "number": 3,
+   "title": "Developing Connectivity and Behaviour in Career",
+   "printed_start": 56
+  },
+  {
+   "number": 4,
+   "title": "Me and My Workplace",
+   "printed_start": 75
+  }
+ ],
+ "running_heads": [
+  "ক্যারিয়ার শিক্ষা",
+  "Career Education",
+  "ফর্মা"
+ ]
+}

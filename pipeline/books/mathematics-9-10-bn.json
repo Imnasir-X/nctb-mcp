@@ -1,0 +1,132 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 362,
+ "book": {
+  "subject": {
+   "code": "math",
+   "name_bn": "গণিত",
+   "name_en": "Mathematics",
+   "aliases": [
+    "math",
+    "mathematics",
+    "গণিত",
+    "gonit"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:math:c9-10:bn",
+  "version": "bn",
+  "title": "গণিত, নবম ও দশম শ্রেণি (২০২৬ শিক্ষাবর্ষের জন্য পরিমার্জিত)",
+  "rights_statement": "[প্রকাশক কর্তৃক সর্বস্বত্ব সংরক্ষিত] — গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক বিনামূল্যে বিতরণের জন্য",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1-Dj-9Y1Q79AWN7fViMR8fj4jvzDVNYYl/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/HwrCrAtDhb9K484"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Mathematics (bn).pdf",
+   "sha256": "6131d29fe293e9ad88d6a78812b24bed2a457efead895aa0e3ba2885cb0595cb",
+   "bytes": 106241164,
+   "pdf_pages": 362,
+   "retrieved_at": "2026-11-21",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "বাস্তব সংখ্যা",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "সেট ও ফাংশন",
+   "printed_start": 21
+  },
+  {
+   "number": 3,
+   "title": "বীজগাণিতিক রাশি",
+   "printed_start": 43
+  },
+  {
+   "number": 4,
+   "title": "সূচক ও লগারিদম",
+   "printed_start": 75
+  },
+  {
+   "number": 5,
+   "title": "এক চলকবিশিষ্ট সমীকরণ",
+   "printed_start": 93
+  },
+  {
+   "number": 6,
+   "title": "রেখা, কোণ ও ত্রিভুজ",
+   "printed_start": 111
+  },
+  {
+   "number": 7,
+   "title": "ব্যবহারিক জ্যামিতি",
+   "printed_start": 136
+  },
+  {
+   "number": 8,
+   "title": "বৃত্ত",
+   "printed_start": 152
+  },
+  {
+   "number": 9,
+   "title": "ত্রিকোণমিতিক অনুপাত",
+   "printed_start": 174
+  },
+  {
+   "number": 10,
+   "title": "দূরত্ব ও উচ্চতা",
+   "printed_start": 197
+  },
+  {
+   "number": 11,
+   "title": "বীজগাণিতিক অনুপাত ও সমানুপাত",
+   "printed_start": 205
+  },
+  {
+   "number": 12,
+   "title": "দুই চলকবিশিষ্ট সরল সহসমীকরণ",
+   "printed_start": 224
+  },
+  {
+   "number": 13,
+   "title": "সসীম ধারা",
+   "printed_start": 249
+  },
+  {
+   "number": 14,
+   "title": "অনুপাত, সদৃশতা ও প্রতিসমতা",
+   "printed_start": 266
+  },
+  {
+   "number": 15,
+   "title": "ক্ষেত্রফল সম্পর্কিত উপপাদ্য ও সম্পাদ্য",
+   "printed_start": 285
+  },
+  {
+   "number": 16,
+   "title": "পরিমিতি",
+   "printed_start": 294
+  },
+  {
+   "number": 17,
+   "title": "পরিসংখ্যান",
+   "printed_start": 326
+  }
+ ],
+ "running_heads": [
+  "গণিত",
+  "Mathematics",
+  "ফর্মা"
+ ]
+}

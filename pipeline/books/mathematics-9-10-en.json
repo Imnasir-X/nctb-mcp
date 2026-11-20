@@ -1,0 +1,132 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 390,
+ "book": {
+  "subject": {
+   "code": "math",
+   "name_bn": "গণিত",
+   "name_en": "Mathematics",
+   "aliases": [
+    "math",
+    "mathematics",
+    "গণিত",
+    "gonit"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:math:c9-10:en",
+  "version": "en",
+  "title": "Mathematics, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1QkznFQZy71k2xylde15XouVNxa-hVgKc/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/xRY6S1rHN20EoMR"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Mathematics (en).pdf",
+   "sha256": "d0b7aebc13ae7ee4e593be58deae9dea1171478623f08059a4a29cf6b523bd6a",
+   "bytes": 75544812,
+   "pdf_pages": 390,
+   "retrieved_at": "2026-11-21",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Real Numbers",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "Sets and Functions",
+   "printed_start": 22
+  },
+  {
+   "number": 3,
+   "title": "Algebraic Expressions",
+   "printed_start": 45
+  },
+  {
+   "number": 4,
+   "title": "Exponents and Logarithms",
+   "printed_start": 80
+  },
+  {
+   "number": 5,
+   "title": "Equations in One Variable",
+   "printed_start": 98
+  },
+  {
+   "number": 6,
+   "title": "Lines, Angles and Triangles",
+   "printed_start": 118
+  },
+  {
+   "number": 7,
+   "title": "Practical Geometry",
+   "printed_start": 146
+  },
+  {
+   "number": 8,
+   "title": "Circle",
+   "printed_start": 164
+  },
+  {
+   "number": 9,
+   "title": "Trigonometric Ratio",
+   "printed_start": 188
+  },
+  {
+   "number": 10,
+   "title": "Distance and Elevation",
+   "printed_start": 213
+  },
+  {
+   "number": 11,
+   "title": "Algebraic Ratio and Proportion",
+   "printed_start": 222
+  },
+  {
+   "number": 12,
+   "title": "Simple Simultaneous Equations in Two Variables",
+   "printed_start": 242
+  },
+  {
+   "number": 13,
+   "title": "Finite Series",
+   "printed_start": 270
+  },
+  {
+   "number": 14,
+   "title": "Ratio, Similarity and Symmetry",
+   "printed_start": 289
+  },
+  {
+   "number": 15,
+   "title": "Area Related Theorems and Constructions",
+   "printed_start": 310
+  },
+  {
+   "number": 16,
+   "title": "Mensuration",
+   "printed_start": 319
+  },
+  {
+   "number": 17,
+   "title": "Statistics",
+   "printed_start": 353
+  }
+ ],
+ "running_heads": [
+  "গণিত",
+  "Mathematics",
+  "ফর্মা"
+ ]
+}

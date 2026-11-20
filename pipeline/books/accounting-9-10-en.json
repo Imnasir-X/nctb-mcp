@@ -1,0 +1,106 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 238,
+ "book": {
+  "subject": {
+   "code": "acc",
+   "name_bn": "হিসাববিজ্ঞান",
+   "name_en": "Accounting",
+   "aliases": [
+    "accounting",
+    "acc",
+    "হিসাববিজ্ঞান"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:acc:c9-10:en",
+  "version": "en",
+  "title": "Accounting, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1tUK9KCFk1sOcYj2eXo6uUtmTDNJQOgle/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/QC62y2VoHFWojGF"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Accounting (en).pdf",
+   "sha256": "f765bc114cdb202f818ce3774195e3169785d32be12577cff2bbd8e3c9886346",
+   "bytes": 66053254,
+   "pdf_pages": 238,
+   "retrieved_at": "2026-11-21",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Introduction to Accounting",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "Transaction",
+   "printed_start": 9
+  },
+  {
+   "number": 3,
+   "title": "Double Entry System",
+   "printed_start": 33
+  },
+  {
+   "number": 4,
+   "title": "Capital and Revenue Transactions",
+   "printed_start": 47
+  },
+  {
+   "number": 5,
+   "title": "Accounts",
+   "printed_start": 58
+  },
+  {
+   "number": 6,
+   "title": "Journal",
+   "printed_start": 69
+  },
+  {
+   "number": 7,
+   "title": "Ledger",
+   "printed_start": 91
+  },
+  {
+   "number": 8,
+   "title": "Cash Book",
+   "printed_start": 115
+  },
+  {
+   "number": 9,
+   "title": "Trial Balance",
+   "printed_start": 139
+  },
+  {
+   "number": 10,
+   "title": "Financial Statements",
+   "printed_start": 156
+  },
+  {
+   "number": 11,
+   "title": "Purchase Price of Products, Production Cost and Selling Price",
+   "printed_start": 195
+  },
+  {
+   "number": 12,
+   "title": "Account of Family and Self Employment Initiative",
+   "printed_start": 212
+  }
+ ],
+ "running_heads": [
+  "হিসাববিজ্ঞান",
+  "Accounting",
+  "ফর্মা"
+ ]
+}

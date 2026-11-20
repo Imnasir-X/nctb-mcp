@@ -1,0 +1,106 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 169,
+ "book": {
+  "subject": {
+   "code": "biz",
+   "name_bn": "ব্যবসায় উদ্যোগ",
+   "name_en": "Business Entrepreneurship",
+   "aliases": [
+    "business",
+    "entrepreneurship",
+    "ব্যবসায়"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:biz:c9-10:en",
+  "version": "en",
+  "title": "Business Entrepreneurship, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1uW_mv260C02yvPaUsapyZN6WfudlneAk/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/Izu5Ew0RPaCSQ9M"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Business Entrepreneurship (en).pdf",
+   "sha256": "a98668513d8c452135289da499e37e606f6a949049e0bf3a0d4aef9ccc367c0a",
+   "bytes": 49204847,
+   "pdf_pages": 169,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Introduction to Business",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "Business Entrepreneurship and Entrepreneur",
+   "printed_start": 14
+  },
+  {
+   "number": 3,
+   "title": "Self-employment",
+   "printed_start": 26
+  },
+  {
+   "number": 4,
+   "title": "Business Based on Ownership",
+   "printed_start": 41
+  },
+  {
+   "number": 5,
+   "title": "Legal Aspects of Business",
+   "printed_start": 70
+  },
+  {
+   "number": 6,
+   "title": "Business Plan",
+   "printed_start": 81
+  },
+  {
+   "number": 7,
+   "title": "Industries of Bangladesh",
+   "printed_start": 92
+  },
+  {
+   "number": 8,
+   "title": "Management of Business Organization",
+   "printed_start": 105
+  },
+  {
+   "number": 9,
+   "title": "Marketing",
+   "printed_start": 117
+  },
+  {
+   "number": 10,
+   "title": "Assistance for Entrepreneurship Development",
+   "printed_start": 129
+  },
+  {
+   "number": 11,
+   "title": "Ethics and Social Responsibilities in Business",
+   "printed_start": 140
+  },
+  {
+   "number": 12,
+   "title": "Lessons to learn from the Lives of Successful",
+   "printed_start": 150
+  }
+ ],
+ "running_heads": [
+  "ব্যবসায় উদ্যোগ",
+  "Business Entrepreneurship",
+  "ফর্মা"
+ ]
+}

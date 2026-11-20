@@ -1,0 +1,96 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 158,
+ "book": {
+  "subject": {
+   "code": "eco",
+   "name_bn": "অর্থনীতি",
+   "name_en": "Economics",
+   "aliases": [
+    "economics",
+    "eco",
+    "অর্থনীতি"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:eco:c9-10:bn",
+  "version": "bn",
+  "title": "অর্থনীতি, নবম ও দশম শ্রেণি (২০২৬ শিক্ষাবর্ষের জন্য পরিমার্জিত)",
+  "rights_statement": "[প্রকাশক কর্তৃক সর্বস্বত্ব সংরক্ষিত] — গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক বিনামূল্যে বিতরণের জন্য",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1pr8PKw5S_eBcmwzBMmIzmsuqfjTX0iTo/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/1IRiTMSIe5NfWHt"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Economics (bn).pdf",
+   "sha256": "bd916b31c7e514555f2c031407fd90c30875ffb7cb20fa3deb1464c629598eef",
+   "bytes": 50827693,
+   "pdf_pages": 158,
+   "retrieved_at": "2026-11-21",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "অর্থনীতি পরিচয়",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "অর্থনীতির গুরুত্বপূর্ণ ধারণাসমূহ",
+   "printed_start": 15
+  },
+  {
+   "number": 3,
+   "title": "উপযোগ, চাহিদা, জোগান ও ভারসাম্য",
+   "printed_start": 29
+  },
+  {
+   "number": 4,
+   "title": "উৎপাদন ও সংগঠন",
+   "printed_start": 43
+  },
+  {
+   "number": 5,
+   "title": "বাজার",
+   "printed_start": 57
+  },
+  {
+   "number": 6,
+   "title": "জাতীয় আয় ও এর পরিমাপ",
+   "printed_start": 70
+  },
+  {
+   "number": 7,
+   "title": "অর্থ ও ব্যাংকব্যবস্থা",
+   "printed_start": 81
+  },
+  {
+   "number": 8,
+   "title": "বাংলাদেশের অর্থনীতি",
+   "printed_start": 102
+  },
+  {
+   "number": 9,
+   "title": "বাংলাদেশের গুরুত্বপূর্ণ অর্থনৈতিক প্রসঙ্গ",
+   "printed_start": 119
+  },
+  {
+   "number": 10,
+   "title": "বাংলাদেশ সরকারের অর্থব্যবস্থা",
+   "printed_start": 136
+  }
+ ],
+ "running_heads": [
+  "অর্থনীতি",
+  "Economics",
+  "ফর্মা"
+ ]
+}

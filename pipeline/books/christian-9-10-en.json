@@ -1,0 +1,121 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 164,
+ "book": {
+  "subject": {
+   "code": "christ",
+   "name_bn": "খ্রীষ্টধর্ম শিক্ষা",
+   "name_en": "Christian Religion Studies",
+   "aliases": [
+    "christian",
+    "christianity",
+    "খ্রীষ্টধর্ম"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:christ:c9-10:en",
+  "version": "en",
+  "title": "Christian Religion Studies, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1ggNoHPa4IYdFa1WjaayWk0k6Qe38xoUs/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/nbmH1AFmBBux7Wg"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Christian Religion Studies (en).pdf",
+   "sha256": "a4c8437121df4a2c0562070f3d39254b0ed661435111a40ad2b220fb7e924477",
+   "bytes": 31345679,
+   "pdf_pages": 164,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Call to Freedom",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "Freedom and Me",
+   "printed_start": 13
+  },
+  {
+   "number": 3,
+   "title": "My Freedom and My Society",
+   "printed_start": 30
+  },
+  {
+   "number": 4,
+   "title": "Growing in Freedom",
+   "printed_start": 43
+  },
+  {
+   "number": 5,
+   "title": "Freedom and Obedience",
+   "printed_start": 53
+  },
+  {
+   "number": 6,
+   "title": "Trusted Friend",
+   "printed_start": 63
+  },
+  {
+   "number": 7,
+   "title": "Man and Woman",
+   "printed_start": 72
+  },
+  {
+   "number": 8,
+   "title": "Freedom and Vocation",
+   "printed_start": 81
+  },
+  {
+   "number": 9,
+   "title": "In front of the Father",
+   "printed_start": 92
+  },
+  {
+   "number": 10,
+   "title": "Healing the Sick World",
+   "printed_start": 102
+  },
+  {
+   "number": 11,
+   "title": "The Silent Voice of Conscience",
+   "printed_start": 111
+  },
+  {
+   "number": 12,
+   "title": "Severe Pain of the Heart",
+   "printed_start": 123
+  },
+  {
+   "number": 13,
+   "title": "Violence and Peace",
+   "printed_start": 132
+  },
+  {
+   "number": 14,
+   "title": "We Want a Changed World",
+   "printed_start": 141
+  },
+  {
+   "number": 15,
+   "title": "Our Way of Freedom",
+   "printed_start": 150
+  }
+ ],
+ "running_heads": [
+  "খ্রীষ্টধর্ম শিক্ষা",
+  "Christian Religion Studies",
+  "ফর্মা"
+ ]
+}

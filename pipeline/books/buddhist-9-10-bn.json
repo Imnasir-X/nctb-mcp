@@ -1,0 +1,101 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 156,
+ "book": {
+  "subject": {
+   "code": "buddha",
+   "name_bn": "বৌদ্ধধর্ম শিক্ষা",
+   "name_en": "Buddhist Religion Studies",
+   "aliases": [
+    "buddhist",
+    "buddhism",
+    "বৌদ্ধধর্ম"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:buddha:c9-10:bn",
+  "version": "bn",
+  "title": "বৌদ্ধধর্ম শিক্ষা, নবম ও দশম শ্রেণি (২০২৬ শিক্ষাবর্ষের জন্য পরিমার্জিত)",
+  "rights_statement": "[প্রকাশক কর্তৃক সর্বস্বত্ব সংরক্ষিত] — গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক বিনামূল্যে বিতরণের জন্য",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/16414iujNW-t1KgfPQ-6DP_JD96jmMNFy/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/Fl8XtU8s05CV4Xp"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Buddhist Religion Studies (bn).pdf",
+   "sha256": "3abfc2235227fade04c69f331abba4c8d1a212baa6d51650ae42fd456c847562",
+   "bytes": 54050649,
+   "pdf_pages": 156,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "গৌতম বুদ্ধের জীবন ও শিক্ষা",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "বুদ্ধ ও বোধিসত্তব",
+   "printed_start": 22
+  },
+  {
+   "number": 3,
+   "title": "ব্রিপিটক",
+   "printed_start": 34
+  },
+  {
+   "number": 4,
+   "title": "সূত্র ও নীতিগাথা",
+   "printed_start": 49
+  },
+  {
+   "number": 5,
+   "title": "বৌদ্ধ কর্মবাদ",
+   "printed_start": 62
+  },
+  {
+   "number": 6,
+   "title": "অট্ঠকথা",
+   "printed_start": 75
+  },
+  {
+   "number": 7,
+   "title": "নির্বাণ",
+   "printed_start": 88
+  },
+  {
+   "number": 8,
+   "title": "সঙ্গীতি",
+   "printed_start": 97
+  },
+  {
+   "number": 9,
+   "title": "জাতক",
+   "printed_start": 111
+  },
+  {
+   "number": 10,
+   "title": "চরিতমালা",
+   "printed_start": 122
+  },
+  {
+   "number": 11,
+   "title": "বৌদ্ধ ভিক্ষু ও গৃহীদের নিত্যকর্ম ও অনুশাসন",
+   "printed_start": 138
+  }
+ ],
+ "running_heads": [
+  "বৌদ্ধধর্ম শিক্ষা",
+  "Buddhist Religion Studies",
+  "ফর্মা"
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 178,
+ "book": {
+  "subject": {
+   "code": "eco",
+   "name_bn": "অর্থনীতি",
+   "name_en": "Economics",
+   "aliases": [
+    "economics",
+    "eco",
+    "অর্থনীতি"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:eco:c9-10:en",
+  "version": "en",
+  "title": "Economics, Classes Nine and Ten (revised for the academic year 2026)",
+  "rights_statement": "[All rights reserved by the Publisher] - distributed free of cost by the Government of Bangladesh",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/10c4HmrEcHcAebfZRerjAU2NfkJszDlKf/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/OH8lYfwTxtL6HUN"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Economics (en).pdf",
+   "sha256": "72f89b3f24d9a636c8fec718ced6f3fb487d0ae380a344ecd1ae51afe16c145b",
+   "bytes": 31069884,
+   "pdf_pages": 178,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Introduction to Economics",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "The Important Ideas of Economics",
+   "printed_start": 19
+  },
+  {
+   "number": 3,
+   "title": "Utility, Demand, Supply, and Equilibrium",
+   "printed_start": 35
+  },
+  {
+   "number": 4,
+   "title": "Production and Organization",
+   "printed_start": 51
+  },
+  {
+   "number": 5,
+   "title": "Market",
+   "printed_start": 67
+  },
+  {
+   "number": 6,
+   "title": "National Income and Its Measurement",
+   "printed_start": 80
+  },
+  {
+   "number": 7,
+   "title": "Money and Banking System",
+   "printed_start": 92
+  },
+  {
+   "number": 8,
+   "title": "The Economy of Bangladesh",
+   "printed_start": 114
+  },
+  {
+   "number": 9,
+   "title": "Important Economic Issues in Bangladesh",
+   "printed_start": 135
+  },
+  {
+   "number": 10,
+   "title": "The Public Finance of Bangladesh Government",
+   "printed_start": 155
+  }
+ ],
+ "running_heads": [
+  "অর্থনীতি",
+  "Economics",
+  "ফর্মা"
+ ]
+}

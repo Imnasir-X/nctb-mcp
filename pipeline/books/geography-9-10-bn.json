@@ -1,0 +1,121 @@
+{
+ "dataset_version": "0.3.0",
+ "last_body_pdf_page": 238,
+ "book": {
+  "subject": {
+   "code": "geo",
+   "name_bn": "ভূগোল ও পরিবেশ",
+   "name_en": "Geography and Environment",
+   "aliases": [
+    "geography",
+    "geo",
+    "ভূগোল"
+   ]
+  },
+  "class": "9-10",
+  "level": "Secondary (SSC)",
+  "edition": 2026,
+  "publisher": "National Curriculum and Textbook Board (NCTB), 69-70 Motijheel C/A, Dhaka 1000",
+  "page_offset": 5,
+  "id": "nctb:geo:c9-10:bn",
+  "version": "bn",
+  "title": "ভূগোল ও পরিবেশ, নবম ও দশম শ্রেণি (২০২৬ শিক্ষাবর্ষের জন্য পরিমার্জিত)",
+  "rights_statement": "[প্রকাশক কর্তৃক সর্বস্বত্ব সংরক্ষিত] — গণপ্রজাতন্ত্রী বাংলাদেশ সরকার কর্তৃক বিনামূল্যে বিতরণের জন্য",
+  "source": {
+   "official_listing_url": "https://nctb.gov.bd/pages/static-pages/695b99afc4774958d7b70612",
+   "pdf_urls": [
+    "https://drive.google.com/file/d/1IBxZA_tZ8Ayhcm0s7IAOXaju0iFt2Xsc/view",
+    "https://drive.egovcloud.gov.bd/index.php/s/4KF6LH72lUYwYBB"
+   ],
+   "filename": "NCTB 2026 Class 9-10 Geography and Environment (bn).pdf",
+   "sha256": "54143857fe880659c23f35469eb512d410ff8b8ee5fe75c4700cb28b33c8f79a",
+   "bytes": 68511711,
+   "pdf_pages": 238,
+   "retrieved_at": "2026-11-20",
+   "text_layer": "none (scanned page images); text obtained by OCR"
+  },
+  "data_scope": "sections"
+ },
+ "chapters": [
+  {
+   "number": 1,
+   "title": "অধ্যায় ভূগোল ও পরিবেশ",
+   "printed_start": 1
+  },
+  {
+   "number": 2,
+   "title": "অধ্যায় মহাবিশ্ব ও আমাদের পৃথিবী",
+   "printed_start": 8
+  },
+  {
+   "number": 3,
+   "title": "অধ্যায় মানচিত্র পঠন ও ব্যবহার",
+   "printed_start": 31
+  },
+  {
+   "number": 4,
+   "title": "অধ্যায় পৃথিবীর অভ্যন্তরীণ ও বাহ্যিক গঠন",
+   "printed_start": 47
+  },
+  {
+   "number": 5,
+   "title": "অধ্যায় বায়ুমণ্ডল",
+   "printed_start": 69
+  },
+  {
+   "number": 6,
+   "title": "অধ্যায় বারিমণ্ডল",
+   "printed_start": 91
+  },
+  {
+   "number": 7,
+   "title": "অধ্যায় জনসংখ্যা",
+   "printed_start": 105
+  },
+  {
+   "number": 8,
+   "title": "অধ্যায় মানববসতি",
+   "printed_start": 126
+  },
+  {
+   "number": 9,
+   "title": "অধ্যায় সম্পদ ও অর্থনৈতিক কার্যাবলি",
+   "printed_start": 138
+  },
+  {
+   "number": 10,
+   "title": "অধ্যায় বাংলাদেশের ভৌগোলিক বিবরণ",
+   "printed_start": 147
+  },
+  {
+   "number": 11,
+   "title": "অধ্যায় বাংলাদেশের সম্পদ ও শিল্প",
+   "printed_start": 164
+  },
+  {
+   "number": 12,
+   "title": "অধ্যায় বাংলাদেশের যোগাযোগ ব্যবস্থা ও বাণিজ্য",
+   "printed_start": 185
+  },
+  {
+   "number": 13,
+   "title": "অধ্যায় বাংলাদেশের Bye কর্মকান্ড ও পরিবেশের ভারসাম্য",
+   "printed_start": 198
+  },
+  {
+   "number": 14,
+   "title": "অধ্যায় বাংলাদেশের প্রাকৃতিক দুর্যোগ",
+   "printed_start": 208
+  },
+  {
+   "number": 15,
+   "title": "অধ্যায় টেকসই উন্নয়ন-অভীষ্ট (এসডিজি)",
+   "printed_start": 225
+  }
+ ],
+ "running_heads": [
+  "ভূগোল ও পরিবেশ",
+  "Geography and Environment",
+  "ফর্মা"
+ ]
+}
